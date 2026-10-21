@@ -1,0 +1,379 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Radar de Agenda</title>
+<meta name="description" content="Temas en tendencia en medios y redes de Argentina.">
+<style>
+:root{
+  --bg:#f4f5f7; --surface:#fff; --text:#1c2230; --muted:#5d6676; --line:#dde1e8;
+  --accent:#1f4e79; --accent-soft:#e4edf6; --chip:#eceef2;
+  --hot:#c2410c; --warm:#b7791f; --cool:#4b7a9b; --ok:#2f7d4f; --bad:#b42318;
+  --shadow:0 1px 2px rgba(20,30,50,.06);
+}
+@media (prefers-color-scheme:dark){
+  :root{
+    --bg:#12151b; --surface:#1b2029; --text:#e6e9ef; --muted:#97a0af; --line:#2c3341;
+    --accent:#7fb2e0; --accent-soft:#223249; --chip:#262d3a;
+    --hot:#fb923c; --warm:#e0b04a; --cool:#79a7c6; --ok:#5fc08a; --bad:#f2837a;
+    --shadow:none;
+  }
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--text);
+  font:15px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif}
+a{color:var(--accent)}
+button{font:inherit;color:inherit;cursor:pointer}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.wrap{max-width:1200px;margin:0 auto;padding:0 16px}
+
+header{background:var(--surface);border-bottom:1px solid var(--line)}
+.head{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px 16px;padding:14px 0}
+.brand{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+h1{margin:0;font-size:1.35rem;letter-spacing:-.01em}
+.sub{color:var(--muted);font-size:.85rem}
+.upd{font-size:.9rem;color:var(--muted);display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.upd strong{color:var(--text)}
+.badge-ej{background:#fde68a;color:#5b4400;border-radius:4px;padding:2px 8px;font-size:.75rem;font-weight:600}
+
+.agenda{background:var(--accent-soft);border-bottom:1px solid var(--line)}
+.agenda .wrap{display:flex;gap:12px;align-items:center;padding-top:10px;padding-bottom:10px}
+.agenda h2{margin:0;font-size:.8rem;text-transform:uppercase;letter-spacing:.06em;color:var(--accent);white-space:nowrap}
+.agenda ul{list-style:none;margin:0;padding:0;display:flex;gap:8px;overflow-x:auto;flex:1;min-width:0}
+.agenda li{flex:0 0 auto;background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:4px 10px;font-size:.85rem;white-space:nowrap}
+.agenda li b{font-variant-numeric:tabular-nums}
+.agenda .vacio{color:var(--muted);font-size:.85rem}
+
+main.layout{display:grid;grid-template-columns:minmax(0,1fr) 320px;gap:24px;padding-top:20px;padding-bottom:40px;align-items:start}
+.tabs{display:flex;gap:4px;border-bottom:1px solid var(--line);margin-bottom:12px;flex-wrap:wrap}
+.tab{background:none;border:0;border-bottom:3px solid transparent;padding:8px 12px;font-weight:600;color:var(--muted)}
+.tab[aria-selected="true"]{color:var(--text);border-bottom-color:var(--accent)}
+.tab .n{font-weight:400;margin-left:4px;color:var(--muted)}
+.tools{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-bottom:14px}
+.search{flex:1 1 220px;min-width:0;padding:8px 10px;border:1px solid var(--line);border-radius:6px;background:var(--surface);color:var(--text);font:inherit}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{background:var(--chip);border:1px solid transparent;border-radius:999px;padding:3px 11px;font-size:.82rem}
+.chip[aria-pressed="true"]{background:var(--accent);color:var(--surface);}
+
+.card{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:14px 16px;margin-bottom:12px;box-shadow:var(--shadow)}
+.card h3{margin:6px 0 8px;font-size:1.08rem;line-height:1.3;overflow-wrap:anywhere}
+.meta{display:flex;flex-wrap:wrap;gap:6px 8px;align-items:center;font-size:.8rem;color:var(--muted)}
+.tag{background:var(--chip);border-radius:4px;padding:1px 8px;font-weight:600;color:var(--text);text-transform:uppercase;font-size:.7rem;letter-spacing:.04em}
+.pill{border:1px solid var(--line);border-radius:4px;padding:1px 7px;font-size:.75rem;color:var(--text)}
+.pill.x{border-color:var(--text)}
+.heat{display:flex;align-items:center;gap:8px;margin:8px 0;font-size:.85rem}
+.bar{flex:0 0 110px;height:8px;background:var(--chip);border-radius:4px;overflow:hidden}
+.bar i{display:block;height:100%;border-radius:4px}
+.medios{font-size:.82rem;color:var(--muted);overflow-wrap:anywhere}
+.resumen{margin:10px 0 0}
+.angulos{margin:10px 0 0;background:var(--accent-soft);border-radius:6px;padding:8px 12px}
+.angulos h4{margin:0 0 4px;font-size:.78rem;text-transform:uppercase;letter-spacing:.05em;color:var(--accent)}
+.angulos ul{margin:0;padding-left:18px}
+.actions{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+.btn{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:5px 12px;font-size:.85rem}
+.btn:hover{border-color:var(--accent)}
+.btn.ok{border-color:var(--ok);color:var(--ok)}
+.det{margin-top:10px;border-top:1px solid var(--line);padding-top:10px}
+.det h4{margin:8px 0 4px;font-size:.78rem;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
+.det ul{list-style:none;margin:0;padding:0}
+.det li{padding:3px 0;font-size:.88rem;overflow-wrap:anywhere}
+.det .m{color:var(--muted)}
+
+aside .box{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:12px 14px;margin-bottom:14px}
+aside h2{margin:0 0 8px;font-size:.95rem}
+aside ol,aside ul{margin:0;padding:0;list-style:none}
+aside li{display:flex;gap:8px;padding:4px 0;font-size:.88rem;border-top:1px solid var(--line);overflow-wrap:anywhere}
+aside li:first-child{border-top:0}
+aside .pos{flex:0 0 1.6em;color:var(--muted);font-variant-numeric:tabular-nums}
+aside .tr{margin-left:auto;color:var(--muted);font-size:.78rem;white-space:nowrap}
+details summary{cursor:pointer;font-weight:600;font-size:.95rem}
+.src-ok{color:var(--ok);font-weight:700}.src-bad{color:var(--bad);font-weight:700}
+
+.estado{padding:32px 16px;text-align:center;color:var(--muted);background:var(--surface);border:1px dashed var(--line);border-radius:8px}
+.estado.err{color:var(--bad);border-color:var(--bad)}
+.estado button{margin-top:10px}
+footer{color:var(--muted);font-size:.78rem;padding-bottom:24px}
+
+@media (max-width:860px){
+  main.layout{grid-template-columns:minmax(0,1fr)}
+  .agenda .wrap{flex-direction:column;align-items:stretch;gap:6px}
+}
+@media (max-width:480px){
+  .bar{flex-basis:80px}
+  .tab{padding:8px 8px;font-size:.9rem}
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap head">
+    <div class="brand"><h1>Radar de Agenda</h1><span class="sub">Qué se está hablando en medios y redes de Argentina</span></div>
+    <div class="upd" id="upd" aria-live="polite">Cargando…</div>
+  </div>
+</header>
+<section class="agenda" aria-label="Agenda de hoy">
+  <div class="wrap"><h2>Agenda de hoy</h2><ul id="agenda"></ul></div>
+</section>
+<div class="wrap">
+<main class="layout">
+  <section aria-label="Temas">
+    <div class="tabs" role="tablist" id="tabs">
+      <button class="tab" role="tab" id="tab-pri" aria-selected="true" data-tab="pri">Agenda política y económica<span class="n" id="n-pri"></span></button>
+      <button class="tab" role="tab" id="tab-otr" aria-selected="false" data-tab="otr">Otros temas<span class="n" id="n-otr"></span></button>
+    </div>
+    <div class="tools">
+      <input class="search" id="q" type="search" placeholder="Buscar tema, medio o palabra…" aria-label="Buscar temas">
+      <div class="chips" id="chips" role="group" aria-label="Filtrar por categoría"></div>
+    </div>
+    <div id="lista" role="tabpanel"></div>
+  </section>
+  <aside>
+    <div class="box"><h2>Tendencias en X</h2><ol id="x"></ol></div>
+    <div class="box"><h2>Búsquedas en Google</h2><ul id="g"></ul></div>
+    <div class="box"><details><summary>Estado de fuentes</summary><ul id="fuentes" style="margin-top:8px"></ul></details></div>
+  </aside>
+</main>
+<footer>Los títulos y enlaces provienen de medios y fuentes oficiales externas. Horarios en hora de Argentina.</footer>
+</div>
+
+<script>
+(function(){
+"use strict";
+var TZ="America/Argentina/Buenos_Aires";
+var CATS={economia:"Economía",politica:"Política",trabajo:"Trabajo",jubilaciones:"Jubilaciones",social:"Social",deportes:"Deportes",espectaculos:"Espectáculos",otros:"Otros"};
+var PRI=["economia","politica","trabajo","jubilaciones","social"];
+var OTR=["deportes","espectaculos","otros"];
+var state={data:null,tab:"pri",cat:"todas",q:""};
+
+function $(id){return document.getElementById(id)}
+function el(tag,cls,text){var e=document.createElement(tag);if(cls)e.className=cls;if(text!=null)e.textContent=text;return e}
+function clear(n){while(n.firstChild)n.removeChild(n.firstChild)}
+function safeUrl(u){try{var x=new URL(u,location.href);return(x.protocol==="http:"||x.protocol==="https:")?x.href:null}catch(e){return null}}
+function link(url,text,cls){
+  var h=safeUrl(url);
+  if(!h)return el("span",cls,text);
+  var a=el("a",cls,text);a.href=h;a.target="_blank";a.rel="noopener";return a;
+}
+var fmt=new Intl.DateTimeFormat("es-AR",{timeZone:TZ,hour:"2-digit",minute:"2-digit",hour12:false});
+function hhmm(iso){
+  if(!iso)return"";var d=new Date(iso);if(isNaN(d))return"";
+  return fmt.format(d).replace(/^24:/,"00:");
+}
+function heat(c){
+  c=Number(c)||0;
+  if(c>=75)return{t:"🔥 muy caliente",col:"var(--hot)"};
+  if(c>=50)return{t:"🔥 caliente",col:"var(--warm)"};
+  return{t:"tibio",col:"var(--cool)"};
+}
+function norm(s){return String(s||"").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"")}
+
+/* ---------- carga ---------- */
+function cargar(){
+  $("lista").replaceChildren(el("div","estado","Cargando datos…"));
+  fetch("data/tendencias.json",{cache:"no-cache"})
+    .then(function(r){if(!r.ok)throw new Error("HTTP "+r.status);return r.json()})
+    .then(function(d){
+      if(!d||!Array.isArray(d.temas))throw new Error("Formato inesperado");
+      state.data=d;render();
+    })
+    .catch(function(e){
+      var box=el("div","estado err");
+      box.appendChild(el("div",null,"No se pudieron cargar los datos. Probá de nuevo en unos minutos."));
+      var b=el("button","btn","Reintentar");b.type="button";b.addEventListener("click",cargar);
+      box.appendChild(b);
+      $("lista").replaceChildren(box);
+      $("upd").textContent="Sin datos";
+      console.error(e);
+    });
+}
+
+/* ---------- render general ---------- */
+function render(){
+  var d=state.data;
+  renderHeader(d);renderAgenda(d.agenda_hoy||[]);renderSide(d);renderChips();renderLista();
+}
+function renderHeader(d){
+  var u=$("upd");clear(u);
+  var h=hhmm(d.actualizado);
+  u.appendChild(el("span",null,"Actualizado "));
+  u.lastChild.appendChild(el("strong",null,h||"—"));
+  var p=hhmm(d.proxima_actualizacion);
+  if(p)u.appendChild(el("span",null,"· próxima "+p));
+  if(d.ejemplo)u.appendChild(el("span","badge-ej","Datos de ejemplo"));
+}
+function renderAgenda(items){
+  var ul=$("agenda");clear(ul);
+  if(!items.length){ul.appendChild(el("li","vacio","Sin eventos cargados para hoy."));return}
+  items.forEach(function(it){
+    var li=el("li");
+    li.appendChild(el("b",null,it.hora||""));
+    li.appendChild(document.createTextNode(" · "));
+    if(it.fuente)li.appendChild(document.createTextNode(it.fuente+" · "));
+    li.appendChild(link(it.link,it.titulo||""));
+    ul.appendChild(li);
+  });
+}
+function renderSide(d){
+  var x=$("x");clear(x);
+  (d.tendencias_x||[]).forEach(function(t){
+    var li=el("li");li.appendChild(el("span","pos",String(t.posicion)));
+    li.appendChild(link(t.link,t.nombre||""));x.appendChild(li);
+  });
+  if(!x.children.length)x.appendChild(el("li",null,"Sin datos."));
+  var g=$("g");clear(g);
+  (d.google_trends||[]).forEach(function(t){
+    var li=el("li");li.appendChild(link(t.link,t.nombre||""));
+    if(t.trafico)li.appendChild(el("span","tr",t.trafico));g.appendChild(li);
+  });
+  if(!g.children.length)g.appendChild(el("li",null,"Sin datos."));
+  var f=$("fuentes");clear(f);
+  (d.estado_fuentes||[]).forEach(function(s){
+    var li=el("li");
+    li.appendChild(el("span",s.ok?"src-ok":"src-bad",s.ok?"✓":"✗"));
+    li.appendChild(el("span",null,s.fuente||""));
+    li.appendChild(el("span","tr",String(s.items!=null?s.items:0)));
+    f.appendChild(li);
+  });
+}
+
+/* ---------- filtros ---------- */
+function temasDeTab(){
+  return state.data.temas.filter(function(t){return state.tab==="pri"?!!t.prioritaria:!t.prioritaria});
+}
+function renderChips(){
+  var c=$("chips");clear(c);
+  var cats=state.tab==="pri"?PRI:OTR;
+  var base=temasDeTab();
+  $("n-pri").textContent="("+state.data.temas.filter(function(t){return t.prioritaria}).length+")";
+  $("n-otr").textContent="("+state.data.temas.filter(function(t){return !t.prioritaria}).length+")";
+  function add(key,label){
+    var b=el("button","chip",label);b.type="button";
+    b.setAttribute("aria-pressed",String(state.cat===key));
+    b.addEventListener("click",function(){state.cat=key;renderChips();renderLista()});
+    c.appendChild(b);
+  }
+  add("todas","Todas");
+  cats.forEach(function(k){
+    var n=base.filter(function(t){return t.categoria===k}).length;
+    add(k,CATS[k]+" "+n);
+  });
+}
+function matches(t){
+  if(state.cat!=="todas"&&t.categoria!==state.cat)return false;
+  if(!state.q)return true;
+  var hay=[t.titulo,(t.medios||[]).join(" "),t.resumen||"",(t.notas||[]).map(function(n){return n.titulo}).join(" ")].join(" ");
+  return norm(hay).indexOf(state.q)!==-1;
+}
+function renderLista(){
+  var box=$("lista");clear(box);
+  var list=temasDeTab().filter(matches);
+  if(!list.length){box.appendChild(el("div","estado","No hay temas que coincidan con el filtro."));return}
+  list.forEach(function(t){box.appendChild(card(t))});
+}
+
+/* ---------- tarjeta ---------- */
+function card(t){
+  var c=el("article","card");
+  var meta=el("div","meta");
+  meta.appendChild(el("span","tag",CATS[t.categoria]||t.categoria||"Otros"));
+  var dh=hhmm(t.desde);
+  if(dh)meta.appendChild(el("span",null,"en tendencia desde "+dh));
+  if(t.en_x)meta.appendChild(el("span","pill x","En X"+(t.posicion_x?" #"+t.posicion_x:"")));
+  if(t.en_google)meta.appendChild(el("span","pill","En Google"));
+  c.appendChild(meta);
+  c.appendChild(el("h3",null,t.titulo||""));
+
+  var h=heat(t.calor);
+  var hr=el("div","heat");
+  var bar=el("div","bar");bar.setAttribute("role","img");bar.setAttribute("aria-label","Calor "+(t.calor||0)+" de 100");
+  var fill=el("i");fill.style.width=Math.max(0,Math.min(100,Number(t.calor)||0))+"%";fill.style.background=h.col;
+  bar.appendChild(fill);hr.appendChild(bar);
+  hr.appendChild(el("span",null,h.t+" ("+(Number(t.calor)||0)+")"));
+  c.appendChild(hr);
+
+  var medios=t.medios||[];
+  if(medios.length)c.appendChild(el("div","medios",medios.length+(medios.length===1?" medio: ":" medios: ")+medios.join(", ")));
+
+  if(state.data.ia_disponible!==false){
+    if(t.resumen)c.appendChild(el("p","resumen",t.resumen));
+    if(t.angulos&&t.angulos.length){
+      var a=el("div","angulos");a.appendChild(el("h4",null,"Ángulos posibles"));
+      var ul=el("ul");t.angulos.forEach(function(x){ul.appendChild(el("li",null,x))});
+      a.appendChild(ul);c.appendChild(a);
+    }
+  }
+
+  var notas=t.notas||[],ofi=t.oficiales||[];
+  var det=el("div","det");det.hidden=true;
+  if(notas.length){
+    det.appendChild(el("h4",null,"Notas"));
+    var un=el("ul");
+    notas.forEach(function(n){
+      var li=el("li");li.appendChild(el("span","m",(n.medio||"")+" · "));
+      li.appendChild(link(n.link,n.titulo||""));
+      var hh=hhmm(n.hora);if(hh)li.appendChild(el("span","m"," · "+hh));
+      un.appendChild(li);
+    });
+    det.appendChild(un);
+  }
+  if(ofi.length){
+    det.appendChild(el("h4",null,"Fuentes oficiales"));
+    var uo=el("ul");
+    ofi.forEach(function(o){
+      var li=el("li");li.appendChild(el("span","m",(o.fuente||"")+" · "));
+      li.appendChild(link(o.link,o.titulo||""));uo.appendChild(li);
+    });
+    det.appendChild(uo);
+  }
+
+  var act=el("div","actions");
+  if(notas.length||ofi.length){
+    var tog=el("button","btn","Ver notas ("+(notas.length+ofi.length)+")");tog.type="button";
+    tog.setAttribute("aria-expanded","false");
+    tog.addEventListener("click",function(){
+      det.hidden=!det.hidden;tog.setAttribute("aria-expanded",String(!det.hidden));
+      tog.textContent=(det.hidden?"Ver notas (":"Ocultar notas (")+(notas.length+ofi.length)+")";
+    });
+    act.appendChild(tog);
+  }
+  var cp=el("button","btn","Copiar links");cp.type="button";
+  cp.addEventListener("click",function(){
+    var lines=[t.titulo||""];
+    notas.forEach(function(n){var u=safeUrl(n.link);if(u)lines.push((n.medio?n.medio+": ":"")+u)});
+    ofi.forEach(function(o){var u=safeUrl(o.link);if(u)lines.push((o.fuente?o.fuente+": ":"")+u)});
+    copiar(lines.join("\n"),function(ok){
+      cp.textContent=ok?"Copiado ✓":"No se pudo copiar";cp.classList.toggle("ok",ok);
+      setTimeout(function(){cp.textContent="Copiar links";cp.classList.remove("ok")},1800);
+    });
+  });
+  act.appendChild(cp);
+  c.appendChild(act);c.appendChild(det);
+  return c;
+}
+function copiar(text,cb){
+  function fallback(){
+    try{
+      var ta=document.createElement("textarea");ta.value=text;ta.style.position="fixed";ta.style.opacity="0";
+      document.body.appendChild(ta);ta.select();var ok=document.execCommand("copy");document.body.removeChild(ta);cb(ok);
+    }catch(e){cb(false)}
+  }
+  if(navigator.clipboard&&window.isSecureContext)navigator.clipboard.writeText(text).then(function(){cb(true)},fallback);
+  else fallback();
+}
+
+/* ---------- eventos ---------- */
+document.querySelectorAll(".tab").forEach(function(b){
+  b.addEventListener("click",function(){
+    state.tab=b.getAttribute("data-tab");state.cat="todas";
+    document.querySelectorAll(".tab").forEach(function(x){x.setAttribute("aria-selected",String(x===b))});
+    if(state.data){renderChips();renderLista()}
+  });
+});
+$("q").addEventListener("input",function(e){state.q=norm(e.target.value.trim());if(state.data)renderLista()});
+cargar();
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,63 @@
+name: Actualizar radar y publicar
+
+on:
+  schedule:
+    # 11,15,19,23 UTC = 8:07, 12:07, 16:07, 20:07 en Argentina (UTC-3, sin horario de verano)
+    - cron: "7 11,15,19,23 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "sitio/**"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: radar-agenda
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Recolectar tendencias
+        run: python3 scripts/recolectar.py
+
+      - name: Guardar los datos nuevos en el repositorio
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add sitio/data
+          if git diff --cached --quiet; then
+            echo "Sin cambios en los datos."
+          else
+            git commit -m "Actualizar datos $(TZ=America/Argentina/Buenos_Aires date +'%Y-%m-%d %H:%M')"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+
+      - name: Configurar Pages
+        uses: actions/configure-pages@v5
+
+      - name: Subir el sitio
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: sitio
+
+      - name: Publicar en GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
