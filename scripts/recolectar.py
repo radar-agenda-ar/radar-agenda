@@ -106,6 +106,18 @@ SECCION_A_CAT = {
 
 PRIORITARIAS = {"economia", "politica", "trabajo", "jubilaciones", "social"}
 
+# Pronósticos del clima: se descartan salvo que hablen de alertas, inundaciones o destrozos
+CLIMA = re.compile(r"\b(clima|pronostico|lluvia|lluvias|lloviznas?|temperatura|calor|frio|nublado|"
+                   r"soleado|cielo|smn|servicio meteorologico|como estara el tiempo)\b")
+CLIMA_ALARMA = re.compile(r"\b(alerta|alertas|inundacion|inundaciones|inundad[oa]s?|anegad[oa]s?|"
+                          r"evacuad[oa]s?|temporal|tormenta fuerte|granizo|tornado|destrozos|"
+                          r"danos|victimas|muertos?|emergencia|desbord)")
+
+
+def es_pronostico_comun(titulo):
+    t = norm(titulo)
+    return bool(CLIMA.search(t)) and not CLIMA_ALARMA.search(t)
+
 # --------------------------------------------------------------------------
 # Utilidades de texto
 # --------------------------------------------------------------------------
@@ -808,6 +820,8 @@ def main():
     por_link = {}
     for n in crudas:
         if not (desde_min <= n["fecha"] <= ahora + timedelta(hours=2)):
+            continue
+        if es_pronostico_comun(n["titulo"]):
             continue
         clave = n["link"].split("#")[0].split("?")[0].rstrip("/")
         previa = por_link.get(clave)
