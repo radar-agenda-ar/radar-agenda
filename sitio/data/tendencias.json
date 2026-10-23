@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-23T20:30:04-03:00",
+  "actualizado": "2026-10-23T20:59:09-03:00",
   "proxima_actualizacion": "2026-10-24T08:00:00-03:00",
   "ia_disponible": false,
   "agenda_hoy": [],
@@ -10,8 +10,9 @@
       "categoria": "politica",
       "prioritaria": true,
       "desde": "2026-10-22T19:51:38-03:00",
-      "calor": 79,
+      "calor": 85,
       "medios": [
+        "Clarín",
         "La Nación",
         "Infobae",
         "Ámbito",
@@ -22,6 +23,18 @@
       "posicion_x": 1,
       "en_google": false,
       "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "Javier Milei y sus medidas, en vivo: el Presidente reiteró en su discurso anual de Faro que la causa $LIBRA fue “una operación política y mediática”",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-admitio-que-la-economia-no-evoluciona-como-nid23102026/",
+          "hora": "2026-10-23T20:44:04-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Milei habló tras el sobreseimiento por la causa $LIBRA: “¿Quién me compensa por un año y ocho meses de mentiras?”",
+          "link": "https://www.lanacion.com.ar/politica/milei-hablo-tras-el-sobreseimiento-por-la-causa-libra-quien-me-compensa-por-un-ano-y-ocho-meses-de-nid23102026/",
+          "hora": "2026-10-23T20:29:09-03:00"
+        },
         {
           "medio": "Ámbito",
           "titulo": "$LIBRA: la oposición cuestionó el sobreseimiento de Javier Milei y denunció impunidad judicial",
@@ -47,12 +60,6 @@
           "hora": "2026-10-23T19:49:08-03:00"
         },
         {
-          "medio": "La Nación",
-          "titulo": "Milei habló tras el sobreseimiento por la causa $LIBRA: “¿Quién me compensa por un año y ocho meses de mentiras?”",
-          "link": "https://www.lanacion.com.ar/politica/milei-hablo-tras-el-sobreseimiento-por-la-causa-libra-quien-me-compensa-por-un-ano-y-ocho-meses-de-nid23102026/",
-          "hora": "2026-10-23T19:46:52-03:00"
-        },
-        {
           "medio": "Ámbito",
           "titulo": "Javier Milei, tras el sobreseimiento en la causa $LIBRA: \"La Justicia volvió a poner las cosas en su lugar\"",
           "link": "https://www.ambito.com/politica/javier-milei-el-sobreseimiento-la-causa-libra-la-justicia-volvio-poner-las-cosas-su-lugar-n6337406",
@@ -63,6 +70,12 @@
           "titulo": "La Justicia sobreseyó al Presidente y a Karina Milei en el caso $LIBRA",
           "link": "https://www.lanacion.com.ar/politica/el-gobierno-le-contesto-al-fiscal-del-caso-libra-que-no-tenia-registro-del-presunto-acuerdo-nid20032026/",
           "hora": "2026-10-23T19:15:43-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Milei celebró el fallo que lo sobreseyó en el caso $LIBRA y dijo que todo se trató de una \"operación política y mediática\" con \"fines golpistas\"",
+          "link": "https://www.clarin.com/politica/verdad-triunfa-mismo-mentira-necesita-siempre-complicidad-frase-publico-milei-sobreseido-caso-libra_0_Im4YPN6eCz.html",
+          "hora": "2026-10-23T17:26:54-03:00"
         },
         {
           "medio": "TN",
@@ -88,116 +101,29 @@
       "angulos": []
     },
     {
-      "id": "independiente-vs-boca-por-el-torneo-clausura-2026-dia-horari",
-      "titulo": "Resultados de la fecha 13 del Torneo Clausura de la Liga 1 2026 HOY: así van los partidos",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-10-23T00:20:00-03:00",
-      "calor": 76,
-      "medios": [
-        "La Nación",
-        "Clarín",
-        "Infobae",
-        "TN"
-      ],
-      "en_x": true,
-      "posicion_x": 9,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Platense sorprendió a Gimnasia en Mendoza y sueña con clasificar a los Playoffs del Torneo Clausura",
-          "link": "https://www.infobae.com/deportes/2026/10/23/con-tres-partidos-clave-para-los-playoffs-se-inicia-una-nueva-jornada-del-torneo-clausura-hora-tv-y-posibles-formaciones/",
-          "hora": "2026-10-23T20:25:48-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "En vivo - Gimnasia (M) vs. Platense: 1 - 2, por la fase de grupos de la Liga Profesional",
-          "link": "https://tn.com.ar/deportes/futbol/2026/10/23/gimnasia-m-vs-platense-en-vivo-por-la-fase-de-grupos-de-la-liga-profesional-hora-donde-ver-y-formaciones/",
-          "hora": "2026-10-23T20:22:28-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "El insólito gol de Nacho Fernández en el triunfo de Gimnasia ante Sarmiento por el Torneo Clausura",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/el-insolito-gol-de-nacho-fernandez-para-gimnasia-ante-sarmiento-por-el-torneo-clausura-nid23102026/",
-          "hora": "2026-10-23T20:02:33-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Gimnasia le ganó a Sarmiento 2 a 0 por la fase de grupos de la Liga Profesional",
-          "link": "https://tn.com.ar/deportes/futbol/2026/10/23/gimnasia-vs-sarmiento-en-vivo-por-la-fase-de-grupos-de-la-liga-profesional-hora-donde-ver-y-formaciones/",
-          "hora": "2026-10-23T19:55:29-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Resultados de la fecha 13 del Torneo Clausura de la Liga 1 2026 HOY: así van los partidos",
-          "link": "https://www.infobae.com/peru/deportes/2026/10/23/resultados-de-la-fecha-13-del-torneo-clausura-de-la-liga-1-2026-hoy-asi-van-los-partidos/",
-          "hora": "2026-10-23T19:50:50-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Barcelona vs. Real Madrid, por la Liga de España 2026-2027: día, horario, TV y cómo ver online",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/barcelona-vs-real-madrid-por-la-liga-de-espana-2026-2027-dia-horario-tv-y-como-ver-online-nid23102026/",
-          "hora": "2026-10-23T19:26:40-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Tigre vs. Atlético Tucumán, EN VIVO, por el Torneo Clausura: a qué hora juegan, formaciones y cómo ver el partido",
-          "link": "https://www.clarin.com/deportes/tigre-vs-atletico-tucuman-vivo-torneo-clausura-hora-juegan-formaciones-ver-partido_0_W6oIcMBPm6.html",
-          "hora": "2026-10-23T17:05:42-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Gimnasia de Mendoza vs Platense, EN VIVO, por el Torneo Clausura: cómo va, resultado y el minuto a minuto del partido",
-          "link": "https://www.clarin.com/deportes/gimnasia-mendoza-vs-platense-vivo-torneo-clausura-hora-juegan-formaciones-ver-partido_0_n7DqMpJOxo.html",
-          "hora": "2026-10-23T16:51:43-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Gimnasia (LP) vs Sarmiento, EN VIVO, por el Torneo Clausura: cómo va, resultado y minuto a minuto del partido",
-          "link": "https://www.clarin.com/deportes/gimnasia-lp-vs-sarmiento-vivo-torneo-clausura-hora-juegan-formaciones-ver-partido_0_bcMlMdOKXV.html",
-          "hora": "2026-10-23T16:36:49-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "River vs. Racing, por el Torneo Clausura 2026: día, horario, TV y cómo ver online",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/river-vs-racing-por-el-torneo-clausura-2026-dia-horario-tv-y-como-ver-online-nid23102026/",
-          "hora": "2026-10-23T16:24:22-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Independiente vs. Boca, por el Torneo Clausura 2026: día, horario, TV y cómo ver online",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/independiente-vs-boca-por-el-torneo-clausura-2026-dia-horario-tv-y-como-ver-online-nid23102026/",
-          "hora": "2026-10-23T12:47:18-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Cuándo juega Boca vs. River por el Torneo Clausura 2026",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/cuando-juega-boca-vs-river-por-el-torneo-clausura-2026-nid23102026/",
-          "hora": "2026-10-23T12:07:14-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
       "id": "sergio-massa-se-reunio-con-rectores-de-universidades-naciona",
       "titulo": "Sobreseídos, pero Cristina y Máximo Kirchner igual en el banquillo: comenzó el juicio Hotesur-Los Sauces",
       "categoria": "politica",
       "prioritaria": true,
       "desde": "2026-10-21T17:34:39-03:00",
-      "calor": 70,
+      "calor": 73,
       "medios": [
         "Infobae",
         "La Nación",
         "Clarín",
-        "Página/12"
+        "Página/12",
+        "TN"
       ],
       "en_x": true,
       "posicion_x": 32,
       "en_google": false,
       "notas": [
+        {
+          "medio": "TN",
+          "titulo": "El miedo a otros cuatro años sin cargos y sin caja volvió a juntar a Massa, Kicillof y Máximo Kirchner",
+          "link": "https://tn.com.ar/opinion/2026/10/23/el-miedo-a-otros-cuatro-anos-sin-cargos-y-sin-caja-volvio-a-juntar-a-massa-kicillof-y-maximo-kirchner/",
+          "hora": "2026-10-23T20:43:07-03:00"
+        },
         {
           "medio": "La Nación",
           "titulo": "Dirigentes del PJ volvieron a reunirse para avanzar en una alternativa a Cristina y Kicillof",
@@ -288,99 +214,57 @@
       "angulos": []
     },
     {
-      "id": "lionel-messi-llego-a-oviedo-para-recibir-el-premio-princesa",
-      "titulo": "Tras la separación, Emanuel Ortega se defendió de los rumores de infidelidad a Julieta Prandi: \"Lamentable e innecesario\"",
-      "categoria": "espectaculos",
+      "id": "independiente-vs-boca-por-el-torneo-clausura-2026-dia-horari-2",
+      "titulo": "Gimnasia le ganó a Sarmiento 2 a 0 por la fase de grupos de la Liga Profesional",
+      "categoria": "deportes",
       "prioritaria": false,
-      "desde": "2026-10-22T08:52:15-03:00",
+      "desde": "2026-10-23T00:20:00-03:00",
       "calor": 69,
       "medios": [
-        "La Nación",
         "Clarín",
-        "Ámbito",
-        "TN"
+        "La Nación",
+        "TN",
+        "Página/12"
       ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": true,
+      "en_x": true,
+      "posicion_x": 9,
+      "en_google": false,
       "notas": [
         {
+          "medio": "TN",
+          "titulo": "Gimnasia le ganó a Sarmiento 2 a 0 por la fase de grupos de la Liga Profesional",
+          "link": "https://tn.com.ar/deportes/futbol/2026/10/23/gimnasia-vs-sarmiento-en-vivo-por-la-fase-de-grupos-de-la-liga-profesional-hora-donde-ver-y-formaciones/",
+          "hora": "2026-10-23T20:25:41-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Liga Profesional: Gimnasia superó a Sarmiento y da pelea en la cima",
+          "link": "https://www.pagina12.com.ar/2026/10/23/liga-profesional-gimnasia-supero-a-sarmiento-y-da-pelea-en-la-cima/",
+          "hora": "2026-10-23T20:25:20-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Platense le ganó a Gimnasia (M) 2 a 1 por la fase de grupos de la Liga Profesional",
+          "link": "https://tn.com.ar/deportes/futbol/2026/10/23/gimnasia-m-vs-platense-en-vivo-por-la-fase-de-grupos-de-la-liga-profesional-hora-donde-ver-y-formaciones/",
+          "hora": "2026-10-23T20:24:30-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "El insólito gol de Nacho Fernández en el triunfo de Gimnasia ante Sarmiento por el Torneo Clausura",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/el-insolito-gol-de-nacho-fernandez-para-gimnasia-ante-sarmiento-por-el-torneo-clausura-nid23102026/",
+          "hora": "2026-10-23T20:02:33-03:00"
+        },
+        {
           "medio": "Clarín",
-          "titulo": "Tras la separación, Emanuel Ortega se defendió de los rumores de infidelidad a Julieta Prandi: \"Lamentable e innecesario\"",
-          "link": "https://www.clarin.com/fama/separacion-emanuel-ortega-defendio-rumores-infidelidad-julieta-prandi-lamentable-innecesario_0_QhlQnXUVKO.html",
-          "hora": "2026-10-23T19:27:56-03:00"
+          "titulo": "Uruguay ya tiene su lista para enfrentar a Argentina en la Bombonera: Forlán convocó a tres jugadores de la Liga Profesional",
+          "link": "https://www.clarin.com/deportes/uruguay-lista-enfrentar-argentina-bombonera-forlan-convoco-jugadores-liga-profesional_0_pjgMY53caK.html",
+          "hora": "2026-10-23T17:28:25-03:00"
         },
         {
-          "medio": "La Nación",
-          "titulo": "La reacción de Juan Alberto Mateyko a las declaraciones de Julieta Prandi",
-          "link": "https://www.lanacion.com.ar/espectaculos/la-reaccion-de-juan-alberto-mateyko-a-las-declaraciones-de-julieta-prandi-nid23102026/",
-          "hora": "2026-10-23T19:08:58-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Rosario Ortega habló del difícil momento que atraviesa su hermano Emanuel tras la separación de Prandi: “Estamos ahí para él”",
-          "link": "https://tn.com.ar/show/famosos/2026/10/23/rosario-ortega-hablo-del-dificil-momento-que-atraviesa-su-hermano-emanuel-tras-la-separacion-de-prandi-estamos-ahi-para-el/",
-          "hora": "2026-10-23T18:51:28-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Emanuel Ortega se cansó de las especulaciones y se refirió a los rumores de que le habría sido infiel a Julieta Prandi",
-          "link": "https://tn.com.ar/show/famosos/2026/10/23/emanuel-ortega-se-canso-de-las-especulaciones-y-se-refirio-a-los-rumores-de-infidelidad-tras-casarse-con-julieta-prandi/",
-          "hora": "2026-10-23T17:58:34-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Aseguran que una amiga de Ana Paula Dutil confirmó la infidelidad de Emanuel Ortega a Julieta Prandi con Josefina Lynch",
-          "link": "https://www.lanacion.com.ar/espectaculos/mariana-marx-se-canso-y-hablo-de-emanuel-ortega-y-julieta-prandi-yo-cai-en-la-volteada-pero-nada-que-nid23102026/",
-          "hora": "2026-10-23T17:48:54-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "El contundente comunicado que publicó Emanuel Ortega tras la palabra de Julieta Prandi: “Lamentable e innecesario”",
-          "link": "https://www.lanacion.com.ar/espectaculos/el-contundente-comunicado-que-publico-emanuel-ortega-tras-la-palabra-de-julieta-prandi-nid23102026/",
-          "hora": "2026-10-23T17:45:48-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Juan Alberto Mateyko explicó por qué decidió hacer un posteo en contra de Julieta Prandi: “Estaba muy quebrado”",
-          "link": "https://tn.com.ar/videos/show/famosos/2026/10/23/juan-alberto-mateyko-explico-por-que-decidio-hacer-un-posteo-en-contra-de-julieta-prandi-estaba-muy-quebrado/",
-          "hora": "2026-10-23T16:15:58-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Julieta Prandi habló por primera vez de la separación de Emanuel Ortega: “Me enteré que Josefina Lynch estuvo tres días encerrada en el estudio con él”",
-          "link": "https://www.lanacion.com.ar/espectaculos/julieta-prandi-hablo-por-primera-vez-de-separacion-de-emanuel-ortega-me-quedo-claro-que-buscamos-nid22102026/",
-          "hora": "2026-10-23T14:27:58-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Julieta Prandi le respondió a Juan Alberto Mateyko tras el duro ataque en redes: “Me pareció de más y me dolió la aprobación de Emanuel”",
-          "link": "https://www.lanacion.com.ar/espectaculos/julieta-prandi-le-respondio-a-juan-alberto-mateyko-tras-el-duro-ataque-en-redes-me-parecio-de-mas-y-nid22102026/",
-          "hora": "2026-10-23T14:27:13-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Julieta Prandi reveló la verdad sobre las “terceras en discordia” en su separación de Emanuel Ortega",
-          "link": "https://www.lanacion.com.ar/espectaculos/julieta-prandi-revelo-la-verdad-sobre-las-terceras-en-discordia-en-su-separacion-de-emanuel-ortega-nid22102026/",
-          "hora": "2026-10-23T14:26:01-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Juan Alberto Mateyko volvió a criticar a Julieta Prandi y dio un particular consejo",
-          "link": "https://tn.com.ar/show/redes-sociales/2026/10/23/juan-alberto-mateyko-volvio-a-criticar-a-julieta-prandi-y-dio-un-particular-consejo/",
-          "hora": "2026-10-23T14:03:07-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Una amiga de Ana Paula Dutil confirmó la infidelidad de Emanuel Ortega a Julieta Prandi",
-          "link": "https://tn.com.ar/show/famosos/2026/10/23/una-amiga-de-ana-paula-dutil-confirmo-la-infidelidad-de-emanuel-ortega-a-julieta-prandi/",
-          "hora": "2026-10-23T13:42:40-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Julieta Prandi descartó una reconciliación con Emanuel Ortega: \"Uno no se casa para separarse al mes\"",
-          "link": "https://www.ambito.com/espectaculos/julieta-prandi-descarto-una-reconciliacion-emanuel-ortega-uno-no-se-casa-separarse-al-mes-n6337122",
-          "hora": "2026-10-23T10:16:00-03:00"
+          "medio": "Clarín",
+          "titulo": "Gimnasia le ganó a Sarmiento con un gol insólito de Nacho Fernández, estiró su invicto y sueña con las copas",
+          "link": "https://www.clarin.com/deportes/gimnasia-lp-vs-sarmiento-vivo-torneo-clausura-hora-juegan-formaciones-ver-partido_0_bcMlMdOKXV.html",
+          "hora": "2026-10-23T16:36:49-03:00"
         }
       ],
       "oficiales": [],
@@ -459,6 +343,105 @@
           "titulo": "Bullrich suma a Santilli a la lista de funcionarios con los que marca distancias",
           "link": "https://www.pagina12.com.ar/2026/10/23/bullrich-suma-a-santilli-a-la-lista-de-funcionarios-con-los-que-marca-distancia/",
           "hora": "2026-10-23T00:01:00-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "lionel-messi-llego-a-oviedo-para-recibir-el-premio-princesa",
+      "titulo": "Julieta Prandi reveló la verdad sobre las “terceras en discordia” en su separación de Emanuel Ortega",
+      "categoria": "espectaculos",
+      "prioritaria": false,
+      "desde": "2026-10-22T08:52:15-03:00",
+      "calor": 66,
+      "medios": [
+        "La Nación",
+        "Ámbito",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": true,
+      "notas": [
+        {
+          "medio": "TN",
+          "titulo": "Habló la amiga de Ana Paula Dutil y defendió a Josefina Lynch: “Jamás confirmé un romance entre ella y Emanuel Ortega”",
+          "link": "https://tn.com.ar/show/famosos/2026/10/23/hablo-la-amiga-de-ana-paula-dutil-y-defendio-a-josefina-lynch-jamas-confirme-un-romance-entre-ella-y-emanuel-ortega/",
+          "hora": "2026-10-23T20:42:35-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Se supo cómo tomaron Palito Ortega y Evangelina Salazar la separación de su hijo Emanuel y Julieta Prandi",
+          "link": "https://tn.com.ar/show/famosos/2026/10/23/se-supo-como-tomaron-palito-ortega-y-evangelina-salazar-la-separacion-de-su-hijo-emanuel-y-julieta-prandi/",
+          "hora": "2026-10-23T20:37:19-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "La reacción de Juan Alberto Mateyko a las declaraciones de Julieta Prandi",
+          "link": "https://www.lanacion.com.ar/espectaculos/la-reaccion-de-juan-alberto-mateyko-a-las-declaraciones-de-julieta-prandi-nid23102026/",
+          "hora": "2026-10-23T19:08:58-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Rosario Ortega habló del difícil momento que atraviesa su hermano Emanuel tras la separación de Prandi: “Estamos ahí para él”",
+          "link": "https://tn.com.ar/show/famosos/2026/10/23/rosario-ortega-hablo-del-dificil-momento-que-atraviesa-su-hermano-emanuel-tras-la-separacion-de-prandi-estamos-ahi-para-el/",
+          "hora": "2026-10-23T18:51:28-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Emanuel Ortega se cansó de las especulaciones y se refirió a los rumores de que le habría sido infiel a Julieta Prandi",
+          "link": "https://tn.com.ar/show/famosos/2026/10/23/emanuel-ortega-se-canso-de-las-especulaciones-y-se-refirio-a-los-rumores-de-infidelidad-tras-casarse-con-julieta-prandi/",
+          "hora": "2026-10-23T17:58:34-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Aseguran que una amiga de Ana Paula Dutil confirmó la infidelidad de Emanuel Ortega a Julieta Prandi con Josefina Lynch",
+          "link": "https://www.lanacion.com.ar/espectaculos/mariana-marx-se-canso-y-hablo-de-emanuel-ortega-y-julieta-prandi-yo-cai-en-la-volteada-pero-nada-que-nid23102026/",
+          "hora": "2026-10-23T17:48:54-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "El contundente comunicado que publicó Emanuel Ortega tras la palabra de Julieta Prandi: “Lamentable e innecesario”",
+          "link": "https://www.lanacion.com.ar/espectaculos/el-contundente-comunicado-que-publico-emanuel-ortega-tras-la-palabra-de-julieta-prandi-nid23102026/",
+          "hora": "2026-10-23T17:45:48-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Juan Alberto Mateyko explicó por qué decidió hacer un posteo en contra de Julieta Prandi: “Estaba muy quebrado”",
+          "link": "https://tn.com.ar/videos/show/famosos/2026/10/23/juan-alberto-mateyko-explico-por-que-decidio-hacer-un-posteo-en-contra-de-julieta-prandi-estaba-muy-quebrado/",
+          "hora": "2026-10-23T16:15:58-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Julieta Prandi habló por primera vez de la separación de Emanuel Ortega: “Me enteré que Josefina Lynch estuvo tres días encerrada en el estudio con él”",
+          "link": "https://www.lanacion.com.ar/espectaculos/julieta-prandi-hablo-por-primera-vez-de-separacion-de-emanuel-ortega-me-quedo-claro-que-buscamos-nid22102026/",
+          "hora": "2026-10-23T14:27:58-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Julieta Prandi le respondió a Juan Alberto Mateyko tras el duro ataque en redes: “Me pareció de más y me dolió la aprobación de Emanuel”",
+          "link": "https://www.lanacion.com.ar/espectaculos/julieta-prandi-le-respondio-a-juan-alberto-mateyko-tras-el-duro-ataque-en-redes-me-parecio-de-mas-y-nid22102026/",
+          "hora": "2026-10-23T14:27:13-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Julieta Prandi reveló la verdad sobre las “terceras en discordia” en su separación de Emanuel Ortega",
+          "link": "https://www.lanacion.com.ar/espectaculos/julieta-prandi-revelo-la-verdad-sobre-las-terceras-en-discordia-en-su-separacion-de-emanuel-ortega-nid22102026/",
+          "hora": "2026-10-23T14:26:01-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Juan Alberto Mateyko volvió a criticar a Julieta Prandi y dio un particular consejo",
+          "link": "https://tn.com.ar/show/redes-sociales/2026/10/23/juan-alberto-mateyko-volvio-a-criticar-a-julieta-prandi-y-dio-un-particular-consejo/",
+          "hora": "2026-10-23T14:03:07-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Julieta Prandi descartó una reconciliación con Emanuel Ortega: \"Uno no se casa para separarse al mes\"",
+          "link": "https://www.ambito.com/espectaculos/julieta-prandi-descarto-una-reconciliacion-emanuel-ortega-uno-no-se-casa-separarse-al-mes-n6337122",
+          "hora": "2026-10-23T10:16:00-03:00"
         }
       ],
       "oficiales": [],
@@ -568,6 +551,81 @@
       "angulos": []
     },
     {
+      "id": "independiente-vs-boca-por-el-torneo-clausura-2026-dia-horari",
+      "titulo": "Independiente vs. Boca, por el Torneo Clausura 2026: día, horario, TV y cómo ver online",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-10-23T00:20:00-03:00",
+      "calor": 63,
+      "medios": [
+        "La Nación",
+        "Clarín",
+        "Infobae"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": true,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Comenzó la fecha 14 del Torneo Clausura: así está la lucha por el ingreso a las copas internacionales y los playoffs",
+          "link": "https://www.infobae.com/deportes/2026/10/23/comenzo-la-fecha-14-del-torneo-clausura-asi-esta-la-lucha-por-el-ingreso-a-las-copas-internacionales-y-los-playoffs/",
+          "hora": "2026-10-23T20:42:59-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Platense sorprendió a Gimnasia en Mendoza y sueña con clasificar a los Playoffs del Torneo Clausura",
+          "link": "https://www.infobae.com/deportes/2026/10/23/con-tres-partidos-clave-para-los-playoffs-se-inicia-una-nueva-jornada-del-torneo-clausura-hora-tv-y-posibles-formaciones/",
+          "hora": "2026-10-23T20:35:42-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Resultados de la fecha 13 del Torneo Clausura de la Liga 1 2026 HOY: así van los partidos",
+          "link": "https://www.infobae.com/peru/deportes/2026/10/23/resultados-de-la-fecha-13-del-torneo-clausura-de-la-liga-1-2026-hoy-asi-van-los-partidos/",
+          "hora": "2026-10-23T19:50:50-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Barcelona vs. Real Madrid, por la Liga de España 2026-2027: día, horario, TV y cómo ver online",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/barcelona-vs-real-madrid-por-la-liga-de-espana-2026-2027-dia-horario-tv-y-como-ver-online-nid23102026/",
+          "hora": "2026-10-23T19:26:40-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Tigre vs. Atlético Tucumán, EN VIVO, por el Torneo Clausura: a qué hora juegan, formaciones y cómo ver el partido",
+          "link": "https://www.clarin.com/deportes/tigre-vs-atletico-tucuman-vivo-torneo-clausura-hora-juegan-formaciones-ver-partido_0_W6oIcMBPm6.html",
+          "hora": "2026-10-23T17:05:42-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Gimnasia de Mendoza vs Platense, EN VIVO, por el Torneo Clausura: cómo va, resultado y el minuto a minuto del partido",
+          "link": "https://www.clarin.com/deportes/gimnasia-mendoza-vs-platense-vivo-torneo-clausura-hora-juegan-formaciones-ver-partido_0_n7DqMpJOxo.html",
+          "hora": "2026-10-23T16:51:43-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "River vs. Racing, por el Torneo Clausura 2026: día, horario, TV y cómo ver online",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/river-vs-racing-por-el-torneo-clausura-2026-dia-horario-tv-y-como-ver-online-nid23102026/",
+          "hora": "2026-10-23T16:24:22-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Independiente vs. Boca, por el Torneo Clausura 2026: día, horario, TV y cómo ver online",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/independiente-vs-boca-por-el-torneo-clausura-2026-dia-horario-tv-y-como-ver-online-nid23102026/",
+          "hora": "2026-10-23T12:47:18-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Cuándo juega Boca vs. River por el Torneo Clausura 2026",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/cuando-juega-boca-vs-river-por-el-torneo-clausura-2026-nid23102026/",
+          "hora": "2026-10-23T12:07:14-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
       "id": "karina-torres-wendy-guevara-y-paola-suarez-aparecen-de-sorpr",
       "titulo": "Karina Torres, Wendy Guevara y Paola Suárez aparecen de sorpresa en show de Bad Gyal en CDMX",
       "categoria": "deportes",
@@ -628,7 +686,13 @@
           "medio": "Infobae",
           "titulo": "Madre relata encuentro de su bebé con papa León XIV: “Mi bebé pasó en medio de toda la gente”",
           "link": "https://www.infobae.com/peru/2026/10/23/madre-relata-encuentro-de-su-bebe-con-papa-leon-xiv-mi-bebe-paso-en-medio-de-toda-la-gente/",
-          "hora": "2026-10-23T20:27:35-03:00"
+          "hora": "2026-10-23T20:35:28-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "DF Entertainment producirá la misa y la vigilia de jóvenes durante la visita del papa León XIV a la Argentina",
+          "link": "https://www.infobae.com/sociedad/2026/10/23/df-entertainment-producira-la-misa-y-la-vigilia-de-jovenes-durante-la-visita-del-papa-leon-xiv-a-la-argentina/",
+          "hora": "2026-10-23T20:33:22-03:00"
         },
         {
           "medio": "Ámbito",
@@ -994,249 +1058,6 @@
       "angulos": []
     },
     {
-      "id": "donde-ver-el-segundo-debate-entre-lula-y-bolsonaro-antes-del-2",
-      "titulo": "Elecciones Brasil 2026: encuestas del balotaje Lula vs. Flavio Bolsonaro y últimas noticias, hoy viernes 23 de octubre",
-      "categoria": "otros",
-      "prioritaria": false,
-      "desde": "2026-10-22T07:00:00-03:00",
-      "calor": 58,
-      "medios": [
-        "La Nación",
-        "Infobae",
-        "Página/12",
-        "Ámbito",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "Elecciones Brasil 2026: encuestas del balotaje Lula vs. Flavio Bolsonaro y últimas noticias, hoy viernes 23 de octubre",
-          "link": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-encuestas-del-balotaje-lula-vs-flavio-bolsonaro-y-ultimas-noticias-hoy-nid23102026/",
-          "hora": "2026-10-23T20:00:00-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Lula da Silva y Flávio Bolsonaro se preparan para el último debate antes del balotaje en Brasil",
-          "link": "https://tn.com.ar/internacional/2026/10/23/lula-da-silva-y-flavio-bolsonaro-se-preparan-para-el-ultimo-debate-antes-del-balotaje-en-brasil/",
-          "hora": "2026-10-23T19:52:05-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "A un año de la redada más letal de su historia, Brasil también decidirá en el balotaje entre dos modelos de seguridad opuestos",
-          "link": "https://www.lanacion.com.ar/el-mundo/a-un-ano-de-la-redada-mas-letal-de-su-historia-brasil-tambien-decidira-en-el-balotaje-entre-dos-nid23102026/",
-          "hora": "2026-10-23T19:20:34-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "El fenómeno del “Ejército de Lula” sacude las redes sociales en Brasil",
-          "link": "https://www.pagina12.com.ar/2026/10/23/el-fenomeno-del-ejercito-de-lula-en-las-redes-sociales/",
-          "hora": "2026-10-23T19:12:21-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Once diputados libertarios viajarán a Río de Janeiro para el cierre de campaña de Flavio Bolsonaro",
-          "link": "https://www.infobae.com/politica/2026/10/23/once-diputados-libertarios-viajaran-a-rio-de-janeiro-para-el-cierre-de-campana-de-flavio-bolsonaro/",
-          "hora": "2026-10-23T18:26:22-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Elecciones Brasil 2026: qué pronostica para el balotaje la encuestadora que más se acercó al resultado en los últimos comicios",
-          "link": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-que-pronostica-para-el-balotaje-la-encuestadora-que-mas-se-acerco-al-nid22102026/",
-          "hora": "2026-10-23T18:11:07-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "“Brasil está muy dividido”: qué opinan los vecinos de la favela más grande de San Pablo a dos días del balotaje",
-          "link": "https://tn.com.ar/internacional/2026/10/23/brasil-esta-muy-dividido-que-dicen-los-vecinos-de-la-favela-mas-grande-de-san-pablo-a-dos-dias-del-balotaje/",
-          "hora": "2026-10-23T15:33:51-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Madonna pidió votar por Lula da Silva de cara al balotaje en Brasil",
-          "link": "https://www.ambito.com/espectaculos/madonna-pidio-votar-lula-da-silva-cara-al-balotaje-brasil-n6337159",
-          "hora": "2026-10-23T11:12:00-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Estela de Carlotto cumplió 96 y fue homenajeada en redes sociales",
-          "link": "https://www.pagina12.com.ar/2026/10/22/estela-de-carlotto-cumplio-96-y-fue-homenajeada-en-redes-sociales/",
-          "hora": "2026-10-23T00:01:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "detuvieron-a-un-bioquimico-acusado-de-mantener-encerrados-a-2",
-      "titulo": "Horror en Esquel: detuvieron a un bioquímico por mantener secuestrados a su pareja y sus hijos en condiciones extremas",
-      "categoria": "social",
-      "prioritaria": true,
-      "desde": "2026-10-22T16:38:04-03:00",
-      "calor": 58,
-      "medios": [
-        "Clarín",
-        "Infobae",
-        "La Nación",
-        "TN",
-        "Página/12"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "Detuvieron en Esquel a un bioquímico que tenía en cautiverio dentro de la casa a su esposa y sus hijos",
-          "link": "https://www.lanacion.com.ar/seguridad/detuvieron-en-esquel-a-un-bioquimico-que-tenia-en-cautiverio-dentro-de-la-casa-a-su-esposa-y-sus-nid23102026/",
-          "hora": "2026-10-23T20:21:48-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Violencia y represión en Plaza de Mayo: detuvieron al padre Paco Olveira y a una pareja",
-          "link": "https://www.pagina12.com.ar/2026/10/23/violencia-y-represion-en-plaza-de-mayo-detuvieron-al-padre-paco-olveira-y-a-una-pareja/",
-          "hora": "2026-10-23T19:37:51-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Todo el día encerrados, ventanas tapadas y gritos en la noche: el horror de la casa del bioquímico en Esquel",
-          "link": "https://www.clarin.com/sociedad/dia-encerrados-ventanas-tapadas-gritos-noche-horror-casa-bioquimico-esquel_0_oYrJ9Eyq6z.html",
-          "hora": "2026-10-23T18:22:06-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Quién es el bioquímico detenido en Esquel acusado de haber mantenido encerrados a su pareja y a sus 3 hijos en su casa",
-          "link": "https://tn.com.ar/policiales/2026/10/23/quien-es-el-bioquimico-detenido-en-esquel-acusado-de-haber-mantenido-encerrados-a-su-pareja-y-a-sus-3-hijos-en-una-casa-de-chubut/",
-          "hora": "2026-10-23T17:22:02-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Detuvieron a Santiago Lara, el falso hijo de Diego Maradona, acusado de integrar una banda dedicada a la venta de drogas",
-          "link": "https://www.infobae.com/sociedad/policiales/2026/03/06/detuvieron-a-santiago-lara-el-falso-hijo-de-diego-maradona-acusado-de-integrar-una-banda-dedicada-a-la-venta-de-drogas/",
-          "hora": "2026-10-23T14:40:03-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Horror en Esquel: detuvieron a un bioquímico por mantener secuestrados a su pareja y sus hijos en condiciones extremas",
-          "link": "https://www.infobae.com/sociedad/policiales/2026/10/23/horror-en-esquel-detuvieron-a-un-bioquimico-por-mantener-secuestrados-a-su-pareja-y-sus-hijos/",
-          "hora": "2026-10-23T13:21:43-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Quién es el bioquímico detenido en Esquel por mantener a toda su familia en cautiverio",
-          "link": "https://www.clarin.com/sociedad/bioquimico-detenido-esquel-mantener-toda-familia-cautiverio_0_cLU2v1zOau.html",
-          "hora": "2026-10-23T13:09:06-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Esquel: detuvieron a un bioquímico por mantener secuestrada a su familia en condiciones inhumanas",
-          "link": "https://www.clarin.com/sociedad/esquel-detuvieron-bioquimico-mantener-secuestrada-familia_0_2dDwGmonMR.html",
-          "hora": "2026-10-23T09:34:50-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Detuvieron a un bioquímico acusado de mantener encerrados a su pareja y a sus tres hijos en una casa de Chubut",
-          "link": "https://tn.com.ar/policiales/2026/10/23/detuvieron-a-un-bioquimico-acusado-de-mantener-encerrados-a-su-pareja-y-a-sus-tres-hijos-en-una-casa-de-chubut/",
-          "hora": "2026-10-23T09:33:52-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "marcela-coronel-denuncio-a-la-cuidadora-de-su-madre-todos-lo",
-      "titulo": "Marcela Coronel denunció a la cuidadora de su madre: todos los videos de los maltratos",
-      "categoria": "espectaculos",
-      "prioritaria": false,
-      "desde": "2026-10-23T17:20:06-03:00",
-      "calor": 57,
-      "medios": [
-        "Infobae",
-        "TN"
-      ],
-      "en_x": true,
-      "posicion_x": 13,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Marcela Coronel denunció a la cuidadora de su madre: todos los videos de los maltratos",
-          "link": "https://www.infobae.com/teleshow/2026/10/23/marcela-coronel-denuncio-a-la-cuidadora-de-su-madre-todos-los-videos-de-los-maltratos/",
-          "hora": "2026-10-23T20:11:39-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "La insólita excusa del marido de la cuidadora detenida por maltratar a la madre de Marcela Coronel: “Cualquiera comete un error”",
-          "link": "https://www.infobae.com/teleshow/2026/10/23/la-insolita-excusa-del-marido-de-la-cuidadora-detenida-por-maltratar-a-la-madre-de-marcela-coronel-cualquiera-comete-un-error/",
-          "hora": "2026-10-23T19:19:21-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Marcela Coronel denunció a la cuidadora de su madre de 100 años por maltrato: “No tuvo reparo en cachetearla y empujarla”",
-          "link": "https://www.infobae.com/teleshow/2026/10/23/marcela-coronel-denuncio-a-la-cuidadora-de-su-madre-de-100-anos-por-maltrato-no-tuvo-reparo-en-cachetearla-y-empujarla/",
-          "hora": "2026-10-23T19:18:15-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Marcela Coronel denunció que una cuidadora maltrató a su mamá de 100 años: “Me descompuse al ver los videos”",
-          "link": "https://tn.com.ar/show/famosos/2026/10/23/marcela-coronel-denuncio-el-maltrato-que-sufrio-su-mama-de-100-anos-por-parte-de-una-cuidadora-me-descompuse-al-ver-lo-videos/",
-          "hora": "2026-10-23T17:20:06-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "ferrari-aterriza-con-buen-pie-en-austin-y-cuestiona-el-domin",
-      "titulo": "Ferrari aterriza con buen pie en Austin y cuestiona el dominio de Mercedes y de Verstappen",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-10-23T17:26:54-03:00",
-      "calor": 57,
-      "medios": [
-        "Infobae",
-        "TN",
-        "Página/12"
-      ],
-      "en_x": true,
-      "posicion_x": 27,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Ferrari aterriza con buen pie en Austin y cuestiona el dominio de Mercedes y de Verstappen",
-          "link": "https://www.infobae.com/espana/agencias/2026/10/23/ferrari-aterriza-con-buen-pie-en-austin-y-cuestiona-el-dominio-de-mercedes-y-de-verstappen/",
-          "hora": "2026-10-23T19:46:35-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "La selección femenina Sub 17 goleó a Marruecos y pasó de fase en el Mundial",
-          "link": "https://www.pagina12.com.ar/2026/10/23/la-seleccion-femenina-sub-17-goleo-a-marruecos-y-paso-de-fase-en-el-mundial/",
-          "hora": "2026-10-23T19:03:12-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Max Verstappen criticó los baches del GP de Estados Unidos y alertó sobre el estado de su columna vertebral: “Es inaceptable”",
-          "link": "https://tn.com.ar/deportes/formula-1/2026/10/23/max-verstappen-critico-los-baches-del-gp-de-estados-unidos-y-alerto-sobre-el-estado-de-su-columna-vertebral-es-inaceptable/",
-          "hora": "2026-10-23T18:40:31-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Con un show de goles de Mercedes Diz, Argentina superó 5-1 a Marruecos y firmó una histórica clasificación en el Mundial Sub 17 femenino",
-          "link": "https://www.infobae.com/deportes/2026/10/23/con-un-show-de-goles-de-mercedes-diz-argentina-supero-5-1-a-marruecos-y-firmo-una-historica-clasificacion-en-el-mundial-sub-17-femenino/",
-          "hora": "2026-10-23T17:26:54-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
       "id": "conte-niega-negociaciones-avanzadas-con-el-manchester-united",
       "titulo": "Preocupación por Vincent Kompany: el DT de del Bayern Múnich se desplomó viendo un partido y fue trasladado a un hospital",
       "categoria": "deportes",
@@ -1297,38 +1118,313 @@
       "angulos": []
     },
     {
-      "id": "un-ex-arquero-campeon-con-river-plate-elogio-a-santiago-belt",
-      "titulo": "Un ex arquero campeón con River Plate elogió a Santiago Beltrán y señaló en qué potencia europea lo ve en el futuro",
+      "id": "marcela-coronel-denuncio-a-la-cuidadora-de-su-madre-todos-lo",
+      "titulo": "Marcela Coronel denunció a la cuidadora de su madre: todos los videos de los maltratos",
+      "categoria": "espectaculos",
+      "prioritaria": false,
+      "desde": "2026-10-23T17:20:06-03:00",
+      "calor": 56,
+      "medios": [
+        "Infobae",
+        "TN"
+      ],
+      "en_x": true,
+      "posicion_x": 13,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Marcela Coronel habló con Teleshow tras la denuncia contra la cuidadora de su madre: “Mi sensación es de indefensión”",
+          "link": "https://www.infobae.com/teleshow/2026/10/23/marcela-coronel-hablo-con-teleshow-tras-la-denuncia-contra-la-cuidadora-de-su-madre-mi-sensacion-es-de-indefension/",
+          "hora": "2026-10-23T20:50:27-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Marcela Coronel denunció a la cuidadora de su madre: todos los videos de los maltratos",
+          "link": "https://www.infobae.com/teleshow/2026/10/23/marcela-coronel-denuncio-a-la-cuidadora-de-su-madre-todos-los-videos-de-los-maltratos/",
+          "hora": "2026-10-23T20:11:39-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Marcela Coronel denunció que una cuidadora maltrató a su mamá de 100 años: “Me descompuse al ver los videos”",
+          "link": "https://tn.com.ar/show/famosos/2026/10/23/marcela-coronel-denuncio-el-maltrato-que-sufrio-su-mama-de-100-anos-por-parte-de-una-cuidadora-me-descompuse-al-ver-lo-videos/",
+          "hora": "2026-10-23T17:20:06-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "ferrari-aterriza-con-buen-pie-en-austin-y-cuestiona-el-domin-2",
+      "titulo": "Pibas históricas: Argentina goleó a Marruecos y se metió en los octavos de final del Mundial Sub-17 femenino",
       "categoria": "deportes",
       "prioritaria": false,
-      "desde": "2026-10-22T20:47:01-03:00",
-      "calor": 53,
+      "desde": "2026-10-23T17:26:54-03:00",
+      "calor": 56,
       "medios": [
+        "Infobae",
+        "Clarín",
+        "Página/12"
+      ],
+      "en_x": true,
+      "posicion_x": 27,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Clarín",
+          "titulo": "Pibas históricas: Argentina goleó a Marruecos y se metió en los octavos de final del Mundial Sub-17 femenino",
+          "link": "https://www.clarin.com/deportes/pibas-historicas-argentina-goleo-marruecos-metio-octavos-final-mundial-sub-17-femenino_0_TqAF7gZvm5.html",
+          "hora": "2026-10-23T20:18:34-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "La selección femenina Sub 17 goleó a Marruecos y pasó de fase en el Mundial",
+          "link": "https://www.pagina12.com.ar/2026/10/23/la-seleccion-femenina-sub-17-goleo-a-marruecos-y-paso-de-fase-en-el-mundial/",
+          "hora": "2026-10-23T19:03:12-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Con un show de goles de Mercedes Diz, Argentina superó 5-1 a Marruecos y firmó una histórica clasificación en el Mundial Sub 17 femenino",
+          "link": "https://www.infobae.com/deportes/2026/10/23/con-un-show-de-goles-de-mercedes-diz-argentina-supero-5-1-a-marruecos-y-firmo-una-historica-clasificacion-en-el-mundial-sub-17-femenino/",
+          "hora": "2026-10-23T17:26:54-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "lionel-messi-llego-a-oviedo-para-recibir-el-premio-princesa-2-2-5",
+      "titulo": "El sentido mensaje de Antonela Roccuzzo a Leo Messi por el premio Princesa de Asturias: “Increíble trayectoria”",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-10-22T08:52:15-03:00",
+      "calor": 55,
+      "medios": [
+        "Infobae",
+        "Clarín",
+        "La Nación",
+        "TN"
+      ],
+      "en_x": true,
+      "posicion_x": 50,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "El video de la reacción de Antonela Roccuzzo cuando un guardia de seguridad le impidió a un nene acercarse a Messi",
+          "link": "https://www.lanacion.com.ar/deportes/el-video-de-la-reaccion-de-antonela-roccuzzo-cuando-un-guardia-de-seguridad-le-impidio-a-un-nene-nid23102026/",
+          "hora": "2026-10-23T16:22:37-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Los tres looks elegidos por Antonela Roccuzzo para acompañar a Lionel Messi en la entrega del Princesa de Asturias",
+          "link": "https://www.lanacion.com.ar/deportes/los-tres-looks-elegidos-por-antonela-roccuzzo-para-acompanar-a-lionel-messi-en-la-entrega-del-nid23102026/",
+          "hora": "2026-10-23T15:26:24-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "El sentido mensaje de Antonela Roccuzzo a Leo Messi por el premio Princesa de Asturias: “Increíble trayectoria”",
+          "link": "https://www.lanacion.com.ar/deportes/el-sentido-mensaje-de-antonela-roccuzzo-a-leo-messi-por-el-premio-princesa-de-asturias-increible-nid23102026/",
+          "hora": "2026-10-23T14:28:25-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Messi I de Asturias: el día en que Leo fue aclamado como un rey en España",
+          "link": "https://www.clarin.com/deportes/messi-emocionado-recibio-premio-princesa-asturias-sumo-reconocimiento-historico-carrera_0_BeyJhTanLz.html",
+          "hora": "2026-10-23T14:17:32-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "El sentido mensaje que Antonela Roccuzzo le dedicó a Lionel Messi tras ser distinguido con el Premio Princesa de Asturias: “Es un reconocimiento a tus valores”",
+          "link": "https://www.infobae.com/deportes/2026/10/23/el-sentido-mensaje-que-antonela-roccuzzo-le-dedico-a-lionel-messi-tras-ser-distinguido-con-el-premio-princesa-de-asturias-es-un-reconocimiento-a-tus-valores/",
+          "hora": "2026-10-23T12:18:51-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "El look elegante y sastrero de Leo Messi y Antonela Roccuzzo en el encuentro con la princesa Leonor, heredera del trono español",
+          "link": "https://tn.com.ar/estilo/eventos/2026/10/23/leo-messi-y-antonela-roccuzzo-elegantes-y-con-look-sastrero-junto-a-la-princesa-de-asturias/",
+          "hora": "2026-10-23T12:17:33-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "detuvieron-a-un-bioquimico-acusado-de-mantener-encerrados-a-2",
+      "titulo": "Horror en Esquel: detuvieron a un bioquímico por mantener secuestrados a su pareja y sus hijos en condiciones extremas",
+      "categoria": "social",
+      "prioritaria": true,
+      "desde": "2026-10-22T16:38:04-03:00",
+      "calor": 55,
+      "medios": [
+        "Clarín",
         "Infobae",
         "La Nación",
         "TN"
       ],
       "en_x": false,
       "posicion_x": null,
-      "en_google": true,
+      "en_google": false,
       "notas": [
         {
           "medio": "La Nación",
-          "titulo": "Una galería de cuadros danzados con innegable potencia visual",
-          "link": "https://www.lanacion.com.ar/espectaculos/danza/una-galeria-de-cuadros-danzados-con-innegable-potencia-visual-nid23102026/",
-          "hora": "2026-10-23T15:38:52-03:00"
+          "titulo": "Detuvieron en Esquel a un bioquímico que tenía en cautiverio dentro de la casa a su esposa y sus hijos",
+          "link": "https://www.lanacion.com.ar/seguridad/detuvieron-en-esquel-a-un-bioquimico-que-tenia-en-cautiverio-dentro-de-la-casa-a-su-esposa-y-sus-nid23102026/",
+          "hora": "2026-10-23T20:21:48-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Todo el día encerrados, ventanas tapadas y gritos en la noche: el horror de la casa del bioquímico en Esquel",
+          "link": "https://www.clarin.com/sociedad/dia-encerrados-ventanas-tapadas-gritos-noche-horror-casa-bioquimico-esquel_0_oYrJ9Eyq6z.html",
+          "hora": "2026-10-23T18:22:06-03:00"
         },
         {
           "medio": "TN",
-          "titulo": "Ni Boca ni River: un campeón del mundo con España reveló cuál es su club argentino favorito y explicó el motivo",
-          "link": "https://tn.com.ar/deportes/futbol/2026/10/23/ni-boca-ni-river-un-campeon-del-mundo-con-espana-revelo-cual-es-su-club-argentino-favorito-y-explico-el-motivo/",
-          "hora": "2026-10-23T15:14:55-03:00"
+          "titulo": "Quién es el bioquímico detenido en Esquel acusado de haber mantenido encerrados a su pareja y a sus 3 hijos en su casa",
+          "link": "https://tn.com.ar/policiales/2026/10/23/quien-es-el-bioquimico-detenido-en-esquel-acusado-de-haber-mantenido-encerrados-a-su-pareja-y-a-sus-3-hijos-en-una-casa-de-chubut/",
+          "hora": "2026-10-23T17:22:02-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "El descargo de Dalma Maradona tras el fin de los alegatos en el juicio por la muerte de Diego: “Vas a tener la justicia que te merecés”",
+          "link": "https://www.lanacion.com.ar/espectaculos/el-descargo-de-dalma-maradona-tras-el-fin-de-los-alegatos-en-el-juicio-por-la-muerte-de-diego-vas-a-nid23102026/",
+          "hora": "2026-10-23T14:51:49-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Un ex arquero campeón con River Plate elogió a Santiago Beltrán y señaló en qué potencia europea lo ve en el futuro",
-          "link": "https://www.infobae.com/deportes/2026/10/22/un-ex-arquero-campeon-con-river-plate-elogio-a-santiago-beltran-y-senalo-en-que-potencia-europea-lo-ve-en-el-futuro/",
-          "hora": "2026-10-22T20:47:01-03:00"
+          "titulo": "Detuvieron a Santiago Lara, el falso hijo de Diego Maradona, acusado de integrar una banda dedicada a la venta de drogas",
+          "link": "https://www.infobae.com/sociedad/policiales/2026/03/06/detuvieron-a-santiago-lara-el-falso-hijo-de-diego-maradona-acusado-de-integrar-una-banda-dedicada-a-la-venta-de-drogas/",
+          "hora": "2026-10-23T14:40:03-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Horror en Esquel: detuvieron a un bioquímico por mantener secuestrados a su pareja y sus hijos en condiciones extremas",
+          "link": "https://www.infobae.com/sociedad/policiales/2026/10/23/horror-en-esquel-detuvieron-a-un-bioquimico-por-mantener-secuestrados-a-su-pareja-y-sus-hijos/",
+          "hora": "2026-10-23T13:21:43-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Quién es el bioquímico detenido en Esquel por mantener a toda su familia en cautiverio",
+          "link": "https://www.clarin.com/sociedad/bioquimico-detenido-esquel-mantener-toda-familia-cautiverio_0_cLU2v1zOau.html",
+          "hora": "2026-10-23T13:09:06-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Esquel: detuvieron a un bioquímico por mantener secuestrada a su familia en condiciones inhumanas",
+          "link": "https://www.clarin.com/sociedad/esquel-detuvieron-bioquimico-mantener-secuestrada-familia_0_2dDwGmonMR.html",
+          "hora": "2026-10-23T09:34:50-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Detuvieron a un bioquímico acusado de mantener encerrados a su pareja y a sus tres hijos en una casa de Chubut",
+          "link": "https://tn.com.ar/policiales/2026/10/23/detuvieron-a-un-bioquimico-acusado-de-mantener-encerrados-a-su-pareja-y-a-sus-tres-hijos-en-una-casa-de-chubut/",
+          "hora": "2026-10-23T09:33:52-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "lionel-messi-llego-a-oviedo-para-recibir-el-premio-princesa-2-2-5-2-2",
+      "titulo": "El sentido mensaje de Lionel Messi tras recibir el Premio Princesa de Asturias en España: “Es un honor”",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-10-22T08:52:15-03:00",
+      "calor": 54,
+      "medios": [
+        "Infobae",
+        "Ámbito",
+        "TN"
+      ],
+      "en_x": true,
+      "posicion_x": 35,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "El sentido mensaje de Lionel Messi tras recibir el Premio Princesa de Asturias en España: “Es un honor”",
+          "link": "https://www.infobae.com/deportes/2026/10/23/el-sentido-mensaje-de-lionel-messi-tras-recibir-el-premio-princesa-de-asturias-en-espana-es-un-honor/",
+          "hora": "2026-10-23T20:31:22-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "“Hacía tiempo que no venía por acá”: el primer mensaje de Lionel Messi tras recibir el Premio Princesa de Asturias de los Deportes",
+          "link": "https://tn.com.ar/deportes/futbol/2026/10/23/hacia-tiempo-que-no-venia-por-aca-el-primer-mensaje-de-messi-tras-recibir-el-premio-princesa-de-asturias-de-los-deportes/",
+          "hora": "2026-10-23T19:18:51-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Lionel Messi fue ovacionado en España al recibir el Premio Princesa de Asturias",
+          "link": "https://www.ambito.com/deportes/lionel-messi-recibio-el-premio-princesa-asturias-n6337261",
+          "hora": "2026-10-23T14:11:00-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "donde-ver-el-segundo-debate-entre-lula-y-bolsonaro-antes-del-2-2",
+      "titulo": "Lula y Bolsonaro se enfrentan en su último cara a cara antes del balotaje en Brasil",
+      "categoria": "otros",
+      "prioritaria": false,
+      "desde": "2026-10-22T07:00:00-03:00",
+      "calor": 52,
+      "medios": [
+        "Infobae",
+        "La Nación",
+        "Ámbito",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "Elecciones Brasil 2026: encuestas del balotaje Lula vs. Flavio Bolsonaro y últimas noticias, hoy viernes 23 de octubre",
+          "link": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-encuestas-del-balotaje-lula-vs-flavio-bolsonaro-y-ultimas-noticias-hoy-nid23102026/",
+          "hora": "2026-10-23T20:50:00-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Lula y Bolsonaro se enfrentan en su último cara a cara antes del balotaje en Brasil",
+          "link": "https://www.lanacion.com.ar/el-mundo/lula-y-bolsonaro-se-enfrentan-en-su-ultimo-cara-a-cara-antes-del-balotaje-en-brasil-nid23102026/",
+          "hora": "2026-10-23T20:43:39-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Lula da Silva y Flávio Bolsonaro se preparan para el último debate antes del balotaje en Brasil",
+          "link": "https://tn.com.ar/internacional/2026/10/23/lula-da-silva-y-flavio-bolsonaro-se-preparan-para-el-ultimo-debate-antes-del-balotaje-en-brasil/",
+          "hora": "2026-10-23T20:35:32-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "A un año de la redada más letal de su historia, Brasil también decidirá en el balotaje entre dos modelos de seguridad opuestos",
+          "link": "https://www.lanacion.com.ar/el-mundo/a-un-ano-de-la-redada-mas-letal-de-su-historia-brasil-tambien-decidira-en-el-balotaje-entre-dos-nid23102026/",
+          "hora": "2026-10-23T19:20:34-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Once diputados libertarios viajarán a Río de Janeiro para el cierre de campaña de Flavio Bolsonaro",
+          "link": "https://www.infobae.com/politica/2026/10/23/once-diputados-libertarios-viajaran-a-rio-de-janeiro-para-el-cierre-de-campana-de-flavio-bolsonaro/",
+          "hora": "2026-10-23T18:26:22-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "“Brasil está muy dividido”: qué opinan los vecinos de la favela más grande de San Pablo a dos días del balotaje",
+          "link": "https://tn.com.ar/internacional/2026/10/23/brasil-esta-muy-dividido-que-dicen-los-vecinos-de-la-favela-mas-grande-de-san-pablo-a-dos-dias-del-balotaje/",
+          "hora": "2026-10-23T15:33:51-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Madonna pidió votar por Lula da Silva de cara al balotaje en Brasil",
+          "link": "https://www.ambito.com/espectaculos/madonna-pidio-votar-lula-da-silva-cara-al-balotaje-brasil-n6337159",
+          "hora": "2026-10-23T11:12:00-03:00"
         }
       ],
       "oficiales": [],
@@ -1341,7 +1437,7 @@
       "categoria": "economia",
       "prioritaria": true,
       "desde": "2026-10-23T11:26:19-03:00",
-      "calor": 53,
+      "calor": 52,
       "medios": [
         "Infobae",
         "La Nación"
@@ -1361,56 +1457,6 @@
           "titulo": "Escándalo con Manaos: la Justicia confirmó el procesamiento del dueño de la marca de gaseosas por evasión fiscal",
           "link": "https://www.infobae.com/economia/2026/10/23/escandalo-con-manaos-la-justicia-confirmo-el-procesamiento-del-dueno-de-la-marca-de-gaseosas-por-evasion-fiscal/",
           "hora": "2026-10-23T11:26:19-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "lionel-messi-llego-a-oviedo-para-recibir-el-premio-princesa-2-2-5-2-2",
-      "titulo": "Lionel Messi recibió el Premio Princesa de Asturias en España",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-10-22T08:52:15-03:00",
-      "calor": 52,
-      "medios": [
-        "TN",
-        "Página/12"
-      ],
-      "en_x": true,
-      "posicion_x": 35,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "TN",
-          "titulo": "“Hacía tiempo que no venía por acá”: el primer mensaje de Lionel Messi tras recibir el Premio Princesa de Asturias de los Deportes",
-          "link": "https://tn.com.ar/deportes/futbol/2026/10/23/hacia-tiempo-que-no-venia-por-aca-el-primer-mensaje-de-messi-tras-recibir-el-premio-princesa-de-asturias-de-los-deportes/",
-          "hora": "2026-10-23T19:18:51-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Lionel Messi recibió el Premio Princesa de Asturias en España",
-          "link": "https://www.pagina12.com.ar/2026/10/23/lionel-messi-recibio-el-premio-princesa-de-asturias-en-espana/",
-          "hora": "2026-10-23T16:09:20-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Lionel Messi recibió el premio Princesa de Asturias con un traje clásico y corbata a rayas",
-          "link": "https://tn.com.ar/estilo/celebridades/2026/10/23/lionel-messi-recibio-el-premio-princesa-de-asturias-con-un-traje-clasico-y-corbata-a-rayas/",
-          "hora": "2026-10-23T14:54:00-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Video: el momento en que Lionel Messi recibió el Premio Princesa de Asturias de los Deportes 2026",
-          "link": "https://tn.com.ar/deportes/futbol/2026/10/23/video-el-momento-en-que-lionel-messi-recibio-el-premio-princesa-de-asturias-de-los-deportes-2026/",
-          "hora": "2026-10-23T14:37:32-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Lionel Messi recibió el Premio Princesa de Asturias en una gala junto a la realeza española y fue ovacionado",
-          "link": "https://tn.com.ar/deportes/futbol/2026/10/23/lionel-messi-recibe-el-premio-princesa-de-asturias-en-una-gala-junto-a-la-realeza-espanola/",
-          "hora": "2026-10-23T14:25:44-03:00"
         }
       ],
       "oficiales": [],
@@ -1476,74 +1522,16 @@
       "angulos": []
     },
     {
-      "id": "primera-infancia-salud-mental-y-cuidados-paliativos-los-tema-2",
-      "titulo": "Cuatro argentinos fueron elegidos como los mejores del mundo por la Federación Internacional de Hockey",
-      "categoria": "deportes",
+      "id": "lo-mas-visto-en-netflix-panama-las-10-peliculas-mas-exitosas",
+      "titulo": "Lo más visto en Netflix Panamá: las 10 películas más exitosas del momento, con “Animales” a la cabeza",
+      "categoria": "espectaculos",
       "prioritaria": false,
-      "desde": "2026-10-22T13:26:16-03:00",
+      "desde": "2026-10-23T08:41:13-03:00",
       "calor": 51,
       "medios": [
         "Clarín",
-        "La Nación",
         "Infobae",
-        "Página/12"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Cuatro argentinos fueron elegidos como los mejores del mundo por la Federación Internacional de Hockey",
-          "link": "https://www.infobae.com/deportes/2026/10/23/cuatro-argentinos-fueron-elegidos-como-los-mejores-del-mundo-por-la-federacion-internacional-de-hockey/",
-          "hora": "2026-10-23T19:30:19-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Alquileres: se terminó una etapa que generó fuertes tensiones en el mercado inmobiliario argentino",
-          "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/alquileres-se-termina-una-etapa-que-duro-tres-anos-y-provoco-uno-de-los-mayores-problemas-del-nid19102026/",
-          "hora": "2026-10-23T19:27:08-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Semana negra para el trigo: el precio internacional alcanzó su valor más bajo desde julio y el mercado local registró fuertes pérdidas",
-          "link": "https://www.clarin.com/rural/semana-negra-trigo-precio-internacional-alcanzo-valor-julio-mercado-local-registro-fuertes-perdidas_0_gle8wjGepp.html",
-          "hora": "2026-10-23T18:10:26-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Los argentinos arrasaron los premios de la Federación de hockey",
-          "link": "https://www.pagina12.com.ar/2026/10/23/los-argentinos-arrasaron-los-premios-de-la-federacion-de-hockey/",
-          "hora": "2026-10-23T17:42:50-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "La Argentina arrasó en los premios anuales del hockey: ganaron los cuatro nominados",
-          "link": "https://www.lanacion.com.ar/deportes/hockey/la-argentina-arraso-en-los-premios-anuales-del-hockey-ganaron-los-cuatro-nominados-nid23102026/",
-          "hora": "2026-10-23T16:42:17-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Argentina arrasó en la gala de la Federación Internacional de Hockey: tuvo a la mejor jugadora, al mejor jugador, a la mejor arquera y a la mejor promesa de 2026",
-          "link": "https://www.clarin.com/deportes/argentina-arraso-gala-federacion-internacional-hockey-mejor-jugadora-mejor-jugador-mejor-arquera-mejor-promesa-2026_0_GEKDy2NszZ.html",
-          "hora": "2026-10-23T14:46:15-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "arriazu-volvio-a-criticar-la-forma-en-que-acumula-reservas-e-2-2",
-      "titulo": "Crédito hipotecario: un banco bajó la tasa para quienes necesitan vender su propiedad para comprar otra",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-10-21T18:00:00-03:00",
-      "calor": 50,
-      "medios": [
-        "Infobae",
-        "La Nación",
-        "Ámbito"
+        "La Nación"
       ],
       "en_x": false,
       "posicion_x": null,
@@ -1551,51 +1539,57 @@
       "notas": [
         {
           "medio": "La Nación",
-          "titulo": "Créditos: un banco amplía las condiciones para la compra de casas modulares",
-          "link": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/creditos-un-banco-amplia-las-condiciones-para-la-compra-de-casas-modulares-nid22102026/",
-          "hora": "2026-10-23T19:31:37-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Crédito hipotecario: un banco bajó la tasa para quienes necesitan vender su propiedad para comprar otra",
-          "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/credito-hipotecario-un-banco-bajo-la-tasa-para-quienes-necesitan-vender-su-propiedad-para-comprar-nid22102026/",
-          "hora": "2026-10-23T19:31:01-03:00"
+          "titulo": "Qué ver en Netflix: las mejores películas y series para disfrutar este fin de semana del 24 y 25 de octubre",
+          "link": "https://www.lanacion.com.ar/espectaculos/que-ver-en-netflix-las-mejores-peliculas-y-series-para-disfrutar-este-fin-de-semana-del-24-y-25-de-nid23102026/",
+          "hora": "2026-10-23T20:40:11-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Los bancos proyectan una mayor demanda de crédito por parte de las familias pese a la mora en niveles récord",
-          "link": "https://www.infobae.com/economia/2026/10/23/los-bancos-proyectan-una-mayor-demanda-de-credito-por-parte-de-las-familias-pese-a-la-mora-en-niveles-record/",
-          "hora": "2026-10-23T18:32:31-03:00"
+          "titulo": "Instalar Xuper TV en el celular: películas y series gratis a cambio de poner tus datos en riesgo",
+          "link": "https://www.infobae.com/tecno/2026/10/23/instalar-xuper-tv-en-el-celular-peliculas-y-series-gratis-a-cambio-de-poner-tus-datos-en-riesgo/",
+          "hora": "2026-10-23T20:17:05-03:00"
         },
         {
-          "medio": "La Nación",
-          "titulo": "Plazo fijo: cuál es la tasa de interés banco por banco este viernes 23 de octubre",
-          "link": "https://www.lanacion.com.ar/economia/plazo-fijo-cual-es-la-tasa-de-interes-banco-por-banco-este-viernes-23-de-octubre-nid23102026/",
-          "hora": "2026-10-23T11:41:24-03:00"
+          "medio": "Clarín",
+          "titulo": "Lo más visto en Netflix Venezuela: las 10 películas más exitosas del momento, con “Animales” a la cabeza",
+          "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-venezuela-las-10-peliculas-mas-exitosas-del-momento-con-animales-a-la-cabeza_0_zxA6Ltvd2Y.html",
+          "hora": "2026-10-23T08:41:18-03:00"
         },
         {
-          "medio": "Ámbito",
-          "titulo": "Se aceleró la inflación de Japón y aumenta la presión para que su banco central suba la tasa",
-          "link": "https://www.ambito.com/economia/se-acelero-la-inflacion-japon-y-aumenta-la-presion-que-su-banco-central-suba-la-tasa-n6337146",
-          "hora": "2026-10-23T10:40:00-03:00"
+          "medio": "Clarín",
+          "titulo": "Lo más visto en Netflix Estados Unidos: las 10 películas más exitosas del momento, con “Animales” a la cabeza",
+          "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-estados-unidos-las-10-peliculas-mas-exitosas-del-momento-con-animales-a-la-cabeza_0_151BvO0EFa.html",
+          "hora": "2026-10-23T08:41:17-03:00"
         },
         {
-          "medio": "Infobae",
-          "titulo": "El Banco Ciudad lanzó nuevos créditos hipotecarios: quiénes pueden acceder y a qué tasa",
-          "link": "https://www.infobae.com/economia/2026/10/23/el-banco-ciudad-lanzo-nuevos-creditos-hipotecarios-quienes-pueden-acceder-y-a-que-tasa/",
-          "hora": "2026-10-23T08:20:45-03:00"
+          "medio": "Clarín",
+          "titulo": "Lo más visto en Netflix Uruguay: las 10 películas más exitosas del momento, con “Lo dejamos acá” a la cabeza",
+          "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-uruguay-las-10-peliculas-mas-exitosas-del-momento-con-lo-dejamos-aca-a-la-cabeza_0_MHFgEFbBpZ.html",
+          "hora": "2026-10-23T08:41:17-03:00"
         },
         {
-          "medio": "Ámbito",
-          "titulo": "Cómo funciona un crédito hipotecario y cuáles son los pasos para solicitarlo",
-          "link": "https://www.ambito.com/economia/como-funciona-un-credito-hipotecario-y-cuales-son-los-pasos-solicitarlo-n6336382",
-          "hora": "2026-10-23T07:00:00-03:00"
+          "medio": "Clarín",
+          "titulo": "Lo más visto en Netflix Perú: las 10 películas más exitosas del momento, con “Animales” a la cabeza",
+          "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-peru-las-10-peliculas-mas-exitosas-del-momento-con-animales-a-la-cabeza_0_qMjf66jhHk.html",
+          "hora": "2026-10-23T08:41:16-03:00"
         },
         {
-          "medio": "Ámbito",
-          "titulo": "El Banco Ciudad bajó la tasa para créditos hipotecarios",
-          "link": "https://www.ambito.com/economia/el-banco-ciudad-la-tasa-creditos-hipotecarios-n6336997",
-          "hora": "2026-10-22T20:40:00-03:00"
+          "medio": "Clarín",
+          "titulo": "Lo más visto en Netflix Panamá: las 10 películas más exitosas del momento, con “Animales” a la cabeza",
+          "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-panama-las-10-peliculas-mas-exitosas-del-momento-con-animales-a-la-cabeza_0_Lk7JezKQr0.html",
+          "hora": "2026-10-23T08:41:14-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Lo más visto en Netflix Paraguay: las 10 películas más exitosas del momento, con “Animales” a la cabeza",
+          "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-paraguay-las-10-peliculas-mas-exitosas-del-momento-con-animales-a-la-cabeza_0_Nwxc5Pcac6.html",
+          "hora": "2026-10-23T08:41:14-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Lo más visto en Netflix México: las 10 películas más exitosas del momento, con “El cadáver de la novia” a la cabeza",
+          "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-mexico-las-10-peliculas-mas-exitosas-del-momento-con-el-cadaver-de-la-novia-a-la-cabeza_0_H9DD8ytxEs.html",
+          "hora": "2026-10-23T08:41:13-03:00"
         }
       ],
       "oficiales": [],
@@ -1746,16 +1740,16 @@
       "angulos": []
     },
     {
-      "id": "renuncio-daniel-gonzalez-a-la-secretaria-de-coordinacion-de",
-      "titulo": "Renunció Daniel González a la Secretaría de Coordinación de Energía y Minería",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-10-22T20:47:15-03:00",
+      "id": "primera-infancia-salud-mental-y-cuidados-paliativos-los-tema-2",
+      "titulo": "La Argentina arrasó en los premios anuales del hockey: ganaron los cuatro nominados",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-10-22T13:26:16-03:00",
       "calor": 49,
       "medios": [
+        "Clarín",
         "La Nación",
         "Infobae",
-        "Clarín",
         "Página/12"
       ],
       "en_x": false,
@@ -1763,28 +1757,28 @@
       "en_google": false,
       "notas": [
         {
-          "medio": "Clarín",
-          "titulo": "La renuncia de Daniel González: regulación a las empresas, el RIGI, privatizaciones y Malvinas, los desafíos pendientes",
-          "link": "https://www.clarin.com/economia/renuncia-daniel-gonzalez-regulacion-empresas-rigi-privatizaciones-malvinas-desafios-pendientes_0_uGaMBIS3wb.html",
-          "hora": "2026-10-23T18:34:25-03:00"
+          "medio": "Infobae",
+          "titulo": "Cuatro argentinos fueron elegidos como los mejores del mundo por la Federación Internacional de Hockey",
+          "link": "https://www.infobae.com/deportes/2026/10/23/cuatro-argentinos-fueron-elegidos-como-los-mejores-del-mundo-por-la-federacion-internacional-de-hockey/",
+          "hora": "2026-10-23T19:30:19-03:00"
         },
         {
           "medio": "Página/12",
-          "titulo": "Otra baja para Milei: renunció Daniel González, secretario de Energía y Minería",
-          "link": "https://www.pagina12.com.ar/2026/10/23/otra-baja-para-milei-renuncio-daniel-gonzalez-secretario-de-energia-y-mineria/",
-          "hora": "2026-10-22T22:21:48-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Renunció Daniel González, el funcionario clave que coordinaba las áreas de Energía y Minería",
-          "link": "https://www.infobae.com/economia/2026/10/22/renuncio-daniel-gonzalez-el-funcionario-clave-que-coordinaba-las-areas-de-energia-y-mineria/",
-          "hora": "2026-10-22T21:00:11-03:00"
+          "titulo": "Los argentinos arrasaron los premios de la Federación de hockey",
+          "link": "https://www.pagina12.com.ar/2026/10/23/los-argentinos-arrasaron-los-premios-de-la-federacion-de-hockey/",
+          "hora": "2026-10-23T17:42:50-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "Renunció Daniel González a la Secretaría de Coordinación de Energía y Minería",
-          "link": "https://www.lanacion.com.ar/economia/renuncio-daniel-gonzalez-a-la-secretaria-de-coordinacion-de-energia-y-mineria-nid22102026/",
-          "hora": "2026-10-22T20:47:15-03:00"
+          "titulo": "La Argentina arrasó en los premios anuales del hockey: ganaron los cuatro nominados",
+          "link": "https://www.lanacion.com.ar/deportes/hockey/la-argentina-arraso-en-los-premios-anuales-del-hockey-ganaron-los-cuatro-nominados-nid23102026/",
+          "hora": "2026-10-23T16:42:17-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Argentina arrasó en la gala de la Federación Internacional de Hockey: tuvo a la mejor jugadora, al mejor jugador, a la mejor arquera y a la mejor promesa de 2026",
+          "link": "https://www.clarin.com/deportes/argentina-arraso-gala-federacion-internacional-hockey-mejor-jugadora-mejor-jugador-mejor-arquera-mejor-promesa-2026_0_GEKDy2NszZ.html",
+          "hora": "2026-10-23T14:46:15-03:00"
         }
       ],
       "oficiales": [],
@@ -1793,7 +1787,7 @@
     },
     {
       "id": "polemica-por-una-ley-que-permite-usar-fondos-de-los-caminos-2-2-2-2-2",
-      "titulo": "La Bolsa de Buenos Aires cierra con un incremento del 4,40 %",
+      "titulo": "Día Mundial de la Pasta 2026: 10 lugares de Buenos Aires para comer pastas artesanales",
       "categoria": "social",
       "prioritaria": true,
       "desde": "2026-10-20T11:20:00-03:00",
@@ -1809,15 +1803,15 @@
       "notas": [
         {
           "medio": "La Nación",
+          "titulo": "Día Mundial de la Pasta 2026: el mapa de fábricas de pastas y restaurantes con descuentos, promociones 2x1 y ofertas",
+          "link": "https://www.lanacion.com.ar/que-sale/dia-mundial-de-la-pasta-2026-el-mapa-de-fabricas-de-pastas-y-restaurantes-con-descuentos-promociones-nid23102026/",
+          "hora": "2026-10-23T20:52:24-03:00"
+        },
+        {
+          "medio": "La Nación",
           "titulo": "Día Mundial de la Pasta 2026: 10 lugares de Buenos Aires para comer pastas artesanales",
           "link": "https://www.lanacion.com.ar/que-sale/dia-mundial-de-la-pasta-2026-10-lugares-de-buenos-aires-para-comer-pastas-artesanales-nid23102026/",
           "hora": "2026-10-23T19:40:54-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "La Bolsa de Buenos Aires cierra con un incremento del 4,40 %",
-          "link": "https://www.infobae.com/america/agencias/2026/10/23/la-bolsa-de-buenos-aires-cierra-con-un-incremento-del-440/",
-          "hora": "2026-10-23T19:16:29-03:00"
         },
         {
           "medio": "La Nación",
@@ -1848,6 +1842,69 @@
           "titulo": "La Noche de las Embajadas abrirá más de 20 sedes diplomáticas en la Ciudad de Buenos Aires",
           "link": "https://www.infobae.com/sociedad/2026/10/23/la-noche-de-las-embajadas-abrira-mas-de-20-sedes-diplomaticas-en-la-ciudad-de-buenos-aires/",
           "hora": "2026-10-22T21:15:10-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "arriazu-volvio-a-criticar-la-forma-en-que-acumula-reservas-e-2-2",
+      "titulo": "Crédito hipotecario: un banco bajó la tasa para quienes necesitan vender su propiedad para comprar otra",
+      "categoria": "economia",
+      "prioritaria": true,
+      "desde": "2026-10-21T18:00:00-03:00",
+      "calor": 48,
+      "medios": [
+        "Infobae",
+        "La Nación",
+        "Ámbito"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "Créditos: un banco amplía las condiciones para la compra de casas modulares",
+          "link": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/creditos-un-banco-amplia-las-condiciones-para-la-compra-de-casas-modulares-nid22102026/",
+          "hora": "2026-10-23T19:31:37-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Crédito hipotecario: un banco bajó la tasa para quienes necesitan vender su propiedad para comprar otra",
+          "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/credito-hipotecario-un-banco-bajo-la-tasa-para-quienes-necesitan-vender-su-propiedad-para-comprar-nid22102026/",
+          "hora": "2026-10-23T19:31:01-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Los bancos proyectan una mayor demanda de crédito por parte de las familias pese a la mora en niveles récord",
+          "link": "https://www.infobae.com/economia/2026/10/23/los-bancos-proyectan-una-mayor-demanda-de-credito-por-parte-de-las-familias-pese-a-la-mora-en-niveles-record/",
+          "hora": "2026-10-23T18:32:31-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Plazo fijo: cuál es la tasa de interés banco por banco este viernes 23 de octubre",
+          "link": "https://www.lanacion.com.ar/economia/plazo-fijo-cual-es-la-tasa-de-interes-banco-por-banco-este-viernes-23-de-octubre-nid23102026/",
+          "hora": "2026-10-23T11:41:24-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Se aceleró la inflación de Japón y aumenta la presión para que su banco central suba la tasa",
+          "link": "https://www.ambito.com/economia/se-acelero-la-inflacion-japon-y-aumenta-la-presion-que-su-banco-central-suba-la-tasa-n6337146",
+          "hora": "2026-10-23T10:40:00-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "El Banco Ciudad lanzó nuevos créditos hipotecarios: quiénes pueden acceder y a qué tasa",
+          "link": "https://www.infobae.com/economia/2026/10/23/el-banco-ciudad-lanzo-nuevos-creditos-hipotecarios-quienes-pueden-acceder-y-a-que-tasa/",
+          "hora": "2026-10-23T08:20:45-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Cómo funciona un crédito hipotecario y cuáles son los pasos para solicitarlo",
+          "link": "https://www.ambito.com/economia/como-funciona-un-credito-hipotecario-y-cuales-son-los-pasos-solicitarlo-n6336382",
+          "hora": "2026-10-23T07:00:00-03:00"
         }
       ],
       "oficiales": [],
@@ -1912,16 +1969,124 @@
       "angulos": []
     },
     {
-      "id": "lionel-messi-llego-a-oviedo-para-recibir-el-premio-princesa-2-2-5",
-      "titulo": "El sentido mensaje de Antonela Roccuzzo a Leo Messi por el premio Princesa de Asturias: “Increíble trayectoria”",
-      "categoria": "deportes",
+      "id": "eeuu-revela-reportes-de-avistamientos-de-ovnis-en-el-siglo-x",
+      "titulo": "EEUU revela reportes de avistamientos de ovnis en el siglo XX, varios cerca de California",
+      "categoria": "otros",
       "prioritaria": false,
-      "desde": "2026-10-22T08:52:15-03:00",
+      "desde": "2026-10-23T19:30:09-03:00",
+      "calor": 47,
+      "medios": [
+        "Clarín",
+        "Infobae",
+        "La Nación"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "“Simplemente perdí el control”: un alcalde de Nueva Jersey se peleó con un residente durante una reunión pública",
+          "link": "https://www.infobae.com/estados-unidos/2026/10/23/simplemente-perdi-el-control-un-alcalde-de-nueva-jersey-se-peleo-con-un-residente-durante-una-reunion-publica/",
+          "hora": "2026-10-23T20:48:54-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Alcalde de NY publica vídeo aconsejando en español sobre qué hacer ante los agentes de ICE",
+          "link": "https://www.infobae.com/america/agencias/2026/10/23/alcalde-de-ny-publica-video-aconsejando-en-espanol-sobre-que-hacer-ante-los-agentes-de-ice/",
+          "hora": "2026-10-23T20:45:52-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "El DHS lo confirmó: el ICE aplica operativo para detener a inmigrantes indocumentados que recibieron SNAP",
+          "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/el-dhs-lo-confirmo-el-ice-aplica-operativo-para-detener-a-inmigrantes-indocumentados-que-recibieron-nid22102026/",
+          "hora": "2026-10-23T20:22:43-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Las redadas del ICE en California siembran el temor entre los trabajadores ambulantes de origen migrante",
+          "link": "https://www.lanacion.com.ar/estados-unidos/california/las-redadas-del-ice-en-california-siembran-el-temor-entre-los-trabajadores-ambulantes-de-origen-nid23102026/",
+          "hora": "2026-10-23T19:59:00-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "EEUU revela reportes de avistamientos de ovnis en el siglo XX, varios cerca de California",
+          "link": "https://www.infobae.com/america/agencias/2026/10/23/eeuu-revela-reportes-de-avistamientos-de-ovnis-en-el-siglo-xx-varios-cerca-de-california/",
+          "hora": "2026-10-23T19:45:43-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "EEUU revela reportes de avistamientos de ovnis en el siglo XX, varios cerca de California",
+          "link": "https://www.clarin.com/estados-unidos/eeuu-revela-reportes-de-avistamientos-de-ovnis-en-el-siglo-xx-varios-cerca-de-california_0_inSZEMJx55.html",
+          "hora": "2026-10-23T19:30:09-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "donde-ver-el-segundo-debate-entre-lula-y-bolsonaro-antes-del-2",
+      "titulo": "Sabrina Rojas reveló el contundente motivo por el que tiene silenciados a sus hijos en redes sociales: “Me da pudor”",
+      "categoria": "espectaculos",
+      "prioritaria": false,
+      "desde": "2026-10-22T07:00:00-03:00",
       "calor": 46,
+      "medios": [
+        "La Nación",
+        "Infobae",
+        "Página/12"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "Sabrina Rojas habló de los rumores de romance con un futbolista de la selección de 19 años: “Me impactó”",
+          "link": "https://www.lanacion.com.ar/espectaculos/sabrina-rojas-hablo-de-los-rumores-de-romance-con-un-futbolista-de-la-seleccion-de-19-anos-me-nid23102026/",
+          "hora": "2026-10-23T20:42:42-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Sabrina Rojas reveló el contundente motivo por el que tiene silenciados a sus hijos en redes sociales: “Me da pudor”",
+          "link": "https://www.infobae.com/teleshow/2026/10/23/sabrina-rojas-revelo-el-contundente-motivo-por-el-que-tiene-silenciados-a-sus-hijos-en-redes-sociales-me-da-pudor/",
+          "hora": "2026-10-23T20:31:42-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "El fenómeno del “Ejército de Lula” sacude las redes sociales en Brasil",
+          "link": "https://www.pagina12.com.ar/2026/10/23/el-fenomeno-del-ejercito-de-lula-en-las-redes-sociales/",
+          "hora": "2026-10-23T19:12:21-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Estela de Carlotto cumplió 96 y fue homenajeada en redes sociales",
+          "link": "https://www.pagina12.com.ar/2026/10/22/estela-de-carlotto-cumplio-96-y-fue-homenajeada-en-redes-sociales/",
+          "hora": "2026-10-23T00:01:00-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "La frase de Séneca que inspira a la psiquiatra Marian Rojas Estapé: “La suerte es donde confluyen la preparación y la oportunidad”",
+          "link": "https://www.lanacion.com.ar/sociedad/la-frase-de-seneca-que-inspira-a-la-psiquiatra-marian-rojas-estape-la-suerte-es-donde-confluyen-la-nid21102026/",
+          "hora": "2026-10-22T21:36:00-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "murio-tom-skerritt-estrella-de-top-gun-y-alien",
+      "titulo": "Julia Roberts honra la memoria de Tom Skerritt y revive uno de sus papeles más entrañables",
+      "categoria": "espectaculos",
+      "prioritaria": false,
+      "desde": "2026-10-22T16:52:44-03:00",
+      "calor": 45,
       "medios": [
         "Infobae",
         "La Nación",
-        "TN"
+        "Ámbito"
       ],
       "en_x": false,
       "posicion_x": null,
@@ -1929,135 +2094,27 @@
       "notas": [
         {
           "medio": "La Nación",
-          "titulo": "El video de la reacción de Antonela Roccuzzo cuando un guardia de seguridad le impidió a un nene acercarse a Messi",
-          "link": "https://www.lanacion.com.ar/deportes/el-video-de-la-reaccion-de-antonela-roccuzzo-cuando-un-guardia-de-seguridad-le-impidio-a-un-nene-nid23102026/",
-          "hora": "2026-10-23T16:22:37-03:00"
+          "titulo": "De qué murió Tom Skerritt, el recordado comandante de Alien e instructor de Tom Cruise en Top Gun",
+          "link": "https://www.lanacion.com.ar/espectaculos/de-que-murio-tom-skerritt-el-recordado-comandante-de-alien-e-instructor-de-tom-cruise-en-top-gun-nid23102026/",
+          "hora": "2026-10-23T20:41:33-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "\"The Gentleman\": Orlando Bloom, Robert Carlyle y Elijah Wood se unen al elenco de la tercera temporada de la serie",
+          "link": "https://www.ambito.com/espectaculos/the-gentleman-orlando-bloom-robert-carlyle-y-elijah-wood-se-unen-al-elenco-la-tercera-temporada-la-serie-n6337318",
+          "hora": "2026-10-23T16:51:00-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "Los tres looks elegidos por Antonela Roccuzzo para acompañar a Lionel Messi en la entrega del Princesa de Asturias",
-          "link": "https://www.lanacion.com.ar/deportes/los-tres-looks-elegidos-por-antonela-roccuzzo-para-acompanar-a-lionel-messi-en-la-entrega-del-nid23102026/",
-          "hora": "2026-10-23T15:26:24-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "El sentido mensaje de Antonela Roccuzzo a Leo Messi por el premio Princesa de Asturias: “Increíble trayectoria”",
-          "link": "https://www.lanacion.com.ar/deportes/el-sentido-mensaje-de-antonela-roccuzzo-a-leo-messi-por-el-premio-princesa-de-asturias-increible-nid23102026/",
-          "hora": "2026-10-23T14:28:25-03:00"
+          "titulo": "Susana Giménez vuelve a la actuación: el particular rol que encarnará en una serie que va por su segunda temporada",
+          "link": "https://www.lanacion.com.ar/espectaculos/susana-gimenez-vuelve-a-la-actuacion-el-particular-rol-que-encarnara-en-una-serie-que-va-por-su-nid23102026/",
+          "hora": "2026-10-23T16:14:37-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "El sentido mensaje que Antonela Roccuzzo le dedicó a Lionel Messi tras ser distinguido con el Premio Princesa de Asturias: “Es un reconocimiento a tus valores”",
-          "link": "https://www.infobae.com/deportes/2026/10/23/el-sentido-mensaje-que-antonela-roccuzzo-le-dedico-a-lionel-messi-tras-ser-distinguido-con-el-premio-princesa-de-asturias-es-un-reconocimiento-a-tus-valores/",
-          "hora": "2026-10-23T12:18:51-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "El look elegante y sastrero de Leo Messi y Antonela Roccuzzo en el encuentro con la princesa Leonor, heredera del trono español",
-          "link": "https://tn.com.ar/estilo/eventos/2026/10/23/leo-messi-y-antonela-roccuzzo-elegantes-y-con-look-sastrero-junto-a-la-princesa-de-asturias/",
-          "hora": "2026-10-23T12:17:33-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "“En vez de ayudarlos les están haciendo un mal”: el sentido consejo de Lionel Messi a los padres de jóvenes futbolistas",
-          "link": "https://www.infobae.com/deportes/2026/10/23/en-vez-de-ayudarlos-les-estan-haciendo-un-mal-el-sentido-consejo-de-lionel-messi-a-los-padres-de-jovenes-futbolistas/",
-          "hora": "2026-10-23T11:11:54-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "lionel-messi-llego-a-oviedo-para-recibir-el-premio-princesa-3",
-      "titulo": "El Balón de Oro de Todos los Tiempos genera polémica y reabre la grieta entre Lionel Messi y Cristiano Ronaldo",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-10-22T08:52:15-03:00",
-      "calor": 46,
-      "medios": [
-        "La Nación",
-        "Clarín",
-        "Infobae"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Polémica por el “gol fantasma” de Cristiano Ronaldo que le permitió dar un paso más rumbo a los 1.000 tantos",
-          "link": "https://www.infobae.com/deportes/2026/10/23/polemica-por-el-gol-fantasma-de-cristiano-ronaldo-que-le-permitio-dar-un-paso-mas-rumbo-a-los-1000-tantos/",
-          "hora": "2026-10-23T17:47:44-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Cuándo entregan el Balón de Oro 2026",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/cuando-entregan-el-balon-de-oro-2026-nid23102026/",
-          "hora": "2026-10-23T16:07:26-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Cristiano Ronaldo y un peldaño más hacia la gloria del gol 1.000: festejó con Al Nassr en plena polémica por su Balón de Oro \"BOAT\"",
-          "link": "https://www.clarin.com/deportes/cristiano-ronaldo-peldano-gloria-gol-1000-festejo-nassr-plena-polemica-balon-oro-boat_0_C4QHXW1aYG.html",
-          "hora": "2026-10-23T12:47:56-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Balón de Oro 2026: cuándo se entrega el premio al mejor jugador del mundo",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/balon-de-oro-2026-cuando-se-entrega-el-premio-al-mejor-jugador-del-mundo-nid23102026/",
-          "hora": "2026-10-23T11:07:09-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "El Balón de Oro de Todos los Tiempos genera polémica y reabre la grieta entre Lionel Messi y Cristiano Ronaldo",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/el-balon-de-oro-de-todos-los-tiempos-genera-polemica-y-reabre-la-grieta-entre-lionel-messi-y-nid23102026/",
-          "hora": "2026-10-23T09:18:05-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "messi-recibe-el-princesa-de-asturias-de-los-deportes-2026-co",
-      "titulo": "La Filarmónica de Berlín se lució con el mítico “sonido Berlín”, empastado, suntuoso y finísimamente pulido",
-      "categoria": "espectaculos",
-      "prioritaria": false,
-      "desde": "2026-10-22T17:55:45-03:00",
-      "calor": 45,
-      "medios": [
-        "Clarín",
-        "La Nación",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "TN",
-          "titulo": "Perdió su trabajo y convirtió un colectivo escolar de 1999 en una casa: gastó US$40.000 y tardó 200 días",
-          "link": "https://tn.com.ar/sociedad/2026/10/23/perdio-su-trabajo-y-convirtio-un-colectivo-escolar-de-1999-en-una-casa-gasto-us40000-y-tardo-200-dias/",
-          "hora": "2026-10-23T18:29:58-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Filarmónica de Berlín: extraordinario concierto de una de las mejores orquestas del mundo",
-          "link": "https://www.lanacion.com.ar/espectaculos/musica/filarmonica-de-berlin-extraordinario-concierto-de-una-de-las-mejores-orquestas-del-mundo-nid23102026/",
-          "hora": "2026-10-23T15:40:30-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "La princesa Leonor elogió a Messi tras entregarle el premio en Oviedo: “Convirtió lo extraordinario en rutina”",
-          "link": "https://tn.com.ar/deportes/futbol/2026/10/23/la-princesa-leonor-elogio-a-messi-tras-entregarle-el-premio-en-oviedo-convirtio-lo-extraordinario-en-rutina/",
-          "hora": "2026-10-23T14:45:15-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "La Filarmónica de Berlín se lució con el mítico “sonido Berlín”, empastado, suntuoso y finísimamente pulido",
-          "link": "https://www.clarin.com/espectaculos/filarmonica-berlin-lucio-mitico-sonido-berlin-empastado-suntuoso-finisimamente-pulido_0_MPvNZTVlYs.html",
-          "hora": "2026-10-23T12:03:04-03:00"
+          "titulo": "Julia Roberts honra la memoria de Tom Skerritt y revive uno de sus papeles más entrañables",
+          "link": "https://www.infobae.com/entretenimiento/2026/10/23/julia-roberts-honra-la-memoria-de-tom-skerritt-y-revive-uno-de-sus-papeles-mas-entranables/",
+          "hora": "2026-10-23T11:07:44-03:00"
         }
       ],
       "oficiales": [],
@@ -2139,7 +2196,7 @@
         },
         {
           "medio": "TN",
-          "titulo": "Encontraron a una mujer asesinada en su casa en Córdoba: la policía investiga una valija con sangre y las cámaras de seguridad",
+          "titulo": "Encontraron a una mujer muerta en su casa en Córdoba: la policía investiga una valija con sangre y las cámaras de seguridad",
           "link": "https://tn.com.ar/policiales/2026/10/23/encontraron-a-una-mujer-asesinada-en-su-casa-en-cordoba-la-policia-investiga-una-valija-con-sangre-y-las-camaras-de-seguridad/",
           "hora": "2026-10-23T19:12:46-03:00"
         },
@@ -2148,189 +2205,6 @@
           "titulo": "Investigan un posible ataque a un camionero en Córdoba: lo encontraron descompensado y tenía golpes en la cabeza",
           "link": "https://www.infobae.com/sociedad/2026/10/23/investigan-un-posible-ataque-a-un-camionero-en-cordoba-lo-encontraron-descompensado-y-tenia-golpes-en-la-cabeza/",
           "hora": "2026-10-23T01:22:39-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "murio-a-los-118-anos-uno-de-los-hombres-mas-longevos-del-pai",
-      "titulo": "Murió a los 118 años uno de los hombres más longevos del país: la historia de Manuel Moisés Álvez",
-      "categoria": "social",
-      "prioritaria": true,
-      "desde": "2026-10-23T04:44:10-03:00",
-      "calor": 45,
-      "medios": [
-        "Infobae",
-        "La Nación"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": true,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "Murió a los 118 años Manuel Moisés Álvez, el hombre más longevo del país",
-          "link": "https://www.lanacion.com.ar/sociedad/murio-a-los-118-anos-manuel-moises-alvez-el-hombre-mas-longevo-del-pais-nid23102026/",
-          "hora": "2026-10-23T12:48:14-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Murió a los 118 años uno de los hombres más longevos del país: la historia de Manuel Moisés Álvez",
-          "link": "https://www.infobae.com/sociedad/2026/10/23/murio-a-los-118-anos-uno-de-los-hombres-mas-longevos-del-pais-la-historia-de-manuel-moises-alvez/",
-          "hora": "2026-10-23T04:44:10-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "gelp",
-      "titulo": "#GELP",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-10-23T18:30:00-03:00",
-      "calor": 45,
-      "medios": [],
-      "en_x": true,
-      "posicion_x": 2,
-      "en_google": true,
-      "notas": [],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "soja-visec-habilitan-una-nueva-modalidad-de-entrega-vinculad",
-      "titulo": "Soja Visec: habilitan una nueva modalidad de entrega vinculada a la normativa ambiental europea",
-      "categoria": "otros",
-      "prioritaria": false,
-      "desde": "2026-10-23T19:05:47-03:00",
-      "calor": 45,
-      "medios": [
-        "La Nación",
-        "Infobae",
-        "Clarín"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Clarín",
-          "titulo": "Soja Visec: habilitan una nueva modalidad de entrega vinculada a la normativa ambiental europea",
-          "link": "https://www.clarin.com/rural/soja-visec-habilitan-nueva-modalidad-entrega-vinculada-normativa-ambiental-europea_0_YYfrPx6QEB.html",
-          "hora": "2026-10-23T19:41:56-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Oficialismo recomienda no reelegir por ocho años más a magistrada Patricia Solano: cuestiona su gestión frente a la inseguridad en Costa Rica",
-          "link": "https://www.infobae.com/costa-rica/2026/10/23/oficialismo-recomienda-no-reelegir-por-ocho-anos-mas-a-magistrada-patricia-solano-cuestiona-su-gestion-frente-a-la-inseguridad-en-costa-rica/",
-          "hora": "2026-10-23T19:32:43-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Detienen en Costa Rica a exreina de belleza vinculada con “Pecho de Rata” tras regresar de Suiza por el caso Riverside",
-          "link": "https://www.infobae.com/costa-rica/2026/10/23/detienen-en-costa-rica-a-exreina-de-belleza-vinculada-con-pecho-de-rata-tras-regresar-de-suiza-por-el-caso-riverside/",
-          "hora": "2026-10-23T19:21:41-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Soja Visec: habilitan una modalidad para negociar el “premio” sobre la soja tradicional",
-          "link": "https://www.lanacion.com.ar/economia/campo/soja-visec-habilitan-una-modalidad-para-negociar-el-premio-sobre-la-soja-tradicional-nid23102026/",
-          "hora": "2026-10-23T19:05:47-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "el-proyecto-de-ley-que-apoya-mamdani-en-nueva-york-y-obligar",
-      "titulo": "El proyecto de ley que apoya Mamdani en Nueva York y obligaría a Amazon a contratar directamente a sus repartidores",
-      "categoria": "otros",
-      "prioritaria": false,
-      "desde": "2026-10-23T19:22:00-03:00",
-      "calor": 45,
-      "medios": [
-        "La Nación",
-        "Clarín",
-        "Infobae"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "El proyecto de ley que apoya Mamdani en Nueva York y obligaría a Amazon a contratar directamente a sus repartidores",
-          "link": "https://www.lanacion.com.ar/estados-unidos/nueva-york/el-proyecto-de-ley-que-apoya-mamdani-en-nueva-york-y-obligaria-a-amazon-a-contratar-directamente-a-nid22102026/",
-          "hora": "2026-10-23T20:22:32-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "La gobernadora de Nueva York hace campaña con Mamdani en tramo final antes de elecciones",
-          "link": "https://www.infobae.com/america/agencias/2026/10/23/la-gobernadora-de-nueva-york-hace-campana-con-mamdani-en-tramo-final-antes-de-elecciones/",
-          "hora": "2026-10-23T20:15:46-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "El Gobierno insiste en que la Ley Malvinas no está congelada: Milei desmintió que quieran frenar el proyecto",
-          "link": "https://www.clarin.com/politica/gobierno-insiste-ley-malvinas-congelada-milei-desmintio-quieran-frenar-proyecto_0_Q0ke075Bpy.html",
-          "hora": "2026-10-23T19:47:12-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Cambio de hora en Nueva York y cómo afectará a las Midterms 2026",
-          "link": "https://www.lanacion.com.ar/estados-unidos/nueva-york/cambio-de-hora-en-nueva-york-y-como-afectara-a-las-midterms-2026-nid23102026/",
-          "hora": "2026-10-23T19:22:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "eeuu-revela-reportes-de-avistamientos-de-ovnis-en-el-siglo-x",
-      "titulo": "EEUU revela reportes de avistamientos de ovnis en el siglo XX, varios cerca de California",
-      "categoria": "otros",
-      "prioritaria": false,
-      "desde": "2026-10-23T19:30:09-03:00",
-      "calor": 45,
-      "medios": [
-        "Clarín",
-        "Infobae",
-        "La Nación"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "El DHS lo confirmó: el ICE aplica operativo para detener a inmigrantes indocumentados que recibieron SNAP",
-          "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/el-dhs-lo-confirmo-el-ice-aplica-operativo-para-detener-a-inmigrantes-indocumentados-que-recibieron-nid22102026/",
-          "hora": "2026-10-23T20:22:43-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Las redadas del ICE en California siembran el temor entre los trabajadores ambulantes de origen migrante",
-          "link": "https://www.lanacion.com.ar/estados-unidos/california/las-redadas-del-ice-en-california-siembran-el-temor-entre-los-trabajadores-ambulantes-de-origen-nid23102026/",
-          "hora": "2026-10-23T19:59:00-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "EEUU revela reportes de avistamientos de ovnis en el siglo XX, varios cerca de California",
-          "link": "https://www.infobae.com/america/agencias/2026/10/23/eeuu-revela-reportes-de-avistamientos-de-ovnis-en-el-siglo-xx-varios-cerca-de-california/",
-          "hora": "2026-10-23T19:45:43-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "EEUU revela reportes de avistamientos de ovnis en el siglo XX, varios cerca de California",
-          "link": "https://www.clarin.com/estados-unidos/eeuu-revela-reportes-de-avistamientos-de-ovnis-en-el-siglo-xx-varios-cerca-de-california_0_inSZEMJx55.html",
-          "hora": "2026-10-23T19:30:09-03:00"
         }
       ],
       "oficiales": [],
@@ -2384,89 +2258,44 @@
       "angulos": []
     },
     {
-      "id": "murio-tom-skerritt-estrella-de-top-gun-y-alien",
-      "titulo": "Julia Roberts honra la memoria de Tom Skerritt y revive uno de sus papeles más entrañables",
+      "id": "messi-recibe-el-princesa-de-asturias-de-los-deportes-2026-co",
+      "titulo": "La Filarmónica de Berlín se lució con el mítico “sonido Berlín”, empastado, suntuoso y finísimamente pulido",
       "categoria": "espectaculos",
       "prioritaria": false,
-      "desde": "2026-10-22T16:52:44-03:00",
+      "desde": "2026-10-22T17:55:45-03:00",
       "calor": 44,
       "medios": [
-        "Infobae",
+        "Clarín",
         "La Nación",
-        "Ámbito"
+        "TN"
       ],
       "en_x": false,
       "posicion_x": null,
       "en_google": false,
       "notas": [
         {
-          "medio": "Ámbito",
-          "titulo": "\"The Gentleman\": Orlando Bloom, Robert Carlyle y Elijah Wood se unen al elenco de la tercera temporada de la serie",
-          "link": "https://www.ambito.com/espectaculos/the-gentleman-orlando-bloom-robert-carlyle-y-elijah-wood-se-unen-al-elenco-la-tercera-temporada-la-serie-n6337318",
-          "hora": "2026-10-23T16:51:00-03:00"
+          "medio": "TN",
+          "titulo": "Perdió su trabajo y convirtió un colectivo escolar de 1999 en una casa: gastó US$40.000 y tardó 200 días",
+          "link": "https://tn.com.ar/sociedad/2026/10/23/perdio-su-trabajo-y-convirtio-un-colectivo-escolar-de-1999-en-una-casa-gasto-us40000-y-tardo-200-dias/",
+          "hora": "2026-10-23T18:29:58-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "Susana Giménez vuelve a la actuación: el particular rol que encarnará en una serie que va por su segunda temporada",
-          "link": "https://www.lanacion.com.ar/espectaculos/susana-gimenez-vuelve-a-la-actuacion-el-particular-rol-que-encarnara-en-una-serie-que-va-por-su-nid23102026/",
-          "hora": "2026-10-23T16:14:37-03:00"
+          "titulo": "Filarmónica de Berlín: extraordinario concierto de una de las mejores orquestas del mundo",
+          "link": "https://www.lanacion.com.ar/espectaculos/musica/filarmonica-de-berlin-extraordinario-concierto-de-una-de-las-mejores-orquestas-del-mundo-nid23102026/",
+          "hora": "2026-10-23T15:40:30-03:00"
         },
         {
-          "medio": "La Nación",
-          "titulo": "De qué murió Tom Skerritt, el recordado comandante de Alien e instructor de Tom Cruise en Top Gun",
-          "link": "https://www.lanacion.com.ar/espectaculos/de-que-murio-tom-skerritt-el-recordado-comandante-de-alien-e-instructor-de-tom-cruise-en-top-gun-nid23102026/",
-          "hora": "2026-10-23T14:29:25-03:00"
+          "medio": "TN",
+          "titulo": "La princesa Leonor elogió a Messi tras entregarle el premio en Oviedo: “Convirtió lo extraordinario en rutina”",
+          "link": "https://tn.com.ar/deportes/futbol/2026/10/23/la-princesa-leonor-elogio-a-messi-tras-entregarle-el-premio-en-oviedo-convirtio-lo-extraordinario-en-rutina/",
+          "hora": "2026-10-23T14:45:15-03:00"
         },
         {
-          "medio": "Infobae",
-          "titulo": "Julia Roberts honra la memoria de Tom Skerritt y revive uno de sus papeles más entrañables",
-          "link": "https://www.infobae.com/entretenimiento/2026/10/23/julia-roberts-honra-la-memoria-de-tom-skerritt-y-revive-uno-de-sus-papeles-mas-entranables/",
-          "hora": "2026-10-23T11:07:44-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "facundo-moyano-revelo-en-un-audio-el-motivo-de-sus-llamativo",
-      "titulo": "\"Una botella de whisky encima, deprimido y dolido\": el audio de Facundo Moyano sobre su estado en la entrevista con Moria Casán",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-10-22T19:18:17-03:00",
-      "calor": 44,
-      "medios": [
-        "Infobae",
-        "La Nación",
-        "Ámbito"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "El audio de Facundo Moyano a Moria Casán: “Fui al programa con una botella de whisky encima, sin dormir, deprimido, enojado y dolido”",
-          "link": "https://www.lanacion.com.ar/espectaculos/el-audio-de-facundo-moyano-a-moria-casan-fui-al-programa-con-una-botella-de-whisky-encima-sin-dormir-nid23102026/",
-          "hora": "2026-10-23T16:48:13-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "\"Una botella de whisky encima, deprimido y dolido\": el audio de Facundo Moyano sobre su estado en la entrevista con Moria Casán",
-          "link": "https://www.ambito.com/espectaculos/una-botella-whisky-encima-deprimido-y-dolido-el-audio-facundo-moyano-su-estado-la-entrevista-moria-casan-n6337276",
-          "hora": "2026-10-23T14:49:00-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Crece el interés de las mineras canadienses en la Argentina y aspiran a construir un \"corredor financiero andino\"",
-          "link": "https://www.ambito.com/energia/crece-el-interes-las-mineras-canadienses-la-argentina-y-aspiran-construir-un-corredor-financiero-andino-n6336877",
-          "hora": "2026-10-23T10:19:00-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Se redobla el viento de frente y le agrega presión al programa financiero de Caputo para 2027",
-          "link": "https://www.infobae.com/economia/2026/10/23/se-redobla-el-viento-de-frente-y-le-agrega-presion-al-programa-financiero-de-caputo-para-2027/",
-          "hora": "2026-10-23T02:42:00-03:00"
+          "medio": "Clarín",
+          "titulo": "La Filarmónica de Berlín se lució con el mítico “sonido Berlín”, empastado, suntuoso y finísimamente pulido",
+          "link": "https://www.clarin.com/espectaculos/filarmonica-berlin-lucio-mitico-sonido-berlin-empastado-suntuoso-finisimamente-pulido_0_MPvNZTVlYs.html",
+          "hora": "2026-10-23T12:03:04-03:00"
         }
       ],
       "oficiales": [],
@@ -2512,31 +2341,6 @@
           "titulo": "Francisco Cerúndolo busca las semifinales en Bruselas: hora y cómo verlo en vivo",
           "link": "https://www.infobae.com/deportes/2026/10/22/francisco-cerundolo-busca-las-semifinales-en-bruselas-hora-y-como-verlo-en-vivo/",
           "hora": "2026-10-22T21:47:57-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "uruguay-ya-tiene-su-lista-para-enfrentar-a-argentina-en-la-b",
-      "titulo": "Uruguay ya tiene su lista para enfrentar a Argentina en la Bombonera: Forlán convocó a tres jugadores de la Liga Profesional",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-10-23T17:28:25-03:00",
-      "calor": 44,
-      "medios": [
-        "Clarín"
-      ],
-      "en_x": true,
-      "posicion_x": 21,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Clarín",
-          "titulo": "Uruguay ya tiene su lista para enfrentar a Argentina en la Bombonera: Forlán convocó a tres jugadores de la Liga Profesional",
-          "link": "https://www.clarin.com/deportes/uruguay-lista-enfrentar-argentina-bombonera-forlan-convoco-jugadores-liga-profesional_0_pjgMY53caK.html",
-          "hora": "2026-10-23T17:28:25-03:00"
         }
       ],
       "oficiales": [],
@@ -2639,16 +2443,16 @@
       "angulos": []
     },
     {
-      "id": "quien-es-raul-moyano-el-docente-desaparecido-en-tucuman-que",
-      "titulo": "Q’ Lokura, de agotar diez Movistar Arenas al desafío de su primer estadio Vélez: “No sé cómo llegamos acá”",
-      "categoria": "politica",
+      "id": "facundo-moyano-revelo-en-un-audio-el-motivo-de-sus-llamativo",
+      "titulo": "\"Una botella de whisky encima, deprimido y dolido\": el audio de Facundo Moyano sobre su estado en la entrevista con Moria Casán",
+      "categoria": "economia",
       "prioritaria": true,
-      "desde": "2026-10-22T18:10:17-03:00",
+      "desde": "2026-10-22T19:18:17-03:00",
       "calor": 43,
       "medios": [
         "Infobae",
-        "Clarín",
-        "La Nación"
+        "La Nación",
+        "Ámbito"
       ],
       "en_x": false,
       "posicion_x": null,
@@ -2656,21 +2460,27 @@
       "notas": [
         {
           "medio": "La Nación",
-          "titulo": "Q’ Lokura, de agotar diez Movistar Arenas al desafío de su primer estadio Vélez: “No sé cómo llegamos acá”",
-          "link": "https://www.lanacion.com.ar/espectaculos/qlokura-de-agotar-diez-movistar-arenas-al-desafio-de-su-primer-estadio-velez-no-se-como-llegamos-aca-nid23102026/",
-          "hora": "2026-10-23T19:36:15-03:00"
+          "titulo": "El audio de Facundo Moyano a Moria Casán: “Fui al programa con una botella de whisky encima, sin dormir, deprimido, enojado y dolido”",
+          "link": "https://www.lanacion.com.ar/espectaculos/el-audio-de-facundo-moyano-a-moria-casan-fui-al-programa-con-una-botella-de-whisky-encima-sin-dormir-nid23102026/",
+          "hora": "2026-10-23T16:48:13-03:00"
         },
         {
-          "medio": "Clarín",
-          "titulo": "Milei celebró el fallo que lo sobreseyó en el caso $LIBRA y dijo que todo se trató de una \"operación política y mediática\" con \"fines golpistas\"",
-          "link": "https://www.clarin.com/politica/verdad-triunfa-mismo-mentira-necesita-siempre-complicidad-frase-publico-milei-sobreseido-caso-libra_0_Im4YPN6eCz.html",
-          "hora": "2026-10-23T17:26:54-03:00"
+          "medio": "Ámbito",
+          "titulo": "\"Una botella de whisky encima, deprimido y dolido\": el audio de Facundo Moyano sobre su estado en la entrevista con Moria Casán",
+          "link": "https://www.ambito.com/espectaculos/una-botella-whisky-encima-deprimido-y-dolido-el-audio-facundo-moyano-su-estado-la-entrevista-moria-casan-n6337276",
+          "hora": "2026-10-23T14:49:00-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Crece el interés de las mineras canadienses en la Argentina y aspiran a construir un \"corredor financiero andino\"",
+          "link": "https://www.ambito.com/energia/crece-el-interes-las-mineras-canadienses-la-argentina-y-aspiran-construir-un-corredor-financiero-andino-n6336877",
+          "hora": "2026-10-23T10:19:00-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Viene de una familia con tradición política, tiene el apoyo de Raúl Gámez y sueña con ser uno de los presidentes más jóvenes de Vélez",
-          "link": "https://www.infobae.com/deportes/2026/10/23/viene-de-una-familia-con-tradicion-politica-tiene-el-apoyo-de-raul-gamez-y-suena-con-ser-uno-de-los-presidentes-mas-jovenes-de-velez/",
-          "hora": "2026-10-23T02:54:25-03:00"
+          "titulo": "Se redobla el viento de frente y le agrega presión al programa financiero de Caputo para 2027",
+          "link": "https://www.infobae.com/economia/2026/10/23/se-redobla-el-viento-de-frente-y-le-agrega-presion-al-programa-financiero-de-caputo-para-2027/",
+          "hora": "2026-10-23T02:42:00-03:00"
         }
       ],
       "oficiales": [],
@@ -2678,15 +2488,93 @@
       "angulos": []
     },
     {
-      "id": "los-cuatro-factores-que-transforman-a-los-emiratos-arabes-en",
-      "titulo": "Dólar futuro: la posición del BCRA se redujo a casi cero, ¿por qué ocurrió y qué implica de cara a un año electoral?",
+      "id": "renuncio-daniel-gonzalez-a-la-secretaria-de-coordinacion-de",
+      "titulo": "Renunció Daniel González, el funcionario clave que coordinaba las áreas de Energía y Minería",
       "categoria": "economia",
       "prioritaria": true,
-      "desde": "2026-10-23T07:00:00-03:00",
+      "desde": "2026-10-22T20:47:15-03:00",
       "calor": 43,
       "medios": [
-        "La Nación",
+        "Infobae",
         "Clarín",
+        "Página/12"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Clarín",
+          "titulo": "La renuncia de Daniel González: regulación a las empresas, el RIGI, privatizaciones y Malvinas, los desafíos pendientes",
+          "link": "https://www.clarin.com/economia/renuncia-daniel-gonzalez-regulacion-empresas-rigi-privatizaciones-malvinas-desafios-pendientes_0_uGaMBIS3wb.html",
+          "hora": "2026-10-23T18:34:25-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Otra baja para Milei: renunció Daniel González, secretario de Energía y Minería",
+          "link": "https://www.pagina12.com.ar/2026/10/23/otra-baja-para-milei-renuncio-daniel-gonzalez-secretario-de-energia-y-mineria/",
+          "hora": "2026-10-22T22:21:48-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Renunció Daniel González, el funcionario clave que coordinaba las áreas de Energía y Minería",
+          "link": "https://www.infobae.com/economia/2026/10/22/renuncio-daniel-gonzalez-el-funcionario-clave-que-coordinaba-las-areas-de-energia-y-mineria/",
+          "hora": "2026-10-22T21:00:11-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "el-intendente-de-mar-del-plata-celebro-la-autorizacion-para-2",
+      "titulo": "Más de 200 policías rodearon una zona caliente de Mar del Plata, donde secuestraron armas, municiones y drogas",
+      "categoria": "economia",
+      "prioritaria": true,
+      "desde": "2026-10-22T21:40:31-03:00",
+      "calor": 43,
+      "medios": [
+        "Infobae",
+        "La Nación",
+        "Ámbito"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "Más de 200 policías rodearon una zona caliente de Mar del Plata, donde secuestraron armas, municiones y drogas",
+          "link": "https://www.lanacion.com.ar/seguridad/mas-de-200-policias-rodearon-una-zona-caliente-de-mar-del-plata-donde-secuestraron-armas-municiones-nid23102026/",
+          "hora": "2026-10-23T20:39:52-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "El Aquarium de Mar del Plata vendió sus últimos cuatro pingüinos por u$s40.000 y entregará el predio en noviembre",
+          "link": "https://www.ambito.com/negocios/el-aquarium-mar-del-plata-vendio-sus-ultimos-cuatro-pinguinos-us40000-y-entregara-el-predio-noviembre-n6337352",
+          "hora": "2026-10-23T17:01:00-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "El intendente de Mar del Plata celebró la autorización para concesionar hoteles del Estado en Chapadmalal",
+          "link": "https://www.infobae.com/politica/2026/10/23/el-intendente-de-mar-del-plata-celebro-la-autorizacion-para-concesionar-hoteles-del-estado-en-chapadmalal/",
+          "hora": "2026-10-22T21:40:31-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "el-bcra-dispuso-cambios-en-las-cuentas-remuneradas-de-bancos",
+      "titulo": "El BCRA dispuso cambios en las cuentas remuneradas de bancos y billeteras virtuales: qué deben informar a sus clientes",
+      "categoria": "economia",
+      "prioritaria": true,
+      "desde": "2026-10-23T09:30:36-03:00",
+      "calor": 43,
+      "medios": [
+        "Infobae",
+        "Página/12",
         "Ámbito"
       ],
       "en_x": false,
@@ -2695,60 +2583,21 @@
       "notas": [
         {
           "medio": "Ámbito",
-          "titulo": "Dólar futuro: la posición del BCRA se redujo a casi cero, ¿por qué ocurrió y qué implica de cara a un año electoral?",
-          "link": "https://www.ambito.com/finanzas/dolar-futuro-la-posicion-del-bcra-se-redujo-casi-cero-por-que-ocurrio-y-que-implica-cara-un-ano-electoral-n6337336",
-          "hora": "2026-10-23T17:07:00-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "La incertidumbre electoral de cara a las presidenciales de 2027 ya hace mella en el campo: una encuesta afirma que es la principal razón que frena las inversiones en el sector",
-          "link": "https://www.clarin.com/rural/incertidumbre-electoral-cara-presidenciales-2027-hace-mella-campo-encuesta-afirma-principal-razon-frena-inversiones-sector_0_afFaKv4tBG.html",
-          "hora": "2026-10-23T15:23:55-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "“Influye mucho o algo”: una encuesta señala que la incertidumbre electoral para 2027 es el mayor freno a las inversiones de los productores",
-          "link": "https://www.lanacion.com.ar/economia/campo/influye-mucho-o-algo-una-encuesta-senala-que-la-incertidumbre-electoral-para-2027-es-el-mayor-freno-nid23102026/",
-          "hora": "2026-10-23T13:18:57-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "tras-la-ejecucion-fallida-con-dos-inyecciones-letales-christ",
-      "titulo": "Disney investigó minuciosamente a negocio de Barrio Chino y logró que lo multen por vender productos con Mickey y Minnie",
-      "categoria": "social",
-      "prioritaria": true,
-      "desde": "2026-10-23T08:34:31-03:00",
-      "calor": 43,
-      "medios": [
-        "Infobae",
-        "Página/12",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Disney investigó minuciosamente a negocio de Barrio Chino y logró que lo multen por vender productos con Mickey y Minnie",
-          "link": "https://www.infobae.com/peru/2026/10/23/disney-investigo-minuciosamente-a-negocio-de-barrio-chino-y-logro-que-lo-multen-por-vender-productos-con-mickey-y-minnie/",
-          "hora": "2026-10-23T19:29:02-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Un laboratorio probó una inyección que protegería a los celíacos del gluten: qué resultados obtuvo y qué sostienen los expertos",
-          "link": "https://tn.com.ar/videos/salud/noticias/2026/10/23/un-laboratorio-probo-una-inyeccion-que-protegeria-a-los-celiacos-del-gluten-que-resultados-obtuvo-y-que-sostienen-los-expertos/",
-          "hora": "2026-10-23T13:55:18-03:00"
+          "titulo": "Cuentas remuneradas: el BCRA obliga a bancos y billeteras virtuales a informar rendimientos con una tasa unificada",
+          "link": "https://www.ambito.com/finanzas/cuentas-remuneradas-el-bcra-obliga-bancos-y-billeteras-virtuales-informar-rendimientos-una-tasa-unificada-n6337424",
+          "hora": "2026-10-23T20:41:00-03:00"
         },
         {
           "medio": "Página/12",
-          "titulo": "De pioneros a fabricantes de más de 250 productos: la historia de un laboratorio argentino con 35 años de trayectoria",
-          "link": "https://www.pagina12.com.ar/2026/10/23/de-pioneros-a-fabricantes-de-mas-de-250-productos-la-historia-de-un-laboratorio-argentino-con-35-anos-de-trayectoria/",
-          "hora": "2026-10-23T08:34:31-03:00"
+          "titulo": "Bancos y billeteras virtuales tendrán que informar de manera clara cuánto rinden sus fondos y cuentas remuneradas",
+          "link": "https://www.pagina12.com.ar/2026/10/23/bancos-y-billeteras-virtuales-tendran-que-informar-de-manera-clara-cuanto-rinden-sus-fondos-y-cuentas-remuneradas/",
+          "hora": "2026-10-23T12:35:08-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "El BCRA dispuso cambios en las cuentas remuneradas de bancos y billeteras virtuales: qué deben informar a sus clientes",
+          "link": "https://www.infobae.com/economia/2026/10/23/el-bcra-dispuso-cambios-en-las-cuentas-remuneradas-de-bancos-y-billeteras-virtuales-que-deben-informar-a-sus-clientes/",
+          "hora": "2026-10-23T09:30:36-03:00"
         }
       ],
       "oficiales": [],
@@ -2834,15 +2683,15 @@
       "angulos": []
     },
     {
-      "id": "marcelo-ebrard-revela-que-hay-avances-en-las-negociaciones-c",
-      "titulo": "Marcelo Ebrard revela que hay avances en las negociaciones con EEUU sobre aranceles a autos, aranceles y aluminio",
-      "categoria": "economia",
+      "id": "una-mujer-fue-filmada-robando-carteras-de-clientas-en-dos-ba",
+      "titulo": "Una mujer fue filmada robando carteras de clientas en dos bares de Córdoba: un mozo se dio cuenta a tiempo y la atrapó",
+      "categoria": "social",
       "prioritaria": true,
-      "desde": "2026-10-23T12:35:00-03:00",
+      "desde": "2026-10-23T13:00:14-03:00",
       "calor": 43,
       "medios": [
         "Infobae",
-        "Ámbito",
+        "La Nación",
         "TN"
       ],
       "en_x": false,
@@ -2850,22 +2699,100 @@
       "en_google": false,
       "notas": [
         {
-          "medio": "Infobae",
-          "titulo": "Marcelo Ebrard revela que hay avances en las negociaciones con EEUU sobre aranceles a autos, aranceles y aluminio",
-          "link": "https://www.infobae.com/mexico/2026/10/23/marcelo-ebrard-revela-que-hay-avances-en-las-negociaciones-con-eeuu-sobre-aranceles-a-autos-aranceles-y-aluminio/",
-          "hora": "2026-10-23T19:26:56-03:00"
+          "medio": "TN",
+          "titulo": "Detuvieron a un hombre y a una mujer por el caso del camionero que habría sido atacado por una presunta infidelidad en Córdoba",
+          "link": "https://tn.com.ar/policiales/2026/10/23/detuvieron-a-un-hombre-y-a-una-mujer-por-el-caso-del-camionero-que-habria-sido-atacado-por-una-presunta-infidelidad-en-cordoba/",
+          "hora": "2026-10-23T20:27:59-03:00"
         },
+        {
+          "medio": "La Nación",
+          "titulo": "Simulaba ser una clienta y robaba carteras: una mujer fue filmada en pleno hurto en dos restaurantes de Córdoba",
+          "link": "https://www.lanacion.com.ar/seguridad/simulaba-ser-una-clienta-y-robaba-carteras-una-mujer-fue-filmada-en-pleno-hurto-en-dos-restaurantes-nid23102026/",
+          "hora": "2026-10-23T18:29:53-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Una mujer fue filmada robando carteras de clientas en dos bares de Córdoba: un mozo se dio cuenta a tiempo y la atrapó",
+          "link": "https://www.infobae.com/sociedad/policiales/2026/10/23/una-mujer-fue-filmada-robando-carteras-de-clientas-en-dos-bares-de-cordoba-un-mozo-se-dio-cuenta-a-tiempo-y-la-atrapo/",
+          "hora": "2026-10-23T13:00:14-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "la-grave-amenaza-al-plantel-de-nueva-chicago-en-plena-pelea",
+      "titulo": "La grave amenaza al plantel de Nueva Chicago en plena pelea por no descender: \"Hay balas para todos\"",
+      "categoria": "economia",
+      "prioritaria": true,
+      "desde": "2026-10-23T15:30:37-03:00",
+      "calor": 43,
+      "medios": [
+        "Infobae",
+        "Clarín",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
         {
           "medio": "TN",
-          "titulo": "Parece salido de una película sci-fi de terror: China presentó un robot humanoide que destroza autos a golpes y domina el kung-fu",
-          "link": "https://tn.com.ar/videos/tecno/novedades/2026/10/23/parece-salido-de-una-pelicula-sci-fi-de-terror-china-presento-un-robot-humanoide-que-destroza-autos-a-golpes-y-domina-el-kung-fu/",
-          "hora": "2026-10-23T15:38:04-03:00"
+          "titulo": "La soja terminó la semana con un rebote del precio en Chicago y en Rosario",
+          "link": "https://tn.com.ar/campo/2026/10/23/la-soja-termino-la-semana-con-un-rebote-del-precio-en-chicago-y-en-rosario/",
+          "hora": "2026-10-23T20:03:35-03:00"
         },
         {
-          "medio": "Ámbito",
-          "titulo": "La UE busca ampliar la negociación comercial con China a nuevos rubros tras el acuerdo por los autos híbridos",
-          "link": "https://www.ambito.com/economia/la-ue-busca-ampliar-la-negociacion-comercial-china-nuevos-rubros-el-acuerdo-los-autos-hibridos-n6337192",
-          "hora": "2026-10-23T12:35:00-03:00"
+          "medio": "Clarín",
+          "titulo": "La grave amenaza al plantel de Nueva Chicago en plena pelea por no descender: \"Hay balas para todos\"",
+          "link": "https://www.clarin.com/deportes/grave-amenaza-plantel-nueva-chicago-plena-pelea-descender-balas_0_dS2nsZrKRt.html",
+          "hora": "2026-10-23T19:22:50-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Un colegio de Rosario prohibió los celulares por la difusión de fotos íntimas de alumnas y analiza si usaron IA",
+          "link": "https://www.infobae.com/sociedad/2026/10/23/un-colegio-de-rosario-prohibio-los-celulares-por-la-difusion-de-fotos-intimas-de-alumnas-y-analiza-si-usaron-ia/",
+          "hora": "2026-10-23T15:30:37-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "milei-hablara-en-la-cena-anual-de-faro-encuentro-con-el-nucl",
+      "titulo": "Milei hablará en la cena anual de Faro: encuentro con el núcleo libertario, empresarios y menú con carne",
+      "categoria": "politica",
+      "prioritaria": true,
+      "desde": "2026-10-23T15:31:36-03:00",
+      "calor": 43,
+      "medios": [
+        "La Nación",
+        "Infobae",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "TN",
+          "titulo": "Tras haber sido sobreseído en la causa Libra, Milei habla en la cena de la Fundación Faro: “Somos honestos, estamos limpios”",
+          "link": "https://tn.com.ar/politica/2026/10/23/javier-milei-habla-en-la-cena-de-la-fundacion-faro-ante-empresarios-y-referentes-libertarios/",
+          "hora": "2026-10-23T20:54:39-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Milei habló de la causa $LIBRA tras ser sobreseído: “Intentaron un golpe de Estado y no pudieron”",
+          "link": "https://www.infobae.com/politica/2026/10/23/milei-hablo-de-la-causa-libra-tras-ser-sobreseido-intentaron-un-golpe-de-estado-y-no-pudieron/",
+          "hora": "2026-10-23T20:51:19-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Milei hablará en la cena anual de Faro: encuentro con el núcleo libertario, empresarios y menú con carne",
+          "link": "https://www.lanacion.com.ar/politica/milei-hablara-en-la-cena-anual-de-faro-discurso-encuentro-con-el-nucleo-libertario-y-empresarios-nid23102026/",
+          "hora": "2026-10-23T15:31:36-03:00"
         }
       ],
       "oficiales": [],
@@ -2944,6 +2871,45 @@
           "titulo": "El BCRA ya compró más de USD 1.200 millones en octubre y las reservas se consolidan por encima de los USD 50.000 millones",
           "link": "https://www.infobae.com/economia/2026/10/23/el-bcra-ya-compro-mas-de-usd-1200-millones-en-octubre-y-las-reservas-se-consolidan-por-encima-de-los-usd-50000-millones/",
           "hora": "2026-10-23T17:18:55-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "el-proyecto-de-ley-que-apoya-mamdani-en-nueva-york-y-obligar",
+      "titulo": "La gobernadora de Nueva York hace campaña con Mamdani en tramo final antes de elecciones",
+      "categoria": "otros",
+      "prioritaria": false,
+      "desde": "2026-10-23T19:22:00-03:00",
+      "calor": 43,
+      "medios": [
+        "Clarín",
+        "Infobae",
+        "La Nación"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "El proyecto de ley que apoya Mamdani en Nueva York y obligaría a Amazon a contratar directamente a sus repartidores",
+          "link": "https://www.lanacion.com.ar/estados-unidos/nueva-york/el-proyecto-de-ley-que-apoya-mamdani-en-nueva-york-y-obligaria-a-amazon-a-contratar-directamente-a-nid22102026/",
+          "hora": "2026-10-23T20:22:32-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "La gobernadora de Nueva York hace campaña con Mamdani en tramo final antes de elecciones",
+          "link": "https://www.infobae.com/america/agencias/2026/10/23/la-gobernadora-de-nueva-york-hace-campana-con-mamdani-en-tramo-final-antes-de-elecciones/",
+          "hora": "2026-10-23T20:15:46-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "La gobernadora de Nueva York hace campaña con Mamdani en tramo final antes de elecciones",
+          "link": "https://www.clarin.com/estados-unidos/la-gobernadora-de-nueva-york-hace-campana-con-mamdani-en-tramo-final-antes-de-elecciones_0_HvuqKZ36K1.html",
+          "hora": "2026-10-23T20:10:14-03:00"
         }
       ],
       "oficiales": [],
@@ -3039,12 +3005,51 @@
       "angulos": []
     },
     {
+      "id": "los-cuatro-factores-que-transforman-a-los-emiratos-arabes-en",
+      "titulo": "Dólar futuro: la posición del BCRA se redujo a casi cero, ¿por qué ocurrió y qué implica de cara a un año electoral?",
+      "categoria": "economia",
+      "prioritaria": true,
+      "desde": "2026-10-23T07:00:00-03:00",
+      "calor": 42,
+      "medios": [
+        "La Nación",
+        "Clarín",
+        "Ámbito"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Ámbito",
+          "titulo": "Dólar futuro: la posición del BCRA se redujo a casi cero, ¿por qué ocurrió y qué implica de cara a un año electoral?",
+          "link": "https://www.ambito.com/finanzas/dolar-futuro-la-posicion-del-bcra-se-redujo-casi-cero-por-que-ocurrio-y-que-implica-cara-un-ano-electoral-n6337336",
+          "hora": "2026-10-23T17:07:00-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "La incertidumbre electoral de cara a las presidenciales de 2027 ya hace mella en el campo: una encuesta afirma que es la principal razón que frena las inversiones en el sector",
+          "link": "https://www.clarin.com/rural/incertidumbre-electoral-cara-presidenciales-2027-hace-mella-campo-encuesta-afirma-principal-razon-frena-inversiones-sector_0_afFaKv4tBG.html",
+          "hora": "2026-10-23T15:23:55-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "“Influye mucho o algo”: una encuesta señala que la incertidumbre electoral para 2027 es el mayor freno a las inversiones de los productores",
+          "link": "https://www.lanacion.com.ar/economia/campo/influye-mucho-o-algo-una-encuesta-senala-que-la-incertidumbre-electoral-para-2027-es-el-mayor-freno-nid23102026/",
+          "hora": "2026-10-23T13:18:57-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
       "id": "conte-niega-negociaciones-avanzadas-con-el-manchester-united-2",
       "titulo": "Alerta en las pymes industriales: la producción cayó casi 12%, se redujo el empleo y no hay señales de recuperación",
       "categoria": "trabajo",
       "prioritaria": true,
       "desde": "2026-10-22T14:41:25-03:00",
-      "calor": 42,
+      "calor": 41,
       "medios": [
         "La Nación",
         "Infobae",
@@ -3078,12 +3083,12 @@
       "angulos": []
     },
     {
-      "id": "el-intendente-de-mar-del-plata-celebro-la-autorizacion-para",
-      "titulo": "El intendente de Mar del Plata celebró la autorización para concesionar hoteles del Estado en Chapadmalal",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-10-22T21:40:31-03:00",
-      "calor": 42,
+      "id": "premios-billboard-de-la-musica-latina-2026-la-lista-completa",
+      "titulo": "Premios Billboard de la Música Latina 2026: la lista completa de ganadores",
+      "categoria": "espectaculos",
+      "prioritaria": false,
+      "desde": "2026-10-23T09:16:00-03:00",
+      "calor": 41,
       "medios": [
         "Infobae",
         "La Nación",
@@ -3094,22 +3099,28 @@
       "en_google": false,
       "notas": [
         {
-          "medio": "Ámbito",
-          "titulo": "El Aquarium de Mar del Plata vendió sus últimos cuatro pingüinos por u$s40.000 y entregará el predio en noviembre",
-          "link": "https://www.ambito.com/negocios/el-aquarium-mar-del-plata-vendio-sus-ultimos-cuatro-pinguinos-us40000-y-entregara-el-predio-noviembre-n6337352",
-          "hora": "2026-10-23T17:01:00-03:00"
+          "medio": "Infobae",
+          "titulo": "Rosalía revive el meme de la doctora Polo en pleno discurso de los Latin Billboard: “Ningún hello, ni ningún good afternoon”",
+          "link": "https://www.infobae.com/entretenimiento/2026/10/23/rosalia-revive-el-meme-de-la-doctora-polo-en-pleno-discurso-de-los-latin-billboard-ningun-hello-ni-ningun-good-afternoon/",
+          "hora": "2026-10-23T14:09:27-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "Chapadmalal: llaman a concesión para seis de los hoteles del histórico complejo",
-          "link": "https://www.lanacion.com.ar/sociedad/chapadmalal-llaman-a-concesion-para-seis-de-los-hoteles-del-historico-complejo-nid22102026/",
-          "hora": "2026-10-22T21:56:11-03:00"
+          "titulo": "Lali impactó en los Premios Billboard con un look que sorprendió hasta a su prometido, Pedro Rosemblat",
+          "link": "https://www.lanacion.com.ar/espectaculos/personajes/lali-impacto-con-un-look-glam-rock-en-los-billboard-que-sorprendio-a-su-prometido-pedro-rosemblat-nid23102026/",
+          "hora": "2026-10-23T12:48:03-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "El intendente de Mar del Plata celebró la autorización para concesionar hoteles del Estado en Chapadmalal",
-          "link": "https://www.infobae.com/politica/2026/10/23/el-intendente-de-mar-del-plata-celebro-la-autorizacion-para-concesionar-hoteles-del-estado-en-chapadmalal/",
-          "hora": "2026-10-22T21:40:31-03:00"
+          "titulo": "Premios Billboard de la Música Latina 2026: la lista completa de ganadores",
+          "link": "https://www.infobae.com/entretenimiento/2026/10/23/premios-billboard-de-la-musica-latina-2026-la-lista-completa-de-ganadores/",
+          "hora": "2026-10-23T11:25:26-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "América Latina está acogiendo a Israel",
+          "link": "https://www.ambito.com/mundo/america-latina-esta-acogiendo-israel-n6337088",
+          "hora": "2026-10-23T09:16:00-03:00"
         }
       ],
       "oficiales": [],
@@ -3117,38 +3128,82 @@
       "angulos": []
     },
     {
-      "id": "quien-es-santiago-fiocchi-el-empresario-que-murio-en-la-mism",
-      "titulo": "Quién es Santiago Fiocchi, el empresario que murió en la misma ruta donde perdió la vida su papá",
-      "categoria": "social",
+      "id": "industriales-denuncian-que-un-municipio-bonaerense-crea-una",
+      "titulo": "Industriales denuncian que un municipio bonaerense crea una “aduana interior” y pone en riesgo a las fábricas",
+      "categoria": "economia",
       "prioritaria": true,
-      "desde": "2026-10-23T00:43:14-03:00",
-      "calor": 42,
+      "desde": "2026-10-23T11:13:22-03:00",
+      "calor": 41,
       "medios": [
+        "Clarín",
         "Infobae",
-        "La Nación",
-        "TN"
+        "La Nación"
       ],
       "en_x": false,
       "posicion_x": null,
       "en_google": false,
       "notas": [
         {
-          "medio": "TN",
-          "titulo": "La hija de Roña Castro criticó a la novia de su papá: “Si quería hacerse famosa, lo podría haber hecho con él en vida”",
-          "link": "https://tn.com.ar/videos/show/famosos/2026/10/23/la-hija-de-rona-castro-critico-a-la-novia-de-su-papa-si-queria-hacerse-famosa-lo-podria-haber-hecho-con-el-en-vida/",
-          "hora": "2026-10-23T15:39:39-03:00"
-        },
-        {
           "medio": "La Nación",
-          "titulo": "“Me prendí fuego”. La cordobesa que creció entre animales y, tras un hecho dramático, decidió dedicar su vida a salvar pumas",
-          "link": "https://www.lanacion.com.ar/sociedad/me-prendi-fuego-la-cordobesa-que-crecio-entre-animales-y-tras-un-hecho-dramatico-decidio-dedicar-su-nid23102026/",
-          "hora": "2026-10-23T06:00:01-03:00"
+          "titulo": "Un municipio kirchnerista cobra hasta $62.000 a los camiones por circular 5 kilómetros y ahora les exige un registro",
+          "link": "https://www.lanacion.com.ar/economia/un-municipio-kirchnerista-cobra-hasta-62000-a-los-camiones-por-circular-5-kilometros-y-ahora-les-nid23102026/",
+          "hora": "2026-10-23T15:44:52-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Quién es Santiago Fiocchi, el empresario que murió en la misma ruta donde perdió la vida su papá",
-          "link": "https://www.infobae.com/sociedad/2026/10/23/quien-es-santiago-fiocchi-el-empresario-que-murio-en-la-misma-ruta-donde-perdio-la-vida-su-papa/",
-          "hora": "2026-10-23T00:43:14-03:00"
+          "titulo": "Industriales denuncian que un municipio bonaerense crea una “aduana interior” y pone en riesgo a las fábricas",
+          "link": "https://www.infobae.com/economia/2026/10/23/industriales-denuncian-que-un-municipio-bonaerense-cobra-un-peaje-ilegal-y-amenaza-con-clausurar-fabricas/",
+          "hora": "2026-10-23T11:36:50-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Polémica por una \"aduana\" municipal: industriales denuncian el cobro de un peaje a camiones por recorrer 5 kilómetros de ruta",
+          "link": "https://www.clarin.com/economia/polemica-aduana-municipal-industriales-denuncian-cobro-peaje-camiones-recorrer-5-kilometros-ruta_0_CRBIrmdOzC.html",
+          "hora": "2026-10-23T11:13:22-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "ni-gimnasio-ni-caminata-el-ejercicio-de-fuerza-clave-que-ayu",
+      "titulo": "Ni gimnasio ni caminata: el ejercicio de fuerza clave que ayuda a conservar la masa muscular",
+      "categoria": "politica",
+      "prioritaria": true,
+      "desde": "2026-10-23T00:01:00-03:00",
+      "calor": 40,
+      "medios": [
+        "La Nación",
+        "Página/12"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "José Luis, frutero, sobre cómo conservar las bananas: “Contamos con un táper o un recipiente donde le vamos a poner un papel absorbente”",
+          "link": "https://www.lanacion.com.ar/lifestyle/jose-luis-frutero-sobre-como-conservar-las-bananas-contamos-con-un-taper-o-un-recipiente-donde-le-nid20102026/",
+          "hora": "2026-10-23T20:42:17-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Mick Jagger, a los 83 años: “Entreno seis días por semana, alterno entre el gimnasio y el baile”",
+          "link": "https://www.lanacion.com.ar/espectaculos/mick-jagger-a-los-83-anos-entreno-seis-dias-por-semana-alterno-entre-el-gimnasio-y-el-baile-nid21102026/",
+          "hora": "2026-10-23T20:42:12-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Ni gimnasio ni caminata: el ejercicio de fuerza clave que ayuda a conservar la masa muscular",
+          "link": "https://www.lanacion.com.ar/sociedad/ni-gimnasio-ni-caminata-el-ejercicio-de-fuerza-clave-que-ayuda-a-conservar-la-masa-muscular-nid22102026/",
+          "hora": "2026-10-23T18:11:39-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "José Luis Espert, procesado y embargado por lavado de dinero",
+          "link": "https://www.pagina12.com.ar/2026/10/23/jose-luis-espert-procesado-y-embargado-por-lavado-de-dinero/",
+          "hora": "2026-10-23T00:01:00-03:00"
         }
       ],
       "oficiales": [],
@@ -3410,39 +3465,29 @@
   ],
   "google_trends": [
     {
-      "nombre": "juan alberto mateyko",
+      "nombre": "nito artaza",
       "trafico": "100+",
+      "link": "https://www.google.com/search?q=nito%20artaza"
+    },
+    {
+      "nombre": "tigre - atlético tucumán",
+      "trafico": "500+",
+      "link": "https://www.google.com/search?q=tigre%20-%20atl%C3%A9tico%20tucum%C3%A1n"
+    },
+    {
+      "nombre": "ruta provincial 1",
+      "trafico": "200+",
+      "link": "https://www.google.com/search?q=ruta%20provincial%201"
+    },
+    {
+      "nombre": "sol",
+      "trafico": "100+",
+      "link": "https://www.google.com/search?q=sol"
+    },
+    {
+      "nombre": "juan alberto mateyko",
+      "trafico": "200+",
       "link": "https://www.google.com/search?q=juan%20alberto%20mateyko"
-    },
-    {
-      "nombre": "juventud - peñarol",
-      "trafico": "500+",
-      "link": "https://www.google.com/search?q=juventud%20-%20pe%C3%B1arol"
-    },
-    {
-      "nombre": "cristian castro",
-      "trafico": "200+",
-      "link": "https://www.google.com/search?q=cristian%20castro"
-    },
-    {
-      "nombre": "lautaro rivero",
-      "trafico": "500+",
-      "link": "https://www.google.com/search?q=lautaro%20rivero"
-    },
-    {
-      "nombre": "manuel moises alvez",
-      "trafico": "200+",
-      "link": "https://www.google.com/search?q=manuel%20moises%20alvez"
-    },
-    {
-      "nombre": "gelp",
-      "trafico": "200+",
-      "link": "https://www.google.com/search?q=gelp"
-    },
-    {
-      "nombre": "pedri",
-      "trafico": "500+",
-      "link": "https://www.google.com/search?q=pedri"
     }
   ],
   "estado_fuentes": [
@@ -3459,7 +3504,7 @@
     {
       "fuente": "La Nación",
       "ok": true,
-      "items": 501
+      "items": 504
     },
     {
       "fuente": "Página/12",
@@ -3469,7 +3514,7 @@
     {
       "fuente": "Ámbito",
       "ok": true,
-      "items": 152
+      "items": 115
     },
     {
       "fuente": "TN",
@@ -3484,7 +3529,7 @@
     {
       "fuente": "Google Trends AR",
       "ok": true,
-      "items": 7
+      "items": 5
     },
     {
       "fuente": "INDEC (calendario)",
@@ -3500,8 +3545,9 @@
     },
     {
       "fuente": "CEPA",
-      "ok": true,
-      "items": 2
+      "ok": false,
+      "items": 0,
+      "error": "XML invalido: mismatched tag: line 93, column 2"
     }
   ]
 }
