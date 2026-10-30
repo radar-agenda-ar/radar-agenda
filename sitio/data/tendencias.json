@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-30T16:47:34-03:00",
+  "actualizado": "2026-10-30T17:19:36-03:00",
   "proxima_actualizacion": "2026-10-30T20:00:00-03:00",
   "ia_disponible": false,
   "agenda_hoy": [
@@ -17,7 +17,7 @@
       "categoria": "deportes",
       "prioritaria": false,
       "desde": "2026-10-30T00:03:00-03:00",
-      "calor": 91,
+      "calor": 81,
       "medios": [
         "La Nación",
         "Infobae",
@@ -27,7 +27,7 @@
       ],
       "en_x": true,
       "posicion_x": 4,
-      "en_google": true,
+      "en_google": false,
       "notas": [
         {
           "medio": "Infobae",
@@ -125,7 +125,7 @@
       "notas": [
         {
           "medio": "TN",
-          "titulo": "Asesinato de Nancy Godoy: la Justicia trabaja para recuperar la información de la tarjeta SIM de su celular",
+          "titulo": "Asesinato de Nancy Godoy: la Justicia busca recuperar la información de la tarjeta SIM de su celular",
           "link": "https://tn.com.ar/policiales/2026/10/30/asesinato-de-nancy-godoy-la-justicia-trabaja-para-recuperar-la-informacion-de-la-tarjeta-sim-de-su-celular/",
           "hora": "2026-10-30T16:16:02-03:00"
         },
@@ -265,6 +265,88 @@
       "angulos": []
     },
     {
+      "id": "el-senado-intentara-aprobar-manana-la-reforma-de-la-ley-de-s-4",
+      "titulo": "El Senado aprobó la reforma de la ley de Salud Mental y el proyecto pasó a Diputados",
+      "categoria": "politica",
+      "prioritaria": true,
+      "desde": "2026-10-27T19:52:53-03:00",
+      "calor": 72,
+      "medios": [
+        "Infobae",
+        "La Nación",
+        "TN",
+        "Ámbito"
+      ],
+      "en_x": true,
+      "posicion_x": 15,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Meta acuerda resolver una demanda por efectos de Instagram en la salud mental de una joven",
+          "link": "https://www.infobae.com/america/agencias/2026/10/30/meta-acuerda-resolver-una-demanda-por-efectos-de-instagram-en-la-salud-mental-de-una-joven/",
+          "hora": "2026-10-30T17:15:35-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Ley de Salud Mental: cuáles son los cambios aprobados en el Senado",
+          "link": "https://www.lanacion.com.ar/sociedad/ley-de-salud-mental-cuales-son-los-cambios-aprobados-en-el-senado-nid30102026/",
+          "hora": "2026-10-30T11:29:07-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Cambios en la Ley de Salud Mental: “Después de perder a mi hijo, esta es la primera alegría que puedo disfrutar”",
+          "link": "https://www.lanacion.com.ar/sociedad/cambios-en-la-ley-de-salud-mental-despues-de-perder-a-mi-hijo-esta-es-la-primera-alegria-que-puedo-nid30102026/",
+          "hora": "2026-10-30T11:18:31-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "El Senado aprobó la reforma de la ley de Salud Mental y el proyecto pasó a Diputados",
+          "link": "https://www.ambito.com/politica/el-senado-aprobo-la-reforma-la-ley-salud-mental-y-el-proyecto-paso-diputados-n6339633",
+          "hora": "2026-10-30T08:58:00-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "El Senado aprobó la reforma de la ley de Salud Mental; según el Gobierno la deuda con el Cottolengo Don Orione está paga",
+          "link": "https://www.lanacion.com.ar/sociedad/el-senado-aprobo-la-reforma-de-la-ley-de-salud-mental-segun-el-gobierno-la-deuda-con-el-cottolengo-nid30102026/",
+          "hora": "2026-10-30T08:17:44-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "El Senado aprobó cambios en la Ley de Salud Mental tras negociar con las provincias el financiamiento de los centros especializado",
+          "link": "https://tn.com.ar/politica/2026/10/29/el-senado-trata-la-ley-de-salud-mental-y-un-proyecto-de-incentivo-de-inversiones-para-grandes-empresas/",
+          "hora": "2026-10-30T02:23:21-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "El Senado aprobó cambios en la ley de salud mental: se modifican criterios de internaciones y equipos médicos",
+          "link": "https://www.infobae.com/politica/2026/10/30/el-senado-aprobo-cambios-en-la-ley-de-salud-mental-se-modifican-criterios-de-internaciones-y-equipos-medicos/",
+          "hora": "2026-10-30T01:22:50-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Con cambios, el Senado aprobó y giró a Diputados la reforma a la ley de salud mental",
+          "link": "https://www.lanacion.com.ar/politica/con-cambios-de-ultimo-momento-el-senado-debate-la-reforma-a-la-ley-de-salud-mental-nid29102026/",
+          "hora": "2026-10-30T00:59:44-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "A días de la visita del Papa y tras un embargo judicial, el Gobierno dice haber regularizado una deuda con el Cottolengo Don Orione",
+          "link": "https://www.lanacion.com.ar/politica/a-dias-de-la-visita-del-papa-y-tras-un-embargo-judicial-el-gobierno-dice-haber-regularizado-una-nid29102026/",
+          "hora": "2026-10-29T21:54:15-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "El Senado sesiona con la ley de salud mental aún en duda y busca aprobar beneficios fiscales para inversiones",
+          "link": "https://www.infobae.com/politica/2026/10/29/el-senado-sesiona-con-la-ley-de-salud-mental-aun-en-duda-y-buscara-aprobar-beneficios-fiscales-para-inversiones/",
+          "hora": "2026-10-29T17:33:30-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
       "id": "el-dibu-martinez-mostro-como-le-quedo-la-mano-tras-la-lesion",
       "titulo": "Dibu Martínez mostró cómo le quedó la mano tras atajar en el Mundial con un dedo fracturado",
       "categoria": "deportes",
@@ -324,136 +406,12 @@
       "angulos": []
     },
     {
-      "id": "la-afa-confirmo-el-nuevo-formato-de-la-liga-profesional-para",
-      "titulo": "Racing vs Aldosivi, EN VIVO, por el Torneo Clausura 2026: a qué hora juegan, formaciones y cómo ver el partido",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-10-29T13:22:27-03:00",
-      "calor": 70,
-      "medios": [
-        "La Nación",
-        "Infobae",
-        "Clarín",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": true,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Gimnasia visitará a Estudiantes de Río Cuarto en busca de ser líder de la Zona B del Torneo Clausura: hora, TV y formaciones",
-          "link": "https://www.infobae.com/deportes/2026/10/30/gimnasia-visitara-a-estudiantes-de-rio-cuarto-en-busca-de-ser-lider-de-la-zona-b-del-torneo-clausura-hora-tv-y-formaciones/",
-          "hora": "2026-10-30T16:32:59-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Sarmiento vs Rosario Central en vivo por la fase de grupos de la Liga Profesional: hora, dónde ver y formaciones",
-          "link": "https://tn.com.ar/deportes/futbol/2026/10/30/sarmiento-vs-rosario-central-en-vivo-por-la-fase-de-grupos-de-la-liga-profesional-hora-donde-ver-y-formaciones/",
-          "hora": "2026-10-30T16:29:27-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Villarreal vs Espanyol en vivo por la fecha 11 de La Liga de España: hora, dónde ver y formaciones",
-          "link": "https://tn.com.ar/deportes/futbol/2026/10/30/villarreal-vs-espanyol-en-vivo-por-la-fecha-11-de-la-liga-de-espana-hora-donde-ver-y-formaciones/",
-          "hora": "2026-10-30T16:27:27-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Racing vs Aldosivi, EN VIVO, por el Torneo Clausura 2026: a qué hora juegan, formaciones y cómo ver el partido",
-          "link": "https://www.clarin.com/deportes/racing-vs-aldosivi-vivo-torneo-clausura-2026-hora-juegan-formaciones-ver-partido_0_zB0GwVs42y.html",
-          "hora": "2026-10-30T16:17:55-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Mikautadze y Moleiro regresan en el Villarreal ante un Espanyol en el que debuta Santiago",
-          "link": "https://www.infobae.com/espana/agencias/2026/10/30/mikautadze-y-moleiro-regresan-en-el-villarreal-ante-un-espanyol-en-el-que-debuta-santiago/",
-          "hora": "2026-10-30T16:15:55-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Sarmiento vs Rosario Central, EN VIVO, por el Torneo Clausura 2026: a qué hora juegan, formaciones y cómo ver en vivo",
-          "link": "https://www.clarin.com/deportes/sarmiento-vs-rosario-central-vivo-torneo-clausura-2026-hora-juegan-formaciones-ver-vivo_0_0PInvO5Xup.html",
-          "hora": "2026-10-30T16:13:42-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Estudiantes de Río Cuarto vs. Gimnasia y Esgrima La Plata, EN VIVO, por el Torneo Clausura 2026: a qué hora juegan, formaciones y cómo ver el partido",
-          "link": "https://www.clarin.com/deportes/estudiantes-rio-cuarto-vs-gimnasia-esgrima-plata-vivo-torneo-clausura-2026-hora-juegan-formaciones-ver-partido_0_t9EZexY1SR.html",
-          "hora": "2026-10-30T16:10:46-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "AE Kifisia vs Olympiacos: cuándo, a qué hora y dónde ver el partido de la Hormiga González en la Super Liga de Grecia",
-          "link": "https://www.infobae.com/mexico/deportes/2026/10/30/ae-kifisia-vs-olympiacos-cuando-a-que-hora-y-donde-ver-el-partido-de-la-hormiga-gonzalez-en-la-super-liga-de-grecia/",
-          "hora": "2026-10-30T16:08:13-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Racing vs Aldosivi en vivo por la fase de grupos de la Liga Profesional: hora, dónde ver y formaciones",
-          "link": "https://tn.com.ar/deportes/futbol/2026/10/30/racing-vs-aldosivi-en-vivo-por-la-fase-de-grupos-de-la-liga-profesional-hora-donde-ver-y-formaciones/",
-          "hora": "2026-10-30T15:58:28-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Historial de Boca vs. River en el Superclásico: todos los números y resultados",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/historial-de-boca-vs-river-en-el-superclasico-todos-los-numeros-y-resultados-nid30102026/",
-          "hora": "2026-10-30T14:29:27-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Huracán vs Tigre en vivo por la fase de grupos de la Liga Profesional: hora, dónde ver y formaciones",
-          "link": "https://tn.com.ar/deportes/futbol/2026/10/30/huracan-vs-tigre-en-vivo-por-la-fase-de-grupos-de-la-liga-profesional-hora-donde-ver-y-formaciones/",
-          "hora": "2026-10-30T14:14:27-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Estudiantes (RC) vs Gimnasia en vivo por la fase de grupos de la Liga Profesional: hora, dónde ver y formaciones",
-          "link": "https://tn.com.ar/deportes/futbol/2026/10/30/estudiantes-rc-vs-gimnasia-en-vivo-por-la-fase-de-grupos-de-la-liga-profesional-hora-donde-ver-y-formaciones/",
-          "hora": "2026-10-30T13:43:27-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Boca vs. River, por el Superclásico del Torneo Clausura 2026: día, horario, TV y cómo ver online",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/boca-vs-river-por-el-superclasico-del-torneo-clausura-2026-dia-horario-tv-y-como-ver-online-nid30102026/",
-          "hora": "2026-10-30T12:23:56-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "La AFA confirmó que el VAR semiautomático se estrenará en la final del Torneo Clausura",
-          "link": "https://tn.com.ar/deportes/futbol/2026/10/30/la-afa-confirmo-que-el-var-semiautomatico-se-estrenara-en-la-final-del-torneo-clausura/",
-          "hora": "2026-10-30T11:46:22-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "La Liga Profesional anunció que comenzará a utilizar el fuera de juego semiautomático desde la final del Torneo Clausura",
-          "link": "https://www.infobae.com/deportes/2026/10/30/la-liga-profesional-anuncio-que-comenzara-a-utilizar-el-fuera-de-juego-semiautomatico-desde-la-final-del-torneo-clausura/",
-          "hora": "2026-10-30T11:40:24-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "La agenda de la TV del viernes: la fecha del torneo Clausura, los ensayos de la Fórmula 1 y fútbol de Europa",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-del-viernes-la-fecha-del-torneo-clausura-los-ensayos-de-la-formula-1-y-futbol-de-nid29102026/",
-          "hora": "2026-10-30T00:20:00-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "VAR semiautomático en Argentina: menos demora y sin trazado manual de líneas",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/var-semiautomatico-en-argentina-menos-demora-y-sin-trazado-manual-de-lineas-nid29102026/",
-          "hora": "2026-10-29T18:13:33-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "de-que-murio-patrick-stewart-el-actor-de-x-man-y-star-trek-5",
+      "id": "de-que-murio-patrick-stewart-el-actor-de-x-man-y-star-trek-5-2",
       "titulo": "De qué murió Patrick Stewart, el actor de X-Men y Star Trek",
       "categoria": "espectaculos",
       "prioritaria": false,
       "desde": "2026-10-29T16:54:32-03:00",
-      "calor": 69,
+      "calor": 67,
       "medios": [
         "Infobae",
         "La Nación",
@@ -461,7 +419,7 @@
         "Ámbito"
       ],
       "en_x": true,
-      "posicion_x": 7,
+      "posicion_x": 8,
       "en_google": false,
       "notas": [
         {
@@ -469,12 +427,6 @@
           "titulo": "De qué murió Patrick Stewart, el actor de X-Men y Star Trek",
           "link": "https://www.lanacion.com.ar/espectaculos/de-que-murio-patrick-stewart-el-actor-de-x-man-y-star-trek-nid29102026/",
           "hora": "2026-10-30T14:18:02-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "“Jean-Luc Picard me hizo ver que la ciencia podía tener algún sentido”: el legado de Patrick Stewart entre los investigadores",
-          "link": "https://www.infobae.com/america/ciencia-america/2026/10/30/jean-luc-picard-me-hizo-ver-que-la-ciencia-podia-tener-algun-sentido-el-legado-de-patrick-stewart-entre-los-investigadores/",
-          "hora": "2026-10-30T11:11:56-03:00"
         },
         {
           "medio": "La Nación",
@@ -506,76 +458,6 @@
       "angulos": []
     },
     {
-      "id": "el-senado-intentara-aprobar-manana-la-reforma-de-la-ley-de-s-4",
-      "titulo": "El Senado aprobó la reforma de la ley de Salud Mental y el proyecto pasó a Diputados",
-      "categoria": "politica",
-      "prioritaria": true,
-      "desde": "2026-10-27T19:52:53-03:00",
-      "calor": 67,
-      "medios": [
-        "Infobae",
-        "La Nación",
-        "TN",
-        "Ámbito"
-      ],
-      "en_x": true,
-      "posicion_x": 15,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "Ley de Salud Mental: cuáles son los cambios aprobados en el Senado",
-          "link": "https://www.lanacion.com.ar/sociedad/ley-de-salud-mental-cuales-son-los-cambios-aprobados-en-el-senado-nid30102026/",
-          "hora": "2026-10-30T11:29:07-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Cambios en la Ley de Salud Mental: “Después de perder a mi hijo, esta es la primera alegría que puedo disfrutar”",
-          "link": "https://www.lanacion.com.ar/sociedad/cambios-en-la-ley-de-salud-mental-despues-de-perder-a-mi-hijo-esta-es-la-primera-alegria-que-puedo-nid30102026/",
-          "hora": "2026-10-30T11:18:31-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "El Senado aprobó la reforma de la ley de Salud Mental y el proyecto pasó a Diputados",
-          "link": "https://www.ambito.com/politica/el-senado-aprobo-la-reforma-la-ley-salud-mental-y-el-proyecto-paso-diputados-n6339633",
-          "hora": "2026-10-30T08:58:00-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "El Senado aprobó la reforma de la ley de Salud Mental; según el Gobierno la deuda con el Cottolengo Don Orione está paga",
-          "link": "https://www.lanacion.com.ar/sociedad/el-senado-aprobo-la-reforma-de-la-ley-de-salud-mental-segun-el-gobierno-la-deuda-con-el-cottolengo-nid30102026/",
-          "hora": "2026-10-30T08:17:44-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "El Senado aprobó cambios en la Ley de Salud Mental tras negociar con las provincias el financiamiento de los centros especializado",
-          "link": "https://tn.com.ar/politica/2026/10/29/el-senado-trata-la-ley-de-salud-mental-y-un-proyecto-de-incentivo-de-inversiones-para-grandes-empresas/",
-          "hora": "2026-10-30T02:23:21-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "El Senado aprobó cambios en la ley de salud mental: se modifican criterios de internaciones y equipos médicos",
-          "link": "https://www.infobae.com/politica/2026/10/30/el-senado-aprobo-cambios-en-la-ley-de-salud-mental-se-modifican-criterios-de-internaciones-y-equipos-medicos/",
-          "hora": "2026-10-30T01:22:50-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Con cambios, el Senado aprobó y giró a Diputados la reforma a la ley de salud mental",
-          "link": "https://www.lanacion.com.ar/politica/con-cambios-de-ultimo-momento-el-senado-debate-la-reforma-a-la-ley-de-salud-mental-nid29102026/",
-          "hora": "2026-10-30T00:59:44-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "El Senado sesiona con la ley de salud mental aún en duda y busca aprobar beneficios fiscales para inversiones",
-          "link": "https://www.infobae.com/politica/2026/10/29/el-senado-sesiona-con-la-ley-de-salud-mental-aun-en-duda-y-buscara-aprobar-beneficios-fiscales-para-inversiones/",
-          "hora": "2026-10-29T17:33:30-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
       "id": "el-gobierno-dice-que-tomo-nota-del-resultado-de-las-eleccion-3-3-2-2",
       "titulo": "En medio de la tensión por Flávio Bolsonaro, Quirno y el canciller de Brasil coincidieron en el G20",
       "categoria": "politica",
@@ -595,16 +477,22 @@
       "en_google": false,
       "notas": [
         {
-          "medio": "Infobae",
-          "titulo": "Estados Unidos vota en medio del malestar por la inflación y la suba de los combustibles",
-          "link": "https://www.infobae.com/estados-unidos/2026/10/30/estados-unidos-vota-en-medio-del-malestar-por-la-inflacion-y-la-suba-de-los-combustibles/",
-          "hora": "2026-10-30T16:20:02-03:00"
-        },
-        {
           "medio": "La Nación",
           "titulo": "Qué pasó con Flavio Bolsonaro y su huida a Estados Unidos: el recorrido, su paso por la Argentina y las últimas noticias hoy",
           "link": "https://www.lanacion.com.ar/el-mundo/que-paso-con-flavio-bolsonaro-y-su-huida-a-estados-unidos-el-recorrido-su-paso-por-la-argentina-y-nid29102026/",
-          "hora": "2026-10-30T15:58:06-03:00"
+          "hora": "2026-10-30T16:58:00-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Legisladores opositores de EE.UU. piden explicaciones por la salida de Brasil de Flávio Bolsonaro a través de la Argentina",
+          "link": "https://tn.com.ar/internacional/2026/10/30/legisladores-opositores-de-eeuu-piden-explicaciones-por-la-salida-de-flavio-bolsonaro-de-brasil-a-traves-de-la-argentina/",
+          "hora": "2026-10-30T16:46:46-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Brasil convoca a representante diplomática argentina por huida de Flávio Bolsonaro",
+          "link": "https://www.clarin.com/estados-unidos/brasil-convoca-a-representante-diplomatica-argentina-por-huida-de-flavio-bolsonaro_0_0uioiG2KZf.html",
+          "hora": "2026-10-30T16:10:17-03:00"
         },
         {
           "medio": "Ámbito",
@@ -672,7 +560,7 @@
       "angulos": []
     },
     {
-      "id": "la-uba-le-otorgo-el-titulo-doctor-honoris-causa-al-papa-leon-6-2",
+      "id": "la-uba-le-otorgo-el-titulo-doctor-honoris-causa-al-papa-leon-6-2-2",
       "titulo": "Día por día, la agenda de la visita del papa León XIV a la Argentina",
       "categoria": "politica",
       "prioritaria": true,
@@ -692,6 +580,18 @@
       "notas": [
         {
           "medio": "La Nación",
+          "titulo": "León XIV en Luján: quienes estarán en las primeras filas de la Misa de la Caridad y cómo será el acceso a la basílica",
+          "link": "https://www.lanacion.com.ar/sociedad/leon-xiv-en-lujan-quienes-estaran-en-las-primeras-filas-de-la-misa-de-la-caridad-y-como-sera-el-nid30102026/",
+          "hora": "2026-10-30T17:12:18-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "El Gobierno confirmó que Milei recibirá al papa León XIV en Aeroparque: evalúan transmitir el encuentro por cadena nacional",
+          "link": "https://tn.com.ar/politica/2026/10/30/el-gobierno-confirmo-que-milei-recibira-al-papa-leon-xiv-en-el-aeropuerto-evaluan-transmitir-el-encuentro-por-cadena-nacional/",
+          "hora": "2026-10-30T16:49:15-03:00"
+        },
+        {
+          "medio": "La Nación",
           "titulo": "A pedido de la Iglesia, Milei garantiza presencia oficial en todos los actos del papa León XIV",
           "link": "https://www.lanacion.com.ar/politica/a-pedido-de-la-iglesia-milei-garantiza-presencia-oficial-en-todos-los-actos-del-papa-leon-xiv-nid30102026/",
           "hora": "2026-10-30T16:11:10-03:00"
@@ -701,12 +601,6 @@
           "titulo": "El papa León XIV votó por correo en las elecciones legislativas de Estados Unidos y marcó un hito histórico",
           "link": "https://www.lanacion.com.ar/el-mundo/el-papa-leon-xiv-voto-por-correo-en-las-elecciones-legislativas-de-estados-unidos-y-marco-un-hito-nid30102026/",
           "hora": "2026-10-30T15:48:58-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "El Gobierno confirmó que Milei recibirá al papa León XIV en Aeroparque: evalúan transmitir el encuentro por cadena nacional",
-          "link": "https://tn.com.ar/politica/2026/10/30/el-gobierno-confirmo-que-milei-recibira-al-papa-leon-xiv-en-el-aeropuerto-evaluan-transmitir-el-encuentro-por-cadena-nacional/",
-          "hora": "2026-10-30T15:12:59-03:00"
         },
         {
           "medio": "Infobae",
@@ -731,12 +625,6 @@
           "titulo": "Javier Milei recibirá al Papa León XIV al bajar del avión y se verán cuatro veces durante su visita",
           "link": "https://www.clarin.com/politica/javier-milei-vera-veces-papa-leon-xiv-visita_0_rFY4oIbtJD.html",
           "hora": "2026-10-30T13:29:48-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "León XIV ejerció su derecho y votó como ciudadano en las elecciones de EEUU",
-          "link": "https://www.ambito.com/mundo/leon-xiv-ejercio-su-derecho-y-voto-como-ciudadano-las-elecciones-eeuu-n6339729",
-          "hora": "2026-10-30T13:03:00-03:00"
         },
         {
           "medio": "Ámbito",
@@ -768,12 +656,113 @@
       "angulos": []
     },
     {
-      "id": "el-look-con-el-que-franco-colapinto-se-robo-toda-la-atencion",
-      "titulo": "Franco Colapinto vuelve a correr en la Fórmula 1: horarios y cronograma del GP de México",
+      "id": "world-ai-film-festival-en-buenos-aires-el-programa-completo-3",
+      "titulo": "El SMN amplió la alerta amarilla por tormentas en Buenos Aires: cómo estará el tiempo el fin de semana",
+      "categoria": "social",
+      "prioritaria": true,
+      "desde": "2026-10-28T20:45:58-03:00",
+      "calor": 62,
+      "medios": [
+        "Infobae",
+        "Clarín",
+        "La Nación",
+        "TN",
+        "Ámbito"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "Hay alerta amarilla por tormentas para este viernes 30 de octubre: las provincias afectadas",
+          "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-y-vientos-fuertes-para-este-viernes-30-de-octubre-las-provincias-nid30102026/",
+          "hora": "2026-10-30T17:15:35-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "El WAIFF en Buenos Aires: un actor y un ex directivo de Apple explicaron qué cambia la inteligencia artificial en el cine",
+          "link": "https://www.infobae.com/sociedad/2026/10/30/el-waiff-en-buenos-aires-un-actor-y-un-ex-directivo-de-apple-explicaron-que-cambia-la-inteligencia-artificial-en-el-cine/",
+          "hora": "2026-10-30T17:08:53-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Comenzó el rodaje de la nueva película de Adrián Suar y Dolores Fonzi: las fotos y los videos en las calles de Buenos Aires",
+          "link": "https://www.infobae.com/teleshow/2026/10/30/comenzo-el-rodaje-de-la-nueva-pelicula-de-adrian-suar-y-dolores-fonzi-las-fotos-en-las-calles-de-buenos-aires/",
+          "hora": "2026-10-30T16:37:37-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Furor por U2 en Argentina: la banda liderada por Bono agotó su tercer show en River Plate",
+          "link": "https://www.ambito.com/espectaculos/furor-u2-argentina-la-banda-liderada-bono-agoto-su-tercer-show-river-plate-n6339856",
+          "hora": "2026-10-30T15:48:00-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Cuándo es el 2x1 en medialunas: el mapa de las promociones de la Semana de la Pastelería en Buenos Aires",
+          "link": "https://www.lanacion.com.ar/que-sale/semana-de-la-pasteleria-cuando-es-el-2x1-en-medialunas-y-que-locales-participan-en-buenos-aires-nid30102026/",
+          "hora": "2026-10-30T15:33:09-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Airbag cierra su año en Buenos Aires con un nuevo show en River Plate: cómo y dónde comprar las entradas",
+          "link": "https://www.ambito.com/espectaculos/airbag-cierra-su-ano-buenos-aires-un-nuevo-show-river-plate-como-y-donde-comprar-las-entradas-n6339697",
+          "hora": "2026-10-30T11:45:00-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Delivery de casas: así son las viviendas modulares que construyen en Buenos Aires y a los 90 días te las llevan en un camión",
+          "link": "https://tn.com.ar/sociedad/2026/10/30/delivery-de-casas-asi-son-las-viviendas-modulares-que-construyen-en-buenos-aires-y-a-los-90-dias-te-las-llevan-en-un-camion/",
+          "hora": "2026-10-30T11:13:37-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Rotondas, pasarelas y calzada: estas son las obras para mejorar más de 500 km de una ruta clave que une Buenos Aires con La Pampa",
+          "link": "https://www.lanacion.com.ar/sociedad/rotondas-pasarelas-y-calzada-estas-son-las-obras-para-mejorar-mas-de-500-km-de-una-ruta-clave-que-nid29102026/",
+          "hora": "2026-10-30T10:56:04-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "El SMN amplió la alerta amarilla por tormentas en Buenos Aires: cómo estará el tiempo el fin de semana",
+          "link": "https://www.infobae.com/sociedad/2026/10/30/el-smn-amplio-la-alerta-amarilla-por-tormentas-en-buenos-aires-como-estara-el-tiempo-el-fin-de-semana/",
+          "hora": "2026-10-30T09:14:03-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "El hombre que le preguntó a Steve Jobs de dónde sale la innovación, trae a Buenos Aires el festival de cine con IA",
+          "link": "https://www.infobae.com/sociedad/2026/10/30/el-hombre-que-le-pregunto-a-steve-jobs-de-donde-sale-la-innovacion-trae-a-buenos-aires-el-festival-de-cine-con-ia/",
+          "hora": "2026-10-30T08:00:00-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Rige una alerta amarilla por tormentas para el AMBA: cómo estará el clima para el Superclásico",
+          "link": "https://www.infobae.com/sociedad/2026/10/29/hay-alerta-amarilla-por-tormentas-en-el-amba-para-este-viernes-como-estara-el-clima-para-el-superclasico/",
+          "hora": "2026-10-30T05:06:11-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Tras el diluvio en la Ciudad, se extendió la alerta amarilla por tormentas y posible granizo para el AMBA y las provincias de Buenos Aires, Santa Fe y Entre Ríos",
+          "link": "https://www.clarin.com/sociedad/alerta-amarilla-tormentas-amba-zonas-provincias-buenos-aires-santa-fe-rios_0_vXhUbMlZQa.html",
+          "hora": "2026-10-30T03:36:49-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "La importante obra en el Autódromo de Buenos Aires para avanzar con el sueño de la F1: la fecha clave para concretar las negociaciones",
+          "link": "https://www.infobae.com/deportes/2026/10/29/la-importante-obra-en-el-autodromo-de-buenos-aires-para-avanzar-con-el-sueno-de-la-f1-la-fecha-clave-para-concretar-las-negociaciones/",
+          "hora": "2026-10-29T22:35:11-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "el-look-con-el-que-franco-colapinto-se-robo-toda-la-atencion-2",
+      "titulo": "Sin Franco Colapinto, terminó la primera práctica del GP de México: Pierre Gasly quedó 6°",
       "categoria": "deportes",
       "prioritaria": false,
       "desde": "2026-10-29T12:20:45-03:00",
-      "calor": 65,
+      "calor": 62,
       "medios": [
         "La Nación",
         "Infobae",
@@ -790,7 +779,13 @@
           "medio": "La Nación",
           "titulo": "El italiano Gabriele Minì, con el Alpine de Franco Colapinto, terminó la primera práctica en México en el puesto 14",
           "link": "https://www.lanacion.com.ar/deportes/automovilismo/formula-1-en-mexico-en-vivo-nid30102026/",
-          "hora": "2026-10-30T16:39:42-03:00"
+          "hora": "2026-10-30T17:01:21-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Tras ceder su Alpine en la primera práctica, Franco Colapinto saldrá a pista en el segundo entrenamiento del GP de México",
+          "link": "https://www.infobae.com/deportes/2026/10/30/sin-franco-colapinto-en-la-fp1-comenzara-la-actividad-en-el-gran-premio-de-mexico-hora-tv-y-todo-lo-que-hay-que-saber/",
+          "hora": "2026-10-30T16:52:19-03:00"
         },
         {
           "medio": "TN",
@@ -799,46 +794,16 @@
           "hora": "2026-10-30T16:36:12-03:00"
         },
         {
-          "medio": "Infobae",
-          "titulo": "Tras ceder su Alpine en la primera práctica, Franco Colapinto saldrá a pista en el segundo entrenamiento del GP de México",
-          "link": "https://www.infobae.com/deportes/2026/10/30/sin-franco-colapinto-en-la-fp1-comenzara-la-actividad-en-el-gran-premio-de-mexico-hora-tv-y-todo-lo-que-hay-que-saber/",
-          "hora": "2026-10-30T16:35:21-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "GP de México 2026: Lista de precios para las botanas, bebidas y comida en el Autódromo Hermanos Rodríguez",
-          "link": "https://www.infobae.com/mexico/deportes/2026/10/30/gp-de-mexico-2026-lista-de-precios-para-las-botanas-bebidas-y-comida-en-el-autodromo-hermanos-rodriguez/",
-          "hora": "2026-10-30T16:19:56-03:00"
-        },
-        {
           "medio": "La Nación",
           "titulo": "El look con el que Franco Colapinto se robó toda la atención en su llegada al Gran Premio de México",
           "link": "https://www.lanacion.com.ar/deportes/el-look-con-el-que-franco-colapinto-se-robo-toda-la-atencion-en-su-llegada-al-gran-premio-de-mexico-nid29102026/",
           "hora": "2026-10-30T14:17:57-03:00"
         },
         {
-          "medio": "Infobae",
-          "titulo": "Estalló la guerra de pilotos en la Fórmula 1 tras las críticas de Fernando Alonso a un sector de la parrilla: “Espero que no nos crucemos en pista”",
-          "link": "https://www.infobae.com/deportes/2026/10/30/estallo-la-guerra-de-pilotos-en-la-formula-1-tras-las-criticas-de-fernando-alonso-a-un-sector-de-la-parrilla-espero-que-no-nos-crucemos-en-pista/",
-          "hora": "2026-10-30T11:08:39-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Así está la tabla de posiciones de la Fórmula 1 2026, en la previa del GP de México",
-          "link": "https://www.lanacion.com.ar/deportes/automovilismo/asi-esta-la-tabla-de-posiciones-de-la-formula-1-2026-en-la-previa-del-gp-de-mexico-nid30102026/",
-          "hora": "2026-10-30T10:40:25-03:00"
-        },
-        {
           "medio": "Clarín",
           "titulo": "F1 en México con Franco Colapinto, EN VIVO: por qué no corre en la FP1, horarios y cómo ver las primeras prácticas",
           "link": "https://www.clarin.com/deportes/f1-gp-mexico-franco-colapinto-vivo-horarios-primeras-practicas-ver-formula-1-hoy_0_WtInte1rTe.html",
           "hora": "2026-10-30T10:23:54-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Fernando Alonso criticó a otros pilotos de Fórmula 1 y estalló la guerra en la previa del GP de México",
-          "link": "https://www.ambito.com/deportes/fernando-alonso-critico-otros-pilotos-formula-1-y-estallo-la-guerra-la-previa-del-gp-mexico-n6339677",
-          "hora": "2026-10-30T10:11:00-03:00"
         },
         {
           "medio": "Ámbito",
@@ -876,58 +841,6 @@
       "angulos": []
     },
     {
-      "id": "dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-viernes",
-      "titulo": "🔴 Dólar oficial hoy y dólar blue: a cuánto cotizan este viernes 30 de octubre",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-10-29T08:50:00-03:00",
-      "calor": 62,
-      "medios": [
-        "La Nación",
-        "Clarín",
-        "Página/12",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": true,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 30 de octubre, minuto a minuto",
-          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid30102026/",
-          "hora": "2026-10-30T16:40:45-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "🔴 Dólar oficial hoy y dólar blue: a cuánto cotizan este viernes 30 de octubre",
-          "link": "https://tn.com.ar/economia/2026/10/30/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-viernes-30-de-octubre/",
-          "hora": "2026-10-30T16:32:33-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Dólar blue, dólar hoy: a cuánto cotizan el viernes 30 de octubre de 2026",
-          "link": "https://www.pagina12.com.ar/2026/10/30/dolar-blue-dolar-hoy-a-cuanto-cotizan-el-viernes-30-de-octubre-de-2026/",
-          "hora": "2026-10-30T09:09:49-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo, minuto a minuto, este 30 de octubre",
-          "link": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-minuto-minuto-30-octubre_0_Io2MjR5M9i.html",
-          "hora": "2026-10-30T09:01:18-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 29 de octubre, minuto a minuto",
-          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid29102026/",
-          "hora": "2026-10-29T16:58:20-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
       "id": "efecto-brasil-por-tercer-dia-consecutivo-el-banco-central-no-2-2-2",
       "titulo": "Emilia Mernes respondió a las críticas y los rumores en su contra y habló de la posibilidad de casarse con Duki",
       "categoria": "espectaculos",
@@ -943,10 +856,10 @@
       "en_google": false,
       "notas": [
         {
-          "medio": "La Nación",
-          "titulo": "Juan Subirá, de Bersuit Vergarabat: los 25 años de Hijos del culo, la pelea que pudo haber tenido un desenlace trágico y la posibilidad de que Cordera vuelva a la banda",
-          "link": "https://www.lanacion.com.ar/espectaculos/musica/juan-subira-de-bersuit-vergarabat-los-25-anos-de-hijos-del-culo-la-pelea-que-pudo-haber-tenido-un-nid30102026/",
-          "hora": "2026-10-30T14:54:51-03:00"
+          "medio": "TN",
+          "titulo": "Sebastián Graviotto le respondió a Malena Pichot por las críticas a la crianza de sus hijos: “Me extraña porque sos madre”",
+          "link": "https://tn.com.ar/show/famosos/2026/10/30/sebastian-graviotto-le-respondio-a-malena-pichot-por-las-criticas-a-la-crianza-de-sus-hijos-me-extrana-porque-sos-madre/",
+          "hora": "2026-10-30T17:11:03-03:00"
         },
         {
           "medio": "TN",
@@ -966,12 +879,118 @@
       "angulos": []
     },
     {
+      "id": "la-afa-confirmo-el-nuevo-formato-de-la-liga-profesional-para-2",
+      "titulo": "Huracán vs. Tigre, EN VIVO, por el Torneo Clausura 2026: a qué hora juegan, formaciones y dónde ver el partido",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-10-29T13:22:27-03:00",
+      "calor": 59,
+      "medios": [
+        "La Nación",
+        "Infobae",
+        "Clarín",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "TN",
+          "titulo": "Estudiantes (RC) vs Gimnasia en vivo por la fase de grupos de la Liga Profesional: hora, dónde ver y formaciones",
+          "link": "https://tn.com.ar/deportes/futbol/2026/10/30/estudiantes-rc-vs-gimnasia-en-vivo-por-la-fase-de-grupos-de-la-liga-profesional-hora-donde-ver-y-formaciones/",
+          "hora": "2026-10-30T17:00:27-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Huracán vs Tigre en vivo por la fase de grupos de la Liga Profesional: hora, dónde ver y formaciones",
+          "link": "https://tn.com.ar/deportes/futbol/2026/10/30/huracan-vs-tigre-en-vivo-por-la-fase-de-grupos-de-la-liga-profesional-hora-donde-ver-y-formaciones/",
+          "hora": "2026-10-30T17:00:27-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Gimnasia visitará a Estudiantes de Río Cuarto en busca de ser líder de la Zona B del Torneo Clausura: hora, TV y formaciones",
+          "link": "https://www.infobae.com/deportes/2026/10/30/gimnasia-visitara-a-estudiantes-de-rio-cuarto-en-busca-de-ser-lider-de-la-zona-b-del-torneo-clausura-hora-tv-y-formaciones/",
+          "hora": "2026-10-30T16:32:59-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Sarmiento vs Rosario Central en vivo por la fase de grupos de la Liga Profesional: hora, dónde ver y formaciones",
+          "link": "https://tn.com.ar/deportes/futbol/2026/10/30/sarmiento-vs-rosario-central-en-vivo-por-la-fase-de-grupos-de-la-liga-profesional-hora-donde-ver-y-formaciones/",
+          "hora": "2026-10-30T16:29:27-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Racing vs Aldosivi, EN VIVO, por el Torneo Clausura 2026: a qué hora juegan, formaciones y cómo ver el partido",
+          "link": "https://www.clarin.com/deportes/racing-vs-aldosivi-vivo-torneo-clausura-2026-hora-juegan-formaciones-ver-partido_0_zB0GwVs42y.html",
+          "hora": "2026-10-30T16:17:55-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Sarmiento vs Rosario Central, EN VIVO, por el Torneo Clausura 2026: a qué hora juegan, formaciones y cómo ver en vivo",
+          "link": "https://www.clarin.com/deportes/sarmiento-vs-rosario-central-vivo-torneo-clausura-2026-hora-juegan-formaciones-ver-vivo_0_0PInvO5Xup.html",
+          "hora": "2026-10-30T16:13:42-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Estudiantes de Río Cuarto vs. Gimnasia y Esgrima La Plata, EN VIVO, por el Torneo Clausura 2026: a qué hora juegan, formaciones y cómo ver el partido",
+          "link": "https://www.clarin.com/deportes/estudiantes-rio-cuarto-vs-gimnasia-esgrima-plata-vivo-torneo-clausura-2026-hora-juegan-formaciones-ver-partido_0_t9EZexY1SR.html",
+          "hora": "2026-10-30T16:10:46-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Huracán vs. Tigre, EN VIVO, por el Torneo Clausura 2026: a qué hora juegan, formaciones y dónde ver el partido",
+          "link": "https://www.clarin.com/deportes/huracan-vs-tigre-vivo-torneo-clausura-2026-hora-juegan-formaciones-ver-partido_0_YRofZT3dgN.html",
+          "hora": "2026-10-30T16:05:37-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Racing vs Aldosivi en vivo por la fase de grupos de la Liga Profesional: hora, dónde ver y formaciones",
+          "link": "https://tn.com.ar/deportes/futbol/2026/10/30/racing-vs-aldosivi-en-vivo-por-la-fase-de-grupos-de-la-liga-profesional-hora-donde-ver-y-formaciones/",
+          "hora": "2026-10-30T15:58:28-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Boca vs. River, por el Superclásico del Torneo Clausura 2026: día, horario, TV y cómo ver online",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/boca-vs-river-por-el-superclasico-del-torneo-clausura-2026-dia-horario-tv-y-como-ver-online-nid30102026/",
+          "hora": "2026-10-30T12:23:56-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "La AFA confirmó que el VAR semiautomático se estrenará en la final del Torneo Clausura",
+          "link": "https://tn.com.ar/deportes/futbol/2026/10/30/la-afa-confirmo-que-el-var-semiautomatico-se-estrenara-en-la-final-del-torneo-clausura/",
+          "hora": "2026-10-30T11:46:22-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "La Liga Profesional anunció que comenzará a utilizar el fuera de juego semiautomático desde la final del Torneo Clausura",
+          "link": "https://www.infobae.com/deportes/2026/10/30/la-liga-profesional-anuncio-que-comenzara-a-utilizar-el-fuera-de-juego-semiautomatico-desde-la-final-del-torneo-clausura/",
+          "hora": "2026-10-30T11:40:24-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "La agenda de la TV del viernes: la fecha del torneo Clausura, los ensayos de la Fórmula 1 y fútbol de Europa",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-del-viernes-la-fecha-del-torneo-clausura-los-ensayos-de-la-formula-1-y-futbol-de-nid29102026/",
+          "hora": "2026-10-30T00:20:00-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "VAR semiautomático en Argentina: menos demora y sin trazado manual de líneas",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/var-semiautomatico-en-argentina-menos-demora-y-sin-trazado-manual-de-lineas-nid29102026/",
+          "hora": "2026-10-29T18:13:33-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
       "id": "mauricio-macri-dijo-que-no-se-ha-avanzado-nada-en-el-acuerdo",
       "titulo": "Mauricio Macri dijo que “no se ha avanzado nada” en el acuerdo electoral con La Libertad Avanza para 2027",
       "categoria": "politica",
       "prioritaria": true,
       "desde": "2026-10-29T14:02:51-03:00",
-      "calor": 59,
+      "calor": 58,
       "medios": [
         "Infobae",
         "La Nación",
@@ -1032,12 +1051,6 @@
           "hora": "2026-10-30T11:32:24-03:00"
         },
         {
-          "medio": "TN",
-          "titulo": "La definición de Mauricio Macri sobre las negociaciones con LLA por un acuerdo electoral: “No se avanzó nada”",
-          "link": "https://tn.com.ar/politica/2026/10/30/la-definicion-de-mauricio-macri-sobre-las-negociaciones-con-lla-por-un-acuerdo-electoral-no-se-avanzo-nada/",
-          "hora": "2026-10-30T09:43:09-03:00"
-        },
-        {
           "medio": "Infobae",
           "titulo": "“No se ha avanzado nada”: Mauricio Macri aseguró que el acuerdo electoral entre el PRO y LLA está estancado",
           "link": "https://www.infobae.com/politica/2026/10/30/no-se-ha-avanzado-nada-mauricio-macri-aseguro-que-el-acuerdo-electoral-entre-el-pro-y-lla-esta-estancado/",
@@ -1049,213 +1062,57 @@
       "angulos": []
     },
     {
-      "id": "previa-del-superclasico-dia-libre-en-river-que-dijo-riquelme-3-3-2",
-      "titulo": "La sorpresiva decisión de Arruabarrena con el equipo de Boca Juniors a menos de 72 horas para el Superclásico ante River Plate",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-10-26T19:11:32-03:00",
-      "calor": 57,
-      "medios": [
-        "Infobae",
-        "La Nación",
-        "Ámbito",
-        "Página/12"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Ámbito",
-          "titulo": "Furor por U2 en Argentina: la banda liderada por Bono agotó su tercer show en River Plate",
-          "link": "https://www.ambito.com/espectaculos/furor-u2-argentina-la-banda-liderada-bono-agoto-su-tercer-show-river-plate-n6339856",
-          "hora": "2026-10-30T15:48:00-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Los que descansaron en Boca, los que vuelven y la “guardia alta” de River: todo lo que hay que saber del Superclásico",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/los-que-descansaron-en-boca-los-que-vuelven-y-la-guardia-alta-de-river-todo-lo-que-hay-que-saber-del-nid30102026/",
-          "hora": "2026-10-30T12:02:29-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Airbag cierra su año en Buenos Aires con un nuevo show en River Plate: cómo y dónde comprar las entradas",
-          "link": "https://www.ambito.com/espectaculos/airbag-cierra-su-ano-buenos-aires-un-nuevo-show-river-plate-como-y-donde-comprar-las-entradas-n6339697",
-          "hora": "2026-10-30T11:45:00-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Emmanuel Gigliotti, sobre el penal que erró ante River en 2014: “Salí de Boca por eso”",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/emmanuel-gigliotti-sobre-el-penal-que-erro-ante-river-en-2014-sali-de-boca-por-eso-nid30102026/",
-          "hora": "2026-10-30T00:17:20-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Atento Boca Juniors: las dos bajas por lesión que sufrió el Atlético Mineiro, rival en la final de la Copa Sudamericana",
-          "link": "https://www.infobae.com/deportes/2026/10/30/atento-boca-juniors-las-dos-bajas-por-lesion-que-sufrio-el-atletico-mineiro-rival-en-la-final-de-la-copa-sudamericana/",
-          "hora": "2026-10-30T00:06:24-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Boca: Arruabarrena esconde su juego, y entre Villa, Flores y Velasco hay dos titulares",
-          "link": "https://www.pagina12.com.ar/2026/10/29/boca-arruabarrena-esconde-su-juego-y-entre-villa-flores-y-velasco-hay-dos-titulares/",
-          "hora": "2026-10-30T00:01:00-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "River mantiene algunas dudas en el once titular para visitar a Boca en La Bombonera por el Clausura",
-          "link": "https://www.pagina12.com.ar/2026/10/29/river-mantiene-algunas-dudas-en-el-once-titular-para-visitar-a-boca-en-la-bombonera-por-el-clausura/",
-          "hora": "2026-10-30T00:01:00-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Las dos incógnitas que tiene Ponzio de cara al Superclásico: la posible formación de River Plate para enfrentar a Boca Juniors",
-          "link": "https://www.infobae.com/deportes/2026/10/30/las-dos-incognitas-que-tiene-ponzio-de-cara-al-superclasico-la-posible-formacion-de-river-plate-para-enfrentar-a-boca-juniors/",
-          "hora": "2026-10-29T22:02:14-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "La sorpresiva decisión de Arruabarrena con el equipo de Boca Juniors a menos de 72 horas para el Superclásico ante River Plate",
-          "link": "https://www.infobae.com/deportes/2026/10/30/la-sorpresiva-decision-de-arruabarrena-con-el-equipo-de-boca-juniors-a-menos-de-72-horas-para-el-superclasico-ante-river-plate/",
-          "hora": "2026-10-29T21:51:51-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "River decidió no enviar representantes a la conferencia previa al Superclásico y recibirá una multa",
-          "link": "https://www.ambito.com/deportes/river-decidio-no-enviar-representantes-la-conferencia-previa-al-superclasico-y-recibira-una-multa-n6339553",
-          "hora": "2026-10-29T21:13:00-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "River Plate no irá a la conferencia previa al Superclásico y suma tensión al vínculo con la AFA",
-          "link": "https://www.infobae.com/deportes/2026/10/29/la-afa-anuncio-que-se-suspendio-la-conferencia-previa-al-superclasico-entre-los-capitanes-de-boca-juniors-y-river-plate/",
-          "hora": "2026-10-29T20:13:47-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "world-ai-film-festival-en-buenos-aires-el-programa-completo-3",
-      "titulo": "El SMN amplió la alerta amarilla por tormentas en Buenos Aires: cómo estará el tiempo el fin de semana",
-      "categoria": "social",
+      "id": "wall-street-abre-en-rojo-y-el-nasdaq-pierde-un-2-2-arrastrad",
+      "titulo": "El gigante tecnológico Intel tuvo su caída de acciones más grande en 45 años y arrastra a todo Wall Street",
+      "categoria": "economia",
       "prioritaria": true,
-      "desde": "2026-10-28T20:45:58-03:00",
+      "desde": "2026-10-30T11:39:48-03:00",
       "calor": 57,
       "medios": [
         "Infobae",
         "Clarín",
-        "La Nación",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "Hay alerta amarilla por tormentas para este viernes 30 de octubre: las provincias afectadas",
-          "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-y-vientos-fuertes-para-este-viernes-30-de-octubre-las-provincias-nid30102026/",
-          "hora": "2026-10-30T16:38:42-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Comenzó el rodaje de la nueva película de Adrián Suar y Dolores Fonzi: las fotos y los videos en las calles de Buenos Aires",
-          "link": "https://www.infobae.com/teleshow/2026/10/30/comenzo-el-rodaje-de-la-nueva-pelicula-de-adrian-suar-y-dolores-fonzi-las-fotos-en-las-calles-de-buenos-aires/",
-          "hora": "2026-10-30T16:37:37-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Halloween en Buenos Aires: “Toda historia de fantasmas es una promesa” según un investigador de oscuros mitos urbanos",
-          "link": "https://www.infobae.com/cultura/2026/10/30/halloween-en-buenos-aires-toda-historia-de-fantasmas-es-una-promesa-segun-un-investigador-de-oscuros-mitos-urbanos/",
-          "hora": "2026-10-30T16:15:21-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Cuándo es el 2x1 en medialunas: el mapa de las promociones de la Semana de la Pastelería en Buenos Aires",
-          "link": "https://www.lanacion.com.ar/que-sale/semana-de-la-pasteleria-cuando-es-el-2x1-en-medialunas-y-que-locales-participan-en-buenos-aires-nid30102026/",
-          "hora": "2026-10-30T15:33:09-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Delivery de casas: así son las viviendas modulares que construyen en Buenos Aires y a los 90 días te las llevan en un camión",
-          "link": "https://tn.com.ar/sociedad/2026/10/30/delivery-de-casas-asi-son-las-viviendas-modulares-que-construyen-en-buenos-aires-y-a-los-90-dias-te-las-llevan-en-un-camion/",
-          "hora": "2026-10-30T11:13:37-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Rotondas, pasarelas y calzada: estas son las obras para mejorar más de 500 km de una ruta clave que une Buenos Aires con La Pampa",
-          "link": "https://www.lanacion.com.ar/sociedad/rotondas-pasarelas-y-calzada-estas-son-las-obras-para-mejorar-mas-de-500-km-de-una-ruta-clave-que-nid29102026/",
-          "hora": "2026-10-30T10:56:04-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "El SMN amplió la alerta amarilla por tormentas en Buenos Aires: cómo estará el tiempo el fin de semana",
-          "link": "https://www.infobae.com/sociedad/2026/10/30/el-smn-amplio-la-alerta-amarilla-por-tormentas-en-buenos-aires-como-estara-el-tiempo-el-fin-de-semana/",
-          "hora": "2026-10-30T09:14:03-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "El hombre que le preguntó a Steve Jobs de dónde sale la innovación, trae a Buenos Aires el festival de cine con IA",
-          "link": "https://www.infobae.com/sociedad/2026/10/30/el-hombre-que-le-pregunto-a-steve-jobs-de-donde-sale-la-innovacion-trae-a-buenos-aires-el-festival-de-cine-con-ia/",
-          "hora": "2026-10-30T08:00:00-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Rige una alerta amarilla por tormentas para el AMBA: cómo estará el clima para el Superclásico",
-          "link": "https://www.infobae.com/sociedad/2026/10/29/hay-alerta-amarilla-por-tormentas-en-el-amba-para-este-viernes-como-estara-el-clima-para-el-superclasico/",
-          "hora": "2026-10-30T05:06:11-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Tras el diluvio en la Ciudad, se extendió la alerta amarilla por tormentas y posible granizo para el AMBA y las provincias de Buenos Aires, Santa Fe y Entre Ríos",
-          "link": "https://www.clarin.com/sociedad/alerta-amarilla-tormentas-amba-zonas-provincias-buenos-aires-santa-fe-rios_0_vXhUbMlZQa.html",
-          "hora": "2026-10-30T03:36:49-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "La importante obra en el Autódromo de Buenos Aires para avanzar con el sueño de la F1: la fecha clave para concretar las negociaciones",
-          "link": "https://www.infobae.com/deportes/2026/10/29/la-importante-obra-en-el-autodromo-de-buenos-aires-para-avanzar-con-el-sueno-de-la-f1-la-fecha-clave-para-concretar-las-negociaciones/",
-          "hora": "2026-10-29T22:35:11-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "halloween-los-mejores-disfraces-de-mujer-y-hombre-para-ir-a",
-      "titulo": "Halloween: los mejores disfraces de mujer y hombre para ir a una fiesta de disfraces",
-      "categoria": "social",
-      "prioritaria": true,
-      "desde": "2026-10-29T19:25:00-03:00",
-      "calor": 56,
-      "medios": [
-        "La Nación",
+        "Ámbito",
         "TN"
       ],
       "en_x": true,
-      "posicion_x": 8,
+      "posicion_x": 50,
       "en_google": false,
       "notas": [
         {
           "medio": "TN",
-          "titulo": "Minilooks de Halloween: Isabella Icardi y Matilda Salazar sorprendieron con sus disfraces de novia sangrienta y vampiresa",
-          "link": "https://tn.com.ar/estilo/celebridades/2026/10/30/minilooks-de-halloween-isabella-icardi-y-matilda-salazar-sorprendieron-con-sus-disfraces-de-novia-sangrienta-y-vampiresa/",
-          "hora": "2026-10-30T13:31:35-03:00"
+          "titulo": "Las acciones argentinas en Wall Street caen hasta un 6% y el riesgo país se acerca a los 800 puntos",
+          "link": "https://tn.com.ar/economia/2026/10/30/las-acciones-argentinas-en-wall-street-caen-hasta-un-7-y-el-riesgo-pais-vuelve-a-superar-los-750-puntos/",
+          "hora": "2026-10-30T16:12:08-03:00"
         },
         {
-          "medio": "La Nación",
-          "titulo": "Halloween: los mejores disfraces de mujer y hombre para ir a una fiesta de disfraces",
-          "link": "https://www.lanacion.com.ar/sociedad/halloween-los-mejores-disfraces-de-mujer-y-hombre-para-ir-a-una-fiesta-de-disfraces-nid29102026/",
-          "hora": "2026-10-29T22:35:00-03:00"
+          "medio": "Ámbito",
+          "titulo": "Desplome bursátil: Wall Street se hunde hasta 3,8% ante el renovado temor por las inversiones en IA",
+          "link": "https://www.ambito.com/finanzas/los-futuros-wall-street-adelantan-un-desplome-mas-2-el-nasdaq-los-malos-datos-amazon-e-intel-n6339618",
+          "hora": "2026-10-30T15:58:00-03:00"
         },
         {
-          "medio": "La Nación",
-          "titulo": "Noche de Halloween: decoración y juegos para pasar una fiesta inolvidable",
-          "link": "https://www.lanacion.com.ar/sociedad/noche-de-halloween-decoracion-y-juegos-para-pasar-una-fiesta-inolvidable-nid29102026/",
-          "hora": "2026-10-29T19:25:00-03:00"
+          "medio": "Infobae",
+          "titulo": "Las acciones tecnológicas vuelven a caer en Wall Street y arrastran a la baja a los activos de la Argentina",
+          "link": "https://www.infobae.com/economia/2026/10/30/las-acciones-tecnologicas-vuelven-a-caer-en-wall-street-y-arrastran-a-la-baja-a-los-activos-de-la-argentina/",
+          "hora": "2026-10-30T14:49:04-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Por qué se derrumban las acciones tecnológicas de Wall Street y sacuden a los mercados del mundo",
+          "link": "https://www.infobae.com/economia/2026/10/30/por-que-se-derrumban-las-acciones-tecnologicas-de-wall-street-y-sacuden-a-los-mercados-del-mundo/",
+          "hora": "2026-10-30T14:43:28-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "El gigante tecnológico Intel tuvo su caída de acciones más grande en 45 años y arrastra a todo Wall Street",
+          "link": "https://www.clarin.com/economia/gigante-tecnologico-intel-caida-acciones-grande-45-anos-arrastra-wall-street_0_iigyGCAURV.html",
+          "hora": "2026-10-30T12:41:18-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Fuertes bajas en Wall Street por las dudas sobre la inversión en inteligencia artificial: Intel se desploma más del 25%",
+          "link": "https://www.infobae.com/america/mundo/2026/10/30/fuertes-bajas-en-wall-street-por-las-dudas-sobre-la-inversion-en-inteligencia-artificial-intel-se-desploma-mas-del-25/",
+          "hora": "2026-10-30T11:39:48-03:00"
         }
       ],
       "oficiales": [],
@@ -1275,7 +1132,7 @@
         "TN"
       ],
       "en_x": true,
-      "posicion_x": 38,
+      "posicion_x": 40,
       "en_google": false,
       "notas": [
         {
@@ -1308,16 +1165,17 @@
       "angulos": []
     },
     {
-      "id": "de-que-murio-patrick-stewart-el-actor-de-x-man-y-star-trek-2",
-      "titulo": "Qué es la Sprint Season, el nuevo torneo de la MLS que jugará Lionel Messi",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-10-29T15:01:47-03:00",
+      "id": "puente-no-me-voy-a-esconder-detras-de-nadie-porque-no-tengo",
+      "titulo": "La compositora española Marisa Manchado está desaparecida tras el choque de trenes en Toledo",
+      "categoria": "social",
+      "prioritaria": true,
+      "desde": "2026-10-29T12:25:18-03:00",
       "calor": 54,
       "medios": [
-        "La Nación",
         "Infobae",
-        "Ámbito",
+        "Clarín",
+        "La Nación",
+        "Página/12",
         "TN"
       ],
       "en_x": false,
@@ -1325,52 +1183,40 @@
       "en_google": false,
       "notas": [
         {
-          "medio": "Infobae",
-          "titulo": "Un ex del Real Madrid y Balón de Oro confiesa cómo fue su fichaje por el Real Madrid: “Lloré a mares camino al aeropuerto pensando qué había hecho”",
-          "link": "https://www.infobae.com/espana/deportes/2026/10/30/un-ex-del-real-madrid-y-balon-de-oro-confiesa-como-fue-su-fichaje-por-el-real-madrid-llore-a-mares-camino-al-aeropuerto-pensando-que-habia-hecho/",
-          "hora": "2026-10-30T16:04:00-03:00"
+          "medio": "La Nación",
+          "titulo": "Choque de trenes en España: qué pasó en Toledo y las últimas noticias del accidente mientras sigue la búsqueda de víctimas",
+          "link": "https://www.lanacion.com.ar/el-mundo/choque-de-trenes-en-espana-en-vivo-que-paso-en-toledo-y-las-ultimas-noticias-del-accidente-mientras-nid29102026/",
+          "hora": "2026-10-30T15:58:24-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Habló el hermano de la argentina que murió en el trágico choque de trenes de Toledo: “No recuerdo cómo me sacaron”",
+          "link": "https://www.lanacion.com.ar/el-mundo/hablo-el-hermano-de-la-argentina-que-murio-en-el-tragico-choque-de-trenes-de-toledo-nid30102026/",
+          "hora": "2026-10-30T15:03:39-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "La compositora española Marisa Manchado está desaparecida tras el choque de trenes en Toledo",
+          "link": "https://www.clarin.com/espectaculos/compositora-espanola-marisa-manchado-desaparecida-choque-trenes-toledo_0_e0Aa6CoNXD.html",
+          "hora": "2026-10-30T13:12:59-03:00"
         },
         {
           "medio": "TN",
-          "titulo": "Un exjugador español reveló que el Real Madrid quiso llevarse a Lionel Messi cuando tenía 13 años: por qué no se dio el traspaso",
-          "link": "https://tn.com.ar/deportes/futbol/2026/10/30/un-exjugador-espanol-revelo-que-el-real-madrid-quiso-llevarse-a-lionel-messi-cuando-tenia-13-anos-por-que-no-se-dio-el-traspaso/",
-          "hora": "2026-10-30T14:42:50-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "El día que Lionel Messi casi deja el Barcelona antes de debutar: “Lo quise fichar, me agradeció el interés y me regaló su camiseta”",
-          "link": "https://www.lanacion.com.ar/deportes/el-dia-que-lionel-messi-casi-deja-el-barcelona-antes-de-debutar-lo-quise-fichar-me-agradecio-el-nid29102026/",
-          "hora": "2026-10-30T14:18:19-03:00"
+          "titulo": "El gobierno español no descarta que pueda haber más muertos por el trágico choque de trenes: “Hay 70 denuncias de desaparecidos”",
+          "link": "https://tn.com.ar/internacional/2026/10/30/el-gobierno-espanol-no-descarta-que-pueda-haber-mas-muertos-por-el-tragico-choque-de-trenes-hay-70-denuncias-de-desaparecidos/",
+          "hora": "2026-10-30T11:59:09-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Vive en un pueblo de 300 habitantes y un gesto de Lionel Messi la convirtió en la pintora de la selección argentina: “Me cambió la vida”",
-          "link": "https://www.infobae.com/deportes/2026/10/30/vive-un-pueblo-de-300-habitantes-y-un-gesto-de-lionel-messi-la-convirtio-en-la-pintora-de-la-seleccion-argentina-me-cambio-la-vida/",
-          "hora": "2026-10-30T07:53:30-03:00"
+          "titulo": "“Hay mucho miedo a tomar los trenes”: el dramático escenario que todavía se vive en Toledo tras el choque ferroviario",
+          "link": "https://www.infobae.com/sociedad/2026/10/30/hay-mucho-miedo-a-tomar-los-trenes-el-dramatico-escenario-que-todavia-se-vive-en-toledo-tras-el-choque-ferroviario/",
+          "hora": "2026-10-30T11:39:34-03:00"
         },
         {
-          "medio": "La Nación",
-          "titulo": "Qué es la Sprint Season, el nuevo torneo de la MLS que jugará Lionel Messi",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/que-es-la-sprint-season-el-nuevo-torneo-de-la-mls-que-jugara-lionel-messi-nid30102026/",
-          "hora": "2026-10-30T03:20:06-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Ganó la Champions League con Lionel Messi, sufrió depresión durante cuatro años y terminó como vendedor de ropa",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/gano-la-champions-league-con-lionel-messi-sufrio-depresion-durante-cuatro-anos-y-termino-como-nid29102026/",
-          "hora": "2026-10-29T20:08:03-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Nicolás Sattler y Facundo “El Chino” Herrera de Q’ Lokura sobre Lionel Messi: “Saber que es argentino es un orgullo enorme”",
-          "link": "https://www.lanacion.com.ar/espectaculos/nicolas-sattler-y-facundo-el-chino-herrera-de-q-lokura-sobre-lionel-messi-saber-que-es-argentino-es-nid28102026/",
-          "hora": "2026-10-29T20:05:32-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Murió Patrick Stewart: la divertida anécdota de su encuentro con Lionel Messi en 2017",
-          "link": "https://www.ambito.com/espectaculos/murio-patrick-stewart-la-divertida-anecdota-su-encuentro-lionel-messi-2017-n6339498",
-          "hora": "2026-10-29T17:44:00-03:00"
+          "medio": "Página/12",
+          "titulo": "Encontraron muerto al argentino que estaba desaparecido tras el choque de trenes en España",
+          "link": "https://www.pagina12.com.ar/2026/10/29/encontraron-muerto-al-argentino-que-estaba-desaparecido-tras-el-choque-de-trenes-en-espana/",
+          "hora": "2026-10-30T00:01:00-03:00"
         }
       ],
       "oficiales": [],
@@ -1437,51 +1283,6 @@
       "angulos": []
     },
     {
-      "id": "sospechan-que-el-hackeo-a-binance-provino-de-piratas-informa",
-      "titulo": "Expertos cripto apuntan a Corea del Norte como la responsable del hackeo a Binance",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-10-30T02:35:27-03:00",
-      "calor": 54,
-      "medios": [
-        "Infobae",
-        "La Nación",
-        "Ámbito"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": true,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "Robar para el Amado Líder: cuál es el rastro cripto que va del hackeo de Binance a Corea del Norte",
-          "link": "https://www.lanacion.com.ar/tecnologia/robar-para-el-amado-lider-cual-es-el-rastro-cripto-que-va-del-hackeo-de-binance-a-corea-del-norte-nid30102026/",
-          "hora": "2026-10-30T13:22:17-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Hackeo a Binance: investigan a un grupo de Corea del Norte como responsable del robo de u$s6.300 millones",
-          "link": "https://www.ambito.com/finanzas/hackeo-binance-investigadores-un-grupo-corea-del-norte-como-responsable-del-robo-us6300-millones-n6339764",
-          "hora": "2026-10-30T13:11:00-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Expertos cripto apuntan a Corea del Norte como la responsable del hackeo a Binance",
-          "link": "https://www.lanacion.com.ar/tecnologia/empresas-de-inteligencia-blockchain-apuntan-a-que-detras-del-hackeo-a-binance-estuvo-corea-del-norte-nid30102026/",
-          "hora": "2026-10-30T11:28:11-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Sospechan que el hackeo a Binance provino de piratas informáticos de Corea del Norte",
-          "link": "https://www.infobae.com/economia/2026/10/30/sospechan-que-el-hackeo-a-binance-provino-de-piratas-informaticos-de-corea-del-norte/",
-          "hora": "2026-10-30T09:40:54-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
       "id": "aumentos-de-luz-y-gas-oficializaron-las-subas-de-las-tarifas",
       "titulo": "Los aumentos de tarifas de luz y gas llegarán hasta 3,6% por el impacto de la guerra en Medio Oriente",
       "categoria": "economia",
@@ -1541,57 +1342,221 @@
       "angulos": []
     },
     {
-      "id": "la-seleccion-argentina-confirmo-que-jugara-el-amistoso-con-u",
-      "titulo": "La selección argentina confirmó que jugará el amistoso con Uruguay en la Bombonera y ante Costa Rica en Córdoba",
+      "id": "viuda-mexicana-y-sus-diez-hijos-reciben-millonaria-indemniza",
+      "titulo": "Christa Pike rompió el silencio tras sobrevivir a su ejecución en Tennessee: “Hay dolor en mi mente y en mi alma”",
+      "categoria": "otros",
+      "prioritaria": false,
+      "desde": "2026-10-30T13:18:14-03:00",
+      "calor": 53,
+      "medios": [
+        "La Nación",
+        "Infobae",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": true,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Christa Pike rompió el silencio tras sobrevivir a su ejecución en Tennessee: “Hay dolor en mi mente y en mi alma”",
+          "link": "https://www.infobae.com/estados-unidos/2026/10/30/christa-pike-rompe-el-silencio-tras-sobrevivir-a-su-ejecucion-en-tennessee-hay-dolor-en-mi-mente-y-en-mi-alma/",
+          "hora": "2026-10-30T16:56:24-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Christa Pike habló por primera vez tras sobrevivir a la inyección letal en EE.UU.: “No hay un solo momento en que no sienta dolor”",
+          "link": "https://tn.com.ar/internacional/2026/10/30/christa-pike-hablo-por-primera-vez-tras-sobrevivir-a-la-inyeccion-letal-no-hay-un-solo-momento-en-que-no-sienta-dolor/",
+          "hora": "2026-10-30T16:28:10-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Christa Pike, la mujer condenada a muerte en los Estados Unidos, habló por primera vez tras su recuperación: “No sé por qué sobreviví”",
+          "link": "https://www.lanacion.com.ar/el-mundo/christa-pike-la-mujer-condenada-a-muerte-en-los-estados-unidos-hablo-por-primera-vez-tras-su-nid30102026/",
+          "hora": "2026-10-30T15:14:29-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "euro-hoy-en-nicaragua-precio-y-cotizacion-de-la-divisa-este",
+      "titulo": "Lucas Trejo vivió una tragedia en Venezuela y se emocionó al recordar un gesto de Messi y la ayuda de Antonela",
       "categoria": "deportes",
       "prioritaria": false,
-      "desde": "2026-10-30T13:33:28-03:00",
+      "desde": "2026-10-29T19:56:46-03:00",
       "calor": 51,
       "medios": [
         "Infobae",
         "La Nación",
-        "Ámbito",
-        "TN"
+        "Clarín"
+      ],
+      "en_x": true,
+      "posicion_x": 41,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Clarín",
+          "titulo": "Lucas Trejo, el futbolista argentino que perdió a su familia en el terremoto de Venezuela, reveló la ayuda que recibió de Messi y Antonela: \"Fue un gesto hermoso\"",
+          "link": "https://www.clarin.com/deportes/lucas-trejo-futbolista-argentino-perdio-familia-terremoto-venezuela-revelo-ayuda-recibio-messi-antonela-gesto-hermoso_0_iHL2T8JOMt.html",
+          "hora": "2026-10-30T11:37:59-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Tras la muerte de Patrick Stewart, se viralizó su increíble anécdota con Messi y Antonela Roccuzzo: “Conocí a un Dios esta noche”",
+          "link": "https://www.infobae.com/deportes/2026/10/30/tras-la-muerte-de-patrick-stewart-se-viralizo-su-increible-anecdota-con-messi-y-antonela-roccuzzo-conoci-a-un-dios-esta-noche/",
+          "hora": "2026-10-29T21:48:03-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Lucas Trejo vivió una tragedia en Venezuela y se emocionó al recordar un gesto de Messi y la ayuda de Antonela",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/lucas-trejo-vivio-una-tragedia-en-venezuela-y-se-emociono-al-recordar-un-gesto-de-messi-y-la-ayuda-nid29102026/",
+          "hora": "2026-10-29T20:38:40-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "El conmovedor gesto de Messi con Lucas Trejo, el futbolista argentino que perdió a su familia tras un terremoto: “Estuvo muy presente”",
+          "link": "https://www.infobae.com/deportes/2026/10/29/el-conmovedor-gesto-de-messi-con-lucas-trejo-el-futbolista-argentino-que-perdio-a-su-familia-tras-un-terremoto-estuvo-muy-presente/",
+          "hora": "2026-10-29T19:56:46-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "cuando-la-calabaza-era-un-nabo-y-el-truco-o-trato-era-un-rez",
+      "titulo": "Cuando la calabaza era un nabo, y el “truco o trato” era un rezo por los muertos: el verdadero origen de Halloween",
+      "categoria": "espectaculos",
+      "prioritaria": false,
+      "desde": "2026-10-30T04:14:46-03:00",
+      "calor": 51,
+      "medios": [
+        "Infobae"
+      ],
+      "en_x": true,
+      "posicion_x": 7,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Riesgos para mascotas en Halloween y Día de Muertos: por qué ocurren y cómo protegerlas",
+          "link": "https://www.infobae.com/mexico/2026/10/30/riesgos-para-mascotas-en-halloween-y-dia-de-muertos-por-que-ocurren-y-como-protegerlas/",
+          "hora": "2026-10-30T17:00:00-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Cuando la calabaza era un nabo, y el “truco o trato” era un rezo por los muertos: el verdadero origen de Halloween",
+          "link": "https://www.infobae.com/historias/2026/10/30/cuando-la-calabaza-era-un-nabo-y-el-truco-o-trato-era-un-rezo-por-los-muertos-el-verdadero-origen-de-halloween/",
+          "hora": "2026-10-30T16:57:23-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Curry Barker regresa a sus orígenes de YouTube con un cortometraje para Halloween: un trabajo de cinco minutos hecho por el equipo de ‘Obsession’",
+          "link": "https://www.infobae.com/espana/cultura/2026/10/30/curry-barker-regresa-a-sus-origenes-de-youtube-con-un-cortometraje-para-halloween-un-trabajo-de-cinco-minutos-hecho-por-el-equipo-de-obsession/",
+          "hora": "2026-10-30T04:14:46-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "previa-del-superclasico-dia-libre-en-river-que-dijo-riquelme-3-3-2",
+      "titulo": "Historial de Boca vs. River en el Superclásico: todos los números y resultados",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-10-26T19:11:32-03:00",
+      "calor": 50,
+      "medios": [
+        "Infobae",
+        "La Nación",
+        "Ámbito"
       ],
       "en_x": false,
       "posicion_x": null,
       "en_google": false,
       "notas": [
         {
-          "medio": "Infobae",
-          "titulo": "“Aquí se vive a otro ritmo”: La íntima escapada familiar de Usher en Costa Rica",
-          "link": "https://www.infobae.com/costa-rica/2026/10/30/aqui-se-vive-a-otro-ritmo-la-intima-escapada-familiar-de-usher-en-costa-rica/",
-          "hora": "2026-10-30T16:41:15-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Se confirmó último amistoso de Perú en 2026: día, hora y canal TV del duelo con Panamá en Cusco",
-          "link": "https://www.infobae.com/peru/deportes/2026/10/30/se-confirmo-ultimo-amistoso-de-peru-en-2026-dia-hora-y-canal-tv-del-duelo-con-panama-en-cusco/",
-          "hora": "2026-10-30T15:55:17-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "La Selección argentina confirmó las sedes para los amistosos ante Uruguay y Costa Rica en noviembre",
-          "link": "https://tn.com.ar/deportes/futbol/2026/10/30/la-seleccion-argentina-confirmo-las-sedes-para-los-amistosos-ante-uruguay-y-costa-rica-en-noviembre/",
-          "hora": "2026-10-30T15:03:15-03:00"
-        },
-        {
           "medio": "Ámbito",
-          "titulo": "La Selección argentina ya tiene estadios para sus amistosos de noviembre ante Uruguay y Costa Rica",
-          "link": "https://www.ambito.com/deportes/la-seleccion-argentina-ya-tiene-estadios-sus-amistosos-noviembre-uruguay-y-costa-rica-n6339830",
-          "hora": "2026-10-30T14:48:00-03:00"
+          "titulo": "Cuánto cuesta la pelota del Superclásico Boca vs. River y dónde comprar la Argentum Gambeta Derbi",
+          "link": "https://www.ambito.com/economia/cuanto-cuesta-la-pelota-del-superclasico-boca-vs-river-y-donde-comprar-la-argentum-gambeta-derbi-n6339225",
+          "hora": "2026-10-30T17:00:00-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "Argentina jugará con Uruguay en la Bombonera y ante Costa Rica en el estadio Mario Alberto Kempes",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/argentina-jugara-con-uruguay-en-la-bombonera-y-ante-costa-rica-en-el-estadio-mario-alberto-kempes-nid30102026/",
-          "hora": "2026-10-30T14:29:40-03:00"
+          "titulo": "Historial de Boca vs. River en el Superclásico: todos los números y resultados",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/historial-de-boca-vs-river-en-el-superclasico-todos-los-numeros-y-resultados-nid30102026/",
+          "hora": "2026-10-30T14:29:27-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Los que descansaron en Boca, los que vuelven y la “guardia alta” de River: todo lo que hay que saber del Superclásico",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/los-que-descansaron-en-boca-los-que-vuelven-y-la-guardia-alta-de-river-todo-lo-que-hay-que-saber-del-nid30102026/",
+          "hora": "2026-10-30T12:02:29-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "La selección argentina confirmó que jugará el amistoso con Uruguay en la Bombonera y ante Costa Rica en Córdoba",
-          "link": "https://www.infobae.com/deportes/2026/10/30/la-seleccion-argentina-confirmo-que-jugara-el-amistoso-con-uruguay-en-la-bombonera-y-ante-costa-rica-en-cordoba/",
-          "hora": "2026-10-30T13:33:28-03:00"
+          "titulo": "Atento Boca Juniors: las dos bajas por lesión que sufrió el Atlético Mineiro, rival en la final de la Copa Sudamericana",
+          "link": "https://www.infobae.com/deportes/2026/10/30/atento-boca-juniors-las-dos-bajas-por-lesion-que-sufrio-el-atletico-mineiro-rival-en-la-final-de-la-copa-sudamericana/",
+          "hora": "2026-10-30T00:06:24-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Las dos incógnitas que tiene Ponzio de cara al Superclásico: la posible formación de River Plate para enfrentar a Boca Juniors",
+          "link": "https://www.infobae.com/deportes/2026/10/30/las-dos-incognitas-que-tiene-ponzio-de-cara-al-superclasico-la-posible-formacion-de-river-plate-para-enfrentar-a-boca-juniors/",
+          "hora": "2026-10-29T22:02:14-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "La sorpresiva decisión de Arruabarrena con el equipo de Boca Juniors a menos de 72 horas para el Superclásico ante River Plate",
+          "link": "https://www.infobae.com/deportes/2026/10/30/la-sorpresiva-decision-de-arruabarrena-con-el-equipo-de-boca-juniors-a-menos-de-72-horas-para-el-superclasico-ante-river-plate/",
+          "hora": "2026-10-29T21:51:51-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "River decidió no enviar representantes a la conferencia previa al Superclásico y recibirá una multa",
+          "link": "https://www.ambito.com/deportes/river-decidio-no-enviar-representantes-la-conferencia-previa-al-superclasico-y-recibira-una-multa-n6339553",
+          "hora": "2026-10-29T21:13:00-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "River Plate no irá a la conferencia previa al Superclásico y suma tensión al vínculo con la AFA",
+          "link": "https://www.infobae.com/deportes/2026/10/29/la-afa-anuncio-que-se-suspendio-la-conferencia-previa-al-superclasico-entre-los-capitanes-de-boca-juniors-y-river-plate/",
+          "hora": "2026-10-29T20:13:47-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "la-afa-confirmo-el-nuevo-formato-de-la-liga-profesional-para",
+      "titulo": "Eder Sarabia, en La Cerámica para ver a su nuevo equipo, el Espanyol, ante el Villarreal",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-10-29T13:22:27-03:00",
+      "calor": 50,
+      "medios": [
+        "Infobae",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": true,
+      "notas": [
+        {
+          "medio": "TN",
+          "titulo": "En vivo - Villarreal vs. Espanyol: 0 - 0, por la fecha 11 de La Liga de España",
+          "link": "https://tn.com.ar/deportes/futbol/2026/10/30/villarreal-vs-espanyol-en-vivo-por-la-fecha-11-de-la-liga-de-espana-hora-donde-ver-y-formaciones/",
+          "hora": "2026-10-30T17:11:27-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Eder Sarabia, en La Cerámica para ver a su nuevo equipo, el Espanyol, ante el Villarreal",
+          "link": "https://www.infobae.com/espana/agencias/2026/10/30/eder-sarabia-en-la-ceramica-para-ver-a-su-nuevo-equipo-el-espanyol-ante-el-villarreal/",
+          "hora": "2026-10-30T17:02:48-03:00"
         }
       ],
       "oficiales": [],
@@ -1616,6 +1581,12 @@
       "notas": [
         {
           "medio": "La Nación",
+          "titulo": "El riesgo país sube 30% en octubre y cierra el mes cerca de los 800 puntos",
+          "link": "https://www.lanacion.com.ar/economia/el-riesgo-pais-sube-mas-de-20-en-octubre-y-cierra-cerca-de-los-750-puntos-nid30102026/",
+          "hora": "2026-10-30T16:46:13-03:00"
+        },
+        {
+          "medio": "La Nación",
           "titulo": "Por qué sube el riesgo país",
           "link": "https://www.lanacion.com.ar/economia/por-que-sube-el-riesgo-pais-nid30102026/",
           "hora": "2026-10-30T16:38:33-03:00"
@@ -1625,12 +1596,6 @@
           "titulo": "El riesgo país escala fuerte y llega a 790 puntos, arrastrado por un colapso en los mercados globales",
           "link": "https://www.ambito.com/finanzas/el-riesgo-pais-se-somete-la-ultima-rueda-semanal-el-respiro-que-se-tomaron-los-bonos-dolares-n6339658",
           "hora": "2026-10-30T16:22:00-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "El riesgo país sube 30% en octubre y cierra el mes cerca de los 800 puntos",
-          "link": "https://www.lanacion.com.ar/economia/el-riesgo-pais-sube-mas-de-20-en-octubre-y-cierra-cerca-de-los-750-puntos-nid30102026/",
-          "hora": "2026-10-30T16:20:32-03:00"
         },
         {
           "medio": "Infobae",
@@ -1720,16 +1685,16 @@
       "angulos": []
     },
     {
-      "id": "brote-de-meningitis-en-mendoza-investigan-dos-fallecimientos",
-      "titulo": "Un juez de Comodoro Py será jurado de la pelea de Canelo Álvarez ante Mbilli en Arabia Saudita",
+      "id": "la-seleccion-argentina-confirmo-que-jugara-el-amistoso-con-u",
+      "titulo": "La selección argentina confirmó que jugará el amistoso con Uruguay en la Bombonera y ante Costa Rica en Córdoba",
       "categoria": "deportes",
       "prioritaria": false,
-      "desde": "2026-10-29T10:22:23-03:00",
-      "calor": 49,
+      "desde": "2026-10-30T13:33:28-03:00",
+      "calor": 50,
       "medios": [
-        "Clarín",
         "Infobae",
-        "Página/12",
+        "La Nación",
+        "Ámbito",
         "TN"
       ],
       "en_x": false,
@@ -1738,27 +1703,33 @@
       "notas": [
         {
           "medio": "Infobae",
-          "titulo": "Canelo Álvarez y Christian Mbilli superan la báscula y quedan listos para disputar el título mundial del CMB en Arabia Saudita",
-          "link": "https://www.infobae.com/mexico/deportes/2026/10/30/canelo-alvarez-y-christian-mbilli-superan-la-bascula-y-quedan-listos-para-disputar-el-titulo-mundial-del-cmb-en-arabia-saudita/",
-          "hora": "2026-10-30T16:09:03-03:00"
+          "titulo": "“Aquí se vive a otro ritmo”: La íntima escapada familiar de Usher en Costa Rica",
+          "link": "https://www.infobae.com/costa-rica/2026/10/30/aqui-se-vive-a-otro-ritmo-la-intima-escapada-familiar-de-usher-en-costa-rica/",
+          "hora": "2026-10-30T16:41:15-03:00"
         },
         {
           "medio": "TN",
-          "titulo": "Un juez de Comodoro Py será jurado de la pelea de Canelo Álvarez ante Mbilli en Arabia Saudita",
-          "link": "https://tn.com.ar/deportes/boxeo/2026/10/30/un-juez-de-comodoro-py-sera-jurado-de-la-pelea-de-canelo-alvarez-ante-mbilli-en-arabia-saudita/",
-          "hora": "2026-10-30T12:14:27-03:00"
+          "titulo": "La Selección argentina confirmó las sedes para los amistosos ante Uruguay y Costa Rica en noviembre",
+          "link": "https://tn.com.ar/deportes/futbol/2026/10/30/la-seleccion-argentina-confirmo-las-sedes-para-los-amistosos-ante-uruguay-y-costa-rica-en-noviembre/",
+          "hora": "2026-10-30T15:03:15-03:00"
         },
         {
-          "medio": "Clarín",
-          "titulo": "Confirmaron dónde se disputará el Dakar 2027 tras la decisión de dejar Arabia Saudita",
-          "link": "https://www.clarin.com/deportes/confirmaron-disputara-dakar-2027-decision-dejar-arabia-saudita_0_2KnmTtt9yc.html",
-          "hora": "2026-10-30T06:01:29-03:00"
+          "medio": "Ámbito",
+          "titulo": "La Selección argentina ya tiene estadios para sus amistosos de noviembre ante Uruguay y Costa Rica",
+          "link": "https://www.ambito.com/deportes/la-seleccion-argentina-ya-tiene-estadios-sus-amistosos-noviembre-uruguay-y-costa-rica-n6339830",
+          "hora": "2026-10-30T14:48:00-03:00"
         },
         {
-          "medio": "Página/12",
-          "titulo": "Pity Álvarez, al banquillo: el músico va declarar en la próxima audiencia",
-          "link": "https://www.pagina12.com.ar/2026/10/29/pity-alvarez-al-banquillo-el-musico-va-declarar-en-la-proxima-audiencia/",
-          "hora": "2026-10-29T16:59:39-03:00"
+          "medio": "La Nación",
+          "titulo": "Argentina jugará con Uruguay en la Bombonera y ante Costa Rica en el estadio Mario Alberto Kempes",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/argentina-jugara-con-uruguay-en-la-bombonera-y-ante-costa-rica-en-el-estadio-mario-alberto-kempes-nid30102026/",
+          "hora": "2026-10-30T14:29:40-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "La selección argentina confirmó que jugará el amistoso con Uruguay en la Bombonera y ante Costa Rica en Córdoba",
+          "link": "https://www.infobae.com/deportes/2026/10/30/la-seleccion-argentina-confirmo-que-jugara-el-amistoso-con-uruguay-en-la-bombonera-y-ante-costa-rica-en-cordoba/",
+          "hora": "2026-10-30T13:33:28-03:00"
         }
       ],
       "oficiales": [],
@@ -1771,12 +1742,12 @@
       "categoria": "economia",
       "prioritaria": true,
       "desde": "2026-10-27T19:52:53-03:00",
-      "calor": 48,
+      "calor": 49,
       "medios": [
         "La Nación"
       ],
       "en_x": true,
-      "posicion_x": 17,
+      "posicion_x": 16,
       "en_google": false,
       "notas": [
         {
@@ -1803,31 +1774,88 @@
       "angulos": []
     },
     {
-      "id": "desayuno-huevos-con-jamon-y-palta-pan-y-aceite-de-oliva-el-m",
-      "titulo": "“Desayuno huevos con jamón y palta, pan y aceite de oliva”: el menú energético de Carlos Sainz para competir en la Fórmula 1",
-      "categoria": "otros",
-      "prioritaria": false,
-      "desde": "2026-10-30T15:46:52-03:00",
-      "calor": 48,
+      "id": "la-corte-suprema-confirmo-la-condena-a-ocho-anos-de-carcel-p",
+      "titulo": "La Corte se declaró competente para analizar la demanda bonaerense por subsidios al transporte",
+      "categoria": "politica",
+      "prioritaria": true,
+      "desde": "2026-10-29T15:36:58-03:00",
+      "calor": 49,
       "medios": [
+        "Infobae",
         "La Nación",
-        "TN"
+        "Página/12",
+        "Ámbito"
       ],
       "en_x": false,
       "posicion_x": null,
-      "en_google": true,
+      "en_google": false,
       "notas": [
         {
           "medio": "La Nación",
-          "titulo": "“Desayuno huevos con jamón y palta, pan y aceite de oliva”: el menú energético de Carlos Sainz para competir en la Fórmula 1",
-          "link": "https://www.lanacion.com.ar/lifestyle/cuidado-cuerpo-belleza/desayuno-huevos-con-jamon-y-palta-pan-y-aceite-de-oliva-el-menu-energetico-de-carlos-sainz-para-nid30102026/",
-          "hora": "2026-10-30T15:48:48-03:00"
+          "titulo": "Subsidios al transporte. Los intendentes de ciudades del interior vuelven a la carga por la “discriminación”",
+          "link": "https://www.lanacion.com.ar/politica/subsidios-al-transporte-los-intendentes-de-ciudades-del-interior-vuelven-a-la-carga-por-la-nid30102026/",
+          "hora": "2026-10-30T15:28:46-03:00"
         },
         {
-          "medio": "TN",
-          "titulo": "Samantha Vallejo-Nágera, chef: “Para que el pescado frito quede crujiente no uses pan rallado ni huevo, mejor harina de garbanzo”",
-          "link": "https://tn.com.ar/cocina/recetas/2026/10/30/samantha-vallejo-nagera-chef-para-que-el-pescado-frito-quede-crujiente-no-uses-pan-rallado-ni-huevo-mejor-harina-de-garbanzo/",
-          "hora": "2026-10-30T15:46:52-03:00"
+          "medio": "Ámbito",
+          "titulo": "La Corte Suprema rechazó una demanda colectiva contra YPF por cobrar sobreprecios",
+          "link": "https://www.ambito.com/politica/la-corte-suprema-rechazo-una-demanda-colectiva-contra-ypf-cobrar-sobreprecios-n6339740",
+          "hora": "2026-10-30T12:54:00-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "La Corte se declaró competente para analizar la demanda bonaerense por subsidios al transporte",
+          "link": "https://www.infobae.com/politica/2026/10/29/la-corte-se-declaro-competente-para-analizar-la-demanda-bonaerense-por-subsidios-al-transporte/",
+          "hora": "2026-10-29T19:38:48-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "La Corte dejó firmes las condenas por la muerte de Matías Chirino en un “ritual de bienvenida” militar",
+          "link": "https://www.pagina12.com.ar/2026/10/29/la-corte-dejo-firmes-las-condenas-por-la-muerte-de-matias-chirino-en-un-ritual-de-bienvenida-militar/",
+          "hora": "2026-10-29T18:38:49-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "leclerc-marco-el-mejor-tiempo-en-el-primer-libre-de-ciudad-d",
+      "titulo": "Leclerc marcó el mejor tiempo en el primer libre de Ciudad de México",
+      "categoria": "otros",
+      "prioritaria": false,
+      "desde": "2026-10-30T16:45:25-03:00",
+      "calor": 48,
+      "medios": [
+        "Infobae"
+      ],
+      "en_x": true,
+      "posicion_x": 24,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Tabla de tiempos del primer libre de Ciudad de México",
+          "link": "https://www.infobae.com/america/agencias/2026/10/30/tabla-de-tiempos-del-primer-libre-de-ciudad-de-mexico/",
+          "hora": "2026-10-30T17:16:06-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Charles Leclerc se lleva el mejor tiempo en la Práctica 1 del Gran Premio de Mexico 2026",
+          "link": "https://www.infobae.com/mexico/deportes/2026/10/30/charles-leclerc-se-lleva-el-mejor-tiempo-en-la-practica-1-del-gran-premio-de-mexico-2026/",
+          "hora": "2026-10-30T17:06:20-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Leclerc por delante de Antonelli en el primer libre de México; Alonso fue séptimo",
+          "link": "https://www.infobae.com/espana/agencias/2026/10/30/leclerc-por-delante-de-antonelli-en-el-primer-libre-de-mexico-alonso-fue-septimo/",
+          "hora": "2026-10-30T17:02:26-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Leclerc marcó el mejor tiempo en el primer libre de Ciudad de México",
+          "link": "https://www.infobae.com/espana/agencias/2026/10/30/leclerc-marco-el-mejor-tiempo-en-el-primer-libre-de-ciudad-de-mexico/",
+          "hora": "2026-10-30T16:45:25-03:00"
         }
       ],
       "oficiales": [],
@@ -1887,202 +1915,11 @@
       "angulos": []
     },
     {
-      "id": "el-emotivo-gesto-de-robin-williams-que-judi-dench-guardo-en",
-      "titulo": "El emotivo gesto de Robin Williams que Judi Dench guardó en silencio durante décadas",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-10-30T06:00:01-03:00",
-      "calor": 47,
-      "medios": [
-        "Infobae",
-        "La Nación"
-      ],
-      "en_x": true,
-      "posicion_x": 39,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "Gerónimo Rulli, la figura invisible del arco que le sirve mates a Haaland, es especialista en penales y hace historia en silencio",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/geronimo-rulli-la-figura-invisible-del-arco-que-le-sirve-mates-a-haaland-es-especialista-en-penales-nid30102026/",
-          "hora": "2026-10-30T15:02:03-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "El emotivo gesto de Robin Williams que Judi Dench guardó en silencio durante décadas",
-          "link": "https://www.infobae.com/entretenimiento/2026/10/30/el-emotivo-gesto-de-robin-williams-que-judi-dench-guardo-en-silencio-durante-decadas/",
-          "hora": "2026-10-30T06:00:01-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "wall-street-abre-en-rojo-y-el-nasdaq-pierde-un-2-2-arrastrad",
-      "titulo": "Fuertes bajas en Wall Street por las dudas sobre la inversión en inteligencia artificial: Intel se desploma más del 25%",
-      "categoria": "economia",
+      "id": "congreso-pro-complica-al-gobierno-con-objeciones-al-presupue",
+      "titulo": "Congreso: Pro complica al Gobierno con objeciones al Presupuesto 2027, la reforma electoral y la ley de biocombustibles",
+      "categoria": "politica",
       "prioritaria": true,
-      "desde": "2026-10-30T11:39:48-03:00",
-      "calor": 47,
-      "medios": [
-        "Infobae",
-        "Ámbito",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "TN",
-          "titulo": "Las acciones argentinas en Wall Street caen hasta un 6% y el riesgo país se acerca a los 800 puntos",
-          "link": "https://tn.com.ar/economia/2026/10/30/las-acciones-argentinas-en-wall-street-caen-hasta-un-7-y-el-riesgo-pais-vuelve-a-superar-los-750-puntos/",
-          "hora": "2026-10-30T16:12:08-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Desplome bursátil: Wall Street se hunde hasta 3,8% ante el renovado temor por las inversiones en IA",
-          "link": "https://www.ambito.com/finanzas/los-futuros-wall-street-adelantan-un-desplome-mas-2-el-nasdaq-los-malos-datos-amazon-e-intel-n6339618",
-          "hora": "2026-10-30T15:58:00-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Derrumbe histórico de Alphabet en Wall Street: las dudas por la IA que arrastraron al sector tecnológico",
-          "link": "https://www.ambito.com/finanzas/derrumbe-historico-alphabet-wall-street-las-dudas-la-ia-que-arrastraron-al-sector-tecnologico-n6339840",
-          "hora": "2026-10-30T14:54:00-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Las acciones tecnológicas vuelven a caer en Wall Street y arrastran a la baja a los activos de la Argentina",
-          "link": "https://www.infobae.com/economia/2026/10/30/las-acciones-tecnologicas-vuelven-a-caer-en-wall-street-y-arrastran-a-la-baja-a-los-activos-de-la-argentina/",
-          "hora": "2026-10-30T14:49:04-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Por qué se derrumban las acciones tecnológicas de Wall Street y sacuden a los mercados del mundo",
-          "link": "https://www.infobae.com/economia/2026/10/30/por-que-se-derrumban-las-acciones-tecnologicas-de-wall-street-y-sacuden-a-los-mercados-del-mundo/",
-          "hora": "2026-10-30T14:43:28-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Fuertes bajas en Wall Street por las dudas sobre la inversión en inteligencia artificial: Intel se desploma más del 25%",
-          "link": "https://www.infobae.com/america/mundo/2026/10/30/fuertes-bajas-en-wall-street-por-las-dudas-sobre-la-inversion-en-inteligencia-artificial-intel-se-desploma-mas-del-25/",
-          "hora": "2026-10-30T11:39:48-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "puente-no-me-voy-a-esconder-detras-de-nadie-porque-no-tengo",
-      "titulo": "La compositora española Marisa Manchado está desaparecida tras el choque de trenes en Toledo",
-      "categoria": "otros",
-      "prioritaria": false,
-      "desde": "2026-10-29T12:25:18-03:00",
-      "calor": 46,
-      "medios": [
-        "Infobae",
-        "Clarín",
-        "La Nación"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Preguntas y respuestas del choque de trenes en Toledo: ¿puede el sistema depender de una sola persona? ¿es habitual que falle el sistema LZB? ¿el semáforo estaba verde?",
-          "link": "https://www.infobae.com/espana/2026/10/30/preguntas-y-respuestas-del-choque-de-trenes-en-toledo-puede-el-sistema-depender-de-una-sola-persona-es-habitual-que-falle-el-sistema-lzb-el-semaforo-estaba-verde/",
-          "hora": "2026-10-30T16:27:09-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Choque de trenes en España: qué pasó en Toledo y las últimas noticias del accidente mientras sigue la búsqueda de víctimas",
-          "link": "https://www.lanacion.com.ar/el-mundo/choque-de-trenes-en-espana-en-vivo-que-paso-en-toledo-y-las-ultimas-noticias-del-accidente-mientras-nid29102026/",
-          "hora": "2026-10-30T15:58:24-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Habló el hermano de la argentina que murió en el trágico choque de trenes de Toledo: “No recuerdo cómo me sacaron”",
-          "link": "https://www.lanacion.com.ar/el-mundo/hablo-el-hermano-de-la-argentina-que-murio-en-el-tragico-choque-de-trenes-de-toledo-nid30102026/",
-          "hora": "2026-10-30T15:03:39-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "La compositora española Marisa Manchado está desaparecida tras el choque de trenes en Toledo",
-          "link": "https://www.clarin.com/espectaculos/compositora-espanola-marisa-manchado-desaparecida-choque-trenes-toledo_0_e0Aa6CoNXD.html",
-          "hora": "2026-10-30T13:12:59-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "“Hay mucho miedo a tomar los trenes”: el dramático escenario que todavía se vive en Toledo tras el choque ferroviario",
-          "link": "https://www.infobae.com/sociedad/2026/10/30/hay-mucho-miedo-a-tomar-los-trenes-el-dramatico-escenario-que-todavia-se-vive-en-toledo-tras-el-choque-ferroviario/",
-          "hora": "2026-10-30T11:39:34-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "resultado-de-las-elecciones-en-israel-2026-quien-gana-en-una",
-      "titulo": "Quién ganó las elecciones de Israel 2026: números parejos mientras Netanyahu pide esperar los “resultados reales”",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-10-29T12:34:41-03:00",
-      "calor": 46,
-      "medios": [
-        "La Nación",
-        "Infobae",
-        "Ámbito"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "Quién ganó las elecciones de Israel 2026: números parejos mientras Netanyahu pide esperar los “resultados reales”",
-          "link": "https://www.lanacion.com.ar/el-mundo/quien-gano-las-elecciones-de-israel-2026-numeros-parejos-mientras-netanyahu-pide-esperar-los-nid28102026/",
-          "hora": "2026-10-30T15:58:17-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Resultado de las elecciones en Israel 2026: quién gana en una elección reñida entre Netanyahu y Eisenkot",
-          "link": "https://www.lanacion.com.ar/el-mundo/resultado-de-las-elecciones-en-israel-2026-quien-gana-en-una-eleccion-renida-entre-netanyahu-y-nid29102026/",
-          "hora": "2026-10-30T15:56:34-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "La embajadora de Israel alertó sobre el avance del antisemitismo y dijo que hay más atentados contra sedes diplomáticas",
-          "link": "https://www.infobae.com/politica/2026/10/30/la-embajadora-de-israel-alerto-sobre-el-avance-del-antisemitismo-y-dijo-que-hay-mas-atentados-contra-sedes-diplomaticas/",
-          "hora": "2026-10-30T10:58:18-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Alexander Zverev se aseguró el ascenso al número uno del mundo tras su victoria en Viena",
-          "link": "https://www.ambito.com/deportes/alexander-zverev-se-aseguro-el-ascenso-al-numero-uno-del-mundo-su-victoria-viena-n6339614",
-          "hora": "2026-10-30T07:07:00-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Alexander Zverev ganó en Viena y se aseguró ser el número 1 del mundo desde el próximo lunes",
-          "link": "https://www.lanacion.com.ar/deportes/tenis/alexander-zverev-gano-en-viena-y-se-aseguro-ser-el-numero-1-del-mundo-desde-el-proximo-lunes-nid29102026/",
-          "hora": "2026-10-29T19:32:59-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "euro-hoy-en-nicaragua-precio-y-cotizacion-de-la-divisa-este",
-      "titulo": "Lucas Trejo vivió una tragedia en Venezuela y se emocionó al recordar un gesto de Messi y la ayuda de Antonela",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-10-29T19:56:46-03:00",
+      "desde": "2026-10-29T19:20:17-03:00",
       "calor": 46,
       "medios": [
         "Infobae",
@@ -2094,34 +1931,153 @@
       "en_google": false,
       "notas": [
         {
+          "medio": "La Nación",
+          "titulo": "Congreso: Pro complica al Gobierno con objeciones al Presupuesto 2027, la reforma electoral y la ley de biocombustibles",
+          "link": "https://www.lanacion.com.ar/politica/congreso-pro-complica-al-gobierno-con-objeciones-al-presupuesto-2027-la-reforma-electoral-y-la-ley-nid30102026/",
+          "hora": "2026-10-30T17:10:28-03:00"
+        },
+        {
           "medio": "Infobae",
-          "titulo": "El Gobierno de Venezuela entrega 564 nuevas viviendas a afectados por el doble terremoto",
-          "link": "https://www.infobae.com/america/agencias/2026/10/30/el-gobierno-de-venezuela-entrega-564-nuevas-viviendas-a-afectados-por-el-doble-terremoto/",
-          "hora": "2026-10-30T16:01:16-03:00"
+          "titulo": "Presentaron en el Congreso un proyecto de ley de etiquetado de huevos",
+          "link": "https://www.infobae.com/politica/2026/10/30/presentaron-en-el-congreso-un-proyecto-de-ley-de-etiquetado-de-huevos/",
+          "hora": "2026-10-30T15:08:36-03:00"
         },
         {
           "medio": "Clarín",
-          "titulo": "Lucas Trejo, el futbolista argentino que perdió a su familia en el terremoto de Venezuela, reveló la ayuda que recibió de Messi y Antonela: \"Fue un gesto hermoso\"",
-          "link": "https://www.clarin.com/deportes/lucas-trejo-futbolista-argentino-perdio-familia-terremoto-venezuela-revelo-ayuda-recibio-messi-antonela-gesto-hermoso_0_iHL2T8JOMt.html",
-          "hora": "2026-10-30T11:37:59-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Tras la muerte de Patrick Stewart, se viralizó su increíble anécdota con Messi y Antonela Roccuzzo: “Conocí a un Dios esta noche”",
-          "link": "https://www.infobae.com/deportes/2026/10/30/tras-la-muerte-de-patrick-stewart-se-viralizo-su-increible-anecdota-con-messi-y-antonela-roccuzzo-conoci-a-un-dios-esta-noche/",
-          "hora": "2026-10-29T21:48:03-03:00"
+          "titulo": "En medio de la tensión con los libertarios, el PRO le pide siete cambios a Milei para apoyar el Presupuesto",
+          "link": "https://www.clarin.com/politica/medio-tension-libertarios-pro-pide-milei-cambios-clave-presupuesto_0_EpHXdP2Lzo.html",
+          "hora": "2026-10-30T14:51:48-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "Lucas Trejo vivió una tragedia en Venezuela y se emocionó al recordar un gesto de Messi y la ayuda de Antonela",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/lucas-trejo-vivio-una-tragedia-en-venezuela-y-se-emociono-al-recordar-un-gesto-de-messi-y-la-ayuda-nid29102026/",
-          "hora": "2026-10-29T20:38:40-03:00"
+          "titulo": "Radiografía del deporte nacional: presupuesto bajo, falta de infraestructura y algunas figuras con proyección",
+          "link": "https://www.lanacion.com.ar/deportes/radiografia-del-deporte-nacional-presupuesto-bajo-falta-de-infraestructura-y-algunas-figuras-con-nid29102026/",
+          "hora": "2026-10-30T11:32:02-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "El conmovedor gesto de Messi con Lucas Trejo, el futbolista argentino que perdió a su familia tras un terremoto: “Estuvo muy presente”",
-          "link": "https://www.infobae.com/deportes/2026/10/29/el-conmovedor-gesto-de-messi-con-lucas-trejo-el-futbolista-argentino-que-perdio-a-su-familia-tras-un-terremoto-estuvo-muy-presente/",
-          "hora": "2026-10-29T19:56:46-03:00"
+          "titulo": "La UBA lanzó una plataforma para rastrear los votos, proyectos e intervenciones de cada diputado y senador en el Congreso",
+          "link": "https://www.infobae.com/politica/2026/10/29/la-uba-lanzo-una-plataforma-para-rastrear-los-votos-proyectos-e-intervenciones-de-cada-diputado-y-senador-en-el-congreso/",
+          "hora": "2026-10-29T19:20:17-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "filtraron-llamativos-detalles-del-casamiento-de-tini-stoesse",
+      "titulo": "Filtraron llamativos detalles del casamiento de Tini Stoessel y Rodrigo de Paul: “Va a ser como estar en Disney”",
+      "categoria": "espectaculos",
+      "prioritaria": false,
+      "desde": "2026-10-30T06:59:00-03:00",
+      "calor": 46,
+      "medios": [
+        "Infobae",
+        "La Nación",
+        "Ámbito"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Ámbito",
+          "titulo": "Halloween en Disney+: 6 series y películas que no te podés perder",
+          "link": "https://www.ambito.com/espectaculos/halloween-disney-6-series-y-peliculas-que-no-te-podes-perder-n6339908",
+          "hora": "2026-10-30T16:57:00-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "No habían salido nunca: el 11S impulsó a Paul Bettany a pedirle casamiento a Jennifer Connelly por teléfono y ya llevan 23 años juntos",
+          "link": "https://www.lanacion.com.ar/espectaculos/el-11s-lo-impulso-llamo-a-su-companera-de-rodaje-en-una-mente-brillante-le-pidio-casamiento-sin-nid29102026/",
+          "hora": "2026-10-30T14:18:51-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Filtraron llamativos detalles del casamiento de Tini Stoessel y Rodrigo de Paul: “Va a ser como estar en Disney”",
+          "link": "https://www.lanacion.com.ar/espectaculos/personajes/filtraron-llamativos-detalles-del-casamiento-de-tini-stoessel-y-rodrigo-de-paul-va-a-ser-como-estar-nid30102026/",
+          "hora": "2026-10-30T14:12:03-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Clásicos de terror para Halloween: películas que siguen inquietando al público",
+          "link": "https://www.infobae.com/entretenimiento/2026/10/30/clasicos-de-terror-para-halloween-10-peliculas-que-siguen-inquietando-al-publico/",
+          "hora": "2026-10-30T13:51:14-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Coppola, el representante volvió a Disney+ con nuevas historias de Guillote",
+          "link": "https://www.infobae.com/que-puedo-ver/2026/10/30/coppola-el-representante-volvio-a-disney-con-nuevas-historias-de-guillote/",
+          "hora": "2026-10-30T06:59:00-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "lo-mas-visto-en-netflix-espana-las-10-series-mas-exitosas-de",
+      "titulo": "Lo más visto en Netflix México: las 10 películas más exitosas del momento, con “Contra el huracán” a la cabeza",
+      "categoria": "espectaculos",
+      "prioritaria": false,
+      "desde": "2026-10-29T12:01:00-03:00",
+      "calor": 45,
+      "medios": [
+        "Clarín",
+        "La Nación"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "Contra el huracán: la impactante historia real detrás de la película que lidera el ranking de Netflix en la Argentina",
+          "link": "https://www.lanacion.com.ar/espectaculos/contra-el-huracan-la-impactante-historia-real-detras-de-la-pelicula-que-lidera-el-ranking-de-netflix-nid30102026/",
+          "hora": "2026-10-30T14:19:54-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Lo más visto en Netflix Estados Unidos: las 10 películas más exitosas del momento, con “Animales” a la cabeza",
+          "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-estados-unidos-las-10-peliculas-mas-exitosas-del-momento-con-animales-a-la-cabeza_0_Mow6z2Ph8X.html",
+          "hora": "2026-10-30T08:41:15-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Lo más visto en Netflix México: las 10 películas más exitosas del momento, con “Contra el huracán” a la cabeza",
+          "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-mexico-las-10-peliculas-mas-exitosas-del-momento-con-contra-el-huracan-a-la-cabeza_0_GH9rM3W3sb.html",
+          "hora": "2026-10-30T08:41:11-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Lo más visto en Netflix España: las 10 películas más exitosas del momento, con “Cada día nace un listo” a la cabeza",
+          "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-espana-las-10-peliculas-mas-exitosas-del-momento-con-cada-dia-nace-un-listo-a-la-cabeza_0_0OE62XBKRy.html",
+          "hora": "2026-10-30T08:41:09-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Lo más visto en Netflix Colombia: las 10 películas más exitosas del momento, con “Contra el huracán” a la cabeza",
+          "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-colombia-las-10-peliculas-mas-exitosas-del-momento-con-contra-el-huracan-a-la-cabeza_0_tePeZZiItS.html",
+          "hora": "2026-10-30T08:41:04-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Lo más visto en Netflix Argentina: las 10 películas más exitosas del momento, con “Lo dejamos acá” a la cabeza",
+          "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-argentina-las-10-peliculas-mas-exitosas-del-momento-con-lo-dejamos-aca-a-la-cabeza_0_O6pcD3x2v9.html",
+          "hora": "2026-10-30T08:41:02-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Lo más visto en Netflix Estados Unidos: las 10 series más exitosas del momento, con “From: temporada 1” a la cabeza",
+          "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-estados-unidos-las-10-series-mas-exitosas-del-momento-con-from-temporada-1-a-la-cabeza_0_h7NcGHubSU.html",
+          "hora": "2026-10-30T08:35:14-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Lo más visto en Netflix México: las 10 series más exitosas del momento, con “Bajo la superficie: miniserie” a la cabeza",
+          "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-mexico-las-10-series-mas-exitosas-del-momento-con-bajo-la-superficie-miniserie-a-la-cabeza_0_sdByvXop45.html",
+          "hora": "2026-10-30T08:35:12-03:00"
         }
       ],
       "oficiales": [],
@@ -2130,11 +2086,11 @@
     },
     {
       "id": "santa-fe-celebra-el-exito-de-las-primeras-rondas-rigi-2-500",
-      "titulo": "Santa Fe celebra el éxito de las primeras Rondas RIGI: 2.500 proveedores, 4.500 personas y 3.300 reuniones de negocios",
+      "titulo": "Ronda RIGI y Mesa Federal: industrias y pymes buscan contratos mineros y las provincias disputan prioridad local",
       "categoria": "economia",
       "prioritaria": true,
       "desde": "2026-10-29T21:15:46-03:00",
-      "calor": 46,
+      "calor": 45,
       "medios": [
         "Infobae",
         "Clarín",
@@ -2157,12 +2113,6 @@
           "hora": "2026-10-30T13:48:38-03:00"
         },
         {
-          "medio": "Ámbito",
-          "titulo": "Daniel González se despidió del Gobierno con las Rondas RIGI: qué dijeron los proveedores del encuentro en Rosario",
-          "link": "https://www.ambito.com/energia/daniel-gonzalez-se-despidio-del-gobierno-las-rondas-rigi-que-dijeron-los-proveedores-del-encuentro-rosario-n6339772",
-          "hora": "2026-10-30T13:42:00-03:00"
-        },
-        {
           "medio": "Clarín",
           "titulo": "Ronda RIGI y Mesa Federal: industrias y pymes buscan contratos mineros y las provincias disputan prioridad local",
           "link": "https://www.clarin.com/energia-y-mineria/ronda-rigi-mesa-federal-industrias-pymes-buscan-contratos-mineros-provincias-disputan-prioridad-local_0_j7F6WXTMVu.html",
@@ -2180,155 +2130,33 @@
       "angulos": []
     },
     {
-      "id": "patrick-stewart-las-emotivas-despedidas-de-hugh-jackman-y-ot",
-      "titulo": "Patrick Stewart: las emotivas despedidas de Hugh Jackman y otras estrellas de Hollywood tras la muerte del actor",
-      "categoria": "espectaculos",
+      "id": "euro-hoy-en-republica-dominicana-cotizacion-de-cierre-del-30-2",
+      "titulo": "EE. UU. emite alerta de seguridad para sus ciudadanos por asaltos y uso de drogas en República Dominicana",
+      "categoria": "otros",
       "prioritaria": false,
-      "desde": "2026-10-29T20:30:00-03:00",
-      "calor": 45,
-      "medios": [
-        "Infobae",
-        "La Nación",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "Notting Hill: la casa de Hugh Grant, con su emblemática puerta azul, se vende por US$10 millones",
-          "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/nothing-hill-la-casa-de-hugh-grant-con-su-emblematica-puerta-azul-se-vende-por-us10-millones-nid29102026/",
-          "hora": "2026-10-30T14:52:00-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "La viuda de Hugh Hefner expuso a los famosos que iban todo el tiempo a las fiestas de la mansión de Playboy: “Gente horrible”",
-          "link": "https://tn.com.ar/show/hollywood/2026/10/30/la-viuda-de-hugh-hefner-expuso-a-los-famosos-que-iban-todo-el-tiempo-a-las-fiestas-de-la-mansion-de-playboy-gente-horrible/",
-          "hora": "2026-10-30T12:15:22-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Patrick Stewart: las emotivas despedidas de Hugh Jackman y otras estrellas de Hollywood tras la muerte del actor",
-          "link": "https://www.infobae.com/entretenimiento/2026/10/30/patrick-stewart-las-emotivas-despedidas-de-hugh-jackman-y-otras-estrellas-de-hollywood-tras-la-muerte-de-la-estrella-de-x-men/",
-          "hora": "2026-10-29T22:08:56-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Esta es la fortuna que dejó Patrick Stewart, estrella de ‘X-Men’, tras décadas de éxito en Hollywood",
-          "link": "https://www.infobae.com/entretenimiento/2026/10/29/esta-es-la-fortuna-que-dejo-patrick-stewart-estrella-de-x-men-tras-decadas-de-exito-en-hollywood/",
-          "hora": "2026-10-29T20:30:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "el-banco-central-confirmo-que-envio-oro-a-londres-y-volvio-a",
-      "titulo": "El Banco Central confirmó que envió oro a Londres y volvió a defender sus operaciones",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-10-30T02:37:02-03:00",
-      "calor": 45,
-      "medios": [
-        "Infobae",
-        "La Nación",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "Revés para el DHS: una jueza suspende hasta el 6 de noviembre la norma que reducía el plazo para defender un estatus",
-          "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/reves-para-el-dhs-una-jueza-suspende-hasta-el-6-de-noviembre-la-norma-que-reducia-el-plazo-para-nid30102026/",
-          "hora": "2026-10-30T16:03:37-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Binance suspende los retiros luego del robo de 6,3 mil millones de dólares",
-          "link": "https://tn.com.ar/economia/2026/10/30/binance-suspende-los-retiros-luego-del-robo-de-63-mil-millones-de-dolares/",
-          "hora": "2026-10-30T13:50:26-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "El Banco Central confirmó que envió oro a Londres y volvió a defender sus operaciones",
-          "link": "https://www.lanacion.com.ar/economia/el-bcra-volvio-a-defender-sus-operaciones-con-el-oro-pero-sin-identificar-con-quien-opero-ni-donde-nid29102026/",
-          "hora": "2026-10-30T09:47:00-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "El Banco Central celebró que el dólar subió solo 1% pese al shock de Brasil y volvió a negar atraso cambiario",
-          "link": "https://www.infobae.com/economia/2026/10/30/el-banco-central-celebro-que-el-dolar-subio-solo-1-pese-al-shock-de-brasil-y-volvio-a-negar-atraso-cambiario/",
-          "hora": "2026-10-30T02:37:02-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "casi-e-hindu-abren-en-san-isidro-las-semifinales-del-rugby-d",
-      "titulo": "CASI e Hindú abren en San Isidro las semifinales del rugby de la URBA, con el celo puesto en la prevención de disturbios",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-10-30T06:01:09-03:00",
-      "calor": 45,
-      "medios": [
-        "Clarín",
-        "La Nación",
-        "Infobae"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "De predio del Arsenal a parque público: San Isidro inaugura mañana un parque lineal en Boulogne",
-          "link": "https://www.lanacion.com.ar/sociedad/de-predio-del-arsenal-a-parque-publico-san-isidro-inaugura-manana-un-parque-lineal-de-11500-metros-nid30102026/",
-          "hora": "2026-10-30T15:32:17-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Las semifinales del URBA Top 14 ya tienen formaciones para los duelos en La Catedral",
-          "link": "https://www.infobae.com/deportes/2026/10/30/las-semifinales-del-urba-top-14-ya-tienen-formaciones-para-los-duelos-en-la-catedral/",
-          "hora": "2026-10-30T11:45:36-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Newman - Alumni, semifinal del Top 14: el campeón récord y el ganador de 2024 definen el primer finalista",
-          "link": "https://www.lanacion.com.ar/deportes/rugby/newman-alumni-semifinal-del-top-14-el-campeon-record-y-el-ganador-de-2024-definen-el-primer-nid30102026/",
-          "hora": "2026-10-30T09:14:26-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "CASI e Hindú abren en San Isidro las semifinales del rugby de la URBA, con el celo puesto en la prevención de disturbios",
-          "link": "https://www.clarin.com/deportes/hindu-abren-san-isidro-semifinales-rugby-urba-celo-puesto-prevencion-disturbios_0_BVy9pm5snF.html",
-          "hora": "2026-10-30T06:01:09-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "euro-hoy-en-republica-dominicana-cotizacion-de-cierre-del-30",
-      "titulo": "Euro hoy en República Dominicana: cotización de cierre del 30 de octubre",
-      "categoria": "economia",
-      "prioritaria": true,
       "desde": "2026-10-30T07:45:13-03:00",
       "calor": 45,
       "medios": [
         "Clarín",
-        "Infobae"
+        "Infobae",
+        "La Nación"
       ],
       "en_x": false,
       "posicion_x": null,
       "en_google": false,
       "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "EE.UU. autoriza la venta de misiles Patriot para Ucrania tras las quejas por los retrasos",
+          "link": "https://www.infobae.com/america/agencias/2026/10/30/eeuu-autoriza-la-venta-de-misiles-patriot-para-ucrania-tras-las-quejas-por-los-retrasos/",
+          "hora": "2026-10-30T17:15:18-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Seguro Social en EE.UU.: advierten sobre recortes superiores al 20% si el Congreso no actúa antes de 2032",
+          "link": "https://www.lanacion.com.ar/estados-unidos/seguro-social-en-eeuu-advierten-sobre-recortes-superiores-al-20-si-el-congreso-no-actua-antes-de-nid30102026/",
+          "hora": "2026-10-30T17:03:49-03:00"
+        },
         {
           "medio": "Infobae",
           "titulo": "EE. UU. emite alerta de seguridad para sus ciudadanos por asaltos y uso de drogas en República Dominicana",
@@ -2336,46 +2164,10 @@
           "hora": "2026-10-30T16:41:00-03:00"
         },
         {
-          "medio": "Infobae",
-          "titulo": "Euro hoy en Bolivia: cotización de cierre del 30 de octubre",
-          "link": "https://www.infobae.com/noticias/2026/10/30/euro-hoy-en-bolivia-cotizacion-de-cierre-del-30-de-octubre/",
-          "hora": "2026-10-30T16:16:36-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Euro hoy en República Dominicana: cotización de cierre del 30 de octubre",
-          "link": "https://www.infobae.com/noticias/2026/10/30/euro-hoy-en-republica-dominicana-cotizacion-de-cierre-del-30-de-octubre/",
-          "hora": "2026-10-30T16:16:19-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Dólar hoy en República Dominicana: cotización de cierre del 30 de octubre",
-          "link": "https://www.infobae.com/noticias/2026/10/30/dolar-hoy-en-republica-dominicana-cotizacion-de-cierre-del-30-de-octubre/",
-          "hora": "2026-10-30T16:15:57-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Precio del dólar hoy en Bolivia: cotización de cierre del 30 de octubre",
-          "link": "https://www.infobae.com/noticias/2026/10/30/precio-del-dolar-hoy-en-bolivia-cotizacion-de-cierre-del-30-de-octubre/",
-          "hora": "2026-10-30T16:01:24-03:00"
-        },
-        {
           "medio": "Clarín",
-          "titulo": "Euro hoy en Venezuela: precio y cotización de la divisa este viernes 30 de octubre de 2026",
-          "link": "https://www.clarin.com/economia/euro-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-viernes-30-de-octubre-de-2026_0_S9AWksxlYV.html",
-          "hora": "2026-10-30T07:45:14-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Euro hoy en Paraguay: precio y cotización de la divisa este viernes 30 de octubre de 2026",
-          "link": "https://www.clarin.com/economia/euro-hoy-en-paraguay-precio-y-cotizacion-de-la-divisa-este-viernes-30-de-octubre-de-2026_0_uXL4g96VJV.html",
-          "hora": "2026-10-30T07:45:13-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Euro hoy en Uruguay: precio y cotización de la divisa este viernes 30 de octubre de 2026",
-          "link": "https://www.clarin.com/economia/euro-hoy-en-uruguay-precio-y-cotizacion-de-la-divisa-este-viernes-30-de-octubre-de-2026_0_njtKRB7l2L.html",
-          "hora": "2026-10-30T07:45:13-03:00"
+          "titulo": "Demócratas en EE.UU. exigen saber si funcionarios de Trump coordinaron con Argentina el operativo para trasladar a Bolsonaro",
+          "link": "https://www.clarin.com/mundo/democratas-eeuu-exigen-saber-funcionarios-trump-coordinaron-argentina-operativo-trasladar-bolsonaro_0_JRq3IO1xNO.html",
+          "hora": "2026-10-30T13:18:14-03:00"
         }
       ],
       "oficiales": [],
@@ -2384,20 +2176,26 @@
     },
     {
       "id": "las-claves-de-la-campana-digital-de-lula-contadas-por-sus-pr",
-      "titulo": "Las claves de la campaña digital de Lula contadas por sus propios estrategas",
+      "titulo": "1-5. Remontada y triplete de Hakimi",
       "categoria": "politica",
       "prioritaria": true,
       "desde": "2026-10-30T09:00:00-03:00",
       "calor": 45,
       "medios": [
         "La Nación",
-        "Ámbito",
-        "Página/12"
+        "Infobae",
+        "Ámbito"
       ],
       "en_x": false,
       "posicion_x": null,
       "en_google": false,
       "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "1-5. Remontada y triplete de Hakimi",
+          "link": "https://www.infobae.com/america/agencias/2026/10/30/1-5-remontada-y-triplete-de-hakimi/",
+          "hora": "2026-10-30T17:01:09-03:00"
+        },
         {
           "medio": "La Nación",
           "titulo": "Un analista internacional explicó en detalle la remontada histórica de Lula y las dudas que generó el voto electrónico: “Llama la atención”",
@@ -2411,61 +2209,10 @@
           "hora": "2026-10-30T15:56:32-03:00"
         },
         {
-          "medio": "Página/12",
-          "titulo": "Las claves de la campaña digital de Lula contadas por sus propios estrategas",
-          "link": "https://www.pagina12.com.ar/2026/10/30/las-claves-de-la-campana-digital-de-lula-contadas-por-sus-propios-estrategas/",
-          "hora": "2026-10-30T10:44:41-03:00"
-        },
-        {
           "medio": "Ámbito",
           "titulo": "Los estrategas detrás de la remontada de Lula: el Ejército de WhatsApp, la motosierra de Milei y la disputa por el significado del cambio",
           "link": "https://www.ambito.com/politica/los-estrategas-detras-la-remontada-lula-el-ejercito-whatsapp-la-motosierra-milei-y-la-disputa-el-significado-del-cambio-n6339562",
           "hora": "2026-10-30T09:00:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "viuda-mexicana-y-sus-diez-hijos-reciben-millonaria-indemniza",
-      "titulo": "Viuda mexicana y sus diez hijos reciben millonaria indemnización de aseguradora de EE.UU.",
-      "categoria": "otros",
-      "prioritaria": false,
-      "desde": "2026-10-30T13:18:14-03:00",
-      "calor": 45,
-      "medios": [
-        "Clarín",
-        "La Nación",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "TN",
-          "titulo": "Christa Pike habló por primera vez tras sobrevivir a la inyección letal en EE.UU.: “No hay un solo momento en que no sienta dolor”",
-          "link": "https://tn.com.ar/internacional/2026/10/30/christa-pike-hablo-por-primera-vez-tras-sobrevivir-a-la-inyeccion-letal-no-hay-un-solo-momento-en-que-no-sienta-dolor/",
-          "hora": "2026-10-30T16:28:10-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Viuda mexicana y sus diez hijos reciben millonaria indemnización de aseguradora de EE.UU.",
-          "link": "https://www.clarin.com/estados-unidos/viuda-mexicana-y-sus-diez-hijos-reciben-millonaria-indemnizacion-de-aseguradora-de-ee-uu_0_50u8B0Rimo.html",
-          "hora": "2026-10-30T16:10:12-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Christa Pike, la mujer condenada a muerte en los Estados Unidos, habló por primera vez tras su recuperación: “No sé por qué sobreviví”",
-          "link": "https://www.lanacion.com.ar/el-mundo/christa-pike-la-mujer-condenada-a-muerte-en-los-estados-unidos-hablo-por-primera-vez-tras-su-nid30102026/",
-          "hora": "2026-10-30T15:14:29-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Demócratas en EE.UU. exigen saber si funcionarios de Trump coordinaron con Argentina el operativo para trasladar a Bolsonaro",
-          "link": "https://www.clarin.com/mundo/democratas-eeuu-exigen-saber-funcionarios-trump-coordinaron-argentina-operativo-trasladar-bolsonaro_0_JRq3IO1xNO.html",
-          "hora": "2026-10-30T13:18:14-03:00"
         }
       ],
       "oficiales": [],
@@ -2518,24 +2265,44 @@
       "angulos": []
     },
     {
-      "id": "con-su-conocido-disfraz-el-congresista-luis-carlos-rua-conoc",
-      "titulo": "Con su conocido disfraz, el congresista Luis Carlos Rúa, conocido como ‘Elefante Blanco’, asistió a la gala de la revista Time en Nueva York: “Quiero llamar la atención del mundo”",
+      "id": "que-revelo-la-septima-votacion-por-la-onu-y-como-quedo-posic",
+      "titulo": "Qué reveló la séptima votación por la ONU y cómo quedó posicionado el argentino Rafael Grossi",
       "categoria": "otros",
       "prioritaria": false,
-      "desde": "2026-10-30T15:53:53-03:00",
+      "desde": "2026-10-30T16:28:08-03:00",
       "calor": 45,
       "medios": [
-        "Infobae"
+        "La Nación",
+        "Infobae",
+        "TN"
       ],
-      "en_x": true,
-      "posicion_x": 19,
+      "en_x": false,
+      "posicion_x": null,
       "en_google": false,
       "notas": [
         {
           "medio": "Infobae",
-          "titulo": "Con su conocido disfraz, el congresista Luis Carlos Rúa, conocido como ‘Elefante Blanco’, asistió a la gala de la revista Time en Nueva York: “Quiero llamar la atención del mundo”",
-          "link": "https://www.infobae.com/colombia/2026/10/30/con-su-conocido-disfraz-el-congresista-luis-carlos-rua-conocido-como-elefante-blanco-asistio-a-la-gala-de-la-revista-time-en-nueva-york-quiero-llamar-la-atencion-del-mundo/",
-          "hora": "2026-10-30T15:53:53-03:00"
+          "titulo": "Nueva votación en el Consejo de Seguridad: Grynspan y Grossi se consolidan como candidatos a la Secretaría General de la ONU",
+          "link": "https://www.infobae.com/estados-unidos/2026/10/30/nueva-votacion-en-el-consejo-de-seguridad-grynspan-y-grossi-se-consolidan-como-candidatos-a-la-secretaria-general-de-la-onu/",
+          "hora": "2026-10-30T17:15:42-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "EN VIVO | Megamarcha de trabajadores del IMSS hoy viernes 30 de octubre: se restablece circulación en General Mariano Escobedo al norte",
+          "link": "https://www.infobae.com/mexico/2026/10/30/en-vivo-megamarcha-de-trabajadores-del-imss-hoy-viernes-30-de-octubre-afectaciones-viales-en-cdmx-y-estados/",
+          "hora": "2026-10-30T17:13:15-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Rafael Grossi quedó segundo en el séptimo sondeo para la elección del próximo secretario general de la ONU",
+          "link": "https://tn.com.ar/internacional/2026/10/30/rafael-grossi-quedo-segundo-en-el-septimo-sondeo-para-la-eleccion-del-proximo-secretario-general-de-la-onu/",
+          "hora": "2026-10-30T17:06:12-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Qué reveló la séptima votación por la ONU y cómo quedó posicionado el argentino Rafael Grossi",
+          "link": "https://www.lanacion.com.ar/estados-unidos/que-revelo-la-septima-votacion-por-la-onu-y-como-quedo-posicionado-el-argentino-rafael-grossi-nid30102026/",
+          "hora": "2026-10-30T16:28:08-03:00"
         }
       ],
       "oficiales": [],
@@ -2590,25 +2357,19 @@
     {
       "id": "la-uba-le-otorgo-el-titulo-doctor-honoris-causa-al-papa-leon-6",
       "titulo": "El mensaje que Patrick Stewart compartió en Instagram meses antes de morir: amor, poesía y Shakespeare",
-      "categoria": "politica",
-      "prioritaria": true,
+      "categoria": "espectaculos",
+      "prioritaria": false,
       "desde": "2026-10-28T13:12:09-03:00",
       "calor": 43,
       "medios": [
         "Clarín",
         "Infobae",
-        "La Nación"
+        "Página/12"
       ],
       "en_x": false,
       "posicion_x": null,
       "en_google": false,
       "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "Javier Milei y sus medidas, en vivo: Bullrich celebró la aprobación del RIIR en el Senado y dijo que atraerá “oportunidades de invertir y crecer”",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-bullrich-celebro-la-aprobacion-del-riir-en-el-senado-nid30102026/",
-          "hora": "2026-10-30T16:40:00-03:00"
-        },
         {
           "medio": "Infobae",
           "titulo": "El mensaje que Patrick Stewart compartió en Instagram meses antes de morir: amor, poesía y Shakespeare",
@@ -2620,6 +2381,51 @@
           "titulo": "Javier Milei y sus medidas, EN VIVO: \"Bolsonaro entró bárbaro a Argentina, todo legal\", el mensaje que compartió el Presidente",
           "link": "https://www.clarin.com/politica/milei-medidas-vivo-presidente-recibira-papa-leon-xiv-pie-avion-quieren-transmitirlo-cadena-nacional_0_Nlj4rMOSOa.html",
           "hora": "2026-10-30T08:46:43-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Patrick Stewart, de Shakespeare al espacio",
+          "link": "https://www.pagina12.com.ar/2026/10/29/patrick-stewart-de-shakespeare-al-espacio/",
+          "hora": "2026-10-30T00:01:00-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-viernes",
+      "titulo": "🔴 Dólar oficial hoy y dólar blue: a cuánto cotizan este viernes 30 de octubre",
+      "categoria": "economia",
+      "prioritaria": true,
+      "desde": "2026-10-29T08:50:00-03:00",
+      "calor": 43,
+      "medios": [
+        "La Nación",
+        "Página/12",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "TN",
+          "titulo": "🔴 Dólar oficial hoy y dólar blue: a cuánto cotizan este viernes 30 de octubre",
+          "link": "https://tn.com.ar/economia/2026/10/30/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-viernes-30-de-octubre/",
+          "hora": "2026-10-30T17:02:34-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 30 de octubre, minuto a minuto",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid30102026/",
+          "hora": "2026-10-30T17:02:17-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Dólar blue, dólar hoy: a cuánto cotizan el viernes 30 de octubre de 2026",
+          "link": "https://www.pagina12.com.ar/2026/10/30/dolar-blue-dolar-hoy-a-cuanto-cotizan-el-viernes-30-de-octubre-de-2026/",
+          "hora": "2026-10-30T09:09:49-03:00"
         }
       ],
       "oficiales": [],
@@ -2666,15 +2472,15 @@
       "angulos": []
     },
     {
-      "id": "la-afa-confirmo-el-nuevo-formato-de-la-liga-profesional-para-2",
-      "titulo": "Maradona en la final de la Copa Davis: la cábala, el pedido a Del Potro, el “engaño” del equipo y la muerte de Fidel",
+      "id": "el-look-con-el-que-franco-colapinto-se-robo-toda-la-atencion",
+      "titulo": "Fernando Alonso criticó a otros pilotos de Fórmula 1 y estalló la guerra en la previa del GP de México",
       "categoria": "deportes",
       "prioritaria": false,
-      "desde": "2026-10-29T13:22:27-03:00",
+      "desde": "2026-10-29T12:20:45-03:00",
       "calor": 43,
       "medios": [
         "Infobae",
-        "Página/12",
+        "Ámbito",
         "TN"
       ],
       "en_x": false,
@@ -2683,21 +2489,21 @@
       "notas": [
         {
           "medio": "TN",
-          "titulo": "En vivo - Elversberg vs. Mainz: 1 - 0, por la fecha 8 de la Bundesliga de Alemania",
-          "link": "https://tn.com.ar/deportes/futbol/2026/10/30/elversberg-vs-mainz-en-vivo-por-la-fecha-8-de-la-bundesliga-de-alemania-hora-donde-ver-y-formaciones/",
-          "hora": "2026-10-30T16:43:27-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Maradona en la final de la Copa Davis: la cábala, el pedido a Del Potro, el “engaño” del equipo y la muerte de Fidel",
-          "link": "https://www.pagina12.com.ar/2026/10/29/maradona-en-la-final-de-la-copa-davis-la-cabala-el-pedido-a-del-potro-el-engano-del-equipo-y-la-muerte-de-fidel/",
-          "hora": "2026-10-30T00:01:01-03:00"
+          "titulo": "Fernando Alonso aseguró que el nivel de la Fórmula 1 es “muy bajo” y desató una guerra entre los pilotos: qué le contestaron",
+          "link": "https://tn.com.ar/deportes/automovilismo/2026/10/30/fernando-alonso-aseguro-que-el-nivel-de-la-formula-1-es-muy-bajo-y-desato-una-guerra-entre-los-pilotos-que-le-contestaron/",
+          "hora": "2026-10-30T16:51:11-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Viaje al interior de la pasión en las tribunas durante un partido de la Copa de Alemania: el show de los fanáticos en Bayern Múnich-Magdeburgo",
-          "link": "https://www.infobae.com/deportes/2026/10/29/viaje-al-interior-de-la-pasion-en-las-tribunas-durante-un-partido-de-la-copa-de-alemania-el-show-de-los-fanaticos-en-bayern-munich-magdeburgo/",
-          "hora": "2026-10-29T17:25:24-03:00"
+          "titulo": "Estalló la guerra de pilotos en la Fórmula 1 tras las críticas de Fernando Alonso a un sector de la parrilla: “Espero que no nos crucemos en pista”",
+          "link": "https://www.infobae.com/deportes/2026/10/30/estallo-la-guerra-de-pilotos-en-la-formula-1-tras-las-criticas-de-fernando-alonso-a-un-sector-de-la-parrilla-espero-que-no-nos-crucemos-en-pista/",
+          "hora": "2026-10-30T11:08:39-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Fernando Alonso criticó a otros pilotos de Fórmula 1 y estalló la guerra en la previa del GP de México",
+          "link": "https://www.ambito.com/deportes/fernando-alonso-critico-otros-pilotos-formula-1-y-estallo-la-guerra-la-previa-del-gp-mexico-n6339677",
+          "hora": "2026-10-30T10:11:00-03:00"
         }
       ],
       "oficiales": [],
@@ -2705,15 +2511,15 @@
       "angulos": []
     },
     {
-      "id": "la-corte-suprema-confirmo-la-condena-a-ocho-anos-de-carcel-p",
-      "titulo": "La Corte se declaró competente para analizar la demanda bonaerense por subsidios al transporte",
-      "categoria": "politica",
-      "prioritaria": true,
-      "desde": "2026-10-29T15:36:58-03:00",
+      "id": "resultado-de-las-elecciones-en-israel-2026-quien-gana-en-una-2",
+      "titulo": "Alexander Zverev ganó en Viena y se aseguró ser el número 1 del mundo desde el próximo lunes",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-10-29T12:34:41-03:00",
       "calor": 43,
       "medios": [
-        "Infobae",
         "La Nación",
+        "Infobae",
         "Ámbito"
       ],
       "en_x": false,
@@ -2721,22 +2527,22 @@
       "en_google": false,
       "notas": [
         {
-          "medio": "La Nación",
-          "titulo": "Subsidios al transporte. Los intendentes de ciudades del interior vuelven a la carga por la “discriminación”",
-          "link": "https://www.lanacion.com.ar/politica/subsidios-al-transporte-los-intendentes-de-ciudades-del-interior-vuelven-a-la-carga-por-la-nid30102026/",
-          "hora": "2026-10-30T15:28:46-03:00"
+          "medio": "Infobae",
+          "titulo": "Alexander Zverev será el nuevo N°1 desde el lunes y escribirá su nombre en la historia del tenis: la lista con los 30 tenistas que llegaron a la cima",
+          "link": "https://www.infobae.com/deportes/2026/10/30/alexander-zverev-sera-el-nuevo-n1-desde-el-lunes-y-escribira-su-nombre-en-la-historia-del-tenis-la-lista-con-los-30-tenistas-que-llegaron-a-la-cima/",
+          "hora": "2026-10-30T16:57:40-03:00"
         },
         {
           "medio": "Ámbito",
-          "titulo": "La Corte Suprema rechazó una demanda colectiva contra YPF por cobrar sobreprecios",
-          "link": "https://www.ambito.com/politica/la-corte-suprema-rechazo-una-demanda-colectiva-contra-ypf-cobrar-sobreprecios-n6339740",
-          "hora": "2026-10-30T12:54:00-03:00"
+          "titulo": "Alexander Zverev se aseguró el ascenso al número uno del mundo tras su victoria en Viena",
+          "link": "https://www.ambito.com/deportes/alexander-zverev-se-aseguro-el-ascenso-al-numero-uno-del-mundo-su-victoria-viena-n6339614",
+          "hora": "2026-10-30T07:07:00-03:00"
         },
         {
-          "medio": "Infobae",
-          "titulo": "La Corte se declaró competente para analizar la demanda bonaerense por subsidios al transporte",
-          "link": "https://www.infobae.com/politica/2026/10/29/la-corte-se-declaro-competente-para-analizar-la-demanda-bonaerense-por-subsidios-al-transporte/",
-          "hora": "2026-10-29T19:38:48-03:00"
+          "medio": "La Nación",
+          "titulo": "Alexander Zverev ganó en Viena y se aseguró ser el número 1 del mundo desde el próximo lunes",
+          "link": "https://www.lanacion.com.ar/deportes/tenis/alexander-zverev-gano-en-viena-y-se-aseguro-ser-el-numero-1-del-mundo-desde-el-proximo-lunes-nid29102026/",
+          "hora": "2026-10-29T19:32:59-03:00"
         }
       ],
       "oficiales": [],
@@ -2783,99 +2589,15 @@
       "angulos": []
     },
     {
-      "id": "encontraron-a-una-pareja-muerta-a-punaladas-en-un-camino-rur-2",
-      "titulo": "Encontraron a una pareja muerta a puñaladas en un camino rural de Misiones: su hijo de 2 años dormía dentro del auto",
-      "categoria": "social",
-      "prioritaria": true,
-      "desde": "2026-10-29T17:59:17-03:00",
-      "calor": 43,
-      "medios": [
-        "Infobae",
-        "TN",
-        "Página/12"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Página/12",
-          "titulo": "Misiones: hallaron a una pareja sin vida dentro de un auto y a su bebé dormido",
-          "link": "https://www.pagina12.com.ar/2026/10/30/misiones-hallaron-a-una-pareja-sin-vida-dentro-de-un-auto-y-a-su-bebe-dormido/",
-          "hora": "2026-10-30T14:44:52-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Encontraron muerta y semidesnuda a una mujer en Santa Fe: los vecinos escucharon gritos de auxilio y ya hay tres detenidos",
-          "link": "https://tn.com.ar/policiales/2026/10/30/encontraron-muerta-y-semidesnuda-a-una-mujer-en-santa-fe-los-vecinos-escucharon-gritos-de-auxilio-y-ya-hay-tres-detenidos/",
-          "hora": "2026-10-30T11:21:08-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Encontraron a una pareja muerta a puñaladas en un camino rural de Misiones: su hijo de 2 años dormía dentro del auto",
-          "link": "https://www.infobae.com/sociedad/policiales/2026/10/29/encontraron-a-una-pareja-muerta-a-punaladas-en-un-camino-rural-de-misiones-su-hijo-de-2-anos-dormia-dentro-del-auto/",
-          "hora": "2026-10-29T17:59:17-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "kicillof-sigue-de-gira-por-el-pais-visita-jujuy-con-el-objet",
-      "titulo": "Kicillof sigue de gira por el país: visita Jujuy con el objetivo de fortalecer su proyecto presidencial",
-      "categoria": "politica",
-      "prioritaria": true,
-      "desde": "2026-10-29T19:13:35-03:00",
-      "calor": 43,
-      "medios": [
-        "Infobae",
-        "La Nación",
-        "Ámbito"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "Kicillof sigue de gira por el país: visita Jujuy con el objetivo de fortalecer su proyecto presidencial",
-          "link": "https://www.lanacion.com.ar/politica/kicillof-sigue-de-gira-por-el-pais-visita-jujuy-con-el-objetivo-de-fortalecer-su-proyecto-nid30102026/",
-          "hora": "2026-10-30T11:53:38-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Kicillof sigue con recorridas en clave electoral: desembarca en Jujuy y prepara su viaje a Santa Fe",
-          "link": "https://www.infobae.com/politica/2026/10/30/kicillof-sigue-con-recorridas-en-clave-electoral-desembarca-en-jujuy-y-prepara-su-viaje-a-santa-fe/",
-          "hora": "2026-10-30T09:47:30-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "El Gobierno cumplió un doble objetivo en el Senado: aprobó proyectos de promoción de inversiones y contentó a aliados",
-          "link": "https://www.ambito.com/politica/doble-objetivo-del-gobierno-el-senado-promover-inversiones-regionales-y-contentar-aliados-n6339528",
-          "hora": "2026-10-29T22:26:00-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "La historia del pueblo de Jujuy que se fundó sobre minas de oro y celebró 432 años de existencia",
-          "link": "https://www.infobae.com/sociedad/2026/10/29/la-historia-del-pueblo-de-jujuy-que-se-fundo-sobre-minas-de-oro-y-celebro-432-anos-de-existencia/",
-          "hora": "2026-10-29T19:13:35-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "el-dolor-de-evangelina-anderson-tras-la-muerte-de-una-amiga",
-      "titulo": "El ida y vuelta romántico de Marina Calabró y Rolando Barbano para celebrar su aniversario: “Te amo locamente”",
+      "id": "james-gunn-dio-detalles-sobre-el-posible-regreso-de-margot-r",
+      "titulo": "James Gunn dio detalles sobre el posible regreso de Margot Robbie como Harley Quinn al Universo DC",
       "categoria": "espectaculos",
       "prioritaria": false,
-      "desde": "2026-10-29T20:04:38-03:00",
+      "desde": "2026-10-29T20:18:00-03:00",
       "calor": 43,
       "medios": [
-        "La Nación",
         "Infobae",
+        "Ámbito",
         "TN"
       ],
       "en_x": false,
@@ -2883,22 +2605,22 @@
       "en_google": false,
       "notas": [
         {
-          "medio": "Infobae",
-          "titulo": "El ida y vuelta romántico de Marina Calabró y Rolando Barbano para celebrar su aniversario: “Te amo locamente”",
-          "link": "https://www.infobae.com/teleshow/2026/10/30/el-ida-y-vuelta-romantico-de-marina-calabro-y-rolando-barbano-para-celebrar-su-aniversario-te-amo-locamente/",
-          "hora": "2026-10-30T16:04:39-03:00"
-        },
-        {
           "medio": "TN",
-          "titulo": "Evangelina Anderson marcó tendencia en París: boinas, trench, vestido romántico y microbikinis audaces",
-          "link": "https://tn.com.ar/estilo/moda/2026/10/30/evangelina-anderson-marco-tendencia-en-paris-boinas-trench-vestido-romantico-y-microbikinis-audaces/",
-          "hora": "2026-10-30T12:45:48-03:00"
+          "titulo": "Halloween: Paris Hilton vistió a su familia como Los Locos Adams y la hija de Kim Kardashian eligió el universo Tim Burton",
+          "link": "https://tn.com.ar/estilo/celebridades/2026/10/30/halloween-paris-hilton-vistio-a-su-familia-como-los-locos-adams-y-la-hija-de-kim-kardashian-eligio-el-universo-tim-burton/",
+          "hora": "2026-10-30T14:59:40-03:00"
         },
         {
-          "medio": "La Nación",
-          "titulo": "El dolor de Evangelina Anderson tras la muerte de una amiga: “Cuesta entender que ya no estás”",
-          "link": "https://www.lanacion.com.ar/espectaculos/el-dolor-de-evangelina-anderson-tras-la-muerte-de-una-amiga-cuesta-entender-que-ya-no-estas-nid28102026/",
-          "hora": "2026-10-29T20:04:38-03:00"
+          "medio": "Infobae",
+          "titulo": "El casting del nuevo Batman ya ha empezado y James Gunn da las primeras pistas: “No tiene por qué ser una estrella, pero sí de la misma edad que Superman”",
+          "link": "https://www.infobae.com/espana/cultura/2026/10/30/el-casting-del-nuevo-batman-ya-ha-empezado-y-james-gunn-da-las-primeras-pistas-no-tiene-por-que-ser-una-estrella-pero-si-de-la-misma-edad-que-superman/",
+          "hora": "2026-10-30T03:43:03-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "James Gunn dio detalles sobre el posible regreso de Margot Robbie como Harley Quinn al Universo DC",
+          "link": "https://www.ambito.com/espectaculos/james-gunn-dio-detalles-el-posible-regreso-margot-robbie-como-harley-quinn-al-universo-dc-n6339433",
+          "hora": "2026-10-29T20:18:00-03:00"
         }
       ],
       "oficiales": [],
@@ -2984,38 +2706,70 @@
       "angulos": []
     },
     {
-      "id": "julio-bocca-suma-un-nuevo-reconocimiento-internacional-y-el",
-      "titulo": "Julio Bocca suma un nuevo reconocimiento internacional y el Ballet Estable del Colón ganó un Premio María Guerrero",
-      "categoria": "social",
-      "prioritaria": true,
-      "desde": "2026-10-30T08:10:53-03:00",
+      "id": "jimena-baron-hablo-de-la-salud-de-daniel-osvaldo-y-revelo-co",
+      "titulo": "Jimena Barón habló de la salud de Daniel Osvaldo y reveló cómo se encuentra tras su internación",
+      "categoria": "espectaculos",
+      "prioritaria": false,
+      "desde": "2026-10-30T10:31:17-03:00",
       "calor": 43,
       "medios": [
+        "La Nación",
+        "TN"
+      ],
+      "en_x": true,
+      "posicion_x": 49,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "TN",
+          "titulo": "Jimena Barón se emocionó con el parto de su perra y mostró fotos: “Gracias por hacerme abuela”",
+          "link": "https://tn.com.ar/show/famosos/2026/10/30/jimena-baron-se-emociono-con-el-parto-de-su-perra-y-mostro-fotos-gracias-por-hacerme-abuela/",
+          "hora": "2026-10-30T13:27:05-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Jimena Barón habló de la salud de Daniel Osvaldo y reveló cómo se encuentra tras su internación",
+          "link": "https://www.lanacion.com.ar/espectaculos/jimena-baron-hablo-de-la-salud-de-daniel-osvaldo-y-revelo-como-se-encuentra-tras-su-internacion-nid30102026/",
+          "hora": "2026-10-30T10:31:17-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "plazo-fijo-cual-es-la-tasa-de-interes-banco-por-banco-este-v",
+      "titulo": "Plazo fijo: cuál es la tasa de interés banco por banco este viernes 30 de octubre",
+      "categoria": "economia",
+      "prioritaria": true,
+      "desde": "2026-10-30T12:00:00-03:00",
+      "calor": 43,
+      "medios": [
+        "La Nación",
         "Infobae",
-        "Clarín",
-        "Página/12"
+        "Ámbito"
       ],
       "en_x": false,
       "posicion_x": null,
       "en_google": false,
       "notas": [
         {
-          "medio": "Clarín",
-          "titulo": "Julio Bocca suma un nuevo reconocimiento internacional y el Ballet Estable del Colón ganó un Premio María Guerrero",
-          "link": "https://www.clarin.com/espectaculos/julio-bocca-suma-nuevo-reconocimiento-internacional-ballet-estable-colon-gano-premio-maria-guerrero_0_Jx24meNJGE.html",
-          "hora": "2026-10-30T15:51:52-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "N5 ganó el Premio a la Innovación con Impacto 2026 de la Fundación Banco Nación y Endeavor Argentina",
-          "link": "https://www.pagina12.com.ar/2026/10/30/n5-gano-el-premio-a-la-innovacion-con-impacto-2026-de-la-fundacion-banco-nacion-y-endeavor-argentina/",
-          "hora": "2026-10-30T10:48:01-03:00"
-        },
-        {
           "medio": "Infobae",
-          "titulo": "Daniel Hadad fue distinguido con el Premio Menora Internacional 2026 por su contribución a las futuras generaciones",
-          "link": "https://www.infobae.com/sociedad/2026/10/30/daniel-hadad-fue-distinguido-con-el-premio-menora-internacional-2026-por-su-contribucion-a-las-futuras-generaciones/",
-          "hora": "2026-10-30T08:10:53-03:00"
+          "titulo": "Banco de la República mantuvo la tasa de interés en 12,25% por decisión mayoritaria",
+          "link": "https://www.infobae.com/colombia/2026/10/30/banco-de-la-republica-mantuvo-la-tasa-de-interes-en-1225-por-decision-mayoritaria/",
+          "hora": "2026-10-30T17:09:02-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Plazo fijo: cuál es la tasa de interés banco por banco este viernes 30 de octubre",
+          "link": "https://www.lanacion.com.ar/economia/plazo-fijo-cual-es-la-tasa-de-interes-banco-por-banco-este-viernes-30-de-octubre-nid30102026/",
+          "hora": "2026-10-30T15:00:36-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Plazo fijo: cuánto ganás si depositás $1.500.000 a 30 días",
+          "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-ganas-si-depositas-1500000-30-dias-n6339025",
+          "hora": "2026-10-30T12:00:00-03:00"
         }
       ],
       "oficiales": [],
@@ -3062,38 +2816,121 @@
       "angulos": []
     },
     {
-      "id": "brasil-convoca-a-la-representante-diplomatica-de-argentina-p",
-      "titulo": "Brasil convoca a la representante diplomática de Argentina para que dé explicaciones sobre la fuga de Bolsonaro",
+      "id": "kicillof-sigue-de-gira-por-el-pais-visita-jujuy-con-el-objet",
+      "titulo": "Kicillof sigue de gira por el país: visita Jujuy con el objetivo de fortalecer su proyecto presidencial",
       "categoria": "politica",
       "prioritaria": true,
-      "desde": "2026-10-30T13:50:03-03:00",
-      "calor": 43,
+      "desde": "2026-10-29T19:13:35-03:00",
+      "calor": 42,
       "medios": [
-        "Clarín",
         "Infobae",
-        "TN"
+        "La Nación",
+        "Ámbito"
       ],
       "en_x": false,
       "posicion_x": null,
       "en_google": false,
       "notas": [
         {
-          "medio": "Infobae",
-          "titulo": "Brasil convoca a la representante diplomática de Argentina para que dé explicaciones sobre la fuga de Bolsonaro",
-          "link": "https://www.infobae.com/america/agencias/2026/10/30/brasil-convoca-a-la-representante-diplomatica-de-argentina-para-que-de-explicaciones-sobre-la-fuga-de-bolsonaro/",
-          "hora": "2026-10-30T16:16:00-03:00"
+          "medio": "La Nación",
+          "titulo": "Kicillof sigue de gira por el país: visita Jujuy con el objetivo de fortalecer su proyecto presidencial",
+          "link": "https://www.lanacion.com.ar/politica/kicillof-sigue-de-gira-por-el-pais-visita-jujuy-con-el-objetivo-de-fortalecer-su-proyecto-nid30102026/",
+          "hora": "2026-10-30T11:53:38-03:00"
         },
+        {
+          "medio": "Infobae",
+          "titulo": "Kicillof sigue con recorridas en clave electoral: desembarca en Jujuy y prepara su viaje a Santa Fe",
+          "link": "https://www.infobae.com/politica/2026/10/30/kicillof-sigue-con-recorridas-en-clave-electoral-desembarca-en-jujuy-y-prepara-su-viaje-a-santa-fe/",
+          "hora": "2026-10-30T09:47:30-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "El Gobierno cumplió un doble objetivo en el Senado: aprobó proyectos de promoción de inversiones y contentó a aliados",
+          "link": "https://www.ambito.com/politica/doble-objetivo-del-gobierno-el-senado-promover-inversiones-regionales-y-contentar-aliados-n6339528",
+          "hora": "2026-10-29T22:26:00-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "La historia del pueblo de Jujuy que se fundó sobre minas de oro y celebró 432 años de existencia",
+          "link": "https://www.infobae.com/sociedad/2026/10/29/la-historia-del-pueblo-de-jujuy-que-se-fundo-sobre-minas-de-oro-y-celebro-432-anos-de-existencia/",
+          "hora": "2026-10-29T19:13:35-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "carlos-tevez-confirmo-que-lionel-messi-y-juan-roman-riquelme",
+      "titulo": "Carlos Tevez confirmó que Lionel Messi y Juan Román Riquelme “van a jugar” en su partido despedida",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-10-29T22:26:51-03:00",
+      "calor": 42,
+      "medios": [
+        "La Nación",
+        "Clarín",
+        "Página/12"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
         {
           "medio": "Clarín",
-          "titulo": "Brasil convoca a representante diplomática argentina por huida de Flávio Bolsonaro",
-          "link": "https://www.clarin.com/estados-unidos/brasil-convoca-a-representante-diplomatica-argentina-por-huida-de-flavio-bolsonaro_0_0uioiG2KZf.html",
-          "hora": "2026-10-30T16:10:17-03:00"
+          "titulo": "Insólito caso en el fútbol de Escocia: un equipo debe jugar dos partidos al mismo tiempo y en estadios separados por 105 kilómetros",
+          "link": "https://www.clarin.com/deportes/insolito-caso-futbol-escocia-equipo-debe-jugar-partidos-mismo-tiempo-estadios-separados-105-kilometros_0_od4frofhEt.html",
+          "hora": "2026-10-30T13:16:49-03:00"
         },
         {
-          "medio": "TN",
-          "titulo": "El gobierno de Lula citó a la máxima representante diplomática argentina para que dé explicaciones por la fuga de Bolsonaro",
-          "link": "https://tn.com.ar/politica/2026/10/30/el-gobierno-de-lula-cito-a-la-encargada-de-negocios-de-la-argentina-en-brasil-para-pedirle-explicaciones-por-la-fuga-de-bolsonaro/",
-          "hora": "2026-10-30T13:50:03-03:00"
+          "medio": "Página/12",
+          "titulo": "Carlos Tevez: “Messi y Riquelme van a jugar en mi despedida”",
+          "link": "https://www.pagina12.com.ar/2026/10/29/carlos-tevez-messi-y-riquelme-van-a-jugar-en-mi-despedida/",
+          "hora": "2026-10-30T00:01:01-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Carlos Tevez confirmó que Lionel Messi y Juan Román Riquelme “van a jugar” en su partido despedida",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/carlos-tevez-confirmo-que-lionel-messi-y-juan-roman-riquelme-van-a-jugar-en-su-partido-despedida-nid29102026/",
+          "hora": "2026-10-29T22:26:51-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "nuevo-foco-de-malestar-con-bullrich-y-aparecen-diferencias-e",
+      "titulo": "Nuevo foco de malestar con Bullrich y aparecen diferencias en el Gobierno sobre cómo lidiar con sus desmarques",
+      "categoria": "politica",
+      "prioritaria": true,
+      "desde": "2026-10-30T00:00:00-03:00",
+      "calor": 42,
+      "medios": [
+        "Infobae",
+        "Ámbito"
+      ],
+      "en_x": true,
+      "posicion_x": 31,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Nuevo foco de malestar con Bullrich y aparecen diferencias en el Gobierno sobre cómo lidiar con sus desmarques",
+          "link": "https://www.infobae.com/politica/2026/10/30/nuevo-foco-de-malestar-con-bullrich-y-aparecen-diferencias-en-el-gobierno-sobre-como-lidiar-con-sus-desmarques/",
+          "hora": "2026-10-30T02:20:42-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Milei y el costo de no aflojar: los límites de sus aliados y el malestar de la Iglesia antes de la llegada del Papa",
+          "link": "https://www.infobae.com/politica/2026/10/30/milei-y-el-costo-de-no-aflojar-los-limites-de-sus-aliados-y-el-malestar-de-la-iglesia-antes-de-la-llegada-del-papa/",
+          "hora": "2026-10-30T02:17:50-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Lo que se dice en las mesas: bajo la sangría brasileña, Javier Milei se diferencia con su ancla fiscal, ¿le alcanzará?",
+          "link": "https://www.ambito.com/economia/lo-que-se-dice-las-mesas-la-sangria-brasilena-javier-milei-se-diferencia-su-ancla-fiscal-le-alcanzara-n6339568",
+          "hora": "2026-10-30T00:00:00-03:00"
         }
       ],
       "oficiales": [],
@@ -3106,7 +2943,7 @@
       "categoria": "politica",
       "prioritaria": true,
       "desde": "2026-10-29T18:49:00-03:00",
-      "calor": 42,
+      "calor": 41,
       "medios": [
         "La Nación",
         "Infobae",
@@ -3133,106 +2970,6 @@
           "titulo": "Senado: Diego Santilli desactivó la jugada del PJ y brindará su informe de gestión el mes que viene",
           "link": "https://www.ambito.com/politica/con-guino-aliados-el-senado-volvera-sesionar-proyectos-inversion-n6338993",
           "hora": "2026-10-29T18:49:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "lo-mas-visto-en-netflix-espana-las-10-series-mas-exitosas-de",
-      "titulo": "Lo más visto en Netflix Colombia: las 10 películas más exitosas del momento, con “Contra el huracán” a la cabeza",
-      "categoria": "espectaculos",
-      "prioritaria": false,
-      "desde": "2026-10-29T12:01:00-03:00",
-      "calor": 41,
-      "medios": [
-        "Clarín",
-        "La Nación"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "Contra el huracán: la impactante historia real detrás de la película que lidera el ranking de Netflix en la Argentina",
-          "link": "https://www.lanacion.com.ar/espectaculos/contra-el-huracan-la-impactante-historia-real-detras-de-la-pelicula-que-lidera-el-ranking-de-netflix-nid30102026/",
-          "hora": "2026-10-30T14:19:54-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Lo más visto en Netflix Estados Unidos: las 10 películas más exitosas del momento, con “Animales” a la cabeza",
-          "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-estados-unidos-las-10-peliculas-mas-exitosas-del-momento-con-animales-a-la-cabeza_0_Mow6z2Ph8X.html",
-          "hora": "2026-10-30T08:41:15-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Lo más visto en Netflix México: las 10 películas más exitosas del momento, con “Contra el huracán” a la cabeza",
-          "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-mexico-las-10-peliculas-mas-exitosas-del-momento-con-contra-el-huracan-a-la-cabeza_0_GH9rM3W3sb.html",
-          "hora": "2026-10-30T08:41:11-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Lo más visto en Netflix España: las 10 películas más exitosas del momento, con “Cada día nace un listo” a la cabeza",
-          "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-espana-las-10-peliculas-mas-exitosas-del-momento-con-cada-dia-nace-un-listo-a-la-cabeza_0_0OE62XBKRy.html",
-          "hora": "2026-10-30T08:41:09-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Lo más visto en Netflix Colombia: las 10 películas más exitosas del momento, con “Contra el huracán” a la cabeza",
-          "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-colombia-las-10-peliculas-mas-exitosas-del-momento-con-contra-el-huracan-a-la-cabeza_0_tePeZZiItS.html",
-          "hora": "2026-10-30T08:41:04-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "binance-investiga-un-posible-hackeo-tras-la-salida-de-miles-4",
-      "titulo": "Habló el CEO de Binance tras el hackeo millonario: \"Sus activos están seguros\"",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-10-29T15:16:09-03:00",
-      "calor": 41,
-      "medios": [
-        "Infobae",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "“Si vas a entrar al mundo laboral, conviene empezar tu carrera en momento de grandes cambios”: Sam Altman, CEO de OpenAI",
-          "link": "https://www.infobae.com/tecno/2026/10/30/si-vas-a-entrar-al-mundo-laboral-conviene-empezar-tu-carrera-en-momento-de-grandes-cambios-sam-altman-ceo-de-openai/",
-          "hora": "2026-10-30T16:37:08-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "El hackeo a Binance: cómo operó el ataque millonario y quiénes están bajo sospecha",
-          "link": "https://www.infobae.com/economia/2026/10/30/el-hackeo-a-binance-como-opero-el-ataque-millonario-y-quienes-estan-bajo-sospecha/",
-          "hora": "2026-10-30T16:35:19-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Habló el CEO de Binance tras el hackeo millonario: \"Sus activos están seguros\"",
-          "link": "https://www.infobae.com/economia/2026/10/30/hablo-el-ceo-de-binance-tras-el-hackeo-millonario-sus-activos-estan-seguros/",
-          "hora": "2026-10-30T12:42:08-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "El CEO de Binance explicó qué billetera fue hackeada y buscó llevar tranquilidad a sus clientes: “Cubriremos todas las pérdidas”",
-          "link": "https://tn.com.ar/tecno/2026/10/30/el-ceo-de-binance-explico-que-billetera-fue-hackeada-y-busco-llevar-tranquilidad-a-sus-clientes-cubriremos-todas-las-perdidas/",
-          "hora": "2026-10-30T12:32:09-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Apple y OpenAI irán a juicio: las claves del enfrentamiento entre las compañías tecnológicas",
-          "link": "https://tn.com.ar/tecno/novedades/2026/10/30/apple-y-openai-iran-a-juicio-las-claves-de-la-disputa-entre-las-companias-tecnologicas/",
-          "hora": "2026-10-30T10:06:48-03:00"
         }
       ],
       "oficiales": [],
@@ -3288,6 +3025,169 @@
       "oficiales": [],
       "resumen": null,
       "angulos": []
+    },
+    {
+      "id": "el-banco-central-confirmo-que-envio-oro-a-londres-y-volvio-a",
+      "titulo": "El Banco Central confirmó que envió oro a Londres y volvió a defender sus operaciones",
+      "categoria": "economia",
+      "prioritaria": true,
+      "desde": "2026-10-30T02:37:02-03:00",
+      "calor": 41,
+      "medios": [
+        "Infobae",
+        "La Nación"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Exigen justicia por el asesinato del activista indígena Reynaldo Pérez: “Defender los derechos no debe poner en riesgo la vida”",
+          "link": "https://www.infobae.com/mexico/2026/10/30/exigen-justicia-por-el-asesinato-del-activista-indigena-reynaldo-perez-defender-los-derechos-no-debe-poner-en-riesgo-la-vida/",
+          "hora": "2026-10-30T17:06:06-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Gran Premio de México 2026: a qué hora y dónde ver en vivo la carrera 300 de Checo Pérez en la F1",
+          "link": "https://www.infobae.com/mexico/deportes/2026/10/30/gran-premio-de-mexico-2026-a-que-hora-y-donde-ver-en-vivo-la-carrera-300-de-checo-perez-en-la-f1/",
+          "hora": "2026-10-30T16:39:56-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Revés para el DHS: una jueza suspende hasta el 6 de noviembre la norma que reducía el plazo para defender un estatus",
+          "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/reves-para-el-dhs-una-jueza-suspende-hasta-el-6-de-noviembre-la-norma-que-reducia-el-plazo-para-nid30102026/",
+          "hora": "2026-10-30T16:03:37-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "El Banco Central confirmó que envió oro a Londres y volvió a defender sus operaciones",
+          "link": "https://www.lanacion.com.ar/economia/el-bcra-volvio-a-defender-sus-operaciones-con-el-oro-pero-sin-identificar-con-quien-opero-ni-donde-nid29102026/",
+          "hora": "2026-10-30T09:47:00-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "El Banco Central celebró que el dólar subió solo 1% pese al shock de Brasil y volvió a negar atraso cambiario",
+          "link": "https://www.infobae.com/economia/2026/10/30/el-banco-central-celebro-que-el-dolar-subio-solo-1-pese-al-shock-de-brasil-y-volvio-a-negar-atraso-cambiario/",
+          "hora": "2026-10-30T02:37:02-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "el-emotivo-gesto-de-robin-williams-que-judi-dench-guardo-en",
+      "titulo": "Gerónimo Rulli, la figura invisible del arco que le sirve mates a Haaland, es especialista en penales y hace historia en silencio",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-10-30T06:00:01-03:00",
+      "calor": 41,
+      "medios": [
+        "La Nación"
+      ],
+      "en_x": true,
+      "posicion_x": 34,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "Gerónimo Rulli, la figura invisible del arco que le sirve mates a Haaland, es especialista en penales y hace historia en silencio",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/geronimo-rulli-la-figura-invisible-del-arco-que-le-sirve-mates-a-haaland-es-especialista-en-penales-nid30102026/",
+          "hora": "2026-10-30T15:02:03-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "resultado-de-las-elecciones-en-israel-2026-quien-gana-en-una",
+      "titulo": "Resultado de las elecciones en Israel 2026: quién gana en una elección reñida entre Netanyahu y Eisenkot",
+      "categoria": "otros",
+      "prioritaria": false,
+      "desde": "2026-10-29T12:34:41-03:00",
+      "calor": 40,
+      "medios": [
+        "Infobae",
+        "La Nación"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "Midterms USA 2026, en vivo: cómo llega Trump a las elecciones y quién gana entre demócratas y republicanos hoy",
+          "link": "https://www.lanacion.com.ar/estados-unidos/washington/midterms-usa-2026-en-vivo-como-llega-donald-trump-a-las-elecciones-y-quien-gana-entre-democratas-y-nid30102026/",
+          "hora": "2026-10-30T16:49:17-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Quién ganó las elecciones de Israel 2026: números parejos mientras Netanyahu pide esperar los “resultados reales”",
+          "link": "https://www.lanacion.com.ar/el-mundo/quien-gano-las-elecciones-de-israel-2026-numeros-parejos-mientras-netanyahu-pide-esperar-los-nid28102026/",
+          "hora": "2026-10-30T15:58:17-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Resultado de las elecciones en Israel 2026: quién gana en una elección reñida entre Netanyahu y Eisenkot",
+          "link": "https://www.lanacion.com.ar/el-mundo/resultado-de-las-elecciones-en-israel-2026-quien-gana-en-una-eleccion-renida-entre-netanyahu-y-nid29102026/",
+          "hora": "2026-10-30T15:56:34-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "La embajadora de Israel alertó sobre el avance del antisemitismo y dijo que hay más atentados contra sedes diplomáticas",
+          "link": "https://www.infobae.com/politica/2026/10/30/la-embajadora-de-israel-alerto-sobre-el-avance-del-antisemitismo-y-dijo-que-hay-mas-atentados-contra-sedes-diplomaticas/",
+          "hora": "2026-10-30T10:58:18-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "binance-investiga-un-posible-hackeo-tras-la-salida-de-miles-4",
+      "titulo": "Habló el CEO de Binance tras el hackeo millonario: \"Sus activos están seguros\"",
+      "categoria": "economia",
+      "prioritaria": true,
+      "desde": "2026-10-29T15:16:09-03:00",
+      "calor": 40,
+      "medios": [
+        "Infobae",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "“Si vas a entrar al mundo laboral, conviene empezar tu carrera en momento de grandes cambios”: Sam Altman, CEO de OpenAI",
+          "link": "https://www.infobae.com/tecno/2026/10/30/si-vas-a-entrar-al-mundo-laboral-conviene-empezar-tu-carrera-en-momento-de-grandes-cambios-sam-altman-ceo-de-openai/",
+          "hora": "2026-10-30T16:37:08-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "El hackeo a Binance: cómo operó el ataque millonario y quiénes están bajo sospecha",
+          "link": "https://www.infobae.com/economia/2026/10/30/el-hackeo-a-binance-como-opero-el-ataque-millonario-y-quienes-estan-bajo-sospecha/",
+          "hora": "2026-10-30T16:35:19-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Habló el CEO de Binance tras el hackeo millonario: \"Sus activos están seguros\"",
+          "link": "https://www.infobae.com/economia/2026/10/30/hablo-el-ceo-de-binance-tras-el-hackeo-millonario-sus-activos-estan-seguros/",
+          "hora": "2026-10-30T12:42:08-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "El CEO de Binance explicó qué billetera fue hackeada y buscó llevar tranquilidad a sus clientes: “Cubriremos todas las pérdidas”",
+          "link": "https://tn.com.ar/tecno/2026/10/30/el-ceo-de-binance-explico-que-billetera-fue-hackeada-y-busco-llevar-tranquilidad-a-sus-clientes-cubriremos-todas-las-perdidas/",
+          "hora": "2026-10-30T12:32:09-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
     }
   ],
   "tendencias_x": [
@@ -3323,13 +3223,13 @@
     },
     {
       "posicion": 7,
-      "nombre": "Patrick Stewart",
-      "link": "https://x.com/search?q=Patrick%20Stewart"
+      "nombre": "Halloween",
+      "link": "https://x.com/search?q=Halloween"
     },
     {
       "posicion": 8,
-      "nombre": "Halloween",
-      "link": "https://x.com/search?q=Halloween"
+      "nombre": "Patrick Stewart",
+      "link": "https://x.com/search?q=Patrick%20Stewart"
     },
     {
       "posicion": 9,
@@ -3338,18 +3238,18 @@
     },
     {
       "posicion": 10,
+      "nombre": "#CASTAMARCA",
+      "link": "https://x.com/search?q=%23CASTAMARCA"
+    },
+    {
+      "posicion": 11,
       "nombre": "#BuenViernes",
       "link": "https://x.com/search?q=%23BuenViernes"
     },
     {
-      "posicion": 11,
+      "posicion": 12,
       "nombre": "#KarinaChorra",
       "link": "https://x.com/search?q=%23KarinaChorra"
-    },
-    {
-      "posicion": 12,
-      "nombre": "#CASTAMARCA",
-      "link": "https://x.com/search?q=%23CASTAMARCA"
     },
     {
       "posicion": 13,
@@ -3368,18 +3268,18 @@
     },
     {
       "posicion": 16,
-      "nombre": "Spagnuolo",
-      "link": "https://x.com/search?q=Spagnuolo"
-    },
-    {
-      "posicion": 17,
       "nombre": "El Senado",
       "link": "https://x.com/search?q=El%20Senado"
     },
     {
-      "posicion": 18,
+      "posicion": 17,
       "nombre": "Pallares",
       "link": "https://x.com/search?q=Pallares"
+    },
+    {
+      "posicion": 18,
+      "nombre": "Spagnuolo",
+      "link": "https://x.com/search?q=Spagnuolo"
     },
     {
       "posicion": 19,
@@ -3388,8 +3288,8 @@
     },
     {
       "posicion": 20,
-      "nombre": "Feliz Navidad",
-      "link": "https://x.com/search?q=Feliz%20Navidad"
+      "nombre": "El Diego",
+      "link": "https://x.com/search?q=El%20Diego"
     },
     {
       "posicion": 21,
@@ -3403,18 +3303,18 @@
     },
     {
       "posicion": 23,
-      "nombre": "Wattpad",
-      "link": "https://x.com/search?q=Wattpad"
+      "nombre": "Feliz Navidad",
+      "link": "https://x.com/search?q=Feliz%20Navidad"
     },
     {
       "posicion": 24,
-      "nombre": "El Diego",
-      "link": "https://x.com/search?q=El%20Diego"
+      "nombre": "Leclerc",
+      "link": "https://x.com/search?q=Leclerc"
     },
     {
       "posicion": 25,
-      "nombre": "Lussich",
-      "link": "https://x.com/search?q=Lussich"
+      "nombre": "Wattpad",
+      "link": "https://x.com/search?q=Wattpad"
     },
     {
       "posicion": 26,
@@ -3423,13 +3323,13 @@
     },
     {
       "posicion": 27,
-      "nombre": "Iglesias",
-      "link": "https://x.com/search?q=Iglesias"
+      "nombre": "Lussich",
+      "link": "https://x.com/search?q=Lussich"
     },
     {
       "posicion": 28,
-      "nombre": "Picard",
-      "link": "https://x.com/search?q=Picard"
+      "nombre": "Ronaldo Nazario",
+      "link": "https://x.com/search?q=Ronaldo%20Nazario"
     },
     {
       "posicion": 29,
@@ -3443,63 +3343,63 @@
     },
     {
       "posicion": 31,
+      "nombre": "Iglesias",
+      "link": "https://x.com/search?q=Iglesias"
+    },
+    {
+      "posicion": 32,
       "nombre": "4mation out now",
       "link": "https://x.com/search?q=4mation%20out%20now"
     },
     {
-      "posicion": 32,
-      "nombre": "Ronaldo Nazario",
-      "link": "https://x.com/search?q=Ronaldo%20Nazario"
-    },
-    {
       "posicion": 33,
-      "nombre": "Star Trek",
-      "link": "https://x.com/search?q=Star%20Trek"
+      "nombre": "Picard",
+      "link": "https://x.com/search?q=Picard"
     },
     {
       "posicion": 34,
-      "nombre": "Duki",
-      "link": "https://x.com/search?q=Duki"
-    },
-    {
-      "posicion": 35,
-      "nombre": "Gendarmería",
-      "link": "https://x.com/search?q=Gendarmer%C3%ADa"
-    },
-    {
-      "posicion": 36,
-      "nombre": "FELIZ CUMPLE DIEGO",
-      "link": "https://x.com/search?q=FELIZ%20CUMPLE%20DIEGO"
-    },
-    {
-      "posicion": 37,
-      "nombre": "Jeremías Martinet",
-      "link": "https://x.com/search?q=Jerem%C3%ADas%20Martinet"
-    },
-    {
-      "posicion": 38,
-      "nombre": "Enrique Piñeyro",
-      "link": "https://x.com/search?q=Enrique%20Pi%C3%B1eyro"
-    },
-    {
-      "posicion": 39,
       "nombre": "Rulli",
       "link": "https://x.com/search?q=Rulli"
     },
     {
+      "posicion": 35,
+      "nombre": "Star Trek",
+      "link": "https://x.com/search?q=Star%20Trek"
+    },
+    {
+      "posicion": 36,
+      "nombre": "Duki",
+      "link": "https://x.com/search?q=Duki"
+    },
+    {
+      "posicion": 37,
+      "nombre": "Gendarmería",
+      "link": "https://x.com/search?q=Gendarmer%C3%ADa"
+    },
+    {
+      "posicion": 38,
+      "nombre": "FELIZ CUMPLE DIEGO",
+      "link": "https://x.com/search?q=FELIZ%20CUMPLE%20DIEGO"
+    },
+    {
+      "posicion": 39,
+      "nombre": "Jeremías Martinet",
+      "link": "https://x.com/search?q=Jerem%C3%ADas%20Martinet"
+    },
+    {
       "posicion": 40,
+      "nombre": "Enrique Piñeyro",
+      "link": "https://x.com/search?q=Enrique%20Pi%C3%B1eyro"
+    },
+    {
+      "posicion": 41,
       "nombre": "Venezuela",
       "link": "https://x.com/search?q=Venezuela"
     },
     {
-      "posicion": 41,
-      "nombre": "Evo Morales",
-      "link": "https://x.com/search?q=Evo%20Morales"
-    },
-    {
       "posicion": 42,
-      "nombre": "Charles Xavier",
-      "link": "https://x.com/search?q=Charles%20Xavier"
+      "nombre": "Bicibandido",
+      "link": "https://x.com/search?q=Bicibandido"
     },
     {
       "posicion": 43,
@@ -3513,40 +3413,65 @@
     },
     {
       "posicion": 45,
-      "nombre": "jisoo",
-      "link": "https://x.com/search?q=jisoo"
-    },
-    {
-      "posicion": 46,
       "nombre": "Pelusa",
       "link": "https://x.com/search?q=Pelusa"
     },
     {
+      "posicion": 46,
+      "nombre": "Scaloni",
+      "link": "https://x.com/search?q=Scaloni"
+    },
+    {
       "posicion": 47,
-      "nombre": "Profesor X",
-      "link": "https://x.com/search?q=Profesor%20X"
+      "nombre": "Jisoo",
+      "link": "https://x.com/search?q=Jisoo"
     },
     {
       "posicion": 48,
-      "nombre": "Honor y Gloria",
-      "link": "https://x.com/search?q=Honor%20y%20Gloria"
+      "nombre": "PET SOCIETY",
+      "link": "https://x.com/search?q=PET%20SOCIETY"
     },
     {
       "posicion": 49,
-      "nombre": "Pagano",
-      "link": "https://x.com/search?q=Pagano"
+      "nombre": "Jimena Barón",
+      "link": "https://x.com/search?q=Jimena%20Bar%C3%B3n"
     },
     {
       "posicion": 50,
-      "nombre": "Palazzo",
-      "link": "https://x.com/search?q=Palazzo"
+      "nombre": "Intel",
+      "link": "https://x.com/search?q=Intel"
     }
   ],
   "google_trends": [
     {
+      "nombre": "clima mendoza",
+      "trafico": "200+",
+      "link": "https://www.google.com/search?q=clima%20mendoza"
+    },
+    {
+      "nombre": "nieta",
+      "trafico": "100+",
+      "link": "https://www.google.com/search?q=nieta"
+    },
+    {
+      "nombre": "carlos melconian",
+      "trafico": "100+",
+      "link": "https://www.google.com/search?q=carlos%20melconian"
+    },
+    {
+      "nombre": "ejecución",
+      "trafico": "100+",
+      "link": "https://www.google.com/search?q=ejecuci%C3%B3n"
+    },
+    {
       "nombre": "villarreal - rcd espanyol",
-      "trafico": "500+",
+      "trafico": "1000+",
       "link": "https://www.google.com/search?q=villarreal%20-%20rcd%20espanyol"
+    },
+    {
+      "nombre": "playstation plus",
+      "trafico": "200+",
+      "link": "https://www.google.com/search?q=playstation%20plus"
     },
     {
       "nombre": "bbc news mundo",
@@ -3557,26 +3482,6 @@
       "nombre": "clima concordia",
       "trafico": "200+",
       "link": "https://www.google.com/search?q=clima%20concordia"
-    },
-    {
-      "nombre": "estadio monumental",
-      "trafico": "100+",
-      "link": "https://www.google.com/search?q=estadio%20monumental"
-    },
-    {
-      "nombre": "aceite",
-      "trafico": "100+",
-      "link": "https://www.google.com/search?q=aceite"
-    },
-    {
-      "nombre": "cotización del dólar blue hoy",
-      "trafico": "500+",
-      "link": "https://www.google.com/search?q=cotizaci%C3%B3n%20del%20d%C3%B3lar%20blue%20hoy"
-    },
-    {
-      "nombre": "al-shabab - al-ahli saudi",
-      "trafico": "200+",
-      "link": "https://www.google.com/search?q=al-shabab%20-%20al-ahli%20saudi"
     }
   ],
   "estado_fuentes": [
@@ -3593,7 +3498,7 @@
     {
       "fuente": "La Nación",
       "ok": true,
-      "items": 514
+      "items": 515
     },
     {
       "fuente": "Página/12",
@@ -3618,7 +3523,7 @@
     {
       "fuente": "Google Trends AR",
       "ok": true,
-      "items": 7
+      "items": 8
     },
     {
       "fuente": "INDEC (calendario)",
