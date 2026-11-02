@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-01T20:36:35-03:00",
+  "actualizado": "2026-11-01T21:06:48-03:00",
   "proxima_actualizacion": "2026-11-02T08:00:00-03:00",
   "ia_disponible": false,
   "agenda_hoy": [],
@@ -119,7 +119,7 @@
         "TN"
       ],
       "en_x": true,
-      "posicion_x": 9,
+      "posicion_x": 11,
       "en_google": false,
       "notas": [
         {
@@ -175,7 +175,7 @@
       "categoria": "deportes",
       "prioritaria": false,
       "desde": "2026-11-01T18:20:32-03:00",
-      "calor": 70,
+      "calor": 71,
       "medios": [
         "Clarín",
         "La Nación",
@@ -184,7 +184,7 @@
         "Ámbito"
       ],
       "en_x": true,
-      "posicion_x": 13,
+      "posicion_x": 10,
       "en_google": false,
       "notas": [
         {
@@ -223,16 +223,16 @@
       "angulos": []
     },
     {
-      "id": "el-mexicano-saul-canelo-alvarez-reconquisto-el-titulo-mundia",
-      "titulo": "El mexicano Saúl “Canelo” Álvarez reconquistó el título mundial y demostró por qué su estilo sigue vendiendo entradas",
+      "id": "el-mexicano-saul-canelo-alvarez-reconquisto-el-titulo-mundia-2",
+      "titulo": "Otamendi disparó contra Ramírez, el VAR y su amigo Tapia (sin nombrarlo): “Que designen al campeón y no competimos”",
       "categoria": "deportes",
       "prioritaria": false,
       "desde": "2026-10-31T14:34:24-03:00",
       "calor": 68,
       "medios": [
+        "Clarín",
         "La Nación",
         "Infobae",
-        "Página/12",
         "TN"
       ],
       "en_x": true,
@@ -240,28 +240,80 @@
       "en_google": false,
       "notas": [
         {
+          "medio": "Infobae",
+          "titulo": "“Que designen al campeón y no competimos”: las filosas declaraciones de Otamendi tras las polémicas en el triunfo de Boca ante River",
+          "link": "https://www.infobae.com/deportes/2026/11/01/que-designen-al-campeon-y-no-competimos-las-filosas-declaraciones-de-otamendi-tras-las-polemicas-en-el-triunfo-de-boca-ante-river/",
+          "hora": "2026-11-01T20:52:57-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Otamendi disparó contra Ramírez, el VAR y su amigo Tapia (sin nombrarlo): “Que designen al campeón y no competimos”",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/otamendi-disparo-contra-ramirez-el-var-y-su-amigo-tapia-sin-nombrarlo-que-designen-al-campeon-y-no-nid01112026/",
+          "hora": "2026-11-01T20:51:43-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Otamendi, duro contra la gestión de Tapia en la AFA tras perder el Superclásico: \"Que designen el próximo campeón y no competimos\"",
+          "link": "https://www.clarin.com/deportes/otamendi-duro-gestion-tapia-afa-perder-superclasico-designen-proximo-campeon-competimos_0_tcNavNDWeV.html",
+          "hora": "2026-11-01T20:10:33-03:00"
+        },
+        {
           "medio": "TN",
           "titulo": "La contundente frase de Nicolás Otamendi tras el Superclásico: “Que designen al próximo campeón y directamente no competimos”",
           "link": "https://tn.com.ar/deportes/futbol/2026/11/01/la-fuerte-frase-de-nicolas-otamendi-tras-el-superclasico-que-designen-al-proximo-campeon-y-directamente-no-competimos/",
           "hora": "2026-11-01T18:46:59-03:00"
-        },
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "kimi-el-hijo-deportivo-de-toto-y-el-heredero-de-hamilton-que",
+      "titulo": "El llanto desconsolado de Kimi Antonelli tras consagrarse campeón de la Fórmula 1 y el inesperado gesto de Hamilton",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-10-31T20:41:44-03:00",
+      "calor": 67,
+      "medios": [
+        "Infobae",
+        "La Nación",
+        "Página/12",
+        "TN"
+      ],
+      "en_x": true,
+      "posicion_x": 12,
+      "en_google": false,
+      "notas": [
         {
-          "medio": "Página/12",
-          "titulo": "El duelo de capitanes entre Paredes y Otamendi",
-          "link": "https://www.pagina12.com.ar/2026/11/01/el-duelo-de-capitanes-entre-paredes-y-otamendi/",
-          "hora": "2026-11-01T16:32:00-03:00"
+          "medio": "TN",
+          "titulo": "El emotivo gesto de Max Verstappen y Lewis Hamilton con Kimi Antonelli tras su consagración como campeón de la Fórmula 1",
+          "link": "https://tn.com.ar/deportes/formula-1/2026/11/01/el-emotivo-gesto-de-max-verstappen-y-lewis-hamilton-con-kimi-antonelli-tras-su-consagracion-como-campeon-de-la-formula-1/",
+          "hora": "2026-11-01T20:36:24-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Canelo Álvarez volvió tras 13 meses fuera del boxeo y logró un contundente triunfo: un juez federal argentino fue jurado de la pelea",
-          "link": "https://www.infobae.com/deportes/2026/11/01/canelo-alvarez-volvio-tras-13-meses-fuera-del-boxeo-y-logro-un-contundente-triunfo-un-juez-federal-argentino-fue-jurado-de-la-pelea/",
-          "hora": "2026-11-01T12:29:38-03:00"
+          "titulo": "El llanto desconsolado de Kimi Antonelli tras consagrarse campeón de la Fórmula 1 y el inesperado gesto de Hamilton",
+          "link": "https://www.infobae.com/deportes/2026/11/01/el-llanto-desconsolado-de-kimi-antonelli-tras-consagrarse-campeon-de-la-formula-1-y-el-inesperado-gesto-de-hamilton/",
+          "hora": "2026-11-01T20:18:45-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "El mexicano Saúl “Canelo” Álvarez reconquistó el título mundial y demostró por qué su estilo sigue vendiendo entradas",
-          "link": "https://www.lanacion.com.ar/deportes/boxeo/el-mexicano-saul-canelo-alvarez-reconquisto-el-titulo-mundial-y-demostro-por-que-su-estilo-sigue-nid31102026/",
-          "hora": "2026-10-31T21:18:46-03:00"
+          "titulo": "Así quedó la tabla de posiciones de la Fórmula 1, tras el triunfo de Max Verstappen en el GP de México",
+          "link": "https://www.lanacion.com.ar/deportes/automovilismo/asi-quedo-la-tabla-de-posiciones-de-la-formula-1-tras-el-triunfo-de-max-verstappen-en-el-gp-de-nid01112026/",
+          "hora": "2026-11-01T19:52:57-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Kimi, el hijo deportivo de Toto y el heredero de Hamilton que devolvió el orgullo a Italia",
+          "link": "https://www.infobae.com/america/agencias/2026/11/01/kimi-el-hijo-deportivo-de-toto-y-el-heredero-de-hamilton-que-devolvio-el-orgullo-a-italia/",
+          "hora": "2026-11-01T19:45:26-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Liga Profesional: Talleres sacó provecho del mal momento de Deportivo Riestra",
+          "link": "https://www.pagina12.com.ar/2026/10/31/liga-profesional-talleres-saco-provecho-del-mal-momento-de-deportivo-riestra/",
+          "hora": "2026-11-01T00:01:00-03:00"
         }
       ],
       "oficiales": [],
@@ -274,7 +326,7 @@
       "categoria": "deportes",
       "prioritaria": false,
       "desde": "2026-11-01T15:41:22-03:00",
-      "calor": 66,
+      "calor": 65,
       "medios": [
         "La Nación",
         "Clarín",
@@ -282,7 +334,7 @@
         "TN"
       ],
       "en_x": true,
-      "posicion_x": 14,
+      "posicion_x": 16,
       "en_google": false,
       "notas": [
         {
@@ -314,6 +366,51 @@
           "titulo": "Video: Lautaro Di Lollo le ganó en el área a Lautaro Rivero y marcó el primer gol de Boca en el Superclásico",
           "link": "https://tn.com.ar/videos/deportes/futbol/2026/11/01/video-lautaro-di-lollo-le-gano-en-el-area-a-lautaro-rivero-y-marco-el-primer-gol-de-boca-en-el-superclasico/",
           "hora": "2026-11-01T15:41:22-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "el-look-con-el-que-franco-colapinto-se-robo-toda-la-atencion-2-2",
+      "titulo": "Gran Premio de México: Kimi Antonelli se consagró campeón a los 20 años y Franco Colapinto terminó octavo",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-10-29T12:20:45-03:00",
+      "calor": 64,
+      "medios": [
+        "Infobae",
+        "La Nación",
+        "TN"
+      ],
+      "en_x": true,
+      "posicion_x": 5,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "TN",
+          "titulo": "Gran Premio de México: Franco Colapinto terminó 8° y Andrea Kimi Antonelli se consagró campeón de la Fórmula 1",
+          "link": "https://tn.com.ar/deportes/formula-1/2026/11/01/franco-colapinto-largara-12-en-el-gp-de-mexico-con-el-objetivo-de-volver-a-sumar-puntos-en-la-formula-1/",
+          "hora": "2026-11-01T20:51:17-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Gran Premio de México: Kimi Antonelli se consagró campeón a los 20 años y Franco Colapinto terminó octavo",
+          "link": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-el-gran-premio-de-mexico-en-vivo-nid01112026/",
+          "hora": "2026-11-01T20:15:49-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Kimi Antonelli se corona campeón de la F1 en el Gran Premio de México; Verstappen ganó el podio y Checo Pérez terminó en P17",
+          "link": "https://www.infobae.com/mexico/deportes/2026/11/01/gp-mexico-2026-en-vivo-sigue-a-checo-perez-en-la-formula-1-paradas-en-pits-y-la-pelea-por-el-podio-minuto-a-minuto/",
+          "hora": "2026-11-01T20:04:14-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Franco Colapinto terminó octavo en el Gran Premio de la Ciudad de México, que ganó Max Verstappen: Kimi Antonelli se consagró campeón de la Fórmula 1",
+          "link": "https://www.infobae.com/deportes/2026/11/01/franco-colapinto-largara-desde-el-puesto-11-el-gran-premio-de-mexico-de-la-formula-1-todo-lo-que-hay-que-saber/",
+          "hora": "2026-11-01T19:58:05-03:00"
         }
       ],
       "oficiales": [],
@@ -366,59 +463,15 @@
       "angulos": []
     },
     {
-      "id": "kimi-el-hijo-deportivo-de-toto-y-el-heredero-de-hamilton-que",
-      "titulo": "Kimi, el hijo deportivo de Toto y el heredero de Hamilton que devolvió el orgullo a Italia",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-10-31T20:41:44-03:00",
-      "calor": 60,
-      "medios": [
-        "La Nación",
-        "Infobae",
-        "Página/12"
-      ],
-      "en_x": true,
-      "posicion_x": 19,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "El llanto desconsolado de Kimi Antonelli tras consagrarse campeón de la Fórmula 1 y el inesperado gesto de Hamilton",
-          "link": "https://www.infobae.com/deportes/2026/11/01/el-llanto-desconsolado-de-kimi-antonelli-tras-consagrarse-campeon-de-la-formula-1-y-el-inesperado-gesto-de-hamilton/",
-          "hora": "2026-11-01T20:18:45-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Kimi, el hijo deportivo de Toto y el heredero de Hamilton que devolvió el orgullo a Italia",
-          "link": "https://www.infobae.com/america/agencias/2026/11/01/kimi-el-hijo-deportivo-de-toto-y-el-heredero-de-hamilton-que-devolvio-el-orgullo-a-italia/",
-          "hora": "2026-11-01T19:45:26-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Liga Profesional: Talleres sacó provecho del mal momento de Deportivo Riestra",
-          "link": "https://www.pagina12.com.ar/2026/10/31/liga-profesional-talleres-saco-provecho-del-mal-momento-de-deportivo-riestra/",
-          "hora": "2026-11-01T00:01:00-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Talleres bailó a Riestra: dos disparos quirúrgicos y un bombazo de N°9, los gritos para una goleada que sirve de poco",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/talleres-bailo-a-riestra-dos-disparos-quirurgicos-y-un-bombazo-de-n9-los-gritos-para-una-goleada-que-nid31102026/",
-          "hora": "2026-10-31T20:41:44-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
       "id": "todo-listo-para-el-casamiento-de-lali-esposito-y-pedro-rosem",
-      "titulo": "Lali Espósito y Pedro Rosemblat: así es la casona “secreta” de San Telmo donde se casaron",
+      "titulo": "El detalle en los souvenirs del casamiento de Lali Espósito y Pedro Rosemblat que enloqueció a los fans",
       "categoria": "espectaculos",
       "prioritaria": false,
       "desde": "2026-10-31T00:00:00-03:00",
-      "calor": 59,
+      "calor": 62,
       "medios": [
         "La Nación",
+        "Clarín",
         "Infobae",
         "Ámbito",
         "TN"
@@ -431,7 +484,13 @@
           "medio": "Infobae",
           "titulo": "Las fotos oficiales del casamiento de Lali Espósito y Pedro Rosemblat: “Fuimos inmensamente felices”",
           "link": "https://www.infobae.com/teleshow/2026/11/01/las-fotos-oficiales-del-casamiento-de-lali-esposito-y-pedro-rosemblat-fuimos-inmensamente-felices/",
-          "hora": "2026-11-01T20:31:00-03:00"
+          "hora": "2026-11-01T21:05:09-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "El álbum íntimo de fotos del casamiento de Lali Espósito y Pedro Rosemblat",
+          "link": "https://www.clarin.com/fama/album-intimo-fotos-casamiento-lali-esposito-pedro-rosemblat_0_58knCTk2du.html",
+          "hora": "2026-11-01T20:26:23-03:00"
         },
         {
           "medio": "TN",
@@ -462,12 +521,6 @@
           "titulo": "Quién es el actor y humorista que casó a Lali Espósito y Pedro Rosemblat y por qué fue el elegido",
           "link": "https://tn.com.ar/show/famosos/2026/11/01/quien-es-el-actor-y-humorista-que-caso-a-lali-esposito-y-pedro-rosemblat-y-por-que-fue-el-elegido/",
           "hora": "2026-11-01T15:38:10-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Lali Espósito y Pedro Rosemblat: así es la casona “secreta” de San Telmo donde se casaron",
-          "link": "https://www.lanacion.com.ar/propiedades/inmuebles-comerciales/lali-esposito-y-pedro-rosemblat-asi-es-la-casona-secreta-de-san-telmo-donde-se-casan-este-sabado-nid31102026/",
-          "hora": "2026-11-01T15:03:58-03:00"
         },
         {
           "medio": "TN",
@@ -505,132 +558,12 @@
       "angulos": []
     },
     {
-      "id": "river-critica-al-arbitro-que-los-deja-con-2-expulsados-y-der",
-      "titulo": "River critica al árbitro que los deja con 2 expulsados y derrota ante Boca",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-01T18:25:46-03:00",
-      "calor": 59,
-      "medios": [
-        "Infobae",
-        "TN"
-      ],
-      "en_x": true,
-      "posicion_x": 1,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "River critica al árbitro que los deja con 2 expulsados y derrota ante Boca",
-          "link": "https://www.infobae.com/espana/agencias/2026/11/01/river-critica-al-arbitro-que-los-deja-con-2-expulsados-y-derrota-ante-boca/",
-          "hora": "2026-11-01T19:32:43-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Silvio Trucco, el árbitro del VAR que condicionó el Superclásico: ignoró un penal evidente para River y aplicó criterios diferentes ante jugadas similares",
-          "link": "https://www.infobae.com/deportes/2026/11/01/silvio-trucco-el-arbitro-del-var-que-condiciono-el-superclasico-ignoro-un-penal-evidente-para-river-y-aplico-criterios-diferentes-ante-jugadas-similares/",
-          "hora": "2026-11-01T19:10:25-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Tras la derrota de River, Gonzalo Montiel explotó contra el árbitro del Superclásico: “Nos condicionó”",
-          "link": "https://tn.com.ar/deportes/futbol/2026/11/01/tras-la-derrota-de-river-gonzalo-montiel-exploto-contra-el-arbitro-del-superclasico-nos-condiciono/",
-          "hora": "2026-11-01T18:25:46-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "el-look-con-el-que-franco-colapinto-se-robo-toda-la-atencion-2-2",
-      "titulo": "Gran Premio de México: Kimi Antonelli se consagró campeón a los 20 años y Franco Colapinto terminó octavo",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-10-29T12:20:45-03:00",
-      "calor": 56,
-      "medios": [
-        "La Nación",
-        "Infobae",
-        "TN",
-        "Página/12"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Página/12",
-          "titulo": "Kimi Antonelli se consagró campeón de la Fórmula 1",
-          "link": "https://www.pagina12.com.ar/2026/11/01/kimi-antonelli-se-consagro-campeon-de-la-formula-1/",
-          "hora": "2026-11-01T20:17:33-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Gran Premio de México: Kimi Antonelli se consagró campeón a los 20 años y Franco Colapinto terminó octavo",
-          "link": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-el-gran-premio-de-mexico-en-vivo-nid01112026/",
-          "hora": "2026-11-01T20:15:49-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Kimi Antonelli se corona campeón de la F1 en el Gran Premio de México; Verstappen ganó el podio y Checo Pérez terminó en P17",
-          "link": "https://www.infobae.com/mexico/deportes/2026/11/01/gp-mexico-2026-en-vivo-sigue-a-checo-perez-en-la-formula-1-paradas-en-pits-y-la-pelea-por-el-podio-minuto-a-minuto/",
-          "hora": "2026-11-01T20:04:14-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Franco Colapinto terminó octavo en el Gran Premio de la Ciudad de México, que ganó Max Verstappen: Kimi Antonelli se consagró campeón de la Fórmula 1",
-          "link": "https://www.infobae.com/deportes/2026/11/01/franco-colapinto-largara-desde-el-puesto-11-el-gran-premio-de-mexico-de-la-formula-1-todo-lo-que-hay-que-saber/",
-          "hora": "2026-11-01T19:58:05-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Gran Premio de México: Franco Colapinto terminó 8° y Andrea Kimi Antonelli se consagró campeón de la Fórmula 1",
-          "link": "https://tn.com.ar/deportes/formula-1/2026/11/01/franco-colapinto-largara-12-en-el-gp-de-mexico-con-el-objetivo-de-volver-a-sumar-puntos-en-la-formula-1/",
-          "hora": "2026-11-01T19:45:56-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "F1: A qué hora corre Franco Colapinto en el GP de México 2026 y por dónde se puede ver",
-          "link": "https://www.lanacion.com.ar/deportes/automovilismo/en-que-canal-pasan-el-gp-de-mexico-de-la-formula-1-2026-nid01112026/",
-          "hora": "2026-11-01T11:26:44-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Tras una penalización a Liam Lawson, Franco Colapinto largará 11° el Gran Premio de México de Fórmula 1",
-          "link": "https://www.infobae.com/deportes/2026/10/31/antes-de-la-clasificacion-franco-colapinto-afrontara-la-ultima-practica-libre-del-gran-premio-de-mexico-de-la-formula-1-hora-tv-y-formaciones/",
-          "hora": "2026-10-31T23:57:04-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Liam Lawson fue descalificado, largará último en el GP de Ciudad de México y beneficia a Franco Colapinto",
-          "link": "https://www.lanacion.com.ar/deportes/automovilismo/liam-lawson-fue-descalificado-largara-ultimo-en-el-gp-de-ciudad-de-mexico-y-beneficia-a-franco-nid31102026/",
-          "hora": "2026-10-31T23:44:09-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Liam Lawson fue descalificado de la clasificación del GP de México y Franco Colapinto ganó una posición para la largada de la F1",
-          "link": "https://www.infobae.com/deportes/2026/11/01/liam-lawson-fue-descalificado-de-la-clasificacion-del-gp-de-mexico-y-franco-colapinto-gano-una-posicion-para-la-largada-de-la-f1/",
-          "hora": "2026-10-31T23:17:33-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Franco Colapinto se beneficia de una sanción a Liam Lawson y largará 11º en el Gran Premio de Ciudad de México",
-          "link": "https://www.lanacion.com.ar/deportes/franco-colapinto-se-beneficia-de-una-sancion-a-liam-lawson-y-largara-11-en-el-gran-premio-de-ciudad-nid31102026/",
-          "hora": "2026-10-31T23:17:12-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
       "id": "se-espera-otro-fin-de-semana-inestable-en-el-amba-mientras-e",
       "titulo": "Hay alertas por tormentas, lluvias y vientos fuertes para este domingo 1 de noviembre",
       "categoria": "social",
       "prioritaria": true,
       "desde": "2026-10-31T07:15:52-03:00",
-      "calor": 56,
+      "calor": 57,
       "medios": [
         "Infobae",
         "La Nación",
@@ -642,6 +575,12 @@
       "posicion_x": null,
       "en_google": false,
       "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "Hay alerta amarilla por tormentas para este lunes 2 de noviembre: las provincias afectadas",
+          "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-para-este-lunes-2-de-noviembre-las-provincias-afectadas-nid01112026/",
+          "hora": "2026-11-01T20:52:56-03:00"
+        },
         {
           "medio": "TN",
           "titulo": "Hay alerta amarilla por tormentas en Buenos Aires y otras cinco provincias",
@@ -683,51 +622,6 @@
           "titulo": "Alerta amarillo: el SMN pronosticó tormentas para CABA y el centro del país este domingo",
           "link": "https://www.infobae.com/sociedad/2026/11/01/alerta-amarillo-el-smn-pronostico-tormentas-para-caba-y-el-centro-del-pais-este-domingo/",
           "hora": "2026-10-31T22:29:53-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "como-le-fue-a-franco-colapinto-en-la-clasificacion-del-gp-de",
-      "titulo": "Cuándo volverá a correr Franco Colapinto en la Fórmula 1 tras su gran actuación en el GP de México",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-10-31T18:56:44-03:00",
-      "calor": 56,
-      "medios": [
-        "Infobae",
-        "Ámbito",
-        "Página/12"
-      ],
-      "en_x": true,
-      "posicion_x": 32,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "La felicidad de Colapinto tras volver a sumar puntos en México: el desafío al campeón Antonelli",
-          "link": "https://www.infobae.com/deportes/2026/11/01/la-felicidad-de-colapinto-tras-volver-a-sumar-puntos-en-mexico-el-desafio-al-campeon-antonelli/",
-          "hora": "2026-11-01T20:18:39-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Cuándo volverá a correr Franco Colapinto en la Fórmula 1 tras su gran actuación en el GP de México",
-          "link": "https://www.infobae.com/deportes/2026/11/01/cuando-volvera-a-correr-franco-colapinto-en-la-formula-1-tras-su-gran-actuacion-en-el-gp-de-mexico/",
-          "hora": "2026-11-01T19:45:31-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Franco Colapinto hoy en vivo por el GP de México de la Fórmula 1: la carrera, minuto a minuto",
-          "link": "https://www.pagina12.com.ar/2026/11/01/franco-colapinto-hoy-en-vivo-por-el-gp-de-mexico-de-la-formula-1-la-carrera-minuto-a-minuto/",
-          "hora": "2026-11-01T14:30:00-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Franco Colapinto clasificó 12° en el GP de México y buscará volver a sumar puntos",
-          "link": "https://www.ambito.com/deportes/franco-colapinto-afronta-la-ultima-practica-libre-y-la-clasificacion-del-gp-mexico-f1-horario-como-y-donde-ver-vivo-n6340069",
-          "hora": "2026-10-31T20:52:00-03:00"
         }
       ],
       "oficiales": [],
@@ -811,6 +705,166 @@
       "angulos": []
     },
     {
+      "id": "nuevas-encuestas-electorales-en-caba-santa-fe-y-mendoza-como-2-4",
+      "titulo": "Elecciones en EE.UU.: Trump advirtió que se convertirá en el “señor Veto” si los demócratas ganan el Congreso",
+      "categoria": "otros",
+      "prioritaria": false,
+      "desde": "2026-10-31T08:42:59-03:00",
+      "calor": 52,
+      "medios": [
+        "La Nación",
+        "Página/12",
+        "Ámbito",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "TN",
+          "titulo": "Elecciones en EE.UU.: Trump cerró la campaña mientras los sondeos anticipan una derrota republicana en el Congreso",
+          "link": "https://tn.com.ar/internacional/2026/11/01/elecciones-en-eeuu-trump-cierra-la-campana-mientras-los-sondeos-anticipan-una-derrota-republicana-en-el-congreso/",
+          "hora": "2026-11-01T20:55:15-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Elecciones en EE.UU.: Trump advirtió que se convertirá en el “señor Veto” si los demócratas ganan el Congreso",
+          "link": "https://tn.com.ar/internacional/2026/11/01/elecciones-en-eeuu-trump-advirtio-que-se-convertira-en-el-senor-veto-si-los-democratas-ganan-el-congreso/",
+          "hora": "2026-11-01T17:26:50-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Trump se prepara para gobernar sin el Congreso y resistir las investigaciones demócratas si pierde las elecciones",
+          "link": "https://www.lanacion.com.ar/estados-unidos/trump-se-prepara-para-gobernar-sin-el-congreso-y-resistir-las-investigaciones-democratas-si-pierde-nid01112026/",
+          "hora": "2026-11-01T16:51:12-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "El Uscis ya cambió una regla oficial sobre los plazos de trámites migratorios en EE.UU. y lo definió en un manual",
+          "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/el-uscis-ya-cambio-una-regla-oficial-sobre-los-plazos-de-tramites-migratorios-en-eeuu-y-lo-definio-nid01112026/",
+          "hora": "2026-11-01T16:40:02-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Las elecciones de mitad de mandato, una trampa mortal para los partidos de gobierno en EE.UU.",
+          "link": "https://www.lanacion.com.ar/estados-unidos/las-elecciones-de-mitad-de-mandato-una-trampa-mortal-para-los-partidos-de-gobierno-en-eeuu-nid01112026/",
+          "hora": "2026-11-01T15:54:55-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Elecciones en EEUU: Donald Trump anticipó que será el \"señor del veto\" si los demócratas ganan el Congreso",
+          "link": "https://www.ambito.com/mundo/elecciones-eeuu-donald-trump-anticipo-que-sera-el-senor-del-veto-si-los-democratas-ganan-el-congreso-n6340258",
+          "hora": "2026-11-01T14:35:00-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Deportado de EE.UU. un argentino acusado de femicidio",
+          "link": "https://www.pagina12.com.ar/2026/10/31/deportado-de-eeuu-un-argentino-acusado-de-femicidio/",
+          "hora": "2026-11-01T00:01:00-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "racing-vs-real-madrid-en-vivo-por-la-fecha-11-de-la-liga-de",
+      "titulo": "Athletic le ganó a Real Sociedad 2 a 1 por la fecha 11 de La Liga de España",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-10-31T13:29:09-03:00",
+      "calor": 52,
+      "medios": [
+        "La Nación",
+        "TN"
+      ],
+      "en_x": true,
+      "posicion_x": 26,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "TN",
+          "titulo": "Athletic le ganó a Real Sociedad 2 a 1 por la fecha 11 de La Liga de España",
+          "link": "https://tn.com.ar/deportes/futbol/2026/11/01/athletic-vs-real-sociedad-en-vivo-por-la-fecha-11-de-la-liga-de-espana-hora-donde-ver-y-formaciones/",
+          "hora": "2026-11-01T18:59:31-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Real Madrid le ganó a Racing 3 a 0 por la fecha 11 de La Liga de España",
+          "link": "https://tn.com.ar/deportes/futbol/2026/11/01/racing-vs-real-madrid-en-vivo-por-la-fecha-11-de-la-liga-de-espana-hora-donde-ver-y-formaciones/",
+          "hora": "2026-11-01T15:03:27-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "La AFA ordenó transferencias a 10 sociedades bajo sospecha con la firma de un exdirector ejecutivo",
+          "link": "https://www.lanacion.com.ar/politica/la-afa-ordeno-transferencias-a-10-sociedades-bajo-sospecha-con-la-firma-de-un-exdirector-ejecutivo-nid01112026/",
+          "hora": "2026-11-01T07:24:22-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "merlo-el-horror-que-revelo-el-primer-examen-forense-a-la-mad-2-2",
+      "titulo": "Conmoción en Chaco: encontraron muertos a una joven y cuatro nenes en una casa incendiada y detuvieron a su pareja",
+      "categoria": "social",
+      "prioritaria": true,
+      "desde": "2026-10-31T10:09:08-03:00",
+      "calor": 51,
+      "medios": [
+        "La Nación",
+        "Infobae",
+        "Página/12",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "“De los crímenes más atroces”: asesinó a su pareja y a tres niños, incendió la casa con su bebé en brazos e intentó ahorcarse",
+          "link": "https://www.infobae.com/sociedad/policiales/2026/11/02/de-los-crimenes-mas-atroces-asesino-a-su-pareja-y-a-tres-ninos-incendio-la-casa-con-su-bebe-en-brazos-e-intento-ahorcarse/",
+          "hora": "2026-11-01T21:05:26-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Quién era el empresario que encontraron muerto junto a su esposa en su casa de Santa Fe",
+          "link": "https://tn.com.ar/policiales/2026/11/01/quien-era-el-empresario-que-encontraron-muerto-junto-a-su-esposa-en-su-casa-de-santa-fe/",
+          "hora": "2026-11-01T20:19:03-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Conmoción en Santa Fe: hallaron muertos a un reconocido empresario de una compañía de montaje y a su mujer",
+          "link": "https://www.lanacion.com.ar/seguridad/conmocion-en-santa-fe-hallaron-muertos-a-un-reconocido-empresario-de-una-compania-de-montaje-y-a-su-nid01112026/",
+          "hora": "2026-11-01T18:52:57-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Cuatro niños y una joven murieron en un incendio en Chaco: investigan si fueron asesinados por la pareja",
+          "link": "https://www.lanacion.com.ar/seguridad/cuatro-ninos-y-una-joven-murieron-en-un-incendio-en-chaco-detuvieron-a-su-pareja-nid01112026/",
+          "hora": "2026-11-01T17:48:35-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Conmoción en Chaco: encontraron muertos a una joven y cuatro nenes en una casa incendiada y detuvieron a su pareja",
+          "link": "https://tn.com.ar/policiales/2026/11/01/conmocion-en-chaco-encontraron-muertos-a-una-joven-y-cuatro-nenes-en-una-casa-incendiada-y-detuvieron-a-su-pareja/",
+          "hora": "2026-11-01T14:42:26-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Encontraron muertos a un matrimonio y sus tres hijos menores de edad: sospechan que el padre los mató y se suicidó",
+          "link": "https://www.pagina12.com.ar/2026/10/31/encontraron-muertos-a-un-matrimonio-y-sus-tres-hijos-menores-de-edad-sospechan-que-el-padre-los-mato-y-se-suicido/",
+          "hora": "2026-11-01T00:01:00-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
       "id": "karina-milei-y-jorge-macri-recorrieron-las-obras-del-escenar-2",
       "titulo": "Karina Milei y Jorge Macri recorrieron las obras del escenario donde dará misa el Papa",
       "categoria": "politica",
@@ -870,36 +924,31 @@
       "angulos": []
     },
     {
-      "id": "antonelli-devora-el-record-de-precocidad-de-vettel-y-devuelv",
-      "titulo": "Antonelli devora el récord de precocidad de Vettel y devuelve el Mundial de la F1 a Italia 73 años después",
-      "categoria": "otros",
+      "id": "el-impactante-choque-de-valtteri-bottas-que-provoco-la-bande",
+      "titulo": "Franco Colapinto bromeó al contar cómo se enteró del triunfo de Boca sobre River: “Pusieron bandera roja para contarme”",
+      "categoria": "deportes",
       "prioritaria": false,
-      "desde": "2026-11-01T19:31:21-03:00",
+      "desde": "2026-11-01T18:50:01-03:00",
       "calor": 51,
       "medios": [
-        "Infobae"
+        "Ámbito",
+        "TN"
       ],
       "en_x": true,
-      "posicion_x": 7,
+      "posicion_x": 25,
       "en_google": false,
       "notas": [
         {
-          "medio": "Infobae",
-          "titulo": "Antonelli devora el récord de precocidad de Vettel y devuelve el Mundial de la F1 a Italia 73 años después",
-          "link": "https://www.infobae.com/america/agencias/2026/11/01/antonelli-devora-el-record-de-precocidad-de-vettel-y-devuelve-el-mundial-de-la-f1-a-italia-73-anos-despues/",
-          "hora": "2026-11-01T20:30:51-03:00"
+          "medio": "TN",
+          "titulo": "Franco Colapinto bromeó al contar cómo se enteró del triunfo de Boca sobre River: “Pusieron bandera roja para contarme”",
+          "link": "https://tn.com.ar/deportes/formula-1/2026/11/01/franco-colapinto-bromeo-al-contar-como-se-entero-del-triunfo-de-boca-sobre-river-pusieron-bandera-roja-para-contarme/",
+          "hora": "2026-11-01T20:53:27-03:00"
         },
         {
-          "medio": "Infobae",
-          "titulo": "Antonelli mejora a Vettel y es, de lejos, el más joven campeón de la historia de la F1",
-          "link": "https://www.infobae.com/espana/agencias/2026/11/01/antonelli-mejora-a-vettel-y-es-de-lejos-el-mas-joven-campeon-de-la-historia-de-la-f1/",
-          "hora": "2026-11-01T19:31:54-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Antonelli, tercer italiano en ganar el Mundial de F1 y el primero en 73 años",
-          "link": "https://www.infobae.com/espana/agencias/2026/11/01/antonelli-tercer-italiano-en-ganar-el-mundial-de-f1-y-el-primero-en-73-anos/",
-          "hora": "2026-11-01T19:31:21-03:00"
+          "medio": "Ámbito",
+          "titulo": "El impactante choque de Valtteri Bottas que provocó la bandera roja en el GP de México",
+          "link": "https://www.ambito.com/deportes/el-impactante-choque-valtteri-bottas-que-provoco-la-bandera-roja-el-gp-mexico-n6340302",
+          "hora": "2026-11-01T18:50:01-03:00"
         }
       ],
       "oficiales": [],
@@ -959,57 +1008,334 @@
       "angulos": []
     },
     {
-      "id": "nuevas-encuestas-electorales-en-caba-santa-fe-y-mendoza-como-2-4",
-      "titulo": "Elecciones en EE.UU.: Trump advirtió que se convertirá en el “señor Veto” si los demócratas ganan el Congreso",
-      "categoria": "otros",
+      "id": "el-inter-miami-de-lionel-messi-se-enfrentara-a-new-england-r-2",
+      "titulo": "River en la Messi Cup 2026: horario, TV y streaming para verla final vs. Palmeiras",
+      "categoria": "deportes",
       "prioritaria": false,
-      "desde": "2026-10-31T08:42:59-03:00",
+      "desde": "2026-10-31T20:04:33-03:00",
       "calor": 50,
       "medios": [
+        "La Nación"
+      ],
+      "en_x": true,
+      "posicion_x": 1,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "Por dónde pasan la final de la Messi Cup 2026, con River",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/por-donde-pasan-la-final-de-la-messi-cup-2026-con-river-nid01112026/",
+          "hora": "2026-11-01T13:00:00-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "River en la Messi Cup 2026: horario, TV y streaming para verla final vs. Palmeiras",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/river-en-la-messi-cup-2026-horario-tv-y-streaming-para-verla-final-vs-palmeiras-nid01112026/",
+          "hora": "2026-11-01T12:48:45-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "A qué hora juega River vs. Palmeiras por la final de la Messi Cup 2026 y qué canal lo transmite en vivo",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-juega-river-vs-palmeiras-por-la-final-de-la-messi-cup-2026-y-que-canal-lo-transmite-en-nid01112026/",
+          "hora": "2026-11-01T11:10:30-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "TV y streaming del domingo: Boca vs. River, Messi en Inter Miami, Colapinto en la Fórmula 1, ligas de Europa y Abierto de Tortugas",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/tv-y-streaming-del-domingo-boca-vs-river-messi-en-inter-miami-colapinto-en-la-formula-1-ligas-de-nid31102026/",
+          "hora": "2026-10-31T22:00:44-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "el-gobierno-dice-que-tomo-nota-del-resultado-de-las-eleccion-3-3-2-2-2-2",
+      "titulo": "Flavio Bolsonaro acusó a O Globo de querer destruir su reputación y denunció una persecución judicial",
+      "categoria": "otros",
+      "prioritaria": false,
+      "desde": "2026-10-27T11:44:52-03:00",
+      "calor": 49,
+      "medios": [
+        "Infobae",
         "La Nación",
         "Página/12",
-        "TN",
-        "Ámbito"
+        "TN"
       ],
       "en_x": false,
       "posicion_x": null,
       "en_google": false,
       "notas": [
         {
-          "medio": "TN",
-          "titulo": "Elecciones en EE.UU.: Trump advirtió que se convertirá en el “señor Veto” si los demócratas ganan el Congreso",
-          "link": "https://tn.com.ar/internacional/2026/11/01/elecciones-en-eeuu-trump-advirtio-que-se-convertira-en-el-senor-veto-si-los-democratas-ganan-el-congreso/",
-          "hora": "2026-11-01T17:26:50-03:00"
-        },
-        {
           "medio": "La Nación",
-          "titulo": "El Uscis ya cambió una regla oficial sobre los plazos de trámites migratorios en EE.UU. y lo definió en un manual",
-          "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/el-uscis-ya-cambio-una-regla-oficial-sobre-los-plazos-de-tramites-migratorios-en-eeuu-y-lo-definio-nid01112026/",
-          "hora": "2026-11-01T16:40:02-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Las elecciones de mitad de mandato, una trampa mortal para los partidos de gobierno en EE.UU.",
-          "link": "https://www.lanacion.com.ar/estados-unidos/las-elecciones-de-mitad-de-mandato-una-trampa-mortal-para-los-partidos-de-gobierno-en-eeuu-nid01112026/",
-          "hora": "2026-11-01T15:54:55-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Elecciones en EEUU: Donald Trump anticipó que será el \"señor del veto\" si los demócratas ganan el Congreso",
-          "link": "https://www.ambito.com/mundo/elecciones-eeuu-donald-trump-anticipo-que-sera-el-senor-del-veto-si-los-democratas-ganan-el-congreso-n6340258",
-          "hora": "2026-11-01T14:35:00-03:00"
+          "titulo": "Flavio Bolsonaro acusó a O Globo de querer destruir su reputación y denunció una persecución judicial",
+          "link": "https://www.lanacion.com.ar/el-mundo/flavio-bolsonaro-acuso-a-o-globo-de-querer-destruir-su-reputacion-y-denuncio-una-persecucion-nid01112026/",
+          "hora": "2026-11-01T20:43:31-03:00"
         },
         {
           "medio": "TN",
-          "titulo": "Elecciones en EE.UU.: Trump cierra la campaña mientras los sondeos anticipan una derrota republicana en el Congreso",
-          "link": "https://tn.com.ar/internacional/2026/11/01/elecciones-en-eeuu-trump-cierra-la-campana-mientras-los-sondeos-anticipan-una-derrota-republicana-en-el-congreso/",
-          "hora": "2026-11-01T14:16:58-03:00"
+          "titulo": "Desde EE.UU., Flávio Bolsonaro reapareció en las redes sociales: “No me arrepiento de nada de lo que hice”",
+          "link": "https://tn.com.ar/internacional/2026/11/01/desde-eeuu-flavio-bolsonaro-reaparecio-en-las-redes-sociales-no-me-arrepiento-de-nada-de-lo-que-hice/",
+          "hora": "2026-11-01T20:38:53-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Flávio Bolsonaro anuncia entrevistas para decir lo que \"ya nadie puede decir\" en Brasil",
+          "link": "https://www.infobae.com/america/agencias/2026/11/01/flavio-bolsonaro-anuncia-entrevistas-para-decir-lo-que-ya-nadie-puede-decir-en-brasil/",
+          "hora": "2026-11-01T20:30:59-03:00"
         },
         {
           "medio": "Página/12",
-          "titulo": "Deportado de EE.UU. un argentino acusado de femicidio",
-          "link": "https://www.pagina12.com.ar/2026/10/31/deportado-de-eeuu-un-argentino-acusado-de-femicidio/",
+          "titulo": "Un agente de la SIDE coordinó la fuga de Flavio Bolsonaro",
+          "link": "https://www.pagina12.com.ar/2026/11/01/un-agente-de-la-side-coordino-la-fuga-de-flavio-bolsonaro/",
           "hora": "2026-11-01T00:01:00-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "tragedia-en-mendoza-murio-una-nina-de-2-anos-tras-ser-hallad-2",
+      "titulo": "Lanús y Gimnasia de Mendoza le dan continuidad a la fecha 15 del Torneo Clausura",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-10-31T19:52:53-03:00",
+      "calor": 49,
+      "medios": [
+        "Infobae",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": true,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Lanús y Gimnasia de Mendoza le dan continuidad a la fecha 15 del Torneo Clausura",
+          "link": "https://www.infobae.com/deportes/2026/11/01/continua-la-fecha-15-del-torneo-clausura-la-agenda-completa-de-los-partidos-en-la-jornada-que-se-jugara-el-superclasico/",
+          "hora": "2026-11-01T21:04:26-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Quilmes le ganó a Gimnasia y Tiro 1 a 0 por la fecha 36 de la Primera Nacional",
+          "link": "https://tn.com.ar/deportes/futbol/2026/11/01/gimnasia-y-tiro-vs-quilmes-en-vivo-por-la-fecha-36-de-la-primera-nacional-hora-donde-ver-y-formaciones/",
+          "hora": "2026-11-01T20:57:32-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Sebastián Galiani: “Esta transformación necesita tiempo y continuidad”",
+          "link": "https://www.infobae.com/economia/2026/11/01/sebastian-galiani-esta-transformacion-necesita-tiempo-y-continuidad/",
+          "hora": "2026-11-01T01:26:42-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "alerta-en-ezeiza-al-menos-15-turistas-extranjeros-llegaron-c",
+      "titulo": "Operativo sanitario en Ezeiza: atendieron a turistas que llegaron desde Ushuaia con síntomas de intoxicación",
+      "categoria": "social",
+      "prioritaria": true,
+      "desde": "2026-11-01T00:49:11-03:00",
+      "calor": 49,
+      "medios": [
+        "Clarín",
+        "La Nación",
+        "Infobae",
+        "Página/12"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Operativo sanitario en Ezeiza: atendieron a turistas que llegaron desde Ushuaia con síntomas de intoxicación",
+          "link": "https://www.infobae.com/salud/2026/11/01/operativo-sanitario-en-ezeiza-atendieron-a-un-grupo-de-turistas-que-llego-en-un-vuelo-desde-ushuaia-con-sintomas-de-intoxicacion/",
+          "hora": "2026-11-01T20:50:06-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Al menos 15 turistas llegaron intoxicados desde Ushuaia",
+          "link": "https://www.pagina12.com.ar/2026/11/01/al-menos-15-turistas-llegaron-intoxicados-desde-ushuaia/",
+          "hora": "2026-11-01T20:47:53-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Alerta y operativo en Ezeiza por un grupo de turistas extranjeros intoxicados: llegaron desde Ushuaia tras bajar de un crucero",
+          "link": "https://www.lanacion.com.ar/sociedad/alerta-y-operativo-en-ezeiza-por-un-grupo-de-turistas-extranjeros-intoxicados-llegaron-desde-ushuaia-nid01112026/",
+          "hora": "2026-11-01T17:54:28-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Alerta en Ezeiza por 12 turistas que aterrizaron con síntomas de intoxicación: venían de realizar un crucero que desembarcó en Ushuaia",
+          "link": "https://www.clarin.com/sociedad/alerta-ezeiza-15-turistas-aterrizaron-sintomas-intoxicacion-venian-realizar-crucero-desembarco-ushuaia_0_1rGggVPM6H.html",
+          "hora": "2026-11-01T12:28:53-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "noelia-pescadera-los-mejillones-no-se-cocinan-en-agua-sino-e",
+      "titulo": "Noelia, pescadera: “Los mejillones no se cocinan en agua sino en una sartén con 3 ajos, vino blanco y 200 ml de nata”",
+      "categoria": "otros",
+      "prioritaria": false,
+      "desde": "2026-11-01T19:13:56-03:00",
+      "calor": 49,
+      "medios": [
+        "TN"
+      ],
+      "en_x": true,
+      "posicion_x": 8,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "TN",
+          "titulo": "Noelia, pescadera: “Los mejillones no se cocinan en agua sino en una sartén con 3 ajos, vino blanco y 200 ml de nata”",
+          "link": "https://tn.com.ar/cocina/recetas/2026/11/01/noelia-pescadera-los-mejillones-no-se-cocinan-en-agua-sino-en-una-sarten-con-3-ajos-vino-blanco-y-200-ml-de-nata/",
+          "hora": "2026-11-01T19:13:56-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "tragedia-en-mendoza-murio-una-nina-de-2-anos-tras-ser-hallad",
+      "titulo": "Newell's empató con Unión 1 a 1 por la fase de grupos de la Liga Profesional",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-10-31T19:52:53-03:00",
+      "calor": 47,
+      "medios": [
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": true,
+      "notas": [
+        {
+          "medio": "TN",
+          "titulo": "En vivo - Lanús vs. Gimnasia (M): 0 - 0, por la fase de grupos de la Liga Profesional",
+          "link": "https://tn.com.ar/deportes/futbol/2026/11/01/lanus-vs-gimnasia-m-en-vivo-por-la-fase-de-grupos-de-la-liga-profesional-hora-donde-ver-y-formaciones/",
+          "hora": "2026-11-01T21:01:29-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Newell's empató con Unión 1 a 1 por la fase de grupos de la Liga Profesional",
+          "link": "https://tn.com.ar/deportes/futbol/2026/11/01/newells-vs-union-en-vivo-por-la-fase-de-grupos-de-la-liga-profesional-hora-donde-ver-y-formaciones/",
+          "hora": "2026-11-01T20:59:47-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Belgrano empató con Barracas Central 2 a 2 por la fase de grupos de la Liga Profesional",
+          "link": "https://tn.com.ar/deportes/futbol/2026/11/01/belgrano-vs-barracas-central-en-vivo-por-la-fase-de-grupos-de-la-liga-profesional-hora-donde-ver-y-formaciones/",
+          "hora": "2026-11-01T20:31:35-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "a-que-hora-juega-universitario-vs-atletico-grau-hoy-partido",
+      "titulo": "Universitario vs Atlético Grau 3-1: goles y resumen del triunfazo ‘crema’ en Trujillo por Torneo Clausura de Liga 1 2026",
+      "categoria": "otros",
+      "prioritaria": false,
+      "desde": "2026-11-01T00:01:01-03:00",
+      "calor": 47,
+      "medios": [
+        "Infobae"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": true,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Universitario llega al liderato del Clausura de Perú tras vencer 3-1 a Grau",
+          "link": "https://www.infobae.com/espana/agencias/2026/11/01/universitario-llega-al-liderato-del-clausura-de-peru-tras-vencer-3-1-a-grau/",
+          "hora": "2026-11-01T20:45:37-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "El espectacular gol de tiro libre de Lisandro Alzugaray para Universitario contra Atlético Grau por Torneo Clausura de Liga 1 2026",
+          "link": "https://www.infobae.com/peru/deportes/2026/11/01/el-espectacular-gol-de-tiro-libre-de-lisandro-alzugaray-para-universitario-contra-atletico-grau-por-torneo-clausura-de-liga-1-2026/",
+          "hora": "2026-11-01T19:55:56-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Golazo de Gianluca Lapadula tras sensacional definición para remontar el Universitario vs Atlético Grau por el Torneo Clausura 2026",
+          "link": "https://www.infobae.com/peru/deportes/2026/11/01/gol-gianluca-lapadula-universitario-vs-atletico-grau-liga-1-2026-video-hoy/",
+          "hora": "2026-11-01T19:47:59-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Universitario vs Atlético Grau 3-1: goles y resumen del triunfazo ‘crema’ en Trujillo por Torneo Clausura de Liga 1 2026",
+          "link": "https://www.infobae.com/peru/deportes/2026/11/01/universitario-vs-atletico-grau-en-vivo-hoy-minuto-a-minuto-partido-trujillo-fecha-15-torneo-clausura-liga-1-2026-goles-resumen-resultado/",
+          "hora": "2026-11-01T19:38:51-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "kimi-antonelli-hizo-historia-en-la-formula-1-se-consagro-com",
+      "titulo": "Kimi Antonelli hizo historia en la Fórmula 1: se consagró como el campeón más joven de todos los tiempos",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-11-01T19:02:00-03:00",
+      "calor": 47,
+      "medios": [
+        "Infobae",
+        "TN"
+      ],
+      "en_x": true,
+      "posicion_x": 38,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Kimi Antonelli hizo historia en la Fórmula 1: se consagró como el campeón más joven de todos los tiempos",
+          "link": "https://www.infobae.com/deportes/2026/11/01/kimi-antonelli-hizo-historia-se-consagro-como-el-campeon-mas-joven-de-la-historia-de-la-formula-1/",
+          "hora": "2026-11-01T20:05:22-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Kimi Antonelli hizo historia en la Fórmula 1: se convirtió en el campeón más joven de todos los tiempos",
+          "link": "https://tn.com.ar/deportes/formula-1/2026/11/01/kimi-antonelli-hizo-historia-en-la-formula-1-se-convirtio-en-el-campeon-mas-joven-de-todos-los-tiempos/",
+          "hora": "2026-11-01T19:30:01-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "antonelli-nuevo-campeon-del-mundo-al-acabar-tercero-en-mexic",
+      "titulo": "Antonelli, nuevo campeón del mundo al acabar tercero en México; donde ganó Verstappen",
+      "categoria": "otros",
+      "prioritaria": false,
+      "desde": "2026-11-01T19:30:33-03:00",
+      "calor": 47,
+      "medios": [
+        "Infobae"
+      ],
+      "en_x": true,
+      "posicion_x": 15,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Antonelli, nuevo campeón del mundo al acabar tercero en México; donde ganó Verstappen",
+          "link": "https://www.infobae.com/america/agencias/2026/11/01/antonelli-nuevo-campeon-del-mundo-al-acabar-tercero-en-mexico-donde-gano-verstappen/",
+          "hora": "2026-11-01T19:30:33-03:00"
         }
       ],
       "oficiales": [],
@@ -1022,13 +1348,13 @@
       "categoria": "deportes",
       "prioritaria": false,
       "desde": "2026-11-01T01:52:52-03:00",
-      "calor": 50,
+      "calor": 46,
       "medios": [
         "Infobae",
         "TN"
       ],
       "en_x": true,
-      "posicion_x": 37,
+      "posicion_x": 50,
       "en_google": false,
       "notas": [
         {
@@ -1061,170 +1387,50 @@
       "angulos": []
     },
     {
-      "id": "noelia-pescadera-los-mejillones-no-se-cocinan-en-agua-sino-e",
-      "titulo": "Noelia, pescadera: “Los mejillones no se cocinan en agua sino en una sartén con 3 ajos, vino blanco y 200 ml de nata”",
-      "categoria": "otros",
-      "prioritaria": false,
-      "desde": "2026-11-01T19:13:56-03:00",
-      "calor": 49,
-      "medios": [
-        "TN"
-      ],
-      "en_x": true,
-      "posicion_x": 6,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "TN",
-          "titulo": "Noelia, pescadera: “Los mejillones no se cocinan en agua sino en una sartén con 3 ajos, vino blanco y 200 ml de nata”",
-          "link": "https://tn.com.ar/cocina/recetas/2026/11/01/noelia-pescadera-los-mejillones-no-se-cocinan-en-agua-sino-en-una-sarten-con-3-ajos-vino-blanco-y-200-ml-de-nata/",
-          "hora": "2026-11-01T19:13:56-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "sergio-lapegue-viajo-a-harvard-para-visitar-a-su-hijo-y-term",
-      "titulo": "Sergio Lapegüe viajó a Harvard para visitar a su hijo y terminó en un encuentro con Messi: “El tiempo se detuvo”",
-      "categoria": "espectaculos",
-      "prioritaria": false,
-      "desde": "2026-11-01T18:11:51-03:00",
-      "calor": 48,
-      "medios": [
-        "La Nación",
-        "Clarín"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": true,
-      "notas": [
-        {
-          "medio": "Clarín",
-          "titulo": "Sergio Lapegüe cumplió un sueño y conoció a Lionel Messi: Cómo fue el encuentro",
-          "link": "https://www.clarin.com/fama/sergio-lapegue-cumplio-sueno-conocio-lionel-messi-encuentro_0_o0JuW67h0F.html",
-          "hora": "2026-11-01T19:33:44-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Sergio Lapegüe viajó a Harvard para visitar a su hijo y terminó en un encuentro con Messi: “El tiempo se detuvo”",
-          "link": "https://www.lanacion.com.ar/espectaculos/sergio-lapegue-viajo-a-harvard-para-visitar-a-su-hijo-y-termino-en-un-encuentro-con-messi-el-tiempo-nid01112026/",
-          "hora": "2026-11-01T18:11:51-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "merlo-el-horror-que-revelo-el-primer-examen-forense-a-la-mad-2-2",
-      "titulo": "Quién era el empresario que encontraron muerto junto a su esposa en su casa de Santa Fe",
+      "id": "comienza-el-juicio-a-un-motociclista-que-atropello-y-mato-a",
+      "titulo": "Comienza el juicio a un motociclista que atropelló y mató a un niño de 7 años en Puerto Madero",
       "categoria": "social",
       "prioritaria": true,
-      "desde": "2026-10-31T10:09:08-03:00",
-      "calor": 47,
-      "medios": [
-        "La Nación",
-        "Página/12",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "TN",
-          "titulo": "Quién era el empresario que encontraron muerto junto a su esposa en su casa de Santa Fe",
-          "link": "https://tn.com.ar/policiales/2026/11/01/quien-era-el-empresario-que-encontraron-muerto-junto-a-su-esposa-en-su-casa-de-santa-fe/",
-          "hora": "2026-11-01T20:19:03-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Conmoción en Santa Fe: hallaron muertos a un reconocido empresario de una compañía de montaje y a su mujer",
-          "link": "https://www.lanacion.com.ar/seguridad/conmocion-en-santa-fe-hallaron-muertos-a-un-reconocido-empresario-de-una-compania-de-montaje-y-a-su-nid01112026/",
-          "hora": "2026-11-01T18:52:57-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Cuatro niños y una joven murieron en un incendio en Chaco: investigan si fueron asesinados por la pareja",
-          "link": "https://www.lanacion.com.ar/seguridad/cuatro-ninos-y-una-joven-murieron-en-un-incendio-en-chaco-detuvieron-a-su-pareja-nid01112026/",
-          "hora": "2026-11-01T17:48:35-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Conmoción en Chaco: encontraron muertos a una joven y cuatro nenes en una casa incendiada y detuvieron a su pareja",
-          "link": "https://tn.com.ar/policiales/2026/11/01/conmocion-en-chaco-encontraron-muertos-a-una-joven-y-cuatro-nenes-en-una-casa-incendiada-y-detuvieron-a-su-pareja/",
-          "hora": "2026-11-01T14:42:26-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Encontraron muertos a un empresario y a su esposa en su casa de Santa Fe: tenían disparos y en el lugar había una escopeta",
-          "link": "https://tn.com.ar/policiales/2026/11/01/encontraron-muertos-a-un-empresario-y-a-su-esposa-en-su-casa-de-santa-fe-tenian-disparos-y-en-el-lugar-habia-una-escopeta/",
-          "hora": "2026-11-01T12:54:24-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Encontraron muertos a un matrimonio y sus tres hijos menores de edad: sospechan que el padre los mató y se suicidó",
-          "link": "https://www.pagina12.com.ar/2026/10/31/encontraron-muertos-a-un-matrimonio-y-sus-tres-hijos-menores-de-edad-sospechan-que-el-padre-los-mato-y-se-suicido/",
-          "hora": "2026-11-01T00:01:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "el-inter-miami-de-lionel-messi-se-enfrentara-a-new-england-r",
-      "titulo": "River en la Messi Cup 2026: horario, TV y streaming para verla final vs. Palmeiras",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-10-31T20:04:33-03:00",
-      "calor": 47,
+      "desde": "2026-11-01T09:59:16-03:00",
+      "calor": 46,
       "medios": [
         "La Nación",
         "Infobae",
-        "TN"
+        "Página/12"
       ],
       "en_x": false,
       "posicion_x": null,
       "en_google": false,
       "notas": [
         {
-          "medio": "TN",
-          "titulo": "El Inter Miami de Lionel Messi lleva dos partidos sin ganar y busca recuperarse ante New England Revolution",
-          "link": "https://tn.com.ar/deportes/futbol/2026/11/01/el-inter-miami-de-lionel-messi-lleva-dos-partidos-sin-ganar-y-busca-recuperarse-ante-new-england-revolution/",
-          "hora": "2026-11-01T20:18:20-03:00"
+          "medio": "La Nación",
+          "titulo": "Comienza el juicio a un motociclista que atropelló y mató a un niño de 7 años en Puerto Madero",
+          "link": "https://www.lanacion.com.ar/seguridad/comienza-el-juicio-a-un-motociclista-que-atropello-y-mato-a-un-nino-de-7-anos-en-puerto-madero-nid01112026/",
+          "hora": "2026-11-01T20:45:51-03:00"
         },
         {
-          "medio": "La Nación",
-          "titulo": "Por dónde pasan la final de la Messi Cup 2026, con River",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/por-donde-pasan-la-final-de-la-messi-cup-2026-con-river-nid01112026/",
-          "hora": "2026-11-01T13:00:00-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "River en la Messi Cup 2026: horario, TV y streaming para verla final vs. Palmeiras",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/river-en-la-messi-cup-2026-horario-tv-y-streaming-para-verla-final-vs-palmeiras-nid01112026/",
-          "hora": "2026-11-01T12:48:45-03:00"
+          "medio": "Página/12",
+          "titulo": "Comienza el juicio contra Felicitas Alvite “La Toretto de La Plata”",
+          "link": "https://www.pagina12.com.ar/2026/11/01/comienza-el-juicio-contra-felicitas-alvite-la-toretto-de-la-plata/",
+          "hora": "2026-11-01T20:40:58-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "El Inter Miami de Lionel Messi se enfrentará a New England Revolution por la MLS: hora, TV y formaciones",
-          "link": "https://www.infobae.com/deportes/2026/11/01/el-inter-miami-de-lionel-messi-se-enfrentara-a-new-england-revolution-por-la-mls-hora-tv-y-formaciones/",
-          "hora": "2026-11-01T11:37:24-03:00"
+          "titulo": "“La Toretto” llega a juicio por la muerte de Walter Armand: las claves del caso y la pena que enfrenta",
+          "link": "https://www.infobae.com/sociedad/policiales/2026/11/01/la-toretto-llega-a-juicio-por-la-muerte-de-walter-armand-las-claves-del-caso-y-la-pena-que-enfrenta/",
+          "hora": "2026-11-01T19:18:24-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Bloqueos sindicales: tras el polémico fallo en San Nicolás, comienza un juicio clave contra Camioneros en Rosario",
+          "link": "https://www.infobae.com/politica/2026/11/01/bloqueos-sindicales-tras-el-polemico-fallo-en-san-nicolas-comienza-un-juicio-clave-contra-camioneros-en-rosario/",
+          "hora": "2026-11-01T14:07:52-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "A qué hora juega River vs. Palmeiras por la final de la Messi Cup 2026 y qué canal lo transmite en vivo",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-juega-river-vs-palmeiras-por-la-final-de-la-messi-cup-2026-y-que-canal-lo-transmite-en-nid01112026/",
-          "hora": "2026-11-01T11:10:30-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "TV y streaming del domingo: Boca vs. River, Messi en Inter Miami, Colapinto en la Fórmula 1, ligas de Europa y Abierto de Tortugas",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/tv-y-streaming-del-domingo-boca-vs-river-messi-en-inter-miami-colapinto-en-la-formula-1-ligas-de-nid31102026/",
-          "hora": "2026-10-31T22:00:44-03:00"
+          "titulo": "Estaba dividida entre Palermo, Puerto Madero y Microcentro: la joya francesa de 1903 que se reunificará tras 100 años desperdigada por la Ciudad",
+          "link": "https://www.lanacion.com.ar/sociedad/estaba-dividida-entre-palermo-puerto-madero-y-microcentro-la-joya-francesa-de-1903-que-se-nid27102026/",
+          "hora": "2026-11-01T09:59:16-03:00"
         }
       ],
       "oficiales": [],
@@ -1232,36 +1438,50 @@
       "angulos": []
     },
     {
-      "id": "tragedia-en-mendoza-murio-una-nina-de-2-anos-tras-ser-hallad",
-      "titulo": "Newell's empató con Unión 1 a 1 por la fase de grupos de la Liga Profesional",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-10-31T19:52:53-03:00",
+      "id": "servicio-domestico-en-noviembre-2026-cuanto-cobran-quienes-r",
+      "titulo": "Servicio doméstico en noviembre 2026: cuánto cobran, quiénes reciben el aumento y cómo se incorpora el bono",
+      "categoria": "trabajo",
+      "prioritaria": true,
+      "desde": "2026-11-01T09:59:27-03:00",
       "calor": 46,
       "medios": [
-        "TN"
+        "La Nación",
+        "Infobae",
+        "Ámbito"
       ],
       "en_x": false,
       "posicion_x": null,
-      "en_google": true,
+      "en_google": false,
       "notas": [
         {
-          "medio": "TN",
-          "titulo": "Belgrano empató con Barracas Central 2 a 2 por la fase de grupos de la Liga Profesional",
-          "link": "https://tn.com.ar/deportes/futbol/2026/11/01/belgrano-vs-barracas-central-en-vivo-por-la-fase-de-grupos-de-la-liga-profesional-hora-donde-ver-y-formaciones/",
-          "hora": "2026-11-01T20:31:35-03:00"
+          "medio": "Infobae",
+          "titulo": "¿Desde cuándo rige el aumento de S/700 para docentes universitarios? Gobierno establece nuevos sueldos de más de S/9.000",
+          "link": "https://www.infobae.com/peru/2026/11/01/desde-cuando-rige-el-aumento-de-s700-para-docentes-universitarios-gobierno-establece-nuevos-sueldos-de-mas-de-s9000/",
+          "hora": "2026-11-01T20:02:20-03:00"
         },
         {
-          "medio": "TN",
-          "titulo": "Newell's empató con Unión 1 a 1 por la fase de grupos de la Liga Profesional",
-          "link": "https://tn.com.ar/deportes/futbol/2026/11/01/newells-vs-union-en-vivo-por-la-fase-de-grupos-de-la-liga-profesional-hora-donde-ver-y-formaciones/",
-          "hora": "2026-11-01T20:29:31-03:00"
+          "medio": "Infobae",
+          "titulo": "Salario mínimo de 2027: Bancolombia dio la cifra más “razonable” para el aumento del sueldo de millones de trabajadores y así quedaría",
+          "link": "https://www.infobae.com/colombia/2026/11/01/salario-minimo-de-2027-bancolombia-dio-la-cifra-mas-razonable-para-el-aumento-del-sueldo-de-millones-de-trabajadores-y-asi-quedaria/",
+          "hora": "2026-11-01T19:56:50-03:00"
         },
         {
-          "medio": "TN",
-          "titulo": "Lanús vs Gimnasia (M) en vivo por la fase de grupos de la Liga Profesional: hora, dónde ver y formaciones",
-          "link": "https://tn.com.ar/deportes/futbol/2026/11/01/lanus-vs-gimnasia-m-en-vivo-por-la-fase-de-grupos-de-la-liga-profesional-hora-donde-ver-y-formaciones/",
-          "hora": "2026-11-01T18:45:28-03:00"
+          "medio": "La Nación",
+          "titulo": "Newsom se despide de California con una ley para aumentar el sueldo mínimo a los trabajadores migrantes del campo",
+          "link": "https://www.lanacion.com.ar/estados-unidos/california/newsom-se-despide-de-california-con-una-ley-para-aumentar-el-sueldo-minimo-a-los-trabajadores-nid31102026/",
+          "hora": "2026-11-01T15:48:27-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Salarios de noviembre, uno a uno: qué gremios reciben aumentos y quiénes cobran bonos de más de $2 millones",
+          "link": "https://www.ambito.com/economia/salarios-noviembre-uno-uno-que-gremios-reciben-aumentos-y-quienes-cobran-bonos-mas-2-millones-n6340247",
+          "hora": "2026-11-01T14:25:00-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Servicio doméstico en noviembre 2026: cuánto cobran, quiénes reciben el aumento y cómo se incorpora el bono",
+          "link": "https://www.lanacion.com.ar/economia/servicio-domestico-en-noviembre-de-2026-cuanto-cobran-las-empleadas-quienes-reciben-el-aumento-y-nid22102026/",
+          "hora": "2026-11-01T09:59:27-03:00"
         }
       ],
       "oficiales": [],
@@ -1269,61 +1489,43 @@
       "angulos": []
     },
     {
-      "id": "a-que-hora-juega-universitario-vs-atletico-grau-hoy-partido",
-      "titulo": "Universitario vs Atlético Grau 3-1: goles y resumen del triunfazo ‘crema’ en Trujillo por Torneo Clausura de Liga 1 2026",
-      "categoria": "otros",
+      "id": "el-look-con-el-que-franco-colapinto-se-robo-toda-la-atencion-2-2-2",
+      "titulo": "Liam Lawson fue descalificado, largará último en el GP de Ciudad de México y beneficia a Franco Colapinto",
+      "categoria": "deportes",
       "prioritaria": false,
-      "desde": "2026-11-01T00:01:01-03:00",
-      "calor": 46,
+      "desde": "2026-10-29T12:20:45-03:00",
+      "calor": 45,
       "medios": [
+        "La Nación",
         "Infobae"
       ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": true,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "El espectacular gol de tiro libre de Lisandro Alzugaray para Universitario contra Atlético Grau por Torneo Clausura de Liga 1 2026",
-          "link": "https://www.infobae.com/peru/deportes/2026/11/01/el-espectacular-gol-de-tiro-libre-de-lisandro-alzugaray-para-universitario-contra-atletico-grau-por-torneo-clausura-de-liga-1-2026/",
-          "hora": "2026-11-01T19:55:56-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Golazo de Gianluca Lapadula tras sensacional definición para remontar el Universitario vs Atlético Grau por el Torneo Clausura 2026",
-          "link": "https://www.infobae.com/peru/deportes/2026/11/01/gol-gianluca-lapadula-universitario-vs-atletico-grau-liga-1-2026-video-hoy/",
-          "hora": "2026-11-01T19:47:59-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Universitario vs Atlético Grau 3-1: goles y resumen del triunfazo ‘crema’ en Trujillo por Torneo Clausura de Liga 1 2026",
-          "link": "https://www.infobae.com/peru/deportes/2026/11/01/universitario-vs-atletico-grau-en-vivo-hoy-minuto-a-minuto-partido-trujillo-fecha-15-torneo-clausura-liga-1-2026-goles-resumen-resultado/",
-          "hora": "2026-11-01T19:38:51-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "la-lupa-sobre-la-expulsion-a-martinez-quarta-en-el-inicio-de-2",
-      "titulo": "Dos correctas rojas en River, aunque Ramírez debió haber sido más severo con algunos jugadores de Boca",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-01T15:17:07-03:00",
-      "calor": 46,
-      "medios": [
-        "La Nación"
-      ],
       "en_x": true,
-      "posicion_x": 11,
+      "posicion_x": 7,
       "en_google": false,
       "notas": [
         {
+          "medio": "Infobae",
+          "titulo": "Tras una penalización a Liam Lawson, Franco Colapinto largará 11° el Gran Premio de México de Fórmula 1",
+          "link": "https://www.infobae.com/deportes/2026/10/31/antes-de-la-clasificacion-franco-colapinto-afrontara-la-ultima-practica-libre-del-gran-premio-de-mexico-de-la-formula-1-hora-tv-y-formaciones/",
+          "hora": "2026-10-31T23:57:04-03:00"
+        },
+        {
           "medio": "La Nación",
-          "titulo": "Dos correctas rojas en River, aunque Ramírez debió haber sido más severo con algunos jugadores de Boca",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/el-superclasico-arranco-caliente-lucas-martinez-quarta-fue-expulsado-y-river-juega-con-diez-hombres-nid01112026/",
-          "hora": "2026-11-01T16:20:09-03:00"
+          "titulo": "Liam Lawson fue descalificado, largará último en el GP de Ciudad de México y beneficia a Franco Colapinto",
+          "link": "https://www.lanacion.com.ar/deportes/automovilismo/liam-lawson-fue-descalificado-largara-ultimo-en-el-gp-de-ciudad-de-mexico-y-beneficia-a-franco-nid31102026/",
+          "hora": "2026-10-31T23:44:09-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Liam Lawson fue descalificado de la clasificación del GP de México y Franco Colapinto ganó una posición para la largada de la F1",
+          "link": "https://www.infobae.com/deportes/2026/11/01/liam-lawson-fue-descalificado-de-la-clasificacion-del-gp-de-mexico-y-franco-colapinto-gano-una-posicion-para-la-largada-de-la-f1/",
+          "hora": "2026-10-31T23:17:33-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Franco Colapinto se beneficia de una sanción a Liam Lawson y largará 11º en el Gran Premio de Ciudad de México",
+          "link": "https://www.lanacion.com.ar/deportes/franco-colapinto-se-beneficia-de-una-sancion-a-liam-lawson-y-largara-11-en-el-gran-premio-de-ciudad-nid31102026/",
+          "hora": "2026-10-31T23:17:12-03:00"
         }
       ],
       "oficiales": [],
@@ -1376,6 +1578,102 @@
       "angulos": []
     },
     {
+      "id": "el-inter-miami-de-lionel-messi-se-enfrentara-a-new-england-r",
+      "titulo": "Con Messi como titular, el Inter Miami se enfrenta a New England Revolution por la MLS",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-10-31T20:04:33-03:00",
+      "calor": 45,
+      "medios": [
+        "La Nación",
+        "Infobae",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Con Messi como titular, el Inter Miami se enfrenta a New England Revolution por la MLS",
+          "link": "https://www.infobae.com/deportes/2026/11/01/el-inter-miami-de-lionel-messi-se-enfrentara-a-new-england-revolution-por-la-mls-hora-tv-y-formaciones/",
+          "hora": "2026-11-01T20:57:23-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Lionel Messi en New England Revolution - Inter Miami, en vivo: un duelo caliente",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/lionel-messi-en-new-england-revolution-inter-miami-en-vivo-nid01112026/",
+          "hora": "2026-11-01T20:49:49-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "El Inter Miami de Lionel Messi lleva dos partidos sin ganar y busca recuperarse ante New England Revolution",
+          "link": "https://tn.com.ar/deportes/futbol/2026/11/01/el-inter-miami-de-lionel-messi-lleva-dos-partidos-sin-ganar-y-busca-recuperarse-ante-new-england-revolution/",
+          "hora": "2026-11-01T20:18:20-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Quién es Leonel Flores, el joven delantero de Boca que disputará su primer Superclásico y ya fue convocado por Lionel Scaloni",
+          "link": "https://tn.com.ar/deportes/futbol/2026/11/01/quien-es-leonel-flores-el-joven-delantero-de-boca-que-disputara-su-primer-superclasico-y-ya-fue-convocado-por-lionel-scaloni/",
+          "hora": "2026-11-01T14:30:08-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "cuando-es-la-noche-de-los-museos-en-la-ciudad-de-buenos-aire",
+      "titulo": "Cuándo es la Noche de los Museos en la ciudad de Buenos Aires",
+      "categoria": "social",
+      "prioritaria": true,
+      "desde": "2026-11-01T01:32:03-03:00",
+      "calor": 45,
+      "medios": [
+        "Infobae",
+        "La Nación",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "TN",
+          "titulo": "Visita del papa León XIV: habrá más frecuencias de transporte y un fuerte operativo de seguridad en Buenos Aires, Córdoba y Luján",
+          "link": "https://tn.com.ar/sociedad/2026/11/01/visita-del-papa-leon-xiv-habra-mas-frecuencias-de-transporte-y-un-fuerte-operativo-de-seguridad-en-buenos-aires-cordoba-y-lujan/",
+          "hora": "2026-11-01T20:51:03-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Rotondas, pasarelas y calzada: estas son las obras para mejorar más de 500 km de una ruta clave que une Buenos Aires con La Pampa",
+          "link": "https://www.lanacion.com.ar/sociedad/rotondas-pasarelas-y-calzada-estas-son-las-obras-para-mejorar-mas-de-500-km-de-una-ruta-clave-que-nid29102026/",
+          "hora": "2026-11-01T09:59:22-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Cuándo es la Noche de los Museos en la ciudad de Buenos Aires",
+          "link": "https://www.lanacion.com.ar/sociedad/cuando-es-la-noche-de-los-museos-en-la-ciudad-de-buenos-aires-nid29102026/",
+          "hora": "2026-11-01T09:58:46-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Homero Manzi: su infancia desconocida en Añatuya, su pasión por las luces de Buenos Aires y los tangos dedicados a amores secretos",
+          "link": "https://www.infobae.com/sociedad/2026/11/01/homero-manzi-su-infancia-desconocida-en-anatuya-su-pasion-por-las-luces-de-buenos-aires-y-los-tangos-dedicados-a-amores-secretos/",
+          "hora": "2026-11-01T01:32:03-03:00"
+        }
+      ],
+      "oficiales": [
+        {
+          "fuente": "CEPA",
+          "titulo": "Los recursos de la Ciudad de Buenos Aires: un análisis de la recaudación propia y la coparticipación federal - datos a septiembre 2026",
+          "link": "https://centrocepa.com.ar/documentos/informes/883-los-recursos-de-la-ciudad-de-buenos-aires-un-analisis-de-la-recaudacion-propia-y-la-coparticipacion-federal-datos-a-septiembre-2026"
+        }
+      ],
+      "resumen": null,
+      "angulos": []
+    },
+    {
       "id": "viaje-al-kilometro-cero-de-la-cerveza-ciencia-aventura-y-gas",
       "titulo": "Viaje al kilómetro cero de la cerveza: ciencia, aventura y gastronomía redefinen el perfil de Bariloche",
       "categoria": "politica",
@@ -1399,7 +1697,7 @@
         },
         {
           "medio": "Clarín",
-          "titulo": "Vota Bariloche y se juega el primer test electoral entre Weretilneck y los Milei rumbo a 2027",
+          "titulo": "Cerraron las urnas en Bariloche para elegir convencionales constituyentes, el primer test electoral entre Weretilneck y los Milei rumbo a 2027",
           "link": "https://www.clarin.com/politica/vota-bariloche-juega-primer-test-electoral-weretilneck-milei-rumbo-2027_0_qEuZvsY9Fs.html",
           "hora": "2026-11-01T14:02:41-03:00"
         },
@@ -1421,44 +1719,44 @@
       "angulos": []
     },
     {
-      "id": "michael-mann-el-director-de-fuego-contra-fuego-se-disparo-ac",
-      "titulo": "Michael Mann, director de \"Heat\", se disparó accidentalmente en un campo de tiro",
-      "categoria": "espectaculos",
-      "prioritaria": false,
-      "desde": "2026-11-01T13:05:44-03:00",
+      "id": "salarios-cuanto-cobraran-los-empleados-de-comercio-en-noviem",
+      "titulo": "Salarios: cuánto cobrarán los empleados de Comercio en noviembre de 2026",
+      "categoria": "trabajo",
+      "prioritaria": true,
+      "desde": "2026-11-01T08:43:00-03:00",
       "calor": 45,
       "medios": [
-        "Clarín",
         "La Nación",
-        "TN"
+        "Infobae",
+        "Ámbito"
       ],
       "en_x": false,
       "posicion_x": null,
       "en_google": false,
       "notas": [
         {
-          "medio": "Clarín",
-          "titulo": "Michael Mann, director de \"Heat\", se disparó accidentalmente en un campo de tiro",
-          "link": "https://www.clarin.com/estados-unidos/michael-mann-director-de-heat-se-disparo-accidentalmente-en-un-campo-de-tiro_0_IbxfDBjoRJ.html",
-          "hora": "2026-11-01T20:00:13-03:00"
+          "medio": "Infobae",
+          "titulo": "Carney y Trump mantienen una conversación \"constructiva\" sobre el futuro del comercio entre Canadá y EEUU",
+          "link": "https://www.infobae.com/america/agencias/2026/11/02/carney-y-trump-mantienen-una-conversacion-constructiva-sobre-el-futuro-del-comercio-entre-canada-y-eeuu/",
+          "hora": "2026-11-01T21:00:53-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "Michael Mann, el director de Fuego contra fuego, se disparó accidentalmente en una pierna y fue hospitalizado",
-          "link": "https://www.lanacion.com.ar/espectaculos/personajes/michael-mann-el-director-de-fuego-contra-fuego-se-disparo-accidentalmente-en-una-pierna-y-fue-nid01112026/",
-          "hora": "2026-11-01T15:35:45-03:00"
+          "titulo": "Nueva paritaria de octubre a diciembre: cuánto cobran los empleados de comercio con el aumento confirmado",
+          "link": "https://www.lanacion.com.ar/economia/nueva-paritaria-de-octubre-a-diciembre-cuanto-cobran-los-empleados-de-comercio-con-el-aumento-nid28102026/",
+          "hora": "2026-11-01T10:00:06-03:00"
         },
         {
-          "medio": "Clarín",
-          "titulo": "Al cineasta Michael Mann se le disparó un arma en un campo de tiro y resultó herido",
-          "link": "https://www.clarin.com/espectaculos/cineasta-michael-mann-disparo-arma-campo-tiro-resulto-herido_0_evdk5f3Kzy.html",
-          "hora": "2026-11-01T15:26:12-03:00"
+          "medio": "Ámbito",
+          "titulo": "Salarios: cuánto cobrarán los empleados de la construcción en noviembre de 2026",
+          "link": "https://www.ambito.com/economia/cuanto-cobraran-los-empleados-la-construccion-noviembre-2026-n6338551",
+          "hora": "2026-11-01T09:19:00-03:00"
         },
         {
-          "medio": "TN",
-          "titulo": "El director Michael Mann se disparó por accidente en Los Ángeles: qué se sabe de su salud",
-          "link": "https://tn.com.ar/show/hollywood/2026/11/01/el-director-michael-mann-se-disparo-por-accidente-en-los-angeles-que-se-sabe-de-su-salud/",
-          "hora": "2026-11-01T13:05:44-03:00"
+          "medio": "Ámbito",
+          "titulo": "Salarios: cuánto cobrarán los empleados de Comercio en noviembre de 2026",
+          "link": "https://www.ambito.com/economia/cuanto-cobraran-los-empleados-comercio-noviembre-2026-n6338567",
+          "hora": "2026-11-01T08:43:00-03:00"
         }
       ],
       "oficiales": [],
@@ -1466,24 +1764,86 @@
       "angulos": []
     },
     {
-      "id": "el-impactante-choque-de-valtteri-bottas-que-provoco-la-bande",
-      "titulo": "El impactante choque de Valtteri Bottas que provocó la bandera roja en el GP de México",
+      "id": "la-lupa-sobre-la-expulsion-a-martinez-quarta-en-el-inicio-de-2",
+      "titulo": "Dos correctas rojas en River, aunque Ramírez debió haber sido más severo con algunos jugadores de Boca",
       "categoria": "deportes",
       "prioritaria": false,
-      "desde": "2026-11-01T18:52:26-03:00",
+      "desde": "2026-11-01T15:17:07-03:00",
       "calor": 45,
       "medios": [
-        "Ámbito"
+        "La Nación"
       ],
       "en_x": true,
-      "posicion_x": 21,
+      "posicion_x": 13,
       "en_google": false,
       "notas": [
         {
-          "medio": "Ámbito",
-          "titulo": "El impactante choque de Valtteri Bottas que provocó la bandera roja en el GP de México",
-          "link": "https://www.ambito.com/deportes/el-impactante-choque-valtteri-bottas-que-provoco-la-bandera-roja-el-gp-mexico-n6340302",
-          "hora": "2026-11-01T18:52:26-03:00"
+          "medio": "La Nación",
+          "titulo": "Dos correctas rojas en River, aunque Ramírez debió haber sido más severo con algunos jugadores de Boca",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/el-superclasico-arranco-caliente-lucas-martinez-quarta-fue-expulsado-y-river-juega-con-diez-hombres-nid01112026/",
+          "hora": "2026-11-01T16:20:09-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "nuevas-encuestas-electorales-en-caba-santa-fe-y-mendoza-como-2",
+      "titulo": "Texas: el histórico bastión republicano que los demócratas quieren tomar en las midterms 2026",
+      "categoria": "otros",
+      "prioritaria": false,
+      "desde": "2026-10-31T08:42:59-03:00",
+      "calor": 44,
+      "medios": [
+        "La Nación",
+        "Infobae"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "Cuál es la diferencia entre demócratas y republicanos y por qué cada vez hay más candidatos independientes en USA",
+          "link": "https://www.lanacion.com.ar/estados-unidos/washington/cual-es-la-diferencia-entre-democratas-y-republicanos-y-por-que-cada-vez-hay-mas-candidatos-nid01112026/",
+          "hora": "2026-11-01T20:52:00-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "El Sayed reivindica los \"valores demócratas\" tras el apoyo de Stevens al candidato republicano Rogers",
+          "link": "https://www.infobae.com/america/agencias/2026/11/01/el-sayed-reivindica-los-valores-democratas-tras-el-apoyo-de-stevens-al-candidato-republicano-rogers/",
+          "hora": "2026-11-01T19:45:37-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "El pueblo de Texas que perdió el 10% de su población por la colaboración de la policía en detenciones del ICE a inmigrantes",
+          "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/el-pueblo-de-texas-que-perdio-el-10-de-su-poblacion-por-la-colaboracion-de-la-policia-en-detenciones-nid01112026/",
+          "hora": "2026-11-01T19:17:00-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Republicanos vs. demócratas en Texas y quién gana las midterms según las encuestas recientes entre los latinos",
+          "link": "https://www.lanacion.com.ar/estados-unidos/texas/republicanos-vs-democratas-en-texas-y-quien-gana-las-midterms-segun-las-encuestas-recientes-entre-nid01112026/",
+          "hora": "2026-11-01T18:51:00-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Texas: el histórico bastión republicano que los demócratas quieren tomar en las midterms 2026",
+          "link": "https://www.lanacion.com.ar/estados-unidos/texas/texas-el-historico-bastion-republicano-que-los-democratas-quieren-tomar-en-las-midterms-2026-nid01112026/",
+          "hora": "2026-11-01T18:36:09-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Cómo van las elecciones en USA 2026: resultados en vivo del voto anticipado y las midterms entre republicanos vs. demócratas hoy",
+          "link": "https://www.lanacion.com.ar/estados-unidos/washington/como-van-las-elecciones-en-usa-2026-resultados-en-vivo-del-voto-anticipado-y-las-midterms-entre-nid01112026/",
+          "hora": "2026-11-01T18:07:54-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Las siete palabras que pueden frenar legalmente una detención ante un agente del ICE en un operativo migratorio",
+          "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/las-siete-palabras-que-pueden-detener-al-ice-ante-una-detencion-migratoria-nid31102026/",
+          "hora": "2026-11-01T17:55:22-03:00"
         }
       ],
       "oficiales": [],
@@ -1536,119 +1896,6 @@
       "angulos": []
     },
     {
-      "id": "cronica-el-derbi-vasco-se-queda-en-san-mames-y-getafe-y-vale",
-      "titulo": "(Crónica) El derbi vasco se queda en San Mamés y Getafe y Valencia ven la luz",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-01T16:55:44-03:00",
-      "calor": 44,
-      "medios": [
-        "Infobae",
-        "TN"
-      ],
-      "en_x": true,
-      "posicion_x": 50,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "(Crónica) El derbi vasco se queda en San Mamés y Getafe y Valencia ven la luz",
-          "link": "https://www.infobae.com/america/agencias/2026/11/01/cronica-el-derbi-vasco-se-queda-en-san-mames-y-getafe-y-valencia-ven-la-luz/",
-          "hora": "2026-11-01T19:45:19-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Valencia le ganó a Elche 1 a 0 por la fecha 11 de La Liga de España",
-          "link": "https://tn.com.ar/deportes/futbol/2026/11/01/elche-vs-valencia-en-vivo-por-la-fecha-11-de-la-liga-de-espana-hora-donde-ver-y-formaciones/",
-          "hora": "2026-11-01T16:55:44-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "antonelli-nuevo-campeon-del-mundo-al-acabar-tercero-en-mexic",
-      "titulo": "Antonelli, nuevo campeón del mundo al acabar tercero en México; donde ganó Verstappen",
-      "categoria": "otros",
-      "prioritaria": false,
-      "desde": "2026-11-01T19:30:33-03:00",
-      "calor": 44,
-      "medios": [
-        "Infobae"
-      ],
-      "en_x": true,
-      "posicion_x": 25,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Antonelli, nuevo campeón del mundo al acabar tercero en México; donde ganó Verstappen",
-          "link": "https://www.infobae.com/america/agencias/2026/11/01/antonelli-nuevo-campeon-del-mundo-al-acabar-tercero-en-mexico-donde-gano-verstappen/",
-          "hora": "2026-11-01T19:30:33-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "nuevas-encuestas-electorales-en-caba-santa-fe-y-mendoza-como-2",
-      "titulo": "Texas: el histórico bastión republicano que los demócratas quieren tomar en las midterms 2026",
-      "categoria": "otros",
-      "prioritaria": false,
-      "desde": "2026-10-31T08:42:59-03:00",
-      "calor": 43,
-      "medios": [
-        "La Nación",
-        "Infobae"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "El Sayed reivindica los \"valores demócratas\" tras el apoyo de Stevens al candidato republicano Rogers",
-          "link": "https://www.infobae.com/america/agencias/2026/11/01/el-sayed-reivindica-los-valores-democratas-tras-el-apoyo-de-stevens-al-candidato-republicano-rogers/",
-          "hora": "2026-11-01T19:45:37-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "El pueblo de Texas que perdió el 10% de su población por la colaboración de la policía en detenciones del ICE a inmigrantes",
-          "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/el-pueblo-de-texas-que-perdio-el-10-de-su-poblacion-por-la-colaboracion-de-la-policia-en-detenciones-nid01112026/",
-          "hora": "2026-11-01T19:17:00-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Republicanos vs. demócratas en Texas y quién gana las midterms según las encuestas recientes entre los latinos",
-          "link": "https://www.lanacion.com.ar/estados-unidos/texas/republicanos-vs-democratas-en-texas-y-quien-gana-las-midterms-segun-las-encuestas-recientes-entre-nid01112026/",
-          "hora": "2026-11-01T18:51:00-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Texas: el histórico bastión republicano que los demócratas quieren tomar en las midterms 2026",
-          "link": "https://www.lanacion.com.ar/estados-unidos/texas/texas-el-historico-bastion-republicano-que-los-democratas-quieren-tomar-en-las-midterms-2026-nid01112026/",
-          "hora": "2026-11-01T18:36:09-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Cómo van las elecciones en USA 2026: resultados en vivo del voto anticipado y las midterms entre republicanos vs. demócratas hoy",
-          "link": "https://www.lanacion.com.ar/estados-unidos/washington/como-van-las-elecciones-en-usa-2026-resultados-en-vivo-del-voto-anticipado-y-las-midterms-entre-nid01112026/",
-          "hora": "2026-11-01T18:07:54-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Las siete palabras que pueden frenar legalmente una detención ante un agente del ICE en un operativo migratorio",
-          "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/las-siete-palabras-que-pueden-detener-al-ice-ante-una-detencion-migratoria-nid31102026/",
-          "hora": "2026-11-01T17:55:22-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
       "id": "la-visita-de-leon-xiv-a-la-argentina-restringiran-la-circula",
       "titulo": "Tras dos años en Recoleta, Gladys “La Bomba Tucumana” cerró su local de empanadas y apuntó contra Javier Milei",
       "categoria": "espectaculos",
@@ -1688,162 +1935,6 @@
       "angulos": []
     },
     {
-      "id": "el-1x1-de-river-en-el-superclasico-ante-boca-santiago-beltra",
-      "titulo": "El 1x1 de River en el Superclásico ante Boca: Santiago Beltrán el mejor y muchos desaprobados que dan preocupación a Ponzio",
-      "categoria": "politica",
-      "prioritaria": true,
-      "desde": "2026-10-31T20:41:26-03:00",
-      "calor": 43,
-      "medios": [
-        "Clarín",
-        "Infobae",
-        "Página/12"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Embargo de la Dian dejaría a Ecopetrol con recursos para menos de un mes de operaciones: hay preocupación por trabajadores y amenaza de insolvencia",
-          "link": "https://www.infobae.com/colombia/2026/11/01/embargo-de-la-dian-dejaria-a-ecopetrol-con-recursos-para-menos-de-un-mes-de-operaciones-crece-la-preocupacion-por-trabajadores-y-proveedores/",
-          "hora": "2026-11-01T19:49:30-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "El 1x1 de River en el Superclásico ante Boca: Santiago Beltrán el mejor y muchos desaprobados que dan preocupación a Ponzio",
-          "link": "https://www.clarin.com/deportes/1x1-river-superclasico-boca-santiago-beltran-mejor-desaprobados-dan-preocupacion-ponzio_0_lT9L6B3akz.html",
-          "hora": "2026-11-01T18:02:50-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "La operación para acercar a los represores al papa León XIV",
-          "link": "https://www.pagina12.com.ar/2026/10/31/la-operacion-para-acercar-a-los-represores-al-papa-leon-xiv/",
-          "hora": "2026-10-31T20:41:26-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "recreacion-historica-en-marcos-paz-se-les-disparo-un-canon-p",
-      "titulo": "Recreaban una batalla histórica en Marcos Paz cuando un cañón se disparó accidentalmente",
-      "categoria": "social",
-      "prioritaria": true,
-      "desde": "2026-10-31T21:27:27-03:00",
-      "calor": 43,
-      "medios": [
-        "Clarín",
-        "Infobae",
-        "La Nación"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "Recreaban una batalla histórica en Marcos Paz cuando un cañón se disparó accidentalmente",
-          "link": "https://www.lanacion.com.ar/sociedad/recreaban-una-batalla-historica-en-marcos-paz-cuando-un-canon-se-disparo-accidentalmente-nid01112026/",
-          "hora": "2026-11-01T19:23:12-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Recreaban la Batalla de Villamayor en Marcos Paz y un cañón se disparó frente a ellos",
-          "link": "https://www.infobae.com/sociedad/2026/11/01/recreaban-la-batalla-de-villamayor-en-marcos-paz-y-un-canon-se-disparo-frente-a-ellos/",
-          "hora": "2026-11-01T11:54:44-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Recreación histórica en Marcos Paz: se les disparó un cañón por accidente en medio del show y todo quedó grabado",
-          "link": "https://www.clarin.com/sociedad/recreacion-historica-marcos-paz-disparo-canon-accidente-medio-show-quedo-grabado_0_wkg7pw7zt6.html",
-          "hora": "2026-10-31T21:27:27-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "albert-sanchez-cita-a-24-jugadores-en-su-primera-convocatori",
-      "titulo": "Julieta Prandi compartió las fotos de su viaje a Brasil tras su separación de Emanuel Ortega",
-      "categoria": "espectaculos",
-      "prioritaria": false,
-      "desde": "2026-10-31T22:08:02-03:00",
-      "calor": 43,
-      "medios": [
-        "La Nación",
-        "Infobae",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "La foto que compartió Emanuel Ortega tras el viaje de Julieta Prandi a Río de Janeiro",
-          "link": "https://www.infobae.com/teleshow/2026/11/01/la-foto-que-compartio-emanuel-ortega-tras-el-viaje-de-julieta-prandi-a-rio-de-janeiro/",
-          "hora": "2026-11-01T19:29:44-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "¿Pasó la página? La foto de Emanuel Ortega después de que Julieta Prandi mostrara sus días en Brasil con un amigo",
-          "link": "https://tn.com.ar/show/famosos/2026/11/01/paso-la-pagina-la-foto-de-emanuel-ortega-despues-de-que-julieta-prandi-mostrara-sus-dias-en-brasil-con-un-amigo/",
-          "hora": "2026-11-01T12:31:48-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Julieta Prandi compartió las fotos de su viaje a Brasil tras su separación de Emanuel Ortega",
-          "link": "https://www.lanacion.com.ar/espectaculos/julieta-prandi-compartio-las-fotos-de-su-viaje-a-brasil-tras-su-separacion-de-emanuel-ortega-nid31102026/",
-          "hora": "2026-10-31T22:08:02-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "la-patoneta-empezo-a-moverse-bullrich-toma-distancia-y-arma",
-      "titulo": "\"La Patoneta empezó a moverse\": Bullrich toma distancia y arma su equipo para ser una alternativa si Milei no repunta",
-      "categoria": "politica",
-      "prioritaria": true,
-      "desde": "2026-10-31T23:00:18-03:00",
-      "calor": 43,
-      "medios": [
-        "Infobae",
-        "Clarín",
-        "Página/12"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Clarín",
-          "titulo": "\"La Patoneta empezó a moverse\": Bullrich toma distancia y arma su equipo para ser una alternativa si Milei no repunta",
-          "link": "https://www.clarin.com/politica/patoneta-empezo-moverse-bullrich-toma-distancia-arma-equipo-alternativa-milei-repunta_0_yBKMBxn8vh.html",
-          "hora": "2026-11-01T17:38:33-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Patricia Bullrich y el plan B de Milei: cómo retener al votante que dice “sí, pero”",
-          "link": "https://www.infobae.com/politica/2026/11/01/patricia-bullrich-y-el-plan-b-de-milei-como-retener-al-votante-que-dice-si-pero/",
-          "hora": "2026-11-01T00:45:24-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Patricia Bullrich estira su distancia con los hermanos Milei",
-          "link": "https://www.pagina12.com.ar/2026/11/01/patricia-bullrich-estira-su-distancia-con-los-hermanos-milei/",
-          "hora": "2026-10-31T23:00:18-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
       "id": "que-se-puede-hacer-para-reactivar-la-economia-sin-modificar",
       "titulo": "Qué se puede hacer para reactivar la economía sin modificar el rumbo",
       "categoria": "economia",
@@ -1852,7 +1943,7 @@
       "calor": 43,
       "medios": [
         "La Nación",
-        "Infobae",
+        "Clarín",
         "TN"
       ],
       "en_x": false,
@@ -1860,16 +1951,16 @@
       "en_google": false,
       "notas": [
         {
+          "medio": "Clarín",
+          "titulo": "El Gobierno avala la reelección indefinida en la Provincia para sumar a la UCR al armado anti K",
+          "link": "https://www.clarin.com/politica/gobierno-avala-reeleccion-indefinida-provincia-sumar-ucr-armado-anti-k_0_xFolEmfNPF.html",
+          "hora": "2026-11-01T20:53:31-03:00"
+        },
+        {
           "medio": "TN",
           "titulo": "Milei busca reactivar la economía para impulsar su reelección, pero enfrenta el riesgo de que vuelva a acelerarse la inflación",
           "link": "https://tn.com.ar/economia/2026/11/01/milei-busca-reactivar-la-economia-para-impulsar-su-reeleccion-pero-enfrenta-el-riesgo-de-que-vuelva-a-acelerarse-la-inflacion/",
           "hora": "2026-11-01T17:11:01-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "El Gobierno analiza destinar más fondos a los bancos para impulsar el crédito hipotecario",
-          "link": "https://www.infobae.com/economia/2026/11/01/el-gobierno-analiza-destinar-mas-fondos-a-los-bancos-para-impulsar-el-credito-hipotecario/",
-          "hora": "2026-11-01T10:16:13-03:00"
         },
         {
           "medio": "La Nación",
@@ -1883,38 +1974,116 @@
       "angulos": []
     },
     {
-      "id": "alerta-en-ezeiza-al-menos-15-turistas-extranjeros-llegaron-c",
-      "titulo": "Operativo en Ezeiza: atendieron a turistas que llegaron desde Ushuaia con síntomas de intoxicación tras un viaje en crucero",
-      "categoria": "social",
+      "id": "sin-acuerdo-por-el-presupuesto-el-oficialismo-posterga-su-cr",
+      "titulo": "Sin acuerdo por el Presupuesto, el oficialismo posterga su cronograma y se encamina a las extraordinarias",
+      "categoria": "politica",
       "prioritaria": true,
-      "desde": "2026-11-01T00:49:11-03:00",
+      "desde": "2026-11-01T00:51:55-03:00",
       "calor": 43,
       "medios": [
-        "Clarín",
-        "La Nación",
-        "Infobae"
+        "Infobae",
+        "Página/12",
+        "TN"
       ],
       "en_x": false,
       "posicion_x": null,
       "en_google": false,
       "notas": [
         {
+          "medio": "TN",
+          "titulo": "El Gobierno negocia con sus aliados para avanzar con el Presupuesto 2027 y enfrenta reclamos por impuestos, universidades y obras",
+          "link": "https://tn.com.ar/politica/2026/11/01/el-gobierno-negocia-con-sus-aliados-para-avanzar-con-el-presupuesto-2027-y-enfrenta-reclamos-por-impuestos-universidades-y-obras/",
+          "hora": "2026-11-01T20:58:32-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "A un mes del cierre de las sesiones ordinarias, el Gobierno no logra destrabrar la reforma política ni el presupuesto",
+          "link": "https://www.pagina12.com.ar/2026/11/01/a-un-mes-del-cierre-de-las-sesiones-ordinarias-el-gobierno-no-logra-destrabrar-la-reforma-politica-ni-el-presupuesto/",
+          "hora": "2026-11-01T16:23:29-03:00"
+        },
+        {
           "medio": "Infobae",
-          "titulo": "Operativo en Ezeiza: atendieron a turistas que llegaron desde Ushuaia con síntomas de intoxicación tras un viaje en crucero",
-          "link": "https://www.infobae.com/salud/2026/11/01/operativo-sanitario-en-ezeiza-atendieron-a-un-grupo-de-turistas-que-llego-en-un-vuelo-desde-ushuaia-con-sintomas-de-intoxicacion/",
-          "hora": "2026-11-01T20:26:57-03:00"
+          "titulo": "Sin acuerdo por el Presupuesto, el oficialismo posterga su cronograma y se encamina a las extraordinarias",
+          "link": "https://www.infobae.com/politica/2026/11/01/sin-acuerdo-por-el-presupuesto-el-oficialismo-posterga-su-cronograma-y-se-encamina-a-las-extraordinarias/",
+          "hora": "2026-11-01T00:51:55-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "se-incendio-un-velero-en-el-puerto-de-mar-del-plata-rescatar",
+      "titulo": "Se incendió un velero en el puerto de Mar del Plata: rescataron a tres canadienses y a un perro",
+      "categoria": "social",
+      "prioritaria": true,
+      "desde": "2026-11-01T17:12:26-03:00",
+      "calor": 43,
+      "medios": [
+        "La Nación",
+        "Infobae",
+        "Clarín"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Clarín",
+          "titulo": "Rescataron a tres turistas canadienses que arribaron en un velero que se incendió en el puerto de Mar del Plata",
+          "link": "https://www.clarin.com/sociedad/rescataron-turistas-canadienses-arribaron-velero-incendio-puerto-mar-plata_0_rL44ktEW5B.html",
+          "hora": "2026-11-01T20:09:10-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Impactante operativo en Mar del Plata: tres canadienses fueron rescatados de un velero que se incendiaba",
+          "link": "https://www.infobae.com/sociedad/2026/11/01/impactante-operativo-en-mar-del-plata-tres-canadienses-fueron-rescatados-de-un-velero-que-se-incendiaba/",
+          "hora": "2026-11-01T18:18:36-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "Alerta y operativo en Ezeiza por un grupo de turistas extranjeros intoxicados: llegaron desde Ushuaia tras bajar de un crucero",
-          "link": "https://www.lanacion.com.ar/sociedad/alerta-y-operativo-en-ezeiza-por-un-grupo-de-turistas-extranjeros-intoxicados-llegaron-desde-ushuaia-nid01112026/",
-          "hora": "2026-11-01T17:54:28-03:00"
-        },
+          "titulo": "Se incendió un velero en el puerto de Mar del Plata: rescataron a tres canadienses y a un perro",
+          "link": "https://www.lanacion.com.ar/seguridad/se-incendio-un-velero-en-el-puerto-de-mar-del-plata-rescataron-a-tres-canadienses-y-a-un-perro-nid01112026/",
+          "hora": "2026-11-01T17:12:26-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "tatum-castiga-con-32-puntos-y-boston-suma-su-quinta-victoria",
+      "titulo": "Tatum castiga con 32 puntos y Boston suma su quinta victoria seguida al ganar en Orlando",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-11-01T17:37:00-03:00",
+      "calor": 43,
+      "medios": [
+        "Infobae",
+        "Clarín",
+        "Página/12"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
         {
           "medio": "Clarín",
-          "titulo": "Alerta en Ezeiza por 12 turistas que aterrizaron con síntomas de intoxicación: venían de realizar un crucero que desembarcó en Ushuaia",
-          "link": "https://www.clarin.com/sociedad/alerta-ezeiza-15-turistas-aterrizaron-sintomas-intoxicacion-venian-realizar-crucero-desembarco-ushuaia_0_1rGggVPM6H.html",
-          "hora": "2026-11-01T12:28:53-03:00"
+          "titulo": "Tatum castiga con 32 puntos y Boston suma su quinta victoria seguida al ganar en Orlando",
+          "link": "https://www.clarin.com/estados-unidos/tatum-castiga-con-32-puntos-y-boston-suma-su-quinta-victoria-seguida-al-ganar-en-orlando_0_XPUnTDNJGl.html",
+          "hora": "2026-11-01T20:50:05-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "97-108. Los Celtics ganan en Orlando con Hugo González de titular",
+          "link": "https://www.infobae.com/espana/agencias/2026/11/01/97-108-los-celtics-ganan-en-orlando-con-hugo-gonzalez-de-titular/",
+          "hora": "2026-11-01T20:45:53-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Como una lágrima, entre dos fechas y el destino: los 60 de Víctor Hugo como relator",
+          "link": "https://www.pagina12.com.ar/2026/11/01/como-una-lagrima-entre-dos-fechas-y-el-destino-los-60-de-victor-hugo-como-relator/",
+          "hora": "2026-11-01T17:37:00-03:00"
         }
       ],
       "oficiales": [],
@@ -1941,7 +2110,7 @@
           "medio": "Página/12",
           "titulo": "Cyber Monday 2026: cuándo es y cuáles son los descuentos que hay",
           "link": "https://www.pagina12.com.ar/2026/11/01/cyber-monday-2026-cuando-es-y-cuales-son-los-descuentos-que-hay/",
-          "hora": "2026-11-01T19:29:21-03:00"
+          "hora": "2026-11-01T20:40:18-03:00"
         },
         {
           "medio": "Infobae",
@@ -1969,7 +2138,7 @@
       "calor": 43,
       "medios": [
         "La Nación",
-        "Clarín",
+        "Infobae",
         "TN"
       ],
       "en_x": false,
@@ -1977,10 +2146,10 @@
       "en_google": false,
       "notas": [
         {
-          "medio": "Clarín",
-          "titulo": "Nueve muertos deja accidente de un pequeño avión cerca a la casa de Trump en Florida",
-          "link": "https://www.clarin.com/estados-unidos/nueve-muertos-deja-accidente-de-un-pequeno-avion-cerca-a-la-casa-de-trump-en-florida_0_fQIeHEtu37.html",
-          "hora": "2026-11-01T19:30:09-03:00"
+          "medio": "Infobae",
+          "titulo": "Un avión ejecutivo se estrelló en una zona residencial del sur de la Florida: hay 9 muertos",
+          "link": "https://www.infobae.com/estados-unidos/2026/11/01/reportan-una-fuerte-explosion-en-west-palm-beach-las-autoridades-investigan-la-causa/",
+          "hora": "2026-11-01T20:46:41-03:00"
         },
         {
           "medio": "La Nación",
@@ -1993,31 +2162,6 @@
           "titulo": "Una avioneta se estrelló a 10 kilómetros de la residencia de Trump en Florida: nueve personas murieron",
           "link": "https://tn.com.ar/internacional/2026/11/01/una-avioneta-se-estrello-a-10-kilometros-de-la-residencia-de-trump-en-florida-nueve-personas-murieron/",
           "hora": "2026-11-01T18:21:50-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "boca-gano-en-un-superclasico-con-escandalo-river-termino-con",
-      "titulo": "Boca ganó en un Superclásico con escándalo: River terminó con 9 jugadores y reclamó por dos penales",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-01T18:30:40-03:00",
-      "calor": 43,
-      "medios": [
-        "Clarín"
-      ],
-      "en_x": true,
-      "posicion_x": 27,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Clarín",
-          "titulo": "Boca ganó en un Superclásico con escándalo: River terminó con 9 jugadores y reclamó por dos penales",
-          "link": "https://www.clarin.com/deportes/boca-gano-superclasico-escandalo-river-termino-9-jugadores-reclamo-penales_0_aysSWwqXfF.html",
-          "hora": "2026-11-01T18:30:40-03:00"
         }
       ],
       "oficiales": [],
@@ -2064,45 +2208,6 @@
       "angulos": []
     },
     {
-      "id": "kimi-antonelli-hizo-historia-en-la-formula-1-se-consagro-com",
-      "titulo": "Kimi Antonelli hizo historia en la Fórmula 1: se consagró como el campeón más joven de todos los tiempos",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-01T19:02:00-03:00",
-      "calor": 43,
-      "medios": [
-        "Clarín",
-        "Infobae",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Kimi Antonelli hizo historia en la Fórmula 1: se consagró como el campeón más joven de todos los tiempos",
-          "link": "https://www.infobae.com/deportes/2026/11/01/kimi-antonelli-hizo-historia-se-consagro-como-el-campeon-mas-joven-de-la-historia-de-la-formula-1/",
-          "hora": "2026-11-01T20:05:22-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Kimi Antonelli hizo historia en la Fórmula 1: se convirtió en el campeón más joven de todos los tiempos",
-          "link": "https://tn.com.ar/deportes/formula-1/2026/11/01/kimi-antonelli-hizo-historia-en-la-formula-1-se-convirtio-en-el-campeon-mas-joven-de-todos-los-tiempos/",
-          "hora": "2026-11-01T19:30:01-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Kimi Antonelli, el nene que no quería bajarse del kart y hoy es el campeón más joven de la historia de la Fórmula 1",
-          "link": "https://www.clarin.com/deportes/kimi-antonelli-nene-queria-bajarse-kart-hoy-campeon-joven-historia-formula-1_0_3zvuD0y4w3.html",
-          "hora": "2026-11-01T19:02:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
       "id": "brentford-vs-nottingham-en-vivo-por-la-fecha-9-de-la-premier",
       "titulo": "Arsenal le ganó 1-0 en Liverpool y es el nuevo líder de Premier League: critican a Mac Allister por exagerar una falta",
       "categoria": "deportes",
@@ -2135,6 +2240,45 @@
           "titulo": "La lapidaria crítica a Lisandro Martínez por su presente en el Manchester United: “El peor jugador de la Premier League”",
           "link": "https://www.infobae.com/deportes/2026/11/01/la-lapidaria-critica-a-lisandro-martinez-por-su-presente-en-el-manchester-united-el-peor-jugador-de-la-premier-league/",
           "hora": "2026-11-01T10:14:40-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "la-patoneta-empezo-a-moverse-bullrich-toma-distancia-y-arma",
+      "titulo": "Patricia Bullrich avisa: en marzo o abril define su candidatura presidencial",
+      "categoria": "politica",
+      "prioritaria": true,
+      "desde": "2026-10-31T23:00:18-03:00",
+      "calor": 42,
+      "medios": [
+        "Infobae",
+        "Clarín",
+        "Página/12"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Clarín",
+          "titulo": "Patricia Bullrich avisa: en marzo o abril define su candidatura presidencial",
+          "link": "https://www.clarin.com/politica/patoneta-empezo-moverse-bullrich-toma-distancia-arma-equipo-alternativa-milei-repunta_0_yBKMBxn8vh.html",
+          "hora": "2026-11-01T17:38:33-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Patricia Bullrich y el plan B de Milei: cómo retener al votante que dice “sí, pero”",
+          "link": "https://www.infobae.com/politica/2026/11/01/patricia-bullrich-y-el-plan-b-de-milei-como-retener-al-votante-que-dice-si-pero/",
+          "hora": "2026-11-01T00:45:24-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Patricia Bullrich estira su distancia con los hermanos Milei",
+          "link": "https://www.pagina12.com.ar/2026/11/01/patricia-bullrich-estira-su-distancia-con-los-hermanos-milei/",
+          "hora": "2026-10-31T23:00:18-03:00"
         }
       ],
       "oficiales": [],
@@ -2187,24 +2331,24 @@
       "angulos": []
     },
     {
-      "id": "tragedia-en-mendoza-murio-una-nina-de-2-anos-tras-ser-hallad-2",
-      "titulo": "En vivo - Gimnasia y Tiro vs. Quilmes: 0 - 1, por la fecha 36 de la Primera Nacional",
-      "categoria": "deportes",
+      "id": "sergio-lapegue-viajo-a-harvard-para-visitar-a-su-hijo-y-term",
+      "titulo": "Sergio Lapegüe viajó a Harvard para visitar a su hijo y terminó en un encuentro con Messi: “El tiempo se detuvo”",
+      "categoria": "espectaculos",
       "prioritaria": false,
-      "desde": "2026-10-31T19:52:53-03:00",
-      "calor": 41,
+      "desde": "2026-11-01T18:11:51-03:00",
+      "calor": 42,
       "medios": [
-        "TN"
+        "La Nación"
       ],
       "en_x": false,
       "posicion_x": null,
       "en_google": true,
       "notas": [
         {
-          "medio": "TN",
-          "titulo": "En vivo - Gimnasia y Tiro vs. Quilmes: 0 - 1, por la fecha 36 de la Primera Nacional",
-          "link": "https://tn.com.ar/deportes/futbol/2026/11/01/gimnasia-y-tiro-vs-quilmes-en-vivo-por-la-fecha-36-de-la-primera-nacional-hora-donde-ver-y-formaciones/",
-          "hora": "2026-11-01T20:30:27-03:00"
+          "medio": "La Nación",
+          "titulo": "Sergio Lapegüe viajó a Harvard para visitar a su hijo y terminó en un encuentro con Messi: “El tiempo se detuvo”",
+          "link": "https://www.lanacion.com.ar/espectaculos/sergio-lapegue-viajo-a-harvard-para-visitar-a-su-hijo-y-termino-en-un-encuentro-con-messi-el-tiempo-nid01112026/",
+          "hora": "2026-11-01T20:52:03-03:00"
         }
       ],
       "oficiales": [],
@@ -2212,37 +2356,61 @@
       "angulos": []
     },
     {
-      "id": "morena-beltran-se-quejo-por-los-insultos-de-hinchas-de-estud",
-      "titulo": "Morena Beltrán, tras los insultos de hinchas de Estudiantes: “Me dijeron que me iban a matar”",
+      "id": "boca-gano-en-un-superclasico-con-escandalo-river-termino-con",
+      "titulo": "Boca ganó en un Superclásico con escándalo: River terminó con 9 jugadores y reclamó por dos penales",
       "categoria": "deportes",
       "prioritaria": false,
-      "desde": "2026-11-01T02:09:03-03:00",
+      "desde": "2026-11-01T18:30:40-03:00",
+      "calor": 42,
+      "medios": [
+        "Clarín"
+      ],
+      "en_x": true,
+      "posicion_x": 30,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Clarín",
+          "titulo": "Boca ganó en un Superclásico con escándalo: River terminó con 9 jugadores y reclamó por dos penales",
+          "link": "https://www.clarin.com/deportes/boca-gano-superclasico-escandalo-river-termino-9-jugadores-reclamo-penales_0_aysSWwqXfF.html",
+          "hora": "2026-11-01T18:30:40-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "aramburu-me-parece-increible-que-se-pite-un-penalti-asi-cuan",
+      "titulo": "Aramburu: “Me parece increíble que se pite un penalti así cuando claramente la toco yo”",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-11-01T01:53:11-03:00",
       "calor": 41,
       "medios": [
-        "La Nación",
         "Infobae"
       ],
       "en_x": true,
-      "posicion_x": 48,
+      "posicion_x": 42,
       "en_google": false,
       "notas": [
         {
-          "medio": "La Nación",
-          "titulo": "Morena Beltrán, tras los insultos de hinchas de Estudiantes: “Me dijeron que me iban a matar”",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/morena-beltran-tras-los-insultos-de-hinchas-de-estudiantes-me-dijeron-que-me-iban-a-matar-nid01112026/",
-          "hora": "2026-11-01T11:19:05-03:00"
+          "medio": "Infobae",
+          "titulo": "Matarazzo: “Para mí claramente no es penalti Y no entiendo por qué el VAR no interviene”",
+          "link": "https://www.infobae.com/espana/agencias/2026/11/01/matarazzo-para-mi-claramente-no-es-penalti-y-no-entiendo-por-que-el-var-no-interviene/",
+          "hora": "2026-11-01T19:45:44-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Morena Beltrán recibió insultos de hinchas de Estudiantes en la transmisión y publicó un duro descargo: “Me hablaron de que me iban a matar”",
-          "link": "https://www.infobae.com/deportes/2026/11/01/morena-beltran-recibio-insultos-de-hinchas-de-estudiantes-en-la-transmision-y-publico-un-duro-descargo-me-hablaron-de-que-me-iban-a-matar/",
-          "hora": "2026-11-01T09:30:11-03:00"
+          "titulo": "Aramburu: “Me parece increíble que se pite un penalti así cuando claramente la toco yo”",
+          "link": "https://www.infobae.com/espana/agencias/2026/11/01/aramburu-me-parece-increible-que-se-pite-un-penalti-asi-cuando-claramente-la-toco-yo/",
+          "hora": "2026-11-01T19:32:27-03:00"
         },
         {
-          "medio": "La Nación",
-          "titulo": "Morena Beltrán se quejó por los insultos de hinchas de Estudiantes: “No se puede trabajar”",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/morena-beltran-se-quejo-por-los-insultos-de-hinchas-de-estudiantes-no-se-puede-trabajar-nid01112026/",
-          "hora": "2026-11-01T02:09:03-03:00"
+          "medio": "Infobae",
+          "titulo": "Fue despedazada y tardó 54 años en volver a vivir: la increíble historia de la Ferrari ganadora de Froilán González",
+          "link": "https://www.infobae.com/deportes/2026/11/01/fue-despedazada-y-tardo-54-anos-en-volver-a-vivir-la-increible-historia-de-la-ferrari-ganadora-de-froilan-gonzalez/",
+          "hora": "2026-11-01T01:53:11-03:00"
         }
       ],
       "oficiales": [],
@@ -2250,49 +2418,36 @@
       "angulos": []
     },
     {
-      "id": "tabla-de-posiciones-de-la-liga-peruana-de-voley-2026-27-hoy",
-      "titulo": "Tabla de posiciones de la Liga Peruana de Vóley 2026-27 HOY: así van los equipos en la fecha 3 de la fase 1",
+      "id": "antonelli-devora-el-record-de-precocidad-de-vettel-y-devuelv",
+      "titulo": "Antonelli devora el récord de precocidad de Vettel y devuelve el Mundial de la F1 a Italia 73 años después",
       "categoria": "otros",
       "prioritaria": false,
-      "desde": "2026-11-01T19:16:32-03:00",
+      "desde": "2026-11-01T19:31:21-03:00",
       "calor": 41,
       "medios": [
-        "Infobae",
-        "La Nación"
+        "Infobae"
       ],
-      "en_x": false,
-      "posicion_x": null,
+      "en_x": true,
+      "posicion_x": 43,
       "en_google": false,
       "notas": [
         {
           "medio": "Infobae",
-          "titulo": "Alianza Lima vs Circolo EN VIVO HOY: punto a punto del partido por fecha 3 de la Liga Peruana de Vóley 2026-27",
-          "link": "https://www.infobae.com/peru/deportes/2026/11/01/alianza-lima-vs-circolo-en-vivo-hoy-punto-a-punto-partido-fecha-3-liga-peruana-de-voley-2026-2027-resumen-resultado/",
-          "hora": "2026-11-01T20:08:02-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Así quedó la tabla de posiciones de la Fórmula 1, tras el triunfo de Max Verstappen en el GP de México",
-          "link": "https://www.lanacion.com.ar/deportes/automovilismo/asi-quedo-la-tabla-de-posiciones-de-la-formula-1-tras-el-triunfo-de-max-verstappen-en-el-gp-de-nid01112026/",
-          "hora": "2026-11-01T19:52:57-03:00"
+          "titulo": "Antonelli devora el récord de precocidad de Vettel y devuelve el Mundial de la F1 a Italia 73 años después",
+          "link": "https://www.infobae.com/america/agencias/2026/11/01/antonelli-devora-el-record-de-precocidad-de-vettel-y-devuelve-el-mundial-de-la-f1-a-italia-73-anos-despues/",
+          "hora": "2026-11-01T20:30:51-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Tabla de posiciones de la Liga 1 Perú 2026 HOY: así van los equipos en la fecha 15 del Torneo Clausura y Acumulada",
-          "link": "https://www.infobae.com/peru/deportes/2026/10/31/tabla-de-posiciones-liga-1-peru-2026-en-vivo-hoy-partidos-fecha-15-torneo-clausura-acumulada-sporting-cristal-universitario-alianza-lima-melgar-sport-boys/",
-          "hora": "2026-11-01T19:23:20-03:00"
+          "titulo": "Antonelli mejora a Vettel y es, de lejos, el más joven campeón de la historia de la F1",
+          "link": "https://www.infobae.com/espana/agencias/2026/11/01/antonelli-mejora-a-vettel-y-es-de-lejos-el-mas-joven-campeon-de-la-historia-de-la-f1/",
+          "hora": "2026-11-01T19:31:54-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Tabla de posiciones de la Liga Peruana de Vóley 2026-27 HOY: así van los equipos en la fecha 3 de la fase 1",
-          "link": "https://www.infobae.com/peru/deportes/2026/10/31/tabla-de-posiciones-liga-peruana-de-voley-2026-2027-en-vivo-hoy-partidos-fecha-3-fase-1-alianza-lima-universitario-regatas-lima-san-martin/",
-          "hora": "2026-11-01T19:21:36-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Resultados de la Liga Peruana de Vóley 2026-27 HOY: así van los partidos de la fecha 3 del torneo",
-          "link": "https://www.infobae.com/peru/deportes/2026/10/31/resultados-liga-peruana-de-voley-2026-2027-en-vivo-hoy-partidos-fecha-3-alianza-lima-regatas-lima-universitario-san-martin/",
-          "hora": "2026-11-01T19:16:32-03:00"
+          "titulo": "Antonelli, tercer italiano en ganar el Mundial de F1 y el primero en 73 años",
+          "link": "https://www.infobae.com/espana/agencias/2026/11/01/antonelli-tercer-italiano-en-ganar-el-mundial-de-f1-y-el-primero-en-73-anos/",
+          "hora": "2026-11-01T19:31:21-03:00"
         }
       ],
       "oficiales": [],
@@ -2300,82 +2455,24 @@
       "angulos": []
     },
     {
-      "id": "murio-a-los-61-anos-marcela-giorgi-historica-locutora-de-rad-2",
-      "titulo": "Del osado look de Juana Viale en La noche de Mirtha a su picante comentario sobre los medios",
-      "categoria": "espectaculos",
+      "id": "como-le-fue-a-franco-colapinto-en-la-clasificacion-del-gp-de-2",
+      "titulo": "Cuándo volverá a correr Franco Colapinto en la Fórmula 1 tras su gran actuación en el GP de México",
+      "categoria": "deportes",
       "prioritaria": false,
-      "desde": "2026-10-31T15:23:52-03:00",
+      "desde": "2026-10-31T18:56:44-03:00",
       "calor": 40,
       "medios": [
-        "La Nación",
-        "Ámbito"
+        "Infobae"
       ],
-      "en_x": false,
-      "posicion_x": null,
+      "en_x": true,
+      "posicion_x": 39,
       "en_google": false,
       "notas": [
         {
-          "medio": "La Nación",
-          "titulo": "José Luis Ochoa, argentino en Italia: “Allá pasa una moto y enseguida guardás el celular; acá al principio traés ese miedo, pero después desaparece”",
-          "link": "https://www.lanacion.com.ar/lifestyle/jose-luis-ochoa-argentino-en-italia-alla-pasa-una-moto-y-enseguida-guardas-el-celular-aca-al-nid01112026/",
-          "hora": "2026-11-01T19:35:00-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Cómo fue la reaparición de Mirtha Legrand después de su problema de salud",
-          "link": "https://www.ambito.com/espectaculos/como-fue-la-reaparicion-mirtha-legrand-despues-su-problema-salud-n6340225",
-          "hora": "2026-11-01T12:18:00-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Dólar, embargos y recesión: Luis Caputo va a la UIA con muchos problemas y pocas herramientas",
-          "link": "https://www.ambito.com/economia/dolar-embargos-y-recesion-luis-caputo-va-la-uia-muchos-problemas-y-pocas-herramientas-n6340082",
-          "hora": "2026-11-01T00:00:00-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Del osado look de Juana Viale en La noche de Mirtha a su picante comentario sobre los medios",
-          "link": "https://www.lanacion.com.ar/espectaculos/personajes/del-osado-look-de-juana-viale-en-la-noche-de-mirtha-a-su-picante-comentario-sobre-los-medios-nid31102026/",
-          "hora": "2026-10-31T23:04:58-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "el-gobierno-designo-a-un-nuevo-subsecretario-de-ciencia-tras",
-      "titulo": "Yamaha renuncia al GP de Qatar de MotoGP debido a “la situación en Oriente Medio”",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-10-31T16:47:34-03:00",
-      "calor": 40,
-      "medios": [
-        "La Nación",
-        "Ámbito",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "TN",
-          "titulo": "Mejora la calidad de la leche en Argentina, impulsada por la tecnología, la genética y la nutrición",
-          "link": "https://tn.com.ar/campo/2026/11/01/mejora-la-calidad-de-la-leche-en-argentina-impulsada-por-la-tecnologia-la-genetica-y-la-nutricion/",
-          "hora": "2026-11-01T12:57:26-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Yamaha renuncia al GP de Qatar de MotoGP debido a “la situación en Oriente Medio”",
-          "link": "https://www.lanacion.com.ar/deportes/motociclismo/yamaha-renuncia-al-gp-de-qatar-de-motogp-debido-a-la-situacion-en-oriente-medio-nid01112026/",
-          "hora": "2026-11-01T10:22:41-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Ricardo Crespo reemplazará a César Lencina en Ciencia y Tecnología tras su renuncia con críticas al Gobierno",
-          "link": "https://www.ambito.com/politica/ricardo-crespo-reemplazara-cesar-lencina-ciencia-y-tecnologia-su-renuncia-criticas-al-gobierno-n6340149",
-          "hora": "2026-10-31T21:20:00-03:00"
+          "medio": "Infobae",
+          "titulo": "Cuándo volverá a correr Franco Colapinto en la Fórmula 1 tras su gran actuación en el GP de México",
+          "link": "https://www.infobae.com/deportes/2026/11/01/cuando-volvera-a-correr-franco-colapinto-en-la-formula-1-tras-su-gran-actuacion-en-el-gp-de-mexico/",
+          "hora": "2026-11-01T19:45:31-03:00"
         }
       ],
       "oficiales": [],
@@ -2422,56 +2519,6 @@
       "angulos": []
     },
     {
-      "id": "atentado-en-algeciras-huila-policia-desplego-investigacion-y",
-      "titulo": "Atentado en Algeciras, Huila: Policía desplegó investigación y reforzó la seguridad en la región tras la muerte de un patrullero",
-      "categoria": "otros",
-      "prioritaria": false,
-      "desde": "2026-11-01T00:01:00-03:00",
-      "calor": 40,
-      "medios": [
-        "Infobae",
-        "Página/12"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Atentado en Algeciras, Huila: Policía desplegó investigación y reforzó la seguridad en la región tras la muerte de un patrullero",
-          "link": "https://www.infobae.com/colombia/2026/11/01/atentado-en-algeciras-huila-policia-desplego-investigacion-y-reforzo-la-seguridad-en-la-region-tras-la-muerte-de-un-patrullero/",
-          "hora": "2026-11-01T20:16:27-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "EN VIVO| Seguridad, narcotráfico y crimen en México hoy 1 de noviembre: marchan en Uruapan a un año del asesinato de Carlos Manzo",
-          "link": "https://www.infobae.com/mexico/2026/11/01/en-vivo-seguridad-narcotrafico-y-crimen-en-mexico-hoy-1-de-noviembre-se-cumple-un-ano-del-asesinato-de-carlos-manzo-exalcalde-de-uruapan/",
-          "hora": "2026-11-01T20:03:13-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Tras un año del asesinato de Carlos Manzo, esta es la tarea de cada eslabón de la cadena que terminó con la vida de Carlos Manzo",
-          "link": "https://www.infobae.com/mexico/2026/11/01/tras-un-ano-del-asesinato-de-carlos-manzo-esta-es-la-tarea-de-cada-eslabon-de-la-cadena-que-termino-con-la-vida-de-carlos-manzo/",
-          "hora": "2026-11-01T19:37:07-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "El destino de la Seguridad Social",
-          "link": "https://www.pagina12.com.ar/2026/10/31/el-destino-de-la-seguridad-social/",
-          "hora": "2026-11-01T00:01:00-03:00"
-        }
-      ],
-      "oficiales": [
-        {
-          "fuente": "CEPA",
-          "titulo": "FAL, jubilaciones y recaudación de la Seguridad Social",
-          "link": "https://centrocepa.com.ar/documentos/informes/878-fal-jubilaciones-y-recaudacion-de-la-seguridad-social"
-        }
-      ],
-      "resumen": null,
-      "angulos": []
-    },
-    {
       "id": "heidi-klum-se-disfrazo-de-su-propia-mano-para-halloween-y-de",
       "titulo": "Heidi Klum se disfrazó de su propia mano para Halloween y dejó a todos en shock",
       "categoria": "espectaculos",
@@ -2511,37 +2558,37 @@
       "angulos": []
     },
     {
-      "id": "el-gobierno-dice-que-tomo-nota-del-resultado-de-las-eleccion-3-3-2-2-2-2",
-      "titulo": "Flávio Bolsonaro anuncia entrevistas para decir lo que \"ya nadie puede decir\" en Brasil",
-      "categoria": "politica",
+      "id": "murio-a-los-61-anos-marcela-giorgi-historica-locutora-de-rad-2",
+      "titulo": "Dólar, embargos y recesión: Luis Caputo va a la UIA con muchos problemas y pocas herramientas",
+      "categoria": "economia",
       "prioritaria": true,
-      "desde": "2026-10-27T11:44:52-03:00",
+      "desde": "2026-10-31T15:23:52-03:00",
       "calor": 39,
       "medios": [
-        "Infobae",
-        "Página/12"
+        "La Nación",
+        "Ámbito"
       ],
       "en_x": false,
       "posicion_x": null,
       "en_google": false,
       "notas": [
         {
-          "medio": "Infobae",
-          "titulo": "Flávio Bolsonaro anuncia entrevistas para decir lo que \"ya nadie puede decir\" en Brasil",
-          "link": "https://www.infobae.com/america/agencias/2026/11/01/flavio-bolsonaro-anuncia-entrevistas-para-decir-lo-que-ya-nadie-puede-decir-en-brasil/",
-          "hora": "2026-11-01T20:30:59-03:00"
+          "medio": "La Nación",
+          "titulo": "José Luis Ochoa, argentino en Italia: “Allá pasa una moto y enseguida guardás el celular; acá al principio traés ese miedo, pero después desaparece”",
+          "link": "https://www.lanacion.com.ar/lifestyle/jose-luis-ochoa-argentino-en-italia-alla-pasa-una-moto-y-enseguida-guardas-el-celular-aca-al-nid01112026/",
+          "hora": "2026-11-01T19:35:00-03:00"
         },
         {
-          "medio": "Página/12",
-          "titulo": "Un agente de la SIDE coordinó la fuga de Flavio Bolsonaro",
-          "link": "https://www.pagina12.com.ar/2026/11/01/un-agente-de-la-side-coordino-la-fuga-de-flavio-bolsonaro/",
-          "hora": "2026-11-01T00:01:00-03:00"
+          "medio": "La Nación",
+          "titulo": "Pilar Sordo, psicóloga, sobre el poder del diálogo interno para fortalecer la estabilidad emocional: “Es una herramienta brutal de autoconocimiento”",
+          "link": "https://www.lanacion.com.ar/sociedad/pilar-sordo-psicologa-sobre-el-poder-del-dialogo-interno-para-fortalecer-la-estabilidad-emocional-es-nid01112026/",
+          "hora": "2026-11-01T04:00:00-03:00"
         },
         {
-          "medio": "Página/12",
-          "titulo": "Alejandro Álvarez celebró la fuga de Bolsonaro",
-          "link": "https://www.pagina12.com.ar/2026/11/01/alejandro-alvarez-celebro-la-fuga-de-bolsonaro/",
-          "hora": "2026-11-01T00:01:00-03:00"
+          "medio": "Ámbito",
+          "titulo": "Dólar, embargos y recesión: Luis Caputo va a la UIA con muchos problemas y pocas herramientas",
+          "link": "https://www.ambito.com/economia/dolar-embargos-y-recesion-luis-caputo-va-la-uia-muchos-problemas-y-pocas-herramientas-n6340082",
+          "hora": "2026-11-01T00:00:00-03:00"
         }
       ],
       "oficiales": [],
@@ -2549,37 +2596,37 @@
       "angulos": []
     },
     {
-      "id": "racing-vs-real-madrid-en-vivo-por-la-fecha-11-de-la-liga-de",
-      "titulo": "Athletic le ganó a Real Sociedad 2 a 1 por la fecha 11 de La Liga de España",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-10-31T13:29:09-03:00",
+      "id": "recreacion-historica-en-marcos-paz-se-les-disparo-un-canon-p",
+      "titulo": "Recreaban una batalla histórica en Marcos Paz cuando un cañón se disparó accidentalmente",
+      "categoria": "social",
+      "prioritaria": true,
+      "desde": "2026-10-31T21:27:27-03:00",
       "calor": 39,
       "medios": [
         "Infobae",
-        "TN"
+        "La Nación"
       ],
       "en_x": false,
       "posicion_x": null,
       "en_google": false,
       "notas": [
         {
+          "medio": "La Nación",
+          "titulo": "Recreaban una batalla histórica en Marcos Paz cuando un cañón se disparó accidentalmente",
+          "link": "https://www.lanacion.com.ar/sociedad/recreaban-una-batalla-historica-en-marcos-paz-cuando-un-canon-se-disparo-accidentalmente-nid01112026/",
+          "hora": "2026-11-01T19:23:12-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Michael Mann, el director de Fuego contra fuego, se disparó accidentalmente en una pierna y fue hospitalizado",
+          "link": "https://www.lanacion.com.ar/espectaculos/personajes/michael-mann-el-director-de-fuego-contra-fuego-se-disparo-accidentalmente-en-una-pierna-y-fue-nid01112026/",
+          "hora": "2026-11-01T15:35:45-03:00"
+        },
+        {
           "medio": "Infobae",
-          "titulo": "2-1. El Athletic toma impulso y frena a la Real en un derbi eléctrico",
-          "link": "https://www.infobae.com/america/agencias/2026/11/01/2-1-el-athletic-toma-impulso-y-frena-a-la-real-en-un-derbi-electrico/",
-          "hora": "2026-11-01T19:16:04-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Athletic le ganó a Real Sociedad 2 a 1 por la fecha 11 de La Liga de España",
-          "link": "https://tn.com.ar/deportes/futbol/2026/11/01/athletic-vs-real-sociedad-en-vivo-por-la-fecha-11-de-la-liga-de-espana-hora-donde-ver-y-formaciones/",
-          "hora": "2026-11-01T18:59:31-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Real Madrid le ganó a Racing 3 a 0 por la fecha 11 de La Liga de España",
-          "link": "https://tn.com.ar/deportes/futbol/2026/11/01/racing-vs-real-madrid-en-vivo-por-la-fecha-11-de-la-liga-de-espana-hora-donde-ver-y-formaciones/",
-          "hora": "2026-11-01T15:03:27-03:00"
+          "titulo": "Recreaban la Batalla de Villamayor en Marcos Paz y un cañón se disparó frente a ellos",
+          "link": "https://www.infobae.com/sociedad/2026/11/01/recreaban-la-batalla-de-villamayor-en-marcos-paz-y-un-canon-se-disparo-frente-a-ellos/",
+          "hora": "2026-11-01T11:54:44-03:00"
         }
       ],
       "oficiales": [],
@@ -2588,7 +2635,7 @@
     },
     {
       "id": "estados-unidos-advierte-a-hondurenos-que-seran-detenidos-y-d",
-      "titulo": "Elecciones legislativas en Estados Unidos: cómo puede impactar el resultado en la relación con Argentina",
+      "titulo": "Canadá y Estados Unidos dicen estar cerca del fin de la guerra comercial",
       "categoria": "economia",
       "prioritaria": true,
       "desde": "2026-11-01T00:01:00-03:00",
@@ -2603,15 +2650,15 @@
       "notas": [
         {
           "medio": "Clarín",
-          "titulo": "Estados Unidos: la Casa Blanca promete ayudas por 15.000 millones de dólares al sector rural, un voto clave en las elecciones",
-          "link": "https://www.clarin.com/mundo/estados-unidos-casa-blanca-promete-ayudas-15000-millones-dolares-sector-rural-voto-clave-elecciones_0_HXczdiW93G.html",
-          "hora": "2026-11-01T19:35:05-03:00"
+          "titulo": "Canadá y Estados Unidos dicen estar cerca del fin de la guerra comercial",
+          "link": "https://www.clarin.com/estados-unidos/canada-y-estados-unidos-dicen-estar-cerca-del-fin-de-la-guerra-comercial_0_NEbiOtcg2L.html",
+          "hora": "2026-11-01T20:40:19-03:00"
         },
         {
-          "medio": "Clarín",
-          "titulo": "Elecciones legislativas en Estados Unidos: cómo puede impactar el resultado en la relación con Argentina",
-          "link": "https://www.clarin.com/mundo/elecciones-legislativas-estados-unidos-puede-impactar-resultado-relacion-argentina_0_dO136mjNTr.html",
-          "hora": "2026-11-01T06:01:40-03:00"
+          "medio": "La Nación",
+          "titulo": "Entre polémicas, Reino Unido coquetea con la UE de la mano de Andy Burnham",
+          "link": "https://www.lanacion.com.ar/el-mundo/entre-polemicas-reino-unido-coquetea-con-la-ue-de-la-mano-de-andy-burnham-nid01112026/",
+          "hora": "2026-11-01T20:30:13-03:00"
         },
         {
           "medio": "La Nación",
@@ -2667,44 +2714,6 @@
       "oficiales": [],
       "resumen": null,
       "angulos": []
-    },
-    {
-      "id": "influencer-fitness-y-estrella-de-onlyfans-murio-a-los-29-ano",
-      "titulo": "Influencer fitness y estrella de OnlyFans murió a los 29 años en accidente de motocicleta",
-      "categoria": "social",
-      "prioritaria": true,
-      "desde": "2026-11-01T06:01:41-03:00",
-      "calor": 39,
-      "medios": [
-        "Clarín",
-        "Infobae"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Ring Royale 2: revelan quiénes son los influencers que pelearán en el evento de Poncho de Nigris",
-          "link": "https://www.infobae.com/mexico/deportes/2026/11/01/ring-royale-2-revelan-quienes-son-los-influencers-que-pelearan-en-el-evento-de-poncho-de-nigris/",
-          "hora": "2026-11-01T20:13:22-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Influencer fitness y estrella de OnlyFans murió a los 29 años en accidente de motocicleta",
-          "link": "https://www.infobae.com/entretenimiento/2026/11/01/influencer-fitness-y-estrella-de-onlyfans-murio-a-los-29-anos-en-accidente-de-motocicleta/",
-          "hora": "2026-11-01T15:21:25-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Cocina de hotel: comer en un 5 estrellas al mismo precio que en un restaurante",
-          "link": "https://www.clarin.com/sociedad/cocina-hotel-comer-5-estrellas-mismo-precio-restaurante_0_OkNdERKli6.html",
-          "hora": "2026-11-01T06:01:41-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
     }
   ],
   "tendencias_x": [
@@ -2730,198 +2739,198 @@
     },
     {
       "posicion": 5,
+      "nombre": "Kimi",
+      "link": "https://x.com/search?q=Kimi"
+    },
+    {
+      "posicion": 6,
       "nombre": "Tapia",
       "link": "https://x.com/search?q=Tapia"
     },
     {
-      "posicion": 6,
-      "nombre": "Blanco",
-      "link": "https://x.com/search?q=Blanco"
-    },
-    {
       "posicion": 7,
-      "nombre": "Antonelli",
-      "link": "https://x.com/search?q=Antonelli"
-    },
-    {
-      "posicion": 8,
-      "nombre": "Acuña",
-      "link": "https://x.com/search?q=Acu%C3%B1a"
-    },
-    {
-      "posicion": 9,
-      "nombre": "Ponzio",
-      "link": "https://x.com/search?q=Ponzio"
-    },
-    {
-      "posicion": 10,
       "nombre": "Franco",
       "link": "https://x.com/search?q=Franco"
     },
     {
-      "posicion": 11,
-      "nombre": "Ramirez",
-      "link": "https://x.com/search?q=Ramirez"
+      "posicion": 8,
+      "nombre": "Blanco",
+      "link": "https://x.com/search?q=Blanco"
     },
     {
-      "posicion": 12,
-      "nombre": "martinez",
-      "link": "https://x.com/search?q=martinez"
+      "posicion": 9,
+      "nombre": "Acuña",
+      "link": "https://x.com/search?q=Acu%C3%B1a"
     },
     {
-      "posicion": 13,
+      "posicion": 10,
       "nombre": "Di Carlo",
       "link": "https://x.com/search?q=Di%20Carlo"
     },
     {
-      "posicion": 14,
-      "nombre": "Di Lollo",
-      "link": "https://x.com/search?q=Di%20Lollo"
+      "posicion": 11,
+      "nombre": "Ponzio",
+      "link": "https://x.com/search?q=Ponzio"
     },
     {
-      "posicion": 15,
-      "nombre": "Piastri",
-      "link": "https://x.com/search?q=Piastri"
-    },
-    {
-      "posicion": 16,
-      "nombre": "Delgado",
-      "link": "https://x.com/search?q=Delgado"
-    },
-    {
-      "posicion": 17,
-      "nombre": "Velasco",
-      "link": "https://x.com/search?q=Velasco"
-    },
-    {
-      "posicion": 18,
-      "nombre": "Almada",
-      "link": "https://x.com/search?q=Almada"
-    },
-    {
-      "posicion": 19,
+      "posicion": 12,
       "nombre": "Hamilton",
       "link": "https://x.com/search?q=Hamilton"
     },
     {
-      "posicion": 20,
-      "nombre": "Leclerc",
-      "link": "https://x.com/search?q=Leclerc"
+      "posicion": 13,
+      "nombre": "Ramirez",
+      "link": "https://x.com/search?q=Ramirez"
     },
     {
-      "posicion": 21,
-      "nombre": "Bottas",
-      "link": "https://x.com/search?q=Bottas"
+      "posicion": 14,
+      "nombre": "Piastri",
+      "link": "https://x.com/search?q=Piastri"
     },
     {
-      "posicion": 22,
-      "nombre": "Montero",
-      "link": "https://x.com/search?q=Montero"
-    },
-    {
-      "posicion": 23,
-      "nombre": "Chilindrina",
-      "link": "https://x.com/search?q=Chilindrina"
-    },
-    {
-      "posicion": 24,
-      "nombre": "Gasly",
-      "link": "https://x.com/search?q=Gasly"
-    },
-    {
-      "posicion": 25,
+      "posicion": 15,
       "nombre": "Verstappen",
       "link": "https://x.com/search?q=Verstappen"
     },
     {
-      "posicion": 26,
-      "nombre": "Russell",
-      "link": "https://x.com/search?q=Russell"
+      "posicion": 16,
+      "nombre": "Di Lollo",
+      "link": "https://x.com/search?q=Di%20Lollo"
     },
     {
-      "posicion": 27,
-      "nombre": "Ganó Boca",
-      "link": "https://x.com/search?q=Gan%C3%B3%20Boca"
+      "posicion": 17,
+      "nombre": "Martínez Quarta",
+      "link": "https://x.com/search?q=Mart%C3%ADnez%20Quarta"
     },
     {
-      "posicion": 28,
-      "nombre": "Donofrio",
-      "link": "https://x.com/search?q=Donofrio"
+      "posicion": 18,
+      "nombre": "Delgado",
+      "link": "https://x.com/search?q=Delgado"
     },
     {
-      "posicion": 29,
-      "nombre": "#Superclasico",
-      "link": "https://x.com/search?q=%23Superclasico"
+      "posicion": 19,
+      "nombre": "Almada",
+      "link": "https://x.com/search?q=Almada"
     },
     {
-      "posicion": 30,
-      "nombre": "Guido",
-      "link": "https://x.com/search?q=Guido"
+      "posicion": 20,
+      "nombre": "Velasco",
+      "link": "https://x.com/search?q=Velasco"
     },
     {
-      "posicion": 31,
-      "nombre": "Cerra",
-      "link": "https://x.com/search?q=Cerra"
+      "posicion": 21,
+      "nombre": "Leclerc",
+      "link": "https://x.com/search?q=Leclerc"
     },
     {
-      "posicion": 32,
-      "nombre": "Colapinto",
-      "link": "https://x.com/search?q=Colapinto"
+      "posicion": 22,
+      "nombre": "Gasly",
+      "link": "https://x.com/search?q=Gasly"
     },
     {
-      "posicion": 33,
-      "nombre": "Ramón",
-      "link": "https://x.com/search?q=Ram%C3%B3n"
+      "posicion": 23,
+      "nombre": "Montero",
+      "link": "https://x.com/search?q=Montero"
     },
     {
-      "posicion": 34,
-      "nombre": "Llora",
-      "link": "https://x.com/search?q=Llora"
-    },
-    {
-      "posicion": 35,
+      "posicion": 24,
       "nombre": "Lando",
       "link": "https://x.com/search?q=Lando"
     },
     {
+      "posicion": 25,
+      "nombre": "Bottas",
+      "link": "https://x.com/search?q=Bottas"
+    },
+    {
+      "posicion": 26,
+      "nombre": "Madrid",
+      "link": "https://x.com/search?q=Madrid"
+    },
+    {
+      "posicion": 27,
+      "nombre": "Chilindrina",
+      "link": "https://x.com/search?q=Chilindrina"
+    },
+    {
+      "posicion": 28,
+      "nombre": "Andrada",
+      "link": "https://x.com/search?q=Andrada"
+    },
+    {
+      "posicion": 29,
+      "nombre": "Russell",
+      "link": "https://x.com/search?q=Russell"
+    },
+    {
+      "posicion": 30,
+      "nombre": "Ganó Boca",
+      "link": "https://x.com/search?q=Gan%C3%B3%20Boca"
+    },
+    {
+      "posicion": 31,
+      "nombre": "Donofrio",
+      "link": "https://x.com/search?q=Donofrio"
+    },
+    {
+      "posicion": 32,
+      "nombre": "Guido",
+      "link": "https://x.com/search?q=Guido"
+    },
+    {
+      "posicion": 33,
+      "nombre": "#Superclasico",
+      "link": "https://x.com/search?q=%23Superclasico"
+    },
+    {
+      "posicion": 34,
+      "nombre": "Cerra",
+      "link": "https://x.com/search?q=Cerra"
+    },
+    {
+      "posicion": 35,
+      "nombre": "Lewis",
+      "link": "https://x.com/search?q=Lewis"
+    },
+    {
       "posicion": 36,
-      "nombre": "Norris",
-      "link": "https://x.com/search?q=Norris"
+      "nombre": "Toto Wolff",
+      "link": "https://x.com/search?q=Toto%20Wolff"
     },
     {
       "posicion": 37,
-      "nombre": "Silva",
-      "link": "https://x.com/search?q=Silva"
+      "nombre": "Llora",
+      "link": "https://x.com/search?q=Llora"
     },
     {
       "posicion": 38,
-      "nombre": "Villa",
-      "link": "https://x.com/search?q=Villa"
+      "nombre": "Fórmula 1",
+      "link": "https://x.com/search?q=F%C3%B3rmula%201"
     },
     {
       "posicion": 39,
+      "nombre": "#MexicoGP",
+      "link": "https://x.com/search?q=%23MexicoGP"
+    },
+    {
+      "posicion": 40,
       "nombre": "Gallardo",
       "link": "https://x.com/search?q=Gallardo"
     },
     {
-      "posicion": 40,
-      "nombre": "Lindblad",
-      "link": "https://x.com/search?q=Lindblad"
-    },
-    {
       "posicion": 41,
-      "nombre": "Stefano",
-      "link": "https://x.com/search?q=Stefano"
+      "nombre": "Ramón",
+      "link": "https://x.com/search?q=Ram%C3%B3n"
     },
     {
       "posicion": 42,
-      "nombre": "Merentiel",
-      "link": "https://x.com/search?q=Merentiel"
+      "nombre": "Ferrari",
+      "link": "https://x.com/search?q=Ferrari"
     },
     {
       "posicion": 43,
-      "nombre": "#MexicoGP",
-      "link": "https://x.com/search?q=%23MexicoGP"
+      "nombre": "Vettel",
+      "link": "https://x.com/search?q=Vettel"
     },
     {
       "posicion": 44,
@@ -2930,39 +2939,49 @@
     },
     {
       "posicion": 45,
-      "nombre": "Rodo",
-      "link": "https://x.com/search?q=Rodo"
+      "nombre": "Villa",
+      "link": "https://x.com/search?q=Villa"
     },
     {
       "posicion": 46,
-      "nombre": "Correa",
-      "link": "https://x.com/search?q=Correa"
+      "nombre": "Lindblad",
+      "link": "https://x.com/search?q=Lindblad"
     },
     {
       "posicion": 47,
+      "nombre": "Merentiel",
+      "link": "https://x.com/search?q=Merentiel"
+    },
+    {
+      "posicion": 48,
+      "nombre": "Stefano",
+      "link": "https://x.com/search?q=Stefano"
+    },
+    {
+      "posicion": 49,
       "nombre": "Ascacibar",
       "link": "https://x.com/search?q=Ascacibar"
     },
     {
-      "posicion": 48,
-      "nombre": "Beltrán",
-      "link": "https://x.com/search?q=Beltr%C3%A1n"
-    },
-    {
-      "posicion": 49,
-      "nombre": "Cadillac",
-      "link": "https://x.com/search?q=Cadillac"
-    },
-    {
       "posicion": 50,
-      "nombre": "Valencia",
-      "link": "https://x.com/search?q=Valencia"
+      "nombre": "Silva",
+      "link": "https://x.com/search?q=Silva"
     }
   ],
   "google_trends": [
     {
+      "nombre": "medellín - alianza",
+      "trafico": "100+",
+      "link": "https://www.google.com/search?q=medell%C3%ADn%20-%20alianza"
+    },
+    {
+      "nombre": "alex barrena",
+      "trafico": "100+",
+      "link": "https://www.google.com/search?q=alex%20barrena"
+    },
+    {
       "nombre": "sergio lapegüe",
-      "trafico": "200+",
+      "trafico": "500+",
       "link": "https://www.google.com/search?q=sergio%20lapeg%C3%BCe"
     },
     {
@@ -2972,8 +2991,13 @@
     },
     {
       "nombre": "lanús - gimnasia y esgrima",
-      "trafico": "2000+",
+      "trafico": "5000+",
       "link": "https://www.google.com/search?q=lan%C3%BAs%20-%20gimnasia%20y%20esgrima"
+    },
+    {
+      "nombre": "lockheed martin f-16 fighting falcon",
+      "trafico": "500+",
+      "link": "https://www.google.com/search?q=lockheed%20martin%20f-16%20fighting%20falcon"
     },
     {
       "nombre": "fia",
@@ -2981,24 +3005,14 @@
       "link": "https://www.google.com/search?q=fia"
     },
     {
-      "nombre": "posiciones de atlético grau contra universitario",
-      "trafico": "1000+",
-      "link": "https://www.google.com/search?q=posiciones%20de%20atl%C3%A9tico%20grau%20contra%20universitario"
-    },
-    {
-      "nombre": "lockheed martin f-16 fighting falcon",
-      "trafico": "200+",
-      "link": "https://www.google.com/search?q=lockheed%20martin%20f-16%20fighting%20falcon"
-    },
-    {
       "nombre": "telekino de hoy domingo",
-      "trafico": "200+",
+      "trafico": "1000+",
       "link": "https://www.google.com/search?q=telekino%20de%20hoy%20domingo"
     },
     {
-      "nombre": "armada de chile",
-      "trafico": "100+",
-      "link": "https://www.google.com/search?q=armada%20de%20chile"
+      "nombre": "posiciones de atlético grau contra universitario",
+      "trafico": "1000+",
+      "link": "https://www.google.com/search?q=posiciones%20de%20atl%C3%A9tico%20grau%20contra%20universitario"
     }
   ],
   "estado_fuentes": [
@@ -3015,7 +3029,7 @@
     {
       "fuente": "La Nación",
       "ok": true,
-      "items": 390
+      "items": 385
     },
     {
       "fuente": "Página/12",
@@ -3040,7 +3054,7 @@
     {
       "fuente": "Google Trends AR",
       "ok": true,
-      "items": 8
+      "items": 9
     },
     {
       "fuente": "INDEC (calendario)",
