@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-07T12:38:44-03:00",
+  "actualizado": "2026-11-07T13:14:03-03:00",
   "proxima_actualizacion": "2026-11-07T16:00:00-03:00",
   "ia_disponible": false,
   "agenda_hoy": [],
@@ -10,19 +10,36 @@
       "categoria": "otros",
       "prioritaria": false,
       "desde": "2026-11-03T07:08:00-03:00",
-      "calor": 83,
+      "calor": 81,
       "medios": [
-        "Clarín",
         "La Nación",
         "Infobae",
-        "Ámbito",
         "Página/12",
+        "Ámbito",
         "TN"
       ],
       "en_x": true,
       "posicion_x": 5,
       "en_google": false,
       "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Crisis en Paraguay EN VIVO | Santiago Peña llegó a la Fiscalía General del Estado para prestar declaración tras ser detenido",
+          "link": "https://www.infobae.com/america/america-latina/2026/11/07/crisis-politica-en-paraguay/",
+          "hora": "2026-11-07T13:05:27-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Escándalo de Ueno Bank en Paraguay: el expresidente del Banco Central se entregó a la Justicia",
+          "link": "https://www.ambito.com/mundo/escandalo-ueno-bank-paraguay-el-expresidente-del-banco-central-se-entrego-la-justicia-n6342754",
+          "hora": "2026-11-07T12:55:00-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Tras ser destituido y detenido, Santiago Peña declara ante la Fiscalía General del Estado en la causa por la quiebra del Ueno Bank",
+          "link": "https://tn.com.ar/internacional/2026/11/07/tras-su-detencion-santiago-pena-fue-trasladado-a-un-cuartel-militar-y-debera-declarar-este-sabado/",
+          "hora": "2026-11-07T12:41:35-03:00"
+        },
         {
           "medio": "La Nación",
           "titulo": "Tras su destitución, Santiago Peña quedó detenido y declara ante la Justicia",
@@ -31,21 +48,27 @@
         },
         {
           "medio": "Infobae",
+          "titulo": "De Baninter a Ueno Bank: las quiebras bancarias que sacudieron a América Latina",
+          "link": "https://www.infobae.com/america/agencias/2026/11/07/de-baninter-a-ueno-bank-las-quiebras-bancarias-que-sacudieron-a-america-latina/",
+          "hora": "2026-11-07T12:31:31-03:00"
+        },
+        {
+          "medio": "Infobae",
           "titulo": "Expresidente Santiago Peña comparece ante la Fiscalía de Paraguay por el caso Ueno bank",
           "link": "https://www.infobae.com/america/agencias/2026/11/07/expresidente-santiago-pena-comparece-ante-la-fiscalia-de-paraguay-por-el-caso-ueno-bank/",
           "hora": "2026-11-07T12:30:58-03:00"
         },
         {
-          "medio": "Infobae",
-          "titulo": "Crisis en Paraguay EN VIVO | Santiago Peña llegó a la Fiscalía General del Estado para prestar declaración tras ser detenido",
-          "link": "https://www.infobae.com/america/america-latina/2026/11/07/crisis-politica-en-paraguay/",
-          "hora": "2026-11-07T12:26:34-03:00"
+          "medio": "Ámbito",
+          "titulo": "El Banco Central del Paraguay confirmó el pago a 1,2 millones de ahorristas tras la intervención de Ueno Bank",
+          "link": "https://www.ambito.com/mundo/el-banco-central-del-paraguay-confirmo-el-pago-12-millones-ahorristas-la-intervencion-ueno-bank-n6342744",
+          "hora": "2026-11-07T11:29:55-03:00"
         },
         {
-          "medio": "TN",
-          "titulo": "Santiago Peña llegó a la Fiscalía General del Estado para declarar en la causa por la quiebra del Ueno Bank",
-          "link": "https://tn.com.ar/internacional/2026/11/07/tras-su-detencion-santiago-pena-fue-trasladado-a-un-cuartel-militar-y-debera-declarar-este-sabado/",
-          "hora": "2026-11-07T12:13:40-03:00"
+          "medio": "La Nación",
+          "titulo": "Una periodista de un medio vinculado a Ueno Bank renunció en vivo tras el escándalo",
+          "link": "https://www.lanacion.com.ar/el-mundo/una-periodista-de-un-medio-vinculado-a-ueno-bank-renuncio-en-vivo-tras-el-escandalo-nid07112026/",
+          "hora": "2026-11-07T10:42:25-03:00"
         },
         {
           "medio": "Ámbito",
@@ -60,16 +83,16 @@
           "hora": "2026-11-07T02:29:26-03:00"
         },
         {
-          "medio": "La Nación",
-          "titulo": "Santiago Peña fue trasladado al Regimiento Escolta Presidencial tras los disturbios en su domicilio",
-          "link": "https://www.lanacion.com.ar/el-mundo/santiago-pena-fue-trasladado-al-regimiento-escolta-presidencial-tras-los-disturbios-en-su-domicilio-nid07112026/",
-          "hora": "2026-11-07T01:09:34-03:00"
-        },
-        {
           "medio": "Ámbito",
           "titulo": "Destitución de Santiago Peña: el impacto financiero según Moody's del cimbronazo político en Paraguay",
           "link": "https://www.ambito.com/finanzas/destitucion-santiago-pena-el-impacto-financiero-segun-moodys-del-cimbronazo-politico-paraguay-n6342640",
           "hora": "2026-11-07T00:00:00-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Qué pasó con Ueno Bank y cómo sigue la crisis en Paraguay hoy, viernes 6 de noviembre",
+          "link": "https://www.lanacion.com.ar/economia/que-paso-con-ueno-bank-y-como-sigue-la-crisis-en-paraguay-hoy-viernes-6-de-noviembre-nid06112026/",
+          "hora": "2026-11-06T23:14:29-03:00"
         },
         {
           "medio": "Página/12",
@@ -78,25 +101,13 @@
           "hora": "2026-11-06T21:46:11-03:00"
         },
         {
-          "medio": "Ámbito",
-          "titulo": "Pedro Alliana asumió como presidente de Paraguay: criticó a Santiago Peña y prometió ajuste del gasto público",
-          "link": "https://www.ambito.com/mundo/pedro-alliana-asumio-como-presidente-paraguay-critico-santiago-pena-y-prometio-ajuste-del-gasto-publico-n6342660",
-          "hora": "2026-11-06T20:59:00-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "En octubre se acentuó el ajuste del gasto público primario: perdió contra la inflación y en el año va 3,2% abajo",
-          "link": "https://www.clarin.com/economia/octubre-acentuo-ajuste-gasto-publico-primario-perdio-inflacion-ano-va-32-abajo_0_NeGZwWyAhd.html",
-          "hora": "2026-11-06T16:02:23-03:00"
+          "medio": "La Nación",
+          "titulo": "La filial paraguaya de Puente tiene depósitos en Ueno Bank, aunque afirma que es por un monto bajo",
+          "link": "https://www.lanacion.com.ar/economia/la-filial-paraguaya-de-puente-tiene-depositos-en-ueno-bank-aunque-afirma-que-es-por-un-monto-bajo-nid06112026/",
+          "hora": "2026-11-06T14:19:11-03:00"
         }
       ],
-      "oficiales": [
-        {
-          "fuente": "CEPA",
-          "titulo": "Impacto del ajuste previsional en Río Negro: datos a septiembre 2026",
-          "link": "https://centrocepa.com.ar/documentos/informes/887-impacto-del-ajuste-previsional-en-rio-negro-datos-a-septiembre-2026"
-        }
-      ],
+      "oficiales": [],
       "resumen": null,
       "angulos": []
     },
@@ -106,7 +117,7 @@
       "categoria": "deportes",
       "prioritaria": false,
       "desde": "2026-11-05T10:26:25-03:00",
-      "calor": 72,
+      "calor": 77,
       "medios": [
         "Infobae",
         "La Nación",
@@ -114,14 +125,20 @@
         "TN"
       ],
       "en_x": true,
-      "posicion_x": 41,
+      "posicion_x": 38,
       "en_google": true,
       "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "Se define la Tabla Anual 2026: a qué hora juegan Boca, Rosario Central y Argentinos Juniors",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/se-define-la-tabla-anual-2026-a-que-hora-juegan-boca-rosario-central-y-argentinos-juniors-nid07112026/",
+          "hora": "2026-11-07T12:59:16-03:00"
+        },
         {
           "medio": "Infobae",
           "titulo": "Boca, Argentinos Juniors y Rosario Central buscarán el título de la Tabla Anual: hora y todo lo que hay que saber",
           "link": "https://www.infobae.com/deportes/2026/11/07/boca-argentinos-juniors-y-rosario-central-buscaran-el-titulo-de-la-tabla-anual-hora-y-todo-lo-que-hay-que-saber/",
-          "hora": "2026-11-07T12:22:51-03:00"
+          "hora": "2026-11-07T12:58:53-03:00"
         },
         {
           "medio": "Clarín",
@@ -149,7 +166,7 @@
         },
         {
           "medio": "TN",
-          "titulo": "Boca enfrentará a Defensa y Justicia en la Bombonera con la ilusión de ser campeón de la tabla anual",
+          "titulo": "Boca enfrenta a Defensa y Justicia en la Bombonera con la ilusión de ser campeón de la tabla anual",
           "link": "https://tn.com.ar/deportes/futbol/2026/11/07/boca-enfrentara-a-defensa-y-justicia-en-la-bombonera-con-la-ilusion-de-ser-campeon-de-la-tabla-anual/",
           "hora": "2026-11-07T05:53:00-03:00"
         },
@@ -171,69 +188,12 @@
       "angulos": []
     },
     {
-      "id": "otro-aliados-en-crisis-el-gobierno-de-los-elogios-al-modelo",
-      "titulo": "Qué pasó con Ueno Bank y cómo sigue la crisis en Paraguay hoy, viernes 6 de noviembre",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-11-05T14:22:38-03:00",
-      "calor": 64,
-      "medios": [
-        "La Nación",
-        "Infobae",
-        "Ámbito"
-      ],
-      "en_x": true,
-      "posicion_x": 11,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "De Baninter a Ueno Bank: las quiebras bancarias que sacudieron a América Latina",
-          "link": "https://www.infobae.com/america/agencias/2026/11/07/de-baninter-a-ueno-bank-las-quiebras-bancarias-que-sacudieron-a-america-latina/",
-          "hora": "2026-11-07T12:31:31-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "El Banco Central del Paraguay confirmó el pago a 1,2 millones de ahorristas tras la intervención de Ueno Bank",
-          "link": "https://www.ambito.com/mundo/el-banco-central-del-paraguay-confirmo-el-pago-12-millones-ahorristas-la-intervencion-ueno-bank-n6342744",
-          "hora": "2026-11-07T11:29:55-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Una periodista de un medio vinculado a Ueno Bank renunció en vivo tras el escándalo",
-          "link": "https://www.lanacion.com.ar/el-mundo/una-periodista-de-un-medio-vinculado-a-ueno-bank-renuncio-en-vivo-tras-el-escandalo-nid07112026/",
-          "hora": "2026-11-07T10:42:25-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Qué pasó con Ueno Bank y cómo sigue la crisis en Paraguay hoy, viernes 6 de noviembre",
-          "link": "https://www.lanacion.com.ar/economia/que-paso-con-ueno-bank-y-como-sigue-la-crisis-en-paraguay-hoy-viernes-6-de-noviembre-nid06112026/",
-          "hora": "2026-11-06T23:14:29-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Por qué la derrota de Trump no cambiará la política de América Latina",
-          "link": "https://www.lanacion.com.ar/politica/por-que-la-derrota-de-trump-no-cambiara-la-politica-de-america-latina-nid06112026/",
-          "hora": "2026-11-06T22:16:11-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "La filial paraguaya de Puente tiene depósitos en Ueno Bank, aunque afirma que es por un monto bajo",
-          "link": "https://www.lanacion.com.ar/economia/la-filial-paraguaya-de-puente-tiene-depositos-en-ueno-bank-aunque-afirma-que-es-por-un-monto-bajo-nid06112026/",
-          "hora": "2026-11-06T14:19:11-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
       "id": "independiente-vs-deportivo-riestra-horario-y-como-ver-online-3",
       "titulo": "Gimnasia de Mendoza e Independiente Rivadavia jugarán el clásico en el cierre del Torneo Clausura: hora, TV y formaciones",
       "categoria": "deportes",
       "prioritaria": false,
       "desde": "2026-11-06T07:13:20-03:00",
-      "calor": 63,
+      "calor": 65,
       "medios": [
         "La Nación",
         "Infobae",
@@ -241,9 +201,15 @@
         "Página/12"
       ],
       "en_x": true,
-      "posicion_x": 21,
+      "posicion_x": 19,
       "en_google": false,
       "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "América de Cali vs. Deportivo Cali - en vivo: en el clásico vallecaucano los dos equipos se juegan el liderato de Liga BetPlay",
+          "link": "https://www.infobae.com/colombia/deportes/2026/11/07/america-de-cali-vs-deportivo-cali-en-vivo-en-el-clasico-vallecaucano-los-dos-equipos-se-juegan-el-liderato-de-liga-betplay/",
+          "hora": "2026-11-07T12:38:09-03:00"
+        },
         {
           "medio": "Clarín",
           "titulo": "Gimnasia vs Independiente Rivadavia, EN VIVO: a qué hora juegan, formaciones y cómo ver el clásico de Mendoza por el Torneo Clausura",
@@ -274,75 +240,18 @@
       "angulos": []
     },
     {
-      "id": "independiente-vs-deportivo-riestra-horario-y-como-ver-online-2-2",
-      "titulo": "San Lorenzo vs. Platense: horario y por dónde pasan el partido del Torneo Clausura 2026",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-06T07:13:20-03:00",
-      "calor": 62,
-      "medios": [
-        "La Nación",
-        "Infobae",
-        "Clarín",
-        "Página/12"
-      ],
-      "en_x": true,
-      "posicion_x": 24,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Clarín",
-          "titulo": "La dramática definición por penales con la que Brasil le ganó a la Argentina para dejarla sin final en la Finalissima de futsal",
-          "link": "https://www.clarin.com/deportes/dramatica-definicion-penales-brasil-gano-argentina-dejarla-final-finalissima-futsal_0_zvV671dycE.html",
-          "hora": "2026-11-07T06:31:08-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "San Lorenzo fue la marcha de la bronca: reproches contra todos y una derrota que confirmó un pésimo 2026",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/san-lorenzo-fue-la-marcha-de-la-bronca-reproches-contra-todos-y-una-derrota-que-confirmo-un-pesimo-nid06112026/",
-          "hora": "2026-11-06T23:01:17-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "En una dramática definición, Independiente le ganó a Riestra y se clasificó a los playoffs del Torneo Clausura, mientras que San Lorenzo quedó eliminado",
-          "link": "https://www.infobae.com/deportes/2026/11/06/independiente-san-lorenzo-platense-y-union-buscan-su-lugar-en-los-playoffs-del-torneo-clausura-todo-lo-que-hay-que-saber/",
-          "hora": "2026-11-06T22:47:25-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Torneo Clausura: Independiente adentro, San Lorenzo afuera",
-          "link": "https://www.pagina12.com.ar/2026/11/07/torneo-clausura-independiente-adentro-san-lorenzo-afuera/",
-          "hora": "2026-11-06T22:04:14-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "San Lorenzo vs Platense, hoy en vivo por el Torneo Clausura: el partido, minuto a minuto",
-          "link": "https://www.pagina12.com.ar/2026/11/06/san-lorenzo-vs-platense-hoy-en-vivo-por-el-torneo-clausura-hora-tv-y-formaciones/",
-          "hora": "2026-11-06T18:20:06-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "San Lorenzo vs. Platense: horario y por dónde pasan el partido del Torneo Clausura 2026",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/san-lorenzo-vs-platense-horario-y-por-donde-pasan-el-partido-del-torneo-clausura-2026-nid06112026/",
-          "hora": "2026-11-06T17:41:23-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "a-que-hora-es-la-qualy-del-gp-de-brasil-de-la-formula-1-con",
-      "titulo": "Antes de la clasificación, Franco Colapinto quedó 14° en la última práctica en el Gran Premio de Brasil de Fórmula 1",
+      "id": "a-que-hora-es-la-qualy-del-gp-de-brasil-de-la-formula-1-con-2",
+      "titulo": "Franco Colapinto en la clasificación del GP de Brasil de la Fórmula 1",
       "categoria": "deportes",
       "prioritaria": false,
       "desde": "2026-11-06T10:13:43-03:00",
-      "calor": 62,
+      "calor": 65,
       "medios": [
         "Infobae",
         "La Nación",
         "Clarín",
         "Ámbito",
+        "Página/12",
         "TN"
       ],
       "en_x": false,
@@ -350,28 +259,28 @@
       "en_google": false,
       "notas": [
         {
-          "medio": "Infobae",
-          "titulo": "Antes de la clasificación, Franco Colapinto quedó 14° en la última práctica en el Gran Premio de Brasil de Fórmula 1",
-          "link": "https://www.infobae.com/deportes/2026/11/07/antes-de-la-clasificacion-franco-colapinto-afrontara-la-ultima-practica-en-el-gran-premio-de-brasil-de-formula-1-hora-y-todo-lo-que-hay-que-saber/",
-          "hora": "2026-11-07T12:34:35-03:00"
-        },
-        {
           "medio": "TN",
           "titulo": "Franco Colapinto terminó 14° en la última práctica antes de la clasificación del GP de Brasil",
           "link": "https://tn.com.ar/deportes/formula-1/2026/11/07/franco-colapinto-sale-a-pista-para-disputar-la-ultima-practica-y-la-clasificacion-del-gp-de-brasil-de-la-formula-1/",
-          "hora": "2026-11-07T12:33:23-03:00"
+          "hora": "2026-11-07T13:09:23-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Franco Colapinto en la clasificación del GP de Brasil de la Fórmula 1",
+          "link": "https://www.pagina12.com.ar/2026/11/07/franco-colapinto-en-la-clasificacion-del-gp-de-brasil-de-la-formula-1/",
+          "hora": "2026-11-07T12:48:58-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Franco Colapinto hizo que Lewis Hamilton pruebe el mate y descontroló el Fan Zone del GP de Brasil de la Fórmula 1",
+          "link": "https://www.clarin.com/deportes/franco-colapinto-hizo-lewis-hamilton-pruebe-mate-descontrolo-fan-zone-gp-brasil-formula-1_0_0wr6e7djFu.html",
+          "hora": "2026-11-07T12:22:37-03:00"
         },
         {
           "medio": "Ámbito",
           "titulo": "Franco Colapinto busca ajustar su Alpine antes de la clasificación del GP de Brasil: horario y dónde ver en vivo",
           "link": "https://www.ambito.com/deportes/franco-colapinto-busca-ajustar-su-alpine-antes-la-clasificacion-del-gp-brasil-horario-y-donde-ver-vivo-n6342732",
           "hora": "2026-11-07T10:21:09-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "F1 GP de Brasil con Franco Colapinto, EN VIVO: horarios de FP3, clasificación y dónde ver la Fórmula 1",
-          "link": "https://www.clarin.com/deportes/f1-gp-brasil-franco-colapinto-horarios-ultima-practica-libre-clasificacion-ver-vivo_0_YK45gdQrKK.html",
-          "hora": "2026-11-07T06:01:10-03:00"
         },
         {
           "medio": "La Nación",
@@ -432,15 +341,21 @@
       "categoria": "espectaculos",
       "prioritaria": false,
       "desde": "2026-11-06T00:18:56-03:00",
-      "calor": 61,
+      "calor": 63,
       "medios": [
         "La Nación",
         "TN"
       ],
       "en_x": true,
-      "posicion_x": 8,
+      "posicion_x": 6,
       "en_google": false,
       "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "La impensada foto de la China Suárez y Martín Migueles en medio del nuevo escándalo entre Mauro Icardi y Wanda Nara",
+          "link": "https://www.lanacion.com.ar/espectaculos/la-impensada-foto-de-la-china-suarez-y-martin-migueles-en-medio-del-nuevo-escandalo-entre-mauro-nid07112026/",
+          "hora": "2026-11-07T13:10:27-03:00"
+        },
         {
           "medio": "TN",
           "titulo": "Apareció una foto de la China Suárez con Martín Migueles conversando con una de las hijas de Wanda Nara",
@@ -476,6 +391,64 @@
           "titulo": "Rusherking se sinceró sobre el mal momento que atravesó mientras salía con la China Suárez: “¿Por qué nadie me cuidó?\"",
           "link": "https://www.lanacion.com.ar/espectaculos/rusherking-se-sincero-sobre-el-mal-momento-que-atraveso-mientras-salia-con-la-china-suarez-por-que-nid06112026/",
           "hora": "2026-11-06T23:11:45-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "independiente-vs-deportivo-riestra-horario-y-como-ver-online-2-2",
+      "titulo": "San Lorenzo vs. Platense: horario y por dónde pasan el partido del Torneo Clausura 2026",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-11-06T07:13:20-03:00",
+      "calor": 62,
+      "medios": [
+        "La Nación",
+        "Infobae",
+        "Clarín",
+        "Página/12"
+      ],
+      "en_x": true,
+      "posicion_x": 20,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Clarín",
+          "titulo": "La dramática definición por penales con la que Brasil le ganó a la Argentina para dejarla sin final en la Finalissima de futsal",
+          "link": "https://www.clarin.com/deportes/dramatica-definicion-penales-brasil-gano-argentina-dejarla-final-finalissima-futsal_0_zvV671dycE.html",
+          "hora": "2026-11-07T06:31:08-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "San Lorenzo fue la marcha de la bronca: reproches contra todos y una derrota que confirmó un pésimo 2026",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/san-lorenzo-fue-la-marcha-de-la-bronca-reproches-contra-todos-y-una-derrota-que-confirmo-un-pesimo-nid06112026/",
+          "hora": "2026-11-06T23:01:17-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "En una dramática definición, Independiente le ganó a Riestra y se clasificó a los playoffs del Torneo Clausura, mientras que San Lorenzo quedó eliminado",
+          "link": "https://www.infobae.com/deportes/2026/11/06/independiente-san-lorenzo-platense-y-union-buscan-su-lugar-en-los-playoffs-del-torneo-clausura-todo-lo-que-hay-que-saber/",
+          "hora": "2026-11-06T22:47:25-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Torneo Clausura: Independiente adentro, San Lorenzo afuera",
+          "link": "https://www.pagina12.com.ar/2026/11/07/torneo-clausura-independiente-adentro-san-lorenzo-afuera/",
+          "hora": "2026-11-06T22:04:14-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "San Lorenzo vs Platense, hoy en vivo por el Torneo Clausura: el partido, minuto a minuto",
+          "link": "https://www.pagina12.com.ar/2026/11/06/san-lorenzo-vs-platense-hoy-en-vivo-por-el-torneo-clausura-hora-tv-y-formaciones/",
+          "hora": "2026-11-06T18:20:06-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "San Lorenzo vs. Platense: horario y por dónde pasan el partido del Torneo Clausura 2026",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/san-lorenzo-vs-platense-horario-y-por-donde-pasan-el-partido-del-torneo-clausura-2026-nid06112026/",
+          "hora": "2026-11-06T17:41:23-03:00"
         }
       ],
       "oficiales": [],
@@ -616,38 +589,122 @@
       "angulos": []
     },
     {
+      "id": "subastaran-en-paris-la-primera-fotografia-conocida-de-bogota",
+      "titulo": "El papa León XIV hizo un elogio del mate, los puentes y las palmeras en su misa en Paysandú",
+      "categoria": "social",
+      "prioritaria": true,
+      "desde": "2026-11-07T05:56:00-03:00",
+      "calor": 56,
+      "medios": [
+        "Clarín",
+        "La Nación"
+      ],
+      "en_x": true,
+      "posicion_x": 8,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "El papa León XIV hizo un elogio del mate, los puentes y las palmeras en su misa en Paysandú",
+          "link": "https://www.lanacion.com.ar/el-mundo/el-papa-leon-xiv-hizo-elogio-del-mate-los-puentes-y-las-palmeras-en-su-misa-en-paysandu-nid07112026/",
+          "hora": "2026-11-07T11:53:41-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Visita del Papa a la Argentina, EN VIVO: en Paysandú, León XIV habló del mate y pidió transmitir la fe a las futuras generaciones",
+          "link": "https://www.clarin.com/sociedad/visita-papa-argentina-vivo-espera-miles-argentinos-crucen-uruguay-ver-leon-xiv-paysandu_0_CKwJqS7Bjq.html",
+          "hora": "2026-11-07T06:10:22-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "primeras-replicas-de-la-casa-rosada-contra-bullrich-karina-m-2-2-2",
+      "titulo": "Patricia Bullrich se alinea con la Iglesia y dice que el Senado tratará el proyecto de ley para prevenir la ludopatía",
+      "categoria": "politica",
+      "prioritaria": true,
+      "desde": "2026-11-05T11:59:00-03:00",
+      "calor": 54,
+      "medios": [
+        "La Nación",
+        "Infobae",
+        "Página/12",
+        "Ámbito",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "TN",
+          "titulo": "Valeria Patricia Sülsen, investigadora del CONICET, sobre el dengue: “Encontramos una molécula que actúa frente a sus 4 variantes”",
+          "link": "https://tn.com.ar/sociedad/ciencia/2026/11/07/valeria-patricia-sulsen-investigadora-del-conicet-sobre-el-dengue-encontramos-una-molecula-que-actua-frente-a-sus-4-variantes/",
+          "hora": "2026-11-07T12:59:47-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "La fractura silenciosa de La Libertad Avanza y sus consecuencias sobre la agenda legislativa del Gobierno",
+          "link": "https://www.infobae.com/politica/2026/11/07/la-fractura-silenciosa-de-la-libertad-avanza-y-sus-consecuencias-sobre-la-agenda-legislativa-del-gobierno/",
+          "hora": "2026-11-07T02:33:05-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Bullrich descubrió que quiere combatir la ludopatía infantil",
+          "link": "https://www.pagina12.com.ar/2026/11/07/bullrich-descubrio-que-quiere-combatir-la-ludopatia-infantil/",
+          "hora": "2026-11-06T21:26:17-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Patricia Bullrich negó tensiones con el Gobierno por su reunión con senadores de La Libertad Avanza: \"No crucé ningún límite\"",
+          "link": "https://www.ambito.com/politica/patricia-bullrich-nego-tensiones-el-gobierno-su-reunion-senadores-la-libertad-avanza-no-cruce-ningun-limite-n6342514",
+          "hora": "2026-11-06T16:43:00-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Bullrich se desmarca de Milei y dice que impulsará la ley contra la ludopatía",
+          "link": "https://www.pagina12.com.ar/2026/11/06/bullrich-se-desmarca-de-milei-y-dice-que-impulsara-la-ley-contra-la-ludopatia/",
+          "hora": "2026-11-06T16:34:06-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Patricia Bullrich se alinea con la Iglesia y dice que el Senado tratará el proyecto de ley para prevenir la ludopatía",
+          "link": "https://www.lanacion.com.ar/politica/patricia-bullrich-se-alinea-con-la-iglesia-y-dice-que-el-senado-tratara-el-proyecto-de-ley-para-nid06112026/",
+          "hora": "2026-11-06T14:03:57-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
       "id": "el-pp-critica-que-sanchez-no-vaya-al-funeral-religioso-por-l-2",
-      "titulo": "León XIV evitó que un expresidente de Uruguay le besara el anillo durante la recepción en Montevideo",
+      "titulo": "El mate que le regalarán un argentino y un uruguayo a León XIV cuando parta a Montevideo",
       "categoria": "otros",
       "prioritaria": false,
       "desde": "2026-11-06T10:18:00-03:00",
-      "calor": 57,
+      "calor": 53,
       "medios": [
-        "La Nación",
         "Infobae",
         "Ámbito"
       ],
       "en_x": true,
-      "posicion_x": 22,
+      "posicion_x": 17,
       "en_google": false,
       "notas": [
         {
           "medio": "Infobae",
           "titulo": "EN VIVO | Tras la misa que brindó en Paysandú, el papa León XIV regresa a Montevideo",
           "link": "https://www.infobae.com/america/america-latina/2026/11/07/papa-leon-xiv-en-uruguay-en-vivo-las-ultimas-noticias-de-su-gira-por-sudamerica-hoy-7-de-noviembre/",
-          "hora": "2026-11-07T12:30:18-03:00"
+          "hora": "2026-11-07T13:03:20-03:00"
         },
         {
           "medio": "Ámbito",
           "titulo": "El mate que le regalarán un argentino y un uruguayo a León XIV cuando parta a Montevideo",
           "link": "https://www.ambito.com/mundo/el-mate-que-le-regalaran-un-argentino-y-un-uruguayo-leon-xiv-cuando-parta-montevideo-n6342715",
           "hora": "2026-11-07T09:59:00-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "León XIV evitó que un expresidente de Uruguay le besara el anillo durante la recepción en Montevideo",
-          "link": "https://www.lanacion.com.ar/el-mundo/leon-xiv-evito-que-un-expresidente-de-uruguay-le-besara-el-anillo-durante-la-recepcion-en-montevideo-nid07112026/",
-          "hora": "2026-11-07T08:54:48-03:00"
         }
       ],
       "oficiales": [],
@@ -656,15 +713,14 @@
     },
     {
       "id": "la-agenda-de-la-tv-del-sabado-el-torneo-clausura-futbol-de-e",
-      "titulo": "La agenda de la TV del sábado: el torneo Clausura, fútbol de Europa, Messi en Inter Miami y Colapinto en el GP de Brasil",
+      "titulo": "Lionel Messi busca un nuevo récord con Inter Miami en el cierre de la fase regular de la MLS",
       "categoria": "deportes",
       "prioritaria": false,
       "desde": "2026-11-06T16:09:36-03:00",
-      "calor": 54,
+      "calor": 52,
       "medios": [
         "Infobae",
         "La Nación",
-        "Clarín",
         "Ámbito",
         "TN"
       ],
@@ -672,6 +728,12 @@
       "posicion_x": null,
       "en_google": false,
       "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "El escudo en la matera de Messi que se hizo viral en la previa del partido del Inter Miami: el récord que podrá romper en la MLS",
+          "link": "https://www.infobae.com/deportes/2026/11/07/el-escudo-en-la-matera-de-messi-que-se-hizo-viral-en-la-previa-del-partido-del-inter-miami-el-record-que-podra-romper-en-la-mls/",
+          "hora": "2026-11-07T12:50:36-03:00"
+        },
         {
           "medio": "TN",
           "titulo": "Lionel Messi busca un nuevo récord con Inter Miami en el cierre de la fase regular de la MLS",
@@ -683,12 +745,6 @@
           "titulo": "El Inter Miami de Messi recibirá a Charlotte FC con la cabeza puesta en los playoffs de la MLS: hora, TV y formaciones",
           "link": "https://www.infobae.com/deportes/2026/11/07/el-inter-miami-de-messi-recibira-a-charlotte-fc-con-la-cabeza-puesta-en-los-playoffs-de-la-mls-hora-tv-y-formaciones/",
           "hora": "2026-11-07T07:19:19-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "El sueño de Newell's de tener a Lionel Messi: qué chances reales hay de que juegue en el fútbol argentino",
-          "link": "https://www.clarin.com/deportes/sueno-newells-tener-lionel-messi-chances-reales-juegue-futbol-argentino_0_qpGiIMNeEl.html",
-          "hora": "2026-11-07T05:01:05-03:00"
         },
         {
           "medio": "La Nación",
@@ -720,55 +776,37 @@
       "angulos": []
     },
     {
-      "id": "en-vivo-borussia-dortmund-vs-elversberg-0-0-por-la-fecha-9-d",
-      "titulo": "En vivo - Borussia Dortmund vs. Elversberg: 0 - 0, por la fecha 9 de la Bundesliga de Alemania",
+      "id": "stephanie-demner-enternecio-a-todos-al-mostrar-el-primer-out",
+      "titulo": "Stephanie Demner enterneció a todos al mostrar el primer outfit compartido entre sus hijas, Arianna y Jazmín",
       "categoria": "deportes",
       "prioritaria": false,
-      "desde": "2026-11-07T02:37:20-03:00",
-      "calor": 54,
+      "desde": "2026-11-06T16:14:39-03:00",
+      "calor": 52,
       "medios": [
         "Infobae",
-        "TN"
+        "La Nación"
       ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": true,
+      "en_x": true,
+      "posicion_x": 25,
+      "en_google": false,
       "notas": [
         {
-          "medio": "TN",
-          "titulo": "En vivo - Borussia Dortmund vs. Elversberg: 0 - 0, por la fecha 9 de la Bundesliga de Alemania",
-          "link": "https://tn.com.ar/deportes/futbol/2026/11/07/borussia-dortmund-vs-elversberg-en-vivo-por-la-fecha-9-de-la-bundesliga-de-alemania-hora-donde-ver-y-formaciones/",
-          "hora": "2026-11-07T12:30:28-03:00"
+          "medio": "Infobae",
+          "titulo": "El crowdfunding para la familia de Jesús de Miguel supera los 100.000 euros con varias aportaciones de futbolistas: “Todo irá destinado a su hijo, su mujer y sus padres”",
+          "link": "https://www.infobae.com/espana/deportes/2026/11/07/el-crowdfunding-para-la-familia-de-jesus-de-miguel-supera-los-100000-euros-con-varias-aportaciones-de-futbolistas-todo-ira-destinado-a-su-hijo-su-mujer-y-sus-padres/",
+          "hora": "2026-11-07T12:39:49-03:00"
         },
         {
-          "medio": "TN",
-          "titulo": "Stuttgart vs Werder Bremen en vivo por la fecha 9 de la Bundesliga de Alemania: hora, dónde ver y formaciones",
-          "link": "https://tn.com.ar/deportes/futbol/2026/11/07/stuttgart-vs-werder-bremen-en-vivo-por-la-fecha-9-de-la-bundesliga-de-alemania-hora-donde-ver-y-formaciones/",
-          "hora": "2026-11-07T12:30:28-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "En vivo - Mainz vs. Bayern Múnich: 0 - 1, por la fecha 9 de la Bundesliga de Alemania",
-          "link": "https://tn.com.ar/deportes/futbol/2026/11/07/mainz-vs-bayern-munich-en-vivo-por-la-fecha-9-de-la-bundesliga-de-alemania-hora-donde-ver-y-formaciones/",
-          "hora": "2026-11-07T12:22:28-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "En vivo - Leipzig vs. Augsburg: 3 - 1, por la fecha 9 de la Bundesliga de Alemania",
-          "link": "https://tn.com.ar/deportes/futbol/2026/11/07/leipzig-vs-augsburg-en-vivo-por-la-fecha-9-de-la-bundesliga-de-alemania-hora-donde-ver-y-formaciones/",
-          "hora": "2026-11-07T12:19:29-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "En vivo - Paderborn vs. Eintracht Frankfurt: 1 - 1, por la fecha 9 de la Bundesliga de Alemania",
-          "link": "https://tn.com.ar/deportes/futbol/2026/11/07/paderborn-vs-eintracht-frankfurt-en-vivo-por-la-fecha-9-de-la-bundesliga-de-alemania-hora-donde-ver-y-formaciones/",
-          "hora": "2026-11-07T12:18:28-03:00"
+          "medio": "La Nación",
+          "titulo": "Stephanie Demner enterneció a todos al mostrar el primer outfit compartido entre sus hijas, Arianna y Jazmín",
+          "link": "https://www.lanacion.com.ar/espectaculos/stephanie-demner-enternecio-a-todos-al-mostrar-el-primer-outfit-compartido-entre-sus-hijas-arianna-y-nid07112026/",
+          "hora": "2026-11-07T11:52:53-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Detalles exclusivos de la iniciativa del Borussia Dortmund para desalentar los celulares en el estadio: “Aún amamos el juego”",
-          "link": "https://www.infobae.com/deportes/2026/11/07/detalles-exclusivos-de-la-iniciativa-del-borussia-dortmund-para-desalentar-los-celulares-en-el-estadio-aun-amamos-el-juego/",
-          "hora": "2026-11-07T02:37:20-03:00"
+          "titulo": "Un golpe en el área, una camilla y un silencio compartido: la tragedia de John Thomson y su similitud con la muerte de Jesús de Miguel",
+          "link": "https://www.infobae.com/historias/2026/11/06/un-golpe-en-el-area-una-camilla-y-un-silencio-compartido-la-tragedia-de-john-thomson-y-su-similitud-con-la-muerte-de-jesus-de-miguel/",
+          "hora": "2026-11-06T16:14:39-03:00"
         }
       ],
       "oficiales": [],
@@ -834,12 +872,44 @@
       "angulos": []
     },
     {
+      "id": "avisan-cambios-en-aeroparque-por-la-llegada-del-papa-leon-xi",
+      "titulo": "Avisan cambios en Aeroparque por la llegada del papa León XIV: “Coordiná un punto de encuentro afuera”",
+      "categoria": "politica",
+      "prioritaria": true,
+      "desde": "2026-11-07T10:36:00-03:00",
+      "calor": 50,
+      "medios": [
+        "La Nación",
+        "Ámbito"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": true,
+      "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "Avisan cambios en Aeroparque por la llegada del papa León XIV: “Coordiná un punto de encuentro afuera”",
+          "link": "https://www.lanacion.com.ar/sociedad/avisan-cambios-en-aeroparque-por-la-llegada-del-papa-leon-xiv-coordina-un-punto-de-encuentro-afuera-nid07112026/",
+          "hora": "2026-11-07T12:00:00-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Javier Milei recibirá al papa León XIV al pie del avión en Aeroparque: los detalles de su arribo a la Argentina",
+          "link": "https://www.ambito.com/politica/javier-milei-recibira-al-papa-leon-xiv-al-pie-del-avion-aeroparque-los-detalles-su-arribo-la-argentina-n6339773",
+          "hora": "2026-11-07T10:36:00-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
       "id": "stranger-things-tendra-su-precuela-todos-los-detalles-de-la",
       "titulo": "Netflix lanza ‘Otros mundos’, la serie precuela de ‘Stranger Things’: cuándo se estrena y de qué trata",
       "categoria": "espectaculos",
       "prioritaria": false,
       "desde": "2026-11-06T12:06:00-03:00",
-      "calor": 50,
+      "calor": 49,
       "medios": [
         "Infobae",
         "La Nación",
@@ -886,127 +956,43 @@
       "angulos": []
     },
     {
-      "id": "las-mejores-fotos-de-la-segunda-jornada-del-papa-leon-xiv-en",
-      "titulo": "Las mejores fotos de la segunda jornada del papa León XIV en Uruguay",
-      "categoria": "otros",
-      "prioritaria": false,
-      "desde": "2026-11-07T12:14:17-03:00",
-      "calor": 50,
-      "medios": [
-        "Infobae"
-      ],
-      "en_x": true,
-      "posicion_x": 2,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Las mejores fotos de la segunda jornada del papa León XIV en Uruguay",
-          "link": "https://www.infobae.com/fotos/2026/11/07/las-mejores-fotos-de-la-segunda-jornada-del-papa-leon-xiv-en-uruguay/",
-          "hora": "2026-11-07T12:14:17-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "fox-anuncio-la-adquisicion-de-la-plataforma-de-streaming-rok",
-      "titulo": "Fox anunció la adquisición de la plataforma de streaming Roku por u$s22.000 millones",
-      "categoria": "espectaculos",
-      "prioritaria": false,
-      "desde": "2026-11-06T13:05:00-03:00",
-      "calor": 49,
-      "medios": [
-        "Clarín",
-        "Ámbito"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": true,
-      "notas": [
-        {
-          "medio": "Clarín",
-          "titulo": "Papa León XIV en Argentina: qué canales transmitirán las misas en vivo y cómo seguirlas por TV y streaming",
-          "link": "https://www.clarin.com/espectaculos/papa-leon-xiv-argentina-canales-transmitiran-misas-vivo-seguirlas-tv-streaming_0_4eu9nMZb5G.html",
-          "hora": "2026-11-07T11:08:50-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Fox anunció la adquisición de la plataforma de streaming Roku por u$s22.000 millones",
-          "link": "https://www.ambito.com/espectaculos/fox-anuncio-la-adquisicion-la-plataforma-streaming-roku-us22000-millones-n6342422",
-          "hora": "2026-11-06T13:05:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "leon-xiv-celebra-una-misa-en-paysandu",
-      "titulo": "León XIV celebra una misa en Paysandú",
-      "categoria": "otros",
-      "prioritaria": false,
-      "desde": "2026-11-07T10:46:00-03:00",
-      "calor": 49,
-      "medios": [
-        "Ámbito"
-      ],
-      "en_x": true,
-      "posicion_x": 7,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Ámbito",
-          "titulo": "León XIV celebra una misa en Paysandú",
-          "link": "https://www.ambito.com/uruguay/leon-xiv-destaco-al-beato-jacinto-su-misa-recorrio-estas-tierras-llamando-la-conversion-n6342730",
-          "hora": "2026-11-07T10:46:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "pedro-sanchez-le-respondio-a-javier-milei-tras-sus-criticas",
-      "titulo": "Pedro Sánchez le respondió a Javier Milei tras sus críticas al socialismo: \"Estamos muy orgullosos de ser zurdos\"",
-      "categoria": "otros",
-      "prioritaria": false,
-      "desde": "2026-11-07T10:51:51-03:00",
-      "calor": 49,
+      "id": "flavio-bolsonaro-nego-ayuda-oficial-en-su-salida-de-brasil-y-2",
+      "titulo": "Quién es Gerardo Pollicita, el fiscal histórico de Comodoro Py que batalló contra la corrupción y benefició a Adorni",
+      "categoria": "politica",
+      "prioritaria": true,
+      "desde": "2026-11-05T11:57:06-03:00",
+      "calor": 48,
       "medios": [
         "La Nación",
-        "Clarín",
-        "Ámbito",
-        "TN"
+        "Página/12"
       ],
-      "en_x": false,
-      "posicion_x": null,
+      "en_x": true,
+      "posicion_x": 9,
       "en_google": false,
       "notas": [
         {
-          "medio": "TN",
-          "titulo": "El expresidente uruguayo explicó por qué quiso besarle el anillo al Papa y respondió a las críticas: “Lo hice en calidad de fiel”",
-          "link": "https://tn.com.ar/videos/internacional/2026/11/07/el-expresidente-uruguayo-explico-por-que-quiso-besarle-el-anillo-al-papa-y-respondio-a-las-criticas-lo-hice-en-calidad-de-fiel/",
-          "hora": "2026-11-07T12:33:45-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Pedro Sánchez le respondió a Javier Milei tras sus críticas al socialismo: \"Estamos muy orgullosos de ser zurdos\"",
-          "link": "https://www.ambito.com/mundo/pedro-sanchez-le-respondio-javier-milei-sus-criticas-al-socialismo-estamos-muy-orgullosos-ser-zurdos-n6342746",
-          "hora": "2026-11-07T12:22:00-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Habló el expresidente de Uruguay que protagonizó un incómodo momento con el papa León XIV: \"Hice lo que tenía que hacer como fiel\"",
-          "link": "https://www.clarin.com/mundo/hablo-expresidente-uruguay-protagonizo-incomodo-momento-papa-leon-xiv-hice-hacer-fiel_0_glH64agkGo.html",
-          "hora": "2026-11-07T12:04:58-03:00"
+          "medio": "Página/12",
+          "titulo": "La investigación contra Alberto Fernández seguirá en Comodoro Py",
+          "link": "https://www.pagina12.com.ar/2026/11/06/la-investigacion-contra-alberto-fernandez-seguira-en-comodoro-py/",
+          "hora": "2026-11-06T20:49:58-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "El exchofer de Pedro Sánchez vuelve a exponer la trama de corrupción en el partido del presidente",
-          "link": "https://www.lanacion.com.ar/el-mundo/el-exchofer-de-pedro-sanchez-vuelve-a-exponer-la-trama-de-corrupcion-en-el-partido-del-presidente-nid07112026/",
-          "hora": "2026-11-07T10:51:51-03:00"
+          "titulo": "Quién es Gerardo Pollicita, el fiscal histórico de Comodoro Py que batalló contra la corrupción y benefició a Adorni",
+          "link": "https://www.lanacion.com.ar/politica/quien-es-gerardo-pollicita-el-fiscal-historico-de-comodoro-py-que-batallo-contra-la-corrupcion-y-nid06112026/",
+          "hora": "2026-11-06T20:46:34-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Jubilaciones: un fallo declara inconstitucional la ley de movilidad de Alberto Fernández, pero con un efecto muy limitado",
+          "link": "https://www.lanacion.com.ar/economia/jubilaciones-un-fallo-declara-inconstitucional-la-ley-de-movilidad-de-alberto-fernandez-pero-dispone-nid06112026/",
+          "hora": "2026-11-06T14:47:33-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "El fiscal Pollicita dijo que no hay pruebas para sostener que Adorni se enriqueció en su paso por el Gobierno",
+          "link": "https://www.lanacion.com.ar/politica/el-fiscal-pollicita-dijo-que-no-hay-pruebas-para-sostener-que-adorni-se-enriquecio-en-su-paso-por-el-nid06112026/",
+          "hora": "2026-11-06T14:13:48-03:00"
         }
       ],
       "oficiales": [],
@@ -1083,43 +1069,11 @@
       "angulos": []
     },
     {
-      "id": "stephanie-demner-enternecio-a-todos-al-mostrar-el-primer-out",
-      "titulo": "Stephanie Demner enterneció a todos al mostrar el primer outfit compartido entre sus hijas, Arianna y Jazmín",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-06T16:14:39-03:00",
-      "calor": 48,
-      "medios": [
-        "Infobae",
-        "La Nación"
-      ],
-      "en_x": true,
-      "posicion_x": 34,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "Stephanie Demner enterneció a todos al mostrar el primer outfit compartido entre sus hijas, Arianna y Jazmín",
-          "link": "https://www.lanacion.com.ar/espectaculos/stephanie-demner-enternecio-a-todos-al-mostrar-el-primer-outfit-compartido-entre-sus-hijas-arianna-y-nid07112026/",
-          "hora": "2026-11-07T11:52:53-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Un golpe en el área, una camilla y un silencio compartido: la tragedia de John Thomson y su similitud con la muerte de Jesús de Miguel",
-          "link": "https://www.infobae.com/historias/2026/11/06/un-golpe-en-el-area-una-camilla-y-un-silencio-compartido-la-tragedia-de-john-thomson-y-su-similitud-con-la-muerte-de-jesus-de-miguel/",
-          "hora": "2026-11-06T16:14:39-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "sarabia-introduce-cinco-cambios-en-el-espanyol-y-el-deportiv",
-      "titulo": "Sarabia introduce cinco cambios en el Espanyol y el Deportivo repite once inicial",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-07T12:01:01-03:00",
+      "id": "detuvieron-al-cantante-de-ke-personajes-por-golpear-a-un-pol",
+      "titulo": "Detuvieron al cantante de Ke Personajes por golpear a un policía que le impidió entrar a un casino en Entre Ríos",
+      "categoria": "social",
+      "prioritaria": true,
+      "desde": "2026-11-07T12:04:10-03:00",
       "calor": 48,
       "medios": [
         "Infobae",
@@ -1131,15 +1085,15 @@
       "notas": [
         {
           "medio": "TN",
-          "titulo": "En vivo - Espanyol vs. Deportivo: 0 - 0, por la fecha 12 de La Liga de España",
-          "link": "https://tn.com.ar/deportes/futbol/2026/11/07/espanyol-vs-deportivo-en-vivo-por-la-fecha-12-de-la-liga-de-espana-hora-donde-ver-y-formaciones/",
-          "hora": "2026-11-07T12:33:28-03:00"
+          "titulo": "Detuvieron a Emanuel Noir de “Ke Personajes” en Concepción del Uruguay",
+          "link": "https://tn.com.ar/show/famosos/2026/11/07/detuvieron-a-emanuel-noir-de-ke-personajes-en-concepcion-del-uruguay/",
+          "hora": "2026-11-07T12:10:09-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Sarabia introduce cinco cambios en el Espanyol y el Deportivo repite once inicial",
-          "link": "https://www.infobae.com/espana/agencias/2026/11/07/sarabia-introduce-cinco-cambios-en-el-espanyol-y-el-deportivo-repite-once-inicial/",
-          "hora": "2026-11-07T12:01:01-03:00"
+          "titulo": "Detuvieron al cantante de Ke Personajes por golpear a un policía que le impidió entrar a un casino en Entre Ríos",
+          "link": "https://www.infobae.com/sociedad/policiales/2026/11/07/detuvieron-al-cantante-de-ke-personajes-por-golpear-a-un-policia-que-le-impidio-entrar-a-un-casino-en-entre-rios/",
+          "hora": "2026-11-07T12:04:10-03:00"
         }
       ],
       "oficiales": [],
@@ -1147,107 +1101,44 @@
       "angulos": []
     },
     {
-      "id": "adepa-expreso-su-preocupacion-y-repudio-por-las-acciones-de-2",
-      "titulo": "La FIFA le redujo la sanción a Nahuel Molina, pero mantuvo las 10 fechas de suspensión a Leandro Paredes: la AFA irá al TAS",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-06T16:39:32-03:00",
-      "calor": 47,
+      "id": "luis-caputo-volvio-a-vincular-la-suba-del-riesgo-pais-a-las",
+      "titulo": "Luis Caputo y Martín Llaryora acordaron compensar deudas por $143.000 millones",
+      "categoria": "economia",
+      "prioritaria": true,
+      "desde": "2026-11-05T18:05:00-03:00",
+      "calor": 45,
       "medios": [
+        "La Nación",
         "Clarín",
-        "Infobae",
-        "La Nación"
+        "Ámbito"
       ],
       "en_x": false,
       "posicion_x": null,
       "en_google": false,
       "notas": [
         {
-          "medio": "Infobae",
-          "titulo": "Ayuso cree que Sánchez tiene \"miedo a cambiar Moncloa por Soto del Real\"",
-          "link": "https://www.infobae.com/espana/agencias/2026/11/07/ayuso-cree-que-sanchez-tiene-miedo-a-cambiar-moncloa-por-soto-del-real/",
-          "hora": "2026-11-07T11:46:33-03:00"
+          "medio": "La Nación",
+          "titulo": "La CAME le pidió a Caputo modificar las condiciones del plan de facilidades de pago de ARCA",
+          "link": "https://www.lanacion.com.ar/economia/la-came-le-pidio-a-caputo-modificar-las-condiciones-del-plan-de-facilidades-de-pago-de-arca-nid07112026/",
+          "hora": "2026-11-07T11:18:16-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Motosierra: Luis Caputo profundizó el ajuste y recortó casi 10% el gasto público en octubre",
+          "link": "https://www.ambito.com/economia/motosierra-luis-caputo-profundizo-el-ajuste-y-recorto-casi-10-el-gasto-publico-octubre-n6342474",
+          "hora": "2026-11-07T07:00:00-03:00"
         },
         {
           "medio": "Clarín",
-          "titulo": "Boxeo: Alfredo Soto y Nahuel Espíndola, un choque entre los dos mejores ligeros del país por el título argentino",
-          "link": "https://www.clarin.com/deportes/boxeo-alfredo-soto-nahuel-espindola-choque-mejores-ligeros-pais-titulo-argentino_0_bShYIZpZo2.html",
-          "hora": "2026-11-07T06:01:07-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "El mensaje de Miguel Merentiel que hizo emocionar a Leandro Paredes en medio de las finales que afrontará Boca Juniors",
-          "link": "https://www.infobae.com/deportes/2026/11/07/el-mensaje-de-miguel-merentiel-que-hizo-emocionar-a-leandro-paredes-en-medio-de-las-finales-que-afrontara-boca-juniors/",
-          "hora": "2026-11-06T22:55:29-03:00"
+          "titulo": "“Esperar es resistir”: Daniel Aráoz y Luis Ziembrowski hablan de ‘Esperando a Godot’",
+          "link": "https://www.clarin.com/espectaculos/esperar-resistir-daniel-araoz-luis-ziembrowski-hablan-esperando-godot_0_5cQ1QqKkV0.html",
+          "hora": "2026-11-07T06:01:06-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "La FIFA le redujo la sanción a Nahuel Molina, pero mantuvo las 10 fechas de suspensión a Leandro Paredes: la AFA irá al TAS",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/la-fifa-le-redujo-la-sancion-a-nahuel-molina-pero-mantuvo-las-10-fechas-de-suspension-a-leandro-nid06112026/",
-          "hora": "2026-11-06T20:28:36-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "La AFA recurrirá al TAS luego de que la FIFA ratificara la sanción a Paredes por los incidentes en la final del Mundial",
-          "link": "https://www.infobae.com/deportes/2026/11/06/la-afa-recurrira-al-tas-luego-de-que-la-fifa-ratificara-la-sancion-a-paredes-por-los-incidentes-en-la-final-del-mundial/",
-          "hora": "2026-11-06T20:14:11-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Tras la apelación de la AFA, la FIFA le redujo la sanción a Nahuel Molina, pero no perdona a Leandro Paredes por la pelea en la final del Mundial",
-          "link": "https://www.clarin.com/deportes/apelacion-afa-fifa-redujo-sancion-nahuel-molina-perdona-leandro-paredes-pelea-final-mundial_0_BXwj6KmN3F.html",
-          "hora": "2026-11-06T19:56:33-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "formaciones-de-los-pumas-vs-irlanda-por-el-nations-champions",
-      "titulo": "Los Pumas sufrieron una dura derrota ante Irlanda por 42-12 en Dublín por el Nations Championship",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-05T19:13:54-03:00",
-      "calor": 46,
-      "medios": [
-        "La Nación",
-        "Infobae",
-        "Clarín"
-      ],
-      "en_x": true,
-      "posicion_x": 43,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Clarín",
-          "titulo": "La autocrítica de Pablo Matera tras la derrota de Los Pumas: \"Todos los que jugamos, fallamos y cada error explica los 30 puntos de Irlanda\"",
-          "link": "https://www.clarin.com/deportes/autocritica-pablo-matera-derrota-pumas-jugamos-fallamos-error-explica-30-puntos-irlanda_0_aQYevv9GA3.html",
-          "hora": "2026-11-06T22:56:18-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Los Pumas perdieron 42-12 con Irlanda en Dublín por el Nations Championship",
-          "link": "https://www.infobae.com/deportes/2026/11/06/los-pumas-enfrentaran-a-irlanda-por-el-nations-championship-hora-tv-y-formaciones/",
-          "hora": "2026-11-06T21:56:28-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Durísima derrota ante Irlanda: una caída que cala hondo en la cohesión de los Pumas",
-          "link": "https://www.lanacion.com.ar/deportes/rugby/durisima-derrota-ante-irlanda-una-derrota-que-cala-hondo-en-la-cohesion-de-los-pumas-nid06112026/",
-          "hora": "2026-11-06T21:20:05-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Los Pumas sufrieron una dura derrota ante Irlanda por 42-12 en Dublín por el Nations Championship",
-          "link": "https://www.lanacion.com.ar/deportes/rugby/irlanda-vs-los-pumas-en-vivo-nid06112026/",
-          "hora": "2026-11-06T19:50:46-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "En qué canal pasan los Pumas vs. Irlanda hoy, por el Nations Championship 2026",
-          "link": "https://www.lanacion.com.ar/deportes/rugby/en-que-canal-pasan-los-pumas-vs-irlanda-hoy-por-el-nations-championship-2026-nid06112026/",
-          "hora": "2026-11-06T13:20:57-03:00"
+          "titulo": "Luis Caputo y Martín Llaryora acordaron compensar deudas por $143.000 millones",
+          "link": "https://www.lanacion.com.ar/politica/luis-caputo-y-martin-llaryora-acordaron-compensar-deudas-por-143000-millones-nid06112026/",
+          "hora": "2026-11-06T16:01:49-03:00"
         }
       ],
       "oficiales": [],
@@ -1300,15 +1191,15 @@
       "angulos": []
     },
     {
-      "id": "adepa-da-la-bienvenida-al-papa-leon-xiv-y-destaca-su-rol-fre",
-      "titulo": "ADEPA da la bienvenida al Papa León XIV y destaca su rol frente al avance de la inteligencia artificial",
-      "categoria": "politica",
+      "id": "la-industria-mostro-un-leve-crecimiento-mensual-en-septiembr",
+      "titulo": "La industria mostró un leve crecimiento mensual en septiembre pero cayó 1,8% en el último año",
+      "categoria": "economia",
       "prioritaria": true,
-      "desde": "2026-11-06T15:58:45-03:00",
+      "desde": "2026-11-06T13:46:38-03:00",
       "calor": 45,
       "medios": [
-        "Clarín",
-        "TN",
+        "La Nación",
+        "Infobae",
         "Ámbito"
       ],
       "en_x": false,
@@ -1316,76 +1207,37 @@
       "en_google": false,
       "notas": [
         {
-          "medio": "Ámbito",
-          "titulo": "ADEPA dio la bienvenida al papa León XIV y pidió defender la dignidad humana ante el avance de la IA",
-          "link": "https://www.ambito.com/informacion-general/adepa-dio-la-bienvenida-al-papa-leon-xiv-y-pidio-defender-la-dignidad-humana-el-avance-la-ia-n6341681",
-          "hora": "2026-11-07T11:09:00-03:00"
+          "medio": "Infobae",
+          "titulo": "Denuncian al decano del Colegio de Economistas de Lima por la demanda contra la ley de pensión de S/3.500 para maestros",
+          "link": "https://www.infobae.com/peru/2026/11/07/denuncian-al-decano-del-colegio-de-economistas-de-lima-por-la-demanda-contra-la-ley-de-pension-de-s3500-para-maestros/",
+          "hora": "2026-11-07T13:06:25-03:00"
         },
-        {
-          "medio": "TN",
-          "titulo": "La desaceleración industrial y los límites del auge de la inteligencia artificial en Asia",
-          "link": "https://tn.com.ar/opinion/2026/11/07/la-desaceleracion-industrial-y-los-limites-del-auge-de-la-inteligencia-artificial-en-asia/",
-          "hora": "2026-11-07T05:57:00-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "ADEPA expresó su preocupación y repudio por las acciones de la AFA contra distintos medios de comunicación",
-          "link": "https://www.clarin.com/politica/adepa-expreso-preocupacion-repudio-acciones-afa-distintos-medios-comunicacion_0_mnoHPkP8Bo.html",
-          "hora": "2026-11-06T16:39:32-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "ADEPA da la bienvenida al Papa León XIV y destaca su rol frente al avance de la inteligencia artificial",
-          "link": "https://www.clarin.com/politica/adepa-da-bienvenida-papa-leon-xiv-destaca-rol-frente-avance-inteligencia-artificial_0_DV315jwynL.html",
-          "hora": "2026-11-06T15:58:45-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "como-reducir-la-ansiedad-en-cinco-minutos-el-ejercicio-que-r",
-      "titulo": "Cómo reducir la ansiedad en cinco minutos: el ejercicio que recomienda una experta para recuperar la calma",
-      "categoria": "social",
-      "prioritaria": true,
-      "desde": "2026-11-06T17:54:31-03:00",
-      "calor": 45,
-      "medios": [
-        "La Nación",
-        "Infobae",
-        "Página/12"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
         {
           "medio": "Infobae",
-          "titulo": "Álvarez de Toledo pide una revolución de la decencia para recuperar las instituciones",
-          "link": "https://www.infobae.com/espana/agencias/2026/11/07/alvarez-de-toledo-pide-una-revolucion-de-la-decencia-para-recuperar-las-instituciones/",
-          "hora": "2026-11-07T12:17:37-03:00"
+          "titulo": "La industria mostró un leve crecimiento mensual en septiembre pero cayó 1,8% en el último año",
+          "link": "https://www.infobae.com/economia/2026/11/06/la-industria-mostro-un-leve-crecimiento-mensual-en-septiembre-pero-cayo-18-en-el-ultimo-ano/",
+          "hora": "2026-11-06T17:07:13-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "La industria cayó 3,2% en el tercer trimestre y anotó una nueva baja interanual",
+          "link": "https://www.ambito.com/economia/la-industria-cerro-el-tercer-trimestre-rojo-y-anoto-una-nueva-baja-interanual-n6342537",
+          "hora": "2026-11-06T16:25:00-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "Kate Nolte, entrenadora: “Tengo 47 años y mi mamá tiene 83. Hacemos juntas nueve ejercicios para mantenernos fuertes toda la vida”",
-          "link": "https://www.lanacion.com.ar/lifestyle/cuidado-cuerpo-belleza/kate-nolte-entrenadora-tengo-47-anos-y-mi-mama-tiene-83-hacemos-juntas-nueve-ejercicios-para-nid05112026/",
-          "hora": "2026-11-07T07:26:25-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Cómo reducir la ansiedad en cinco minutos: el ejercicio que recomienda una experta para recuperar la calma",
-          "link": "https://www.lanacion.com.ar/sociedad/como-reducir-la-ansiedad-en-cinco-minutos-el-ejercicio-que-recomienda-una-experta-para-recuperar-la-nid05112026/",
-          "hora": "2026-11-06T18:58:00-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "“Obispo rojo”, en Octubre.ar: cristianismo, marxismo y revolución",
-          "link": "https://www.pagina12.com.ar/2026/11/06/obispo-rojo-en-octubrear-cristianismo-marxismo-y-revolucion/",
-          "hora": "2026-11-06T17:54:31-03:00"
+          "titulo": "Aunque se espera un rebote en el último trimestre, los economistas empeoraron las proyecciones de crecimiento de la actividad para 2026",
+          "link": "https://www.lanacion.com.ar/economia/aunque-se-espera-un-rebote-en-los-ultimos-meses-siguio-bajando-la-estimacion-de-crecimiento-para-nid06112026/",
+          "hora": "2026-11-06T13:46:38-03:00"
         }
       ],
-      "oficiales": [],
+      "oficiales": [
+        {
+          "fuente": "CEPA",
+          "titulo": "Mercado interno y externo del complejo vitivinícola argentino: tercer trimestre 2026",
+          "link": "https://centrocepa.com.ar/documentos/informes/890-mercado-interno-y-externo-del-complejo-vitivinicola-argentino-tercer-trimestre-2026"
+        }
+      ],
       "resumen": null,
       "angulos": []
     },
@@ -1435,61 +1287,15 @@
       "angulos": []
     },
     {
-      "id": "subastaran-en-paris-la-primera-fotografia-conocida-de-bogota",
-      "titulo": "Subastarán en París la primera fotografía conocida de Bogotá, tomada en 1842: el evento será en la casa Christie’s",
+      "id": "pedro-sanchez-le-respondio-a-javier-milei-tras-sus-criticas",
+      "titulo": "Ayuso afirma que Sánchez \"tiene miedo a cambiar Moncloa por Soto del Real\" y avisa: \"Del socialismo se sale\"",
       "categoria": "otros",
       "prioritaria": false,
-      "desde": "2026-11-07T05:56:00-03:00",
+      "desde": "2026-11-07T10:51:51-03:00",
       "calor": 45,
-      "medios": [
-        "Clarín",
-        "Infobae",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Subastarán en París la primera fotografía conocida de Bogotá, tomada en 1842: el evento será en la casa Christie’s",
-          "link": "https://www.infobae.com/colombia/2026/11/07/subastaran-en-paris-la-primera-fotografia-conocida-de-bogota-tomada-en-1842-el-evento-sera-en-la-casa-christies/",
-          "hora": "2026-11-07T12:37:27-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Empleado de patio taller de Transmilenio murió arrollado en Bogotá: conductor del articulado arrancó mientras desmontaba una llanta",
-          "link": "https://www.infobae.com/colombia/2026/11/07/empleado-de-patio-taller-de-transmilenio-murio-arrollado-en-bogota-conductor-del-articulado-arranco-mientras-desmontaba-una-llanta/",
-          "hora": "2026-11-07T12:16:22-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Visita del Papa a la Argentina, EN VIVO: en Paysandú, León XIV habló del mate y pidió transmitir la fe a las futuras generaciones",
-          "link": "https://www.clarin.com/sociedad/visita-papa-argentina-vivo-espera-miles-argentinos-crucen-uruguay-ver-leon-xiv-paysandu_0_CKwJqS7Bjq.html",
-          "hora": "2026-11-07T06:10:22-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Alexander-Alexander: cuatro generaciones y una historia familiar que ayudó a reconstruir los orígenes de la fotografía argentina",
-          "link": "https://tn.com.ar/cultura/2026/11/07/alexander-alexander-cuatro-generaciones-y-una-historia-familiar-que-ayudo-a-reconstruir-los-origenes-de-la-fotografia-argentina/",
-          "hora": "2026-11-07T05:56:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "primeras-replicas-de-la-casa-rosada-contra-bullrich-karina-m-2-2-2",
-      "titulo": "Patricia Bullrich se alinea con la Iglesia y dice que el Senado tratará el proyecto de ley para prevenir la ludopatía",
-      "categoria": "politica",
-      "prioritaria": true,
-      "desde": "2026-11-05T11:59:00-03:00",
-      "calor": 44,
       "medios": [
         "La Nación",
         "Infobae",
-        "Página/12",
         "Ámbito"
       ],
       "en_x": false,
@@ -1498,70 +1304,27 @@
       "notas": [
         {
           "medio": "Infobae",
-          "titulo": "La fractura silenciosa de La Libertad Avanza y sus consecuencias sobre la agenda legislativa del Gobierno",
-          "link": "https://www.infobae.com/politica/2026/11/07/la-fractura-silenciosa-de-la-libertad-avanza-y-sus-consecuencias-sobre-la-agenda-legislativa-del-gobierno/",
-          "hora": "2026-11-07T02:33:05-03:00"
+          "titulo": "Ayuso afirma que Sánchez \"tiene miedo a cambiar Moncloa por Soto del Real\" y avisa: \"Del socialismo se sale\"",
+          "link": "https://www.infobae.com/espana/agencias/2026/11/07/ayuso-afirma-que-sanchez-tiene-miedo-a-cambiar-moncloa-por-soto-del-real-y-avisa-del-socialismo-se-sale/",
+          "hora": "2026-11-07T12:45:38-03:00"
         },
         {
-          "medio": "Página/12",
-          "titulo": "Bullrich descubrió que quiere combatir la ludopatía infantil",
-          "link": "https://www.pagina12.com.ar/2026/11/07/bullrich-descubrio-que-quiere-combatir-la-ludopatia-infantil/",
-          "hora": "2026-11-06T21:26:17-03:00"
+          "medio": "Infobae",
+          "titulo": "Pedro Sánchez vuelve a hablar del presidente de Argentina en la precampaña española: “No vamos a permitir que Milei defina qué es el socialismo”",
+          "link": "https://www.infobae.com/espana/2026/11/07/pedro-sanchez-vuelve-a-hablar-del-presidente-de-argentina-en-la-precampana-espanola-no-vamos-a-permitir-que-milei-defina-que-es-el-socialismo/",
+          "hora": "2026-11-07T12:44:38-03:00"
         },
         {
           "medio": "Ámbito",
-          "titulo": "Patricia Bullrich negó tensiones con el Gobierno por su reunión con senadores de La Libertad Avanza: \"No crucé ningún límite\"",
-          "link": "https://www.ambito.com/politica/patricia-bullrich-nego-tensiones-el-gobierno-su-reunion-senadores-la-libertad-avanza-no-cruce-ningun-limite-n6342514",
-          "hora": "2026-11-06T16:43:00-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Bullrich se desmarca de Milei y dice que impulsará la ley contra la ludopatía",
-          "link": "https://www.pagina12.com.ar/2026/11/06/bullrich-se-desmarca-de-milei-y-dice-que-impulsara-la-ley-contra-la-ludopatia/",
-          "hora": "2026-11-06T16:34:06-03:00"
+          "titulo": "Pedro Sánchez le respondió a Javier Milei tras sus críticas al socialismo: \"Estamos muy orgullosos de ser zurdos\"",
+          "link": "https://www.ambito.com/mundo/pedro-sanchez-le-respondio-javier-milei-sus-criticas-al-socialismo-estamos-muy-orgullosos-ser-zurdos-n6342746",
+          "hora": "2026-11-07T12:22:00-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "Patricia Bullrich se alinea con la Iglesia y dice que el Senado tratará el proyecto de ley para prevenir la ludopatía",
-          "link": "https://www.lanacion.com.ar/politica/patricia-bullrich-se-alinea-con-la-iglesia-y-dice-que-el-senado-tratara-el-proyecto-de-ley-para-nid06112026/",
-          "hora": "2026-11-06T14:03:57-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "flavio-bolsonaro-nego-ayuda-oficial-en-su-salida-de-brasil-y-2",
-      "titulo": "Bitcoins vendidos a escondidas y ahorros en negro: la explicación de Adorni que el fiscal Pollicita aceptó",
-      "categoria": "politica",
-      "prioritaria": true,
-      "desde": "2026-11-05T11:57:06-03:00",
-      "calor": 43,
-      "medios": [
-        "La Nación"
-      ],
-      "en_x": true,
-      "posicion_x": 3,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "Quién es Gerardo Pollicita, el fiscal histórico de Comodoro Py que batalló contra la corrupción y benefició a Adorni",
-          "link": "https://www.lanacion.com.ar/politica/quien-es-gerardo-pollicita-el-fiscal-historico-de-comodoro-py-que-batallo-contra-la-corrupcion-y-nid06112026/",
-          "hora": "2026-11-06T20:46:34-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "El fiscal Pollicita dijo que no hay pruebas para sostener que Adorni se enriqueció en su paso por el Gobierno",
-          "link": "https://www.lanacion.com.ar/politica/el-fiscal-pollicita-dijo-que-no-hay-pruebas-para-sostener-que-adorni-se-enriquecio-en-su-paso-por-el-nid06112026/",
-          "hora": "2026-11-06T14:13:48-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Bitcoins vendidos a escondidas y ahorros en negro: la explicación de Adorni que el fiscal Pollicita aceptó",
-          "link": "https://www.lanacion.com.ar/politica/bitcoins-vendidos-a-escondidas-y-ahorros-en-negro-la-explicacion-de-adorni-que-el-fiscal-pollicita-nid06112026/",
-          "hora": "2026-11-06T13:08:05-03:00"
+          "titulo": "El exchofer de Pedro Sánchez vuelve a exponer la trama de corrupción en el partido del presidente",
+          "link": "https://www.lanacion.com.ar/el-mundo/el-exchofer-de-pedro-sanchez-vuelve-a-exponer-la-trama-de-corrupcion-en-el-partido-del-presidente-nid07112026/",
+          "hora": "2026-11-07T10:51:51-03:00"
         }
       ],
       "oficiales": [],
@@ -1570,37 +1333,37 @@
     },
     {
       "id": "las-empresas-estadounidenses-alertaron-que-la-derrota-de-tru",
-      "titulo": "Sánchez pronostica que la ultraderecha se desmoronará en España como en Brasil y EE.UU.",
+      "titulo": "León XIV habló en el avión camino a Latinoamérica: “Visitar Argentina es un homenaje a Francisco”",
       "categoria": "economia",
       "prioritaria": true,
       "desde": "2026-11-05T18:21:11-03:00",
       "calor": 43,
       "medios": [
+        "Infobae",
         "Clarín",
-        "La Nación",
-        "Infobae"
+        "La Nación"
       ],
       "en_x": false,
       "posicion_x": null,
       "en_google": false,
       "notas": [
         {
-          "medio": "Infobae",
-          "titulo": "Sánchez pronostica que la ultraderecha se desmoronará en España como en Brasil y EE.UU.",
-          "link": "https://www.infobae.com/america/agencias/2026/11/07/sanchez-pronostica-que-la-ultraderecha-se-desmoronara-en-espana-como-en-brasil-y-eeuu/",
-          "hora": "2026-11-07T12:16:46-03:00"
-        },
-        {
           "medio": "La Nación",
           "titulo": "Alfredo Di Costanzo, de la Universidad de Minnesota, y una pregunta incómoda en EE.UU.: “¿Quién producirá los terneros en el futuro?\"",
           "link": "https://www.lanacion.com.ar/economia/campo/alfredo-di-costanzo-de-la-universidad-de-minnesota-y-una-pregunta-incomoda-en-eeuu-quien-producira-nid07112026/",
-          "hora": "2026-11-07T10:12:22-03:00"
+          "hora": "2026-11-07T12:50:46-03:00"
         },
         {
           "medio": "Clarín",
           "titulo": "El papa León XIV habló con los periodistas en el avión: sus definiciones sobre el cáncer, por qué votó en EE.UU. y el caso de un argentino preso en Venezuela",
           "link": "https://www.clarin.com/sociedad/papa-leon-xiv-hablo-periodistas-avion-definiciones-cancer-voto-eeuu-caso-argentino-preso-venezuela_0_PRs44A5qJY.html",
           "hora": "2026-11-06T18:56:51-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "León XIV habló en el avión camino a Latinoamérica: “Visitar Argentina es un homenaje a Francisco”",
+          "link": "https://www.infobae.com/politica/2026/11/06/leon-xiv-hablo-en-el-avion-camino-a-latinoamerica-visitar-argentina-es-un-homenaje-a-francisco/",
+          "hora": "2026-11-06T17:24:04-03:00"
         }
       ],
       "oficiales": [],
@@ -1608,54 +1371,15 @@
       "angulos": []
     },
     {
-      "id": "hay-alerta-amarilla-por-viento-para-este-sabado-7-de-noviemb",
-      "titulo": "Por la visita del Papa León XIV, el Congreso estará paralizado toda la semana y el oficialismo gana tiempo para negociar",
-      "categoria": "politica",
-      "prioritaria": true,
-      "desde": "2026-11-06T09:15:39-03:00",
-      "calor": 43,
-      "medios": [
-        "Clarín",
-        "La Nación",
-        "Ámbito"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Ámbito",
-          "titulo": "Alerta amarilla por lluvias al AMBA: cuándo llegan y cómo estará el tiempo para la visita del papa León XIV",
-          "link": "https://www.ambito.com/informacion-general/vuelven-las-lluvias-al-amba-cuando-llegan-y-como-estara-el-tiempo-la-visita-del-papa-leon-xiv-n6342223",
-          "hora": "2026-11-07T11:08:00-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Hay alerta naranja y amarilla por tormentas y vientos para este sábado 7 de noviembre: las provincias afectadas",
-          "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-y-vientos-para-este-sabado-7-de-noviembre-las-provincias-nid07112026/",
-          "hora": "2026-11-07T08:28:52-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Por la visita del Papa León XIV, el Congreso estará paralizado toda la semana y el oficialismo gana tiempo para negociar",
-          "link": "https://www.clarin.com/politica/visita-papa-leon-xiv-congreso-paralizado-toda-semana-oficialismo-gana-tiempo-negociar_0_Qp0BmgUWPr.html",
-          "hora": "2026-11-07T07:01:10-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "el-pp-critica-que-sanchez-no-vaya-al-funeral-religioso-por-l",
-      "titulo": "El papa León XIV hizo un elogio del mate, los puentes y las palmeras en su misa en Paysandú",
-      "categoria": "social",
-      "prioritaria": true,
+      "id": "el-pp-critica-que-sanchez-no-vaya-al-funeral-religioso-por-l-2-2",
+      "titulo": "León XIV evitó que un expresidente de Uruguay le besara el anillo durante la recepción en Montevideo",
+      "categoria": "otros",
+      "prioritaria": false,
       "desde": "2026-11-06T10:18:00-03:00",
       "calor": 43,
       "medios": [
         "La Nación",
-        "Infobae",
+        "Clarín",
         "TN"
       ],
       "en_x": false,
@@ -1663,100 +1387,22 @@
       "en_google": false,
       "notas": [
         {
-          "medio": "Infobae",
-          "titulo": "Ante 40.000 fieles en Paysandú, León XIV instó a construir puentes para evitar la pobreza, enfrentar la corrupción y defender la educación",
-          "link": "https://www.infobae.com/america/2026/11/07/ante-40000-fieles-en-paysandu-leon-xiv-insto-a-construir-puentes-para-evitar-la-pobreza-enfrentar-la-corrupcion-y-defender-la-educacion/",
-          "hora": "2026-11-07T12:04:26-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "El papa León XIV hizo un elogio del mate, los puentes y las palmeras en su misa en Paysandú",
-          "link": "https://www.lanacion.com.ar/el-mundo/el-papa-leon-xiv-hizo-elogio-del-mate-los-puentes-y-las-palmeras-en-su-misa-en-paysandu-nid07112026/",
-          "hora": "2026-11-07T11:53:41-03:00"
-        },
-        {
           "medio": "TN",
-          "titulo": "Ante miles de fieles, el papa León XIV dio su primera misa en Uruguay: “Es importante construir puentes”",
-          "link": "https://tn.com.ar/sociedad/2026/11/07/viaje-del-papa-leon-xiv-a-la-argentina-en-vivo-cuando-llega-al-pais-las-misas-confirmadas-y-las-ultimas-noticias/",
-          "hora": "2026-11-07T05:51:07-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "san-lorenzo-vs-platense-horario-y-por-donde-pasan-el-partido-2",
-      "titulo": "La búsqueda del nuevo James Bond suma dos candidatos sorpresa: Robert Pattinson y Nicholas Hoult",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-06T11:31:07-03:00",
-      "calor": 43,
-      "medios": [
-        "Clarín",
-        "La Nación",
-        "Infobae"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "La búsqueda del nuevo James Bond suma dos candidatos sorpresa: Robert Pattinson y Nicholas Hoult",
-          "link": "https://www.infobae.com/entretenimiento/2026/11/07/la-busqueda-del-nuevo-james-bond-suma-dos-candidatos-sorpresa-robert-pattinson-y-nicholas-hoult/",
-          "hora": "2026-11-07T11:28:20-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Las cinco frases que delatan una mentalidad pobre, según Robert Kiyosaki",
-          "link": "https://www.lanacion.com.ar/lifestyle/las-cinco-frases-que-delatan-una-mentalidad-pobre-segun-robert-kiyosaki-nid06112026/",
-          "hora": "2026-11-07T07:00:00-03:00"
+          "titulo": "El expresidente uruguayo explicó por qué quiso besarle el anillo al Papa y respondió a las críticas: “Lo hice en calidad de fiel”",
+          "link": "https://tn.com.ar/internacional/2026/11/07/el-expresidente-uruguayo-explico-por-que-quiso-besarle-el-anillo-al-papa-y-respondio-a-las-criticas-lo-hice-en-calidad-de-fiel/",
+          "hora": "2026-11-07T12:33:43-03:00"
         },
         {
           "medio": "Clarín",
-          "titulo": "Nelson Pugliese, candidato a presidente de Vélez: \"Me imagino que Guillermo está siendo tentado por varios clubes, pero quiere continuar y nosotros queremos que continúe\"",
-          "link": "https://www.clarin.com/deportes/nelson-pugliese-candidato-presidente-velez-imagino-guillermo-tentado-varios-clubes-quiere-continuar-queremos-continue_0_8lCOuRN6gM.html",
-          "hora": "2026-11-07T06:01:09-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "el-desgarrador-drama-de-manon-en-la-extraordinaria-interpret",
-      "titulo": "El desgarrador drama de “Manon”, en la extraordinaria interpretación de una pareja que abraza el Ballet Estable",
-      "categoria": "espectaculos",
-      "prioritaria": false,
-      "desde": "2026-11-06T12:49:35-03:00",
-      "calor": 43,
-      "medios": [
-        "La Nación",
-        "Infobae",
-        "Página/12"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Una interpretación contraria permitiría eludir la Constitución: Los argumentos del JNE para frenar reelecciones encubiertas",
-          "link": "https://www.infobae.com/peru/2026/11/07/una-interpretacion-contraria-permitiria-eludir-la-constitucion-los-argumentos-del-jne-para-frenar-reelecciones-encubiertas/",
-          "hora": "2026-11-07T11:47:31-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Víctor Heredia: “La síntesis de una canción es extraordinaria”",
-          "link": "https://www.pagina12.com.ar/2026/11/06/victor-heredia-la-sintesis-de-una-cancion-es-extraordinaria/",
-          "hora": "2026-11-07T00:05:00-03:00"
+          "titulo": "Habló el expresidente de Uruguay que protagonizó un incómodo momento con el papa León XIV: \"Hice lo que tenía que hacer como fiel\"",
+          "link": "https://www.clarin.com/mundo/hablo-expresidente-uruguay-protagonizo-incomodo-momento-papa-leon-xiv-hice-hacer-fiel_0_glH64agkGo.html",
+          "hora": "2026-11-07T12:04:58-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "El desgarrador drama de “Manon”, en la extraordinaria interpretación de una pareja que abraza el Ballet Estable",
-          "link": "https://www.lanacion.com.ar/espectaculos/danza/el-desgarrador-drama-de-manon-en-la-extraordinaria-interpretacion-de-una-pareja-que-abraza-el-ballet-nid06112026/",
-          "hora": "2026-11-06T18:06:20-03:00"
+          "titulo": "León XIV evitó que un expresidente de Uruguay le besara el anillo durante la recepción en Montevideo",
+          "link": "https://www.lanacion.com.ar/el-mundo/leon-xiv-evito-que-un-expresidente-de-uruguay-le-besara-el-anillo-durante-la-recepcion-en-montevideo-nid07112026/",
+          "hora": "2026-11-07T08:54:48-03:00"
         }
       ],
       "oficiales": [],
@@ -1881,14 +1527,14 @@
       "angulos": []
     },
     {
-      "id": "espana-ya-es-la-tercera-gran-economia-de-la-ue-con-los-sueld",
-      "titulo": "La UE \"sigue de cerca\" la situación del líder opositor tanzano Tundu Lissu",
-      "categoria": "politica",
+      "id": "como-reducir-la-ansiedad-en-cinco-minutos-el-ejercicio-que-r",
+      "titulo": "Álvarez de Toledo pide una revolución de la decencia para recuperar las instituciones",
+      "categoria": "social",
       "prioritaria": true,
-      "desde": "2026-11-06T17:47:09-03:00",
+      "desde": "2026-11-06T17:54:31-03:00",
       "calor": 43,
       "medios": [
-        "Clarín",
+        "La Nación",
         "Infobae",
         "Página/12"
       ],
@@ -1898,21 +1544,180 @@
       "notas": [
         {
           "medio": "Infobae",
-          "titulo": "La UE \"sigue de cerca\" la situación del líder opositor tanzano Tundu Lissu",
-          "link": "https://www.infobae.com/america/agencias/2026/11/07/la-ue-sigue-de-cerca-la-situacion-del-lider-opositor-tanzano-tundu-lissu/",
-          "hora": "2026-11-07T11:46:15-03:00"
+          "titulo": "Álvarez de Toledo pide una revolución de la decencia para recuperar las instituciones",
+          "link": "https://www.infobae.com/espana/agencias/2026/11/07/alvarez-de-toledo-pide-una-revolucion-de-la-decencia-para-recuperar-las-instituciones/",
+          "hora": "2026-11-07T12:17:37-03:00"
         },
         {
-          "medio": "Clarín",
-          "titulo": "La derrota de los dueños del algoritmo y el dilema de Milei",
-          "link": "https://www.clarin.com/politica/derrota-duenos-algoritmo-dilema-milei_0_ly1UEjZ0Xi.html",
-          "hora": "2026-11-06T19:19:48-03:00"
+          "medio": "La Nación",
+          "titulo": "Cómo reducir la ansiedad en cinco minutos: el ejercicio que recomienda una experta para recuperar la calma",
+          "link": "https://www.lanacion.com.ar/sociedad/como-reducir-la-ansiedad-en-cinco-minutos-el-ejercicio-que-recomienda-una-experta-para-recuperar-la-nid05112026/",
+          "hora": "2026-11-06T18:58:00-03:00"
         },
         {
           "medio": "Página/12",
-          "titulo": "La UE exige a TikTok cambios radicales en su algoritmo",
-          "link": "https://www.pagina12.com.ar/2026/11/06/la-ue-exige-a-tiktok-cambios-radicales-en-su-algoritmo/",
-          "hora": "2026-11-06T17:47:09-03:00"
+          "titulo": "“Obispo rojo”, en Octubre.ar: cristianismo, marxismo y revolución",
+          "link": "https://www.pagina12.com.ar/2026/11/06/obispo-rojo-en-octubrear-cristianismo-marxismo-y-revolucion/",
+          "hora": "2026-11-06T17:54:31-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "en-vivo-borussia-dortmund-vs-elversberg-0-0-por-la-fecha-9-d",
+      "titulo": "En vivo - Borussia Dortmund vs. Elversberg: 2 - 1, por la fecha 9 de la Bundesliga de Alemania",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-11-07T02:37:20-03:00",
+      "calor": 43,
+      "medios": [
+        "Infobae",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "TN",
+          "titulo": "En vivo - Borussia Dortmund vs. Elversberg: 2 - 1, por la fecha 9 de la Bundesliga de Alemania",
+          "link": "https://tn.com.ar/deportes/futbol/2026/11/07/borussia-dortmund-vs-elversberg-en-vivo-por-la-fecha-9-de-la-bundesliga-de-alemania-hora-donde-ver-y-formaciones/",
+          "hora": "2026-11-07T13:12:29-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "En vivo - Mainz vs. Bayern Múnich: 0 - 2, por la fecha 9 de la Bundesliga de Alemania",
+          "link": "https://tn.com.ar/deportes/futbol/2026/11/07/mainz-vs-bayern-munich-en-vivo-por-la-fecha-9-de-la-bundesliga-de-alemania-hora-donde-ver-y-formaciones/",
+          "hora": "2026-11-07T13:11:28-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "En vivo - Paderborn vs. Eintracht Frankfurt: 2 - 1, por la fecha 9 de la Bundesliga de Alemania",
+          "link": "https://tn.com.ar/deportes/futbol/2026/11/07/paderborn-vs-eintracht-frankfurt-en-vivo-por-la-fecha-9-de-la-bundesliga-de-alemania-hora-donde-ver-y-formaciones/",
+          "hora": "2026-11-07T13:10:28-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "En vivo - Leipzig vs. Augsburg: 5 - 1, por la fecha 9 de la Bundesliga de Alemania",
+          "link": "https://tn.com.ar/deportes/futbol/2026/11/07/leipzig-vs-augsburg-en-vivo-por-la-fecha-9-de-la-bundesliga-de-alemania-hora-donde-ver-y-formaciones/",
+          "hora": "2026-11-07T13:08:32-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Stuttgart vs Werder Bremen en vivo por la fecha 9 de la Bundesliga de Alemania: hora, dónde ver y formaciones",
+          "link": "https://tn.com.ar/deportes/futbol/2026/11/07/stuttgart-vs-werder-bremen-en-vivo-por-la-fecha-9-de-la-bundesliga-de-alemania-hora-donde-ver-y-formaciones/",
+          "hora": "2026-11-07T12:30:28-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Detalles exclusivos de la iniciativa del Borussia Dortmund para desalentar los celulares en el estadio: “Aún amamos el juego”",
+          "link": "https://www.infobae.com/deportes/2026/11/07/detalles-exclusivos-de-la-iniciativa-del-borussia-dortmund-para-desalentar-los-celulares-en-el-estadio-aun-amamos-el-juego/",
+          "hora": "2026-11-07T02:37:20-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "de-abel-pintos-a-pampita-asi-se-preparan-los-famosos-para-pa",
+      "titulo": "De Abel Pintos a Pampita: así se preparan los famosos para participar de la visita de León XIV a la Argentina",
+      "categoria": "espectaculos",
+      "prioritaria": false,
+      "desde": "2026-11-07T07:08:03-03:00",
+      "calor": 43,
+      "medios": [
+        "La Nación",
+        "Infobae",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Arrestan a Kiko en República Dominicana por ofrecer premios y bendiciones a cambio de bienes",
+          "link": "https://www.infobae.com/republica-dominicana/2026/11/07/arrestan-a-kiko-en-republica-dominicana-por-ofrecer-premios-y-bendiciones-a-cambio-de-bienes/",
+          "hora": "2026-11-07T13:03:29-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "De Abel Pintos a Pampita: así se preparan los famosos para participar de la visita de León XIV a la Argentina",
+          "link": "https://www.lanacion.com.ar/espectaculos/de-pampita-a-abel-pintos-asi-se-preparan-los-famosos-para-participar-de-las-misas-de-leon-xiv-en-la-nid06112026/",
+          "hora": "2026-11-07T07:51:52-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Se conoció el line up y horarios de “República Folklore”: encabezan el Chaqueño Palavecino y Abel Pintos",
+          "link": "https://tn.com.ar/musica/noticias/2026/11/07/se-conocio-el-line-up-y-horarios-de-republica-folklore-encabezan-el-chaqueno-palavecino-y-abel-pintos/",
+          "hora": "2026-11-07T07:08:03-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "lo-encontraron-en-una-cueva-decia-tener-188-anos-y-ahora-rev",
+      "titulo": "Lo encontraron en una cueva, decía tener 188 años y ahora revelaron su identidad: “Hasta la muerte me abandonó”",
+      "categoria": "otros",
+      "prioritaria": false,
+      "desde": "2026-11-07T07:35:22-03:00",
+      "calor": 43,
+      "medios": [
+        "La Nación",
+        "Infobae",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Miami se prepara para nuevas inundaciones por las mareas del rey",
+          "link": "https://www.infobae.com/estados-unidos/2026/11/07/miami-se-prepara-para-nuevas-inundaciones-por-las-mareas-del-rey/",
+          "hora": "2026-11-07T12:51:44-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Tuvo estación de tren, escuela y 1500 habitantes: una inundación aceleró su abandono y hoy es un pueblo fantasma en Buenos Aires",
+          "link": "https://tn.com.ar/turismo/2026/11/07/tuvo-estacion-de-tren-escuela-y-1500-habitantes-una-inundacion-acelero-su-abandono-y-hoy-es-un-pueblo-fantasma-en-buenos-aires/",
+          "hora": "2026-11-07T08:19:59-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Lo encontraron en una cueva, decía tener 188 años y ahora revelaron su identidad: “Hasta la muerte me abandonó”",
+          "link": "https://www.lanacion.com.ar/lifestyle/lo-encontraron-en-una-cueva-decia-tener-188-anos-y-ahora-revelaron-su-identidad-hasta-la-muerte-me-nid05112026/",
+          "hora": "2026-11-07T07:35:22-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "colapinto-quedo-en-el-puesto-14-en-el-ultimo-entrenamiento-a",
+      "titulo": "Colapinto quedó en el puesto 14 en el último entrenamiento, antes de la clasificación para Interlagos",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-11-07T12:59:29-03:00",
+      "calor": 43,
+      "medios": [
+        "La Nación"
+      ],
+      "en_x": true,
+      "posicion_x": 29,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "Colapinto quedó en el puesto 14 en el último entrenamiento, antes de la clasificación para Interlagos",
+          "link": "https://www.lanacion.com.ar/deportes/colapinto-quedo-en-el-puesto-14-en-el-ultimo-entrenamiento-antes-de-la-clasificacion-para-interlagos-nid07112026/",
+          "hora": "2026-11-07T12:59:29-03:00"
         }
       ],
       "oficiales": [],
@@ -1952,90 +1757,6 @@
           "titulo": "Prisión preventiva y embargo millonario para Ariel Vallejo, el financista de la AFA",
           "link": "https://www.lanacion.com.ar/politica/la-justicia-proceso-al-financista-de-la-afa-y-lo-embargo-por-40000-millones-nid06112026/",
           "hora": "2026-11-06T19:38:48-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "citan-a-indagatoria-al-extitular-de-la-uom-y-a-la-vecina-de",
-      "titulo": "Citan a indagatoria al extitular de la UOM y a la “vecina” de Cristina Kirchner por una presunta defraudación millonaria",
-      "categoria": "politica",
-      "prioritaria": true,
-      "desde": "2026-11-06T14:22:57-03:00",
-      "calor": 42,
-      "medios": [
-        "La Nación",
-        "Infobae",
-        "Página/12"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "Francisco Mastelli, aquel chico que era mejor que Vilas y su convicción: “La única líder positiva que tuvimos fue Gaby Sabatini”",
-          "link": "https://www.lanacion.com.ar/deportes/tenis/francisco-mastelli-aquel-chico-que-era-mejor-que-vilas-y-su-conviccion-la-unica-lider-positiva-que-nid07112026/",
-          "hora": "2026-11-07T07:00:00-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Cristina Kirchner sigue liderando la imagen positiva",
-          "link": "https://www.pagina12.com.ar/2026/11/07/cristina-kirchner-sigue-liderando-la-imagen-positiva/",
-          "hora": "2026-11-06T21:50:05-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "León XIV habló en el avión camino a Latinoamérica: “Visitar Argentina es un homenaje a Francisco”",
-          "link": "https://www.infobae.com/politica/2026/11/06/leon-xiv-hablo-en-el-avion-camino-a-latinoamerica-visitar-argentina-es-un-homenaje-a-francisco/",
-          "hora": "2026-11-06T17:24:04-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Citan a indagatoria al extitular de la UOM y a la “vecina” de Cristina Kirchner por una presunta defraudación millonaria",
-          "link": "https://www.lanacion.com.ar/politica/citan-a-indagatoria-al-extitular-de-la-uom-y-a-la-vecina-de-cristina-kirchner-por-una-presunta-nid06112026/",
-          "hora": "2026-11-06T14:22:57-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "violencia-en-un-colegio-de-san-fernando-una-alumna-insulto-y",
-      "titulo": "Violencia en un colegio de San Fernando: una alumna insultó y empujó a una docente en clase",
-      "categoria": "social",
-      "prioritaria": true,
-      "desde": "2026-11-06T14:52:03-03:00",
-      "calor": 42,
-      "medios": [
-        "La Nación",
-        "Infobae",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "TN",
-          "titulo": "Video: una alumna insultó y empujó a una profesora en plena clase en una escuela de San Fernando",
-          "link": "https://tn.com.ar/videos/sociedad/2026/11/07/video-una-alumna-insulto-y-empujo-a-una-profesora-en-plena-clase-en-una-escuela-de-san-fernando/",
-          "hora": "2026-11-07T07:54:40-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Violencia en un colegio de San Fernando: una alumna insultó y empujó a una docente en clase",
-          "link": "https://www.infobae.com/sociedad/policiales/2026/11/06/violencia-en-un-colegio-de-san-fernando-una-alumna-insulto-y-empujo-a-una-docente-en-clase/",
-          "hora": "2026-11-06T15:27:54-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "“¿Qué te hacés mi mamá?”: se viralizó el video de una alumna que insultó y empujó a una profesora",
-          "link": "https://www.lanacion.com.ar/sociedad/que-te-haces-mi-mama-se-viralizo-el-video-de-una-alumna-que-insulto-y-empujo-a-una-profesora-nid06112026/",
-          "hora": "2026-11-06T14:52:03-03:00"
         }
       ],
       "oficiales": [],
@@ -2093,11 +1814,11 @@
       "angulos": []
     },
     {
-      "id": "una-mujer-se-cayo-en-la-calle-por-una-baldosa-faltante-y-el",
-      "titulo": "Entra en vigor una regla del DHS y el Uscis elimina la actualización automática del permiso de trabajo EAD de inmigrantes",
+      "id": "celine-dion-mando-construir-una-mansion-de-1365-metros-cuadr",
+      "titulo": "Céline Dion mandó construir una mansión de 1365 metros cuadrados en Florida y ahora se vendió por US$12,5 millones",
       "categoria": "otros",
       "prioritaria": false,
-      "desde": "2026-11-06T20:18:34-03:00",
+      "desde": "2026-11-06T13:19:37-03:00",
       "calor": 41,
       "medios": [
         "Infobae",
@@ -2109,42 +1830,100 @@
       "notas": [
         {
           "medio": "Infobae",
-          "titulo": "Estados Unidos cambia las reglas para renovar permisos de trabajo y miles de inmigrantes podrían enfrentar interrupciones laborales",
-          "link": "https://www.infobae.com/estados-unidos/2026/11/07/estados-unidos-cambia-las-reglas-para-renovar-permisos-de-trabajo-y-miles-de-inmigrantes-podrian-enfrentar-interrupciones-laborales/",
-          "hora": "2026-11-07T12:17:49-03:00"
+          "titulo": "Condenaron en Florida a seis integrantes de una red que cobró hasta USD 40.000 para traficar migrantes cubanos y falsificar solicitudes de asilo",
+          "link": "https://www.infobae.com/estados-unidos/2026/11/07/condenaron-en-florida-a-seis-integrantes-de-una-red-que-cobro-hasta-usd-40000-para-traficar-migrantes-cubanos-y-falsificar-solicitudes-de-asilo/",
+          "hora": "2026-11-07T12:56:14-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Rybakina, gran protagonista de unas Finales de la WTA de vuelta en Estados Unidos",
-          "link": "https://www.infobae.com/espana/agencias/2026/11/07/rybakina-gran-protagonista-de-unas-finales-de-la-wta-de-vuelta-en-estados-unidos/",
-          "hora": "2026-11-07T12:16:13-03:00"
+          "titulo": "Hallan a seis migrantes en tres kayaks que cruzaban las aguas del Estrecho",
+          "link": "https://www.infobae.com/espana/agencias/2026/11/07/hallan-a-seis-migrantes-en-tres-kayaks-que-cruzaban-las-aguas-del-estrecho/",
+          "hora": "2026-11-07T12:47:56-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "Entra en vigor una regla del DHS y el Uscis elimina la actualización automática del permiso de trabajo EAD de inmigrantes",
-          "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/entra-en-vigor-una-regla-del-dhs-y-el-uscis-elimina-la-actualizacion-automatica-del-permiso-de-nid05112026/",
-          "hora": "2026-11-07T12:07:25-03:00"
+          "titulo": "Céline Dion mandó construir una mansión de 1365 metros cuadrados en Florida y ahora se vendió por US$12,5 millones",
+          "link": "https://www.lanacion.com.ar/estados-unidos/famosos/celine-dion-mando-construir-una-mansion-de-1365-metros-cuadrados-en-florida-y-ahora-se-vendio-por-nid05112026/",
+          "hora": "2026-11-07T12:09:28-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "Las reglas son claras: el Congreso puede investigar al ICE para intentar frenar las redadas contra inmigrantes",
-          "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/las-reglas-son-claras-el-congreso-puede-investigar-al-ice-para-intentar-frenar-las-redadas-contra-nid05112026/",
-          "hora": "2026-11-07T12:02:08-03:00"
+          "titulo": "¿Ganó Mario Díaz-Balart? Las claves para entender por qué el sábado 7 de noviembre es decisivo para el político en Florida",
+          "link": "https://www.lanacion.com.ar/estados-unidos/florida/gano-mario-diaz-balart-las-claves-para-entender-por-que-el-sabado-7-de-noviembre-es-decisivo-para-el-nid07112026/",
+          "hora": "2026-11-07T03:32:00-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Los proyectos en el Congreso de Estados Unidos que podrían presionar sobre una eventual asistencia financiera de Trump a Milei",
-          "link": "https://www.infobae.com/politica/2026/11/07/los-proyectos-en-el-congreso-de-estados-unidos-que-podrian-presionar-sobre-una-eventual-asistencia-financiera-de-trump-a-milei/",
-          "hora": "2026-11-07T07:45:07-03:00"
+          "titulo": "Alejandro Díaz, CEO de AmCham, habló de las inversiones de EEUU en Argentina: “Van a depender del recorrido que tenga el país”",
+          "link": "https://www.infobae.com/economia/2026/11/06/alejandro-diaz-ceo-de-amcham-hablo-de-las-inversiones-de-eeuu-en-argentina-van-a-depender-del-recorrido-que-tenga-el-pais/",
+          "hora": "2026-11-06T13:19:37-03:00"
         }
       ],
-      "oficiales": [
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "violencia-en-un-colegio-de-san-fernando-una-alumna-insulto-y",
+      "titulo": "Violencia en un colegio de San Fernando: una alumna insultó y empujó a una docente en clase",
+      "categoria": "social",
+      "prioritaria": true,
+      "desde": "2026-11-06T14:52:03-03:00",
+      "calor": 41,
+      "medios": [
+        "La Nación",
+        "Infobae",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
         {
-          "fuente": "CEPA",
-          "titulo": "Elecciones en Estados Unidos: efectos en el mundo y en la Argentina: guerra, tasas, aranceles y Argentina",
-          "link": "https://centrocepa.com.ar/documentos/informes/885-elecciones-en-estados-unidos-efectos-en-el-mundo-y-en-la-argentina-guerra-tasas-aranceles-y-argentina"
+          "medio": "TN",
+          "titulo": "Video: una alumna insultó y empujó a una profesora en plena clase en una escuela de San Fernando",
+          "link": "https://tn.com.ar/videos/sociedad/2026/11/07/video-una-alumna-insulto-y-empujo-a-una-profesora-en-plena-clase-en-una-escuela-de-san-fernando/",
+          "hora": "2026-11-07T07:54:40-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Violencia en un colegio de San Fernando: una alumna insultó y empujó a una docente en clase",
+          "link": "https://www.infobae.com/sociedad/policiales/2026/11/06/violencia-en-un-colegio-de-san-fernando-una-alumna-insulto-y-empujo-a-una-docente-en-clase/",
+          "hora": "2026-11-06T15:27:54-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "“¿Qué te hacés mi mamá?”: se viralizó el video de una alumna que insultó y empujó a una profesora",
+          "link": "https://www.lanacion.com.ar/sociedad/que-te-haces-mi-mama-se-viralizo-el-video-de-una-alumna-que-insulto-y-empujo-a-una-profesora-nid06112026/",
+          "hora": "2026-11-06T14:52:03-03:00"
         }
       ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "el-papa-leon-xiv-llego-a-uruguay-para-iniciar-su-gira-latino",
+      "titulo": "El papa León XIV llegó a Uruguay para iniciar su gira latinoamericana",
+      "categoria": "politica",
+      "prioritaria": true,
+      "desde": "2026-11-06T21:21:34-03:00",
+      "calor": 41,
+      "medios": [
+        "Infobae"
+      ],
+      "en_x": true,
+      "posicion_x": 1,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "El papa León XIV llegó a Uruguay para iniciar su gira latinoamericana",
+          "link": "https://www.infobae.com/politica/2026/11/06/el-viaje-del-papa-leon-xiv-a-la-argentina-en-vivo-cuando-llega-actividades-confirmadas-cortes-de-calle-y-ultimas-noticias-hoy-6-de-noviembre/",
+          "hora": "2026-11-06T21:21:34-03:00"
+        }
+      ],
+      "oficiales": [],
       "resumen": null,
       "angulos": []
     },
@@ -2174,87 +1953,24 @@
       "angulos": []
     },
     {
-      "id": "un-ex-juez-de-la-corte-suprema-bonaerense-se-metio-con-su-au",
-      "titulo": "Un ex juez de la Corte Suprema bonaerense se metió con su auto a un negocio y atropelló a cinco mujeres",
-      "categoria": "social",
-      "prioritaria": true,
-      "desde": "2026-11-06T20:31:25-03:00",
-      "calor": 40,
-      "medios": [
-        "Infobae",
-        "Ámbito"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Francisco Santos afirmó que Álvaro Uribe es el “Messi de la política” y defendió su influencia sobre De la Espriella: \"Si Abelardo escuchara más...\"",
-          "link": "https://www.infobae.com/colombia/2026/11/07/francisco-santos-afirmo-que-alvaro-uribe-es-el-messi-de-la-politica-y-defendio-su-influencia-sobre-de-la-espriella-si-abelardo-escuchara-mas/",
-          "hora": "2026-11-07T12:12:16-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Corte Suprema cerró la puerta a solicitud de Santiago Uribe Vélez, hermano del expresidente Álvaro Uribe, contra su condena por paramilitarismo en el caso de Los 12 Apóstoles",
-          "link": "https://www.infobae.com/colombia/2026/11/07/corte-suprema-cerro-la-puerta-a-solicitud-de-santiago-uribe-velez-hermano-del-expresidente-alvaro-uribe-contra-su-condena-por-paramilitarismo-en-el-caso-de-los-12-apostoles/",
-          "hora": "2026-11-07T12:02:49-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Fallos laborales: qué cambia para empresas y trabajadores tras la decisión de la Corte Suprema",
-          "link": "https://www.ambito.com/opiniones/fallos-laborales-que-cambia-empresas-y-trabajadores-la-decision-la-corte-suprema-n6342620",
-          "hora": "2026-11-07T00:00:00-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Un ex juez de la Corte Suprema bonaerense se metió con su auto a un negocio y atropelló a cinco mujeres",
-          "link": "https://www.infobae.com/sociedad/2026/11/06/un-ex-juez-de-la-corte-suprema-bonaerense-se-metio-con-su-auto-a-un-negocio-y-atropello-a-cinco-mujeres/",
-          "hora": "2026-11-06T20:31:25-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "sarmiento-cayo-con-tigre-y-no-pudo-asegurar-su-clasificacion",
-      "titulo": "Sarmiento cayó con Tigre y no pudo asegurar su clasificación a los octavos de final del Torneo Clausura",
+      "id": "sarabia-introduce-cinco-cambios-en-el-espanyol-y-el-deportiv",
+      "titulo": "En vivo - Espanyol vs. Deportivo: 0 - 0, por la fecha 12 de La Liga de España",
       "categoria": "deportes",
       "prioritaria": false,
-      "desde": "2026-11-07T00:25:02-03:00",
-      "calor": 40,
+      "desde": "2026-11-07T12:01:01-03:00",
+      "calor": 41,
       "medios": [
-        "Infobae",
-        "La Nación"
+        "TN"
       ],
       "en_x": false,
       "posicion_x": null,
-      "en_google": false,
+      "en_google": true,
       "notas": [
         {
-          "medio": "Infobae",
-          "titulo": "Domingo Dianderas vs Bella Esperanza: ¿cuándo juegan por los octavos de final ida de la Copa Perú?",
-          "link": "https://www.infobae.com/peru/deportes/2026/11/07/domingo-dianderas-vs-bella-esperanza-cuando-juega-por-los-octavos-de-final-ida-de-la-copa-peru/",
-          "hora": "2026-11-07T12:11:58-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Tigre volvió a ganar de local cuando Sarmiento hizo todo para que ocurriese: penal errado y dos rojas",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/tigre-volvio-a-ganar-de-local-cuando-sarmiento-hizo-todo-para-que-ocurriese-penal-errado-y-dos-rojas-nid07112026/",
-          "hora": "2026-11-07T00:42:59-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "El simulador del Clausura: así está la clasificación y cómo quedan los cruces de octavos de final",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/el-simulador-del-clausura-asi-esta-la-clasificacion-y-como-quedan-los-cruces-de-octavos-de-final-nid06112026/",
-          "hora": "2026-11-07T00:34:51-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Sarmiento cayó con Tigre y no pudo asegurar su clasificación a los octavos de final del Torneo Clausura",
-          "link": "https://www.infobae.com/deportes/2026/11/06/sarmiento-visita-a-tigre-en-un-duelo-clave-para-asegurar-la-clasificacion-a-los-octavos-del-torneo-clausura-hora-tv-y-formaciones/",
-          "hora": "2026-11-07T00:25:02-03:00"
+          "medio": "TN",
+          "titulo": "En vivo - Espanyol vs. Deportivo: 0 - 0, por la fecha 12 de La Liga de España",
+          "link": "https://tn.com.ar/deportes/futbol/2026/11/07/espanyol-vs-deportivo-en-vivo-por-la-fecha-12-de-la-liga-de-espana-hora-donde-ver-y-formaciones/",
+          "hora": "2026-11-07T13:06:30-03:00"
         }
       ],
       "oficiales": [],
@@ -2262,58 +1978,102 @@
       "angulos": []
     },
     {
-      "id": "colau-promete-que-frente-amplio-expropiara-a-los-fondos-buit",
-      "titulo": "Colau promete que Frente Amplio expropiará a los \"fondos buitre\" de vivienda",
-      "categoria": "otros",
+      "id": "formaciones-de-los-pumas-vs-irlanda-por-el-nations-champions",
+      "titulo": "Los Pumas sufrieron una dura derrota ante Irlanda por 42-12 en Dublín por el Nations Championship",
+      "categoria": "deportes",
       "prioritaria": false,
-      "desde": "2026-11-07T11:46:59-03:00",
+      "desde": "2026-11-05T19:13:54-03:00",
       "calor": 40,
-      "medios": [
-        "Infobae",
-        "La Nación"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "Confirman fallo a favor de Mamdani por el impuesto a viviendas de lujo en Nueva York",
-          "link": "https://www.lanacion.com.ar/estados-unidos/nueva-york/confirman-fallo-a-favor-de-mamdani-por-el-impuesto-a-viviendas-de-lujo-en-nueva-york-nid06112026/",
-          "hora": "2026-11-07T12:11:13-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Emilio Delgado (Frente Amplio) receta una \"motosierra\" fiscal \"para los de arriba\"",
-          "link": "https://www.infobae.com/espana/agencias/2026/11/07/emilio-delgado-frente-amplio-receta-una-motosierra-fiscal-para-los-de-arriba/",
-          "hora": "2026-11-07T12:01:53-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Tras el anuncio de Mamdani en Nueva York: cuáles son los requisitos para aplicar el 40% más en el SNAP desde 2027",
-          "link": "https://www.lanacion.com.ar/estados-unidos/nueva-york/tras-el-anuncio-de-mamdani-en-nueva-york-cuales-son-los-requisitos-para-aplicar-el-40-mas-en-el-snap-nid06112026/",
-          "hora": "2026-11-07T12:00:43-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Colau promete que Frente Amplio expropiará a los \"fondos buitre\" de vivienda",
-          "link": "https://www.infobae.com/espana/agencias/2026/11/07/colau-promete-que-frente-amplio-expropiara-a-los-fondos-buitre-de-vivienda/",
-          "hora": "2026-11-07T11:46:59-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "luis-caputo-volvio-a-vincular-la-suba-del-riesgo-pais-a-las",
-      "titulo": "Luis Caputo y Martín Llaryora acordaron compensar deudas por $143.000 millones",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-11-05T18:05:00-03:00",
-      "calor": 39,
       "medios": [
         "La Nación",
+        "Infobae"
+      ],
+      "en_x": true,
+      "posicion_x": 40,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Los Pumas perdieron 42-12 con Irlanda en Dublín por el Nations Championship",
+          "link": "https://www.infobae.com/deportes/2026/11/06/los-pumas-enfrentaran-a-irlanda-por-el-nations-championship-hora-tv-y-formaciones/",
+          "hora": "2026-11-06T21:56:28-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Durísima derrota ante Irlanda: una caída que cala hondo en la cohesión de los Pumas",
+          "link": "https://www.lanacion.com.ar/deportes/rugby/durisima-derrota-ante-irlanda-una-derrota-que-cala-hondo-en-la-cohesion-de-los-pumas-nid06112026/",
+          "hora": "2026-11-06T21:20:05-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Los Pumas sufrieron una dura derrota ante Irlanda por 42-12 en Dublín por el Nations Championship",
+          "link": "https://www.lanacion.com.ar/deportes/rugby/irlanda-vs-los-pumas-en-vivo-nid06112026/",
+          "hora": "2026-11-06T19:50:46-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "En qué canal pasan los Pumas vs. Irlanda hoy, por el Nations Championship 2026",
+          "link": "https://www.lanacion.com.ar/deportes/rugby/en-que-canal-pasan-los-pumas-vs-irlanda-hoy-por-el-nations-championship-2026-nid06112026/",
+          "hora": "2026-11-06T13:20:57-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "juicio-a-la-toretto-la-defensa-desistio-de-los-ultimos-testi",
+      "titulo": "Juicio a “La Toretto”: la defensa desistió de los últimos testigos y el tribunal fijó fecha para los alegatos",
+      "categoria": "social",
+      "prioritaria": true,
+      "desde": "2026-11-06T13:28:37-03:00",
+      "calor": 40,
+      "medios": [
+        "La Nación",
+        "Infobae"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Marius Borg apela ante el Tribunal Supremo su arresto domiciliario en Skaugum y justifica su positivo en alcohol con un “zumo fermentado”",
+          "link": "https://www.infobae.com/espana/2026/11/07/marius-borg-apela-ante-el-tribunal-supremo-su-arresto-domiciliario-en-skaugum-y-justifica-su-positivo-en-alcohol-con-un-zumo-fermentado/",
+          "hora": "2026-11-07T12:24:29-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Video: el recorrido de “La Toretto” antes del choque fatal en La Plata",
+          "link": "https://www.infobae.com/judiciales/2026/11/07/video-el-recorrido-de-la-toretto-antes-del-choque-fatal-en-la-plata/",
+          "hora": "2026-11-07T10:36:00-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Juicio a “La Toretto”: la defensa desistió de los últimos testigos y el tribunal fijó fecha para los alegatos",
+          "link": "https://www.infobae.com/sociedad/policiales/2026/11/06/juicio-a-la-toretto-la-defensa-desistio-de-los-ultimos-testigos-y-el-tribunal-fijo-fecha-para-los-alegatos/",
+          "hora": "2026-11-06T20:36:07-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Malvinas: el Gobierno envía la misión para las audiencias ante el Tribunal del Mar y ya baraja los escenarios posibles",
+          "link": "https://www.lanacion.com.ar/politica/malvinas-el-gobierno-envia-la-mision-para-las-audiencias-ante-el-tribunal-del-mar-y-ya-baraja-los-nid06112026/",
+          "hora": "2026-11-06T13:28:37-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "adepa-da-la-bienvenida-al-papa-leon-xiv-y-destaca-su-rol-fre",
+      "titulo": "ADEPA da la bienvenida al Papa León XIV y destaca su rol frente al avance de la inteligencia artificial",
+      "categoria": "politica",
+      "prioritaria": true,
+      "desde": "2026-11-06T15:58:45-03:00",
+      "calor": 40,
+      "medios": [
+        "Clarín",
         "Ámbito"
       ],
       "en_x": false,
@@ -2321,25 +2081,125 @@
       "en_google": false,
       "notas": [
         {
-          "medio": "La Nación",
-          "titulo": "La CAME le pidió a Caputo modificar las condiciones del plan de facilidades de pago de ARCA",
-          "link": "https://www.lanacion.com.ar/economia/la-came-le-pidio-a-caputo-modificar-las-condiciones-del-plan-de-facilidades-de-pago-de-arca-nid07112026/",
-          "hora": "2026-11-07T11:18:16-03:00"
-        },
-        {
           "medio": "Ámbito",
-          "titulo": "Motosierra: Luis Caputo profundizó el ajuste y recortó casi 10% el gasto público en octubre",
-          "link": "https://www.ambito.com/economia/motosierra-luis-caputo-profundizo-el-ajuste-y-recorto-casi-10-el-gasto-publico-octubre-n6342474",
-          "hora": "2026-11-07T07:00:00-03:00"
+          "titulo": "ADEPA dio la bienvenida al papa León XIV y pidió defender la dignidad humana ante el avance de la IA",
+          "link": "https://www.ambito.com/informacion-general/adepa-dio-la-bienvenida-al-papa-leon-xiv-y-pidio-defender-la-dignidad-humana-el-avance-la-ia-n6341681",
+          "hora": "2026-11-07T11:09:00-03:00"
         },
         {
-          "medio": "La Nación",
-          "titulo": "Luis Caputo y Martín Llaryora acordaron compensar deudas por $143.000 millones",
-          "link": "https://www.lanacion.com.ar/politica/luis-caputo-y-martin-llaryora-acordaron-compensar-deudas-por-143000-millones-nid06112026/",
-          "hora": "2026-11-06T16:01:49-03:00"
+          "medio": "Clarín",
+          "titulo": "Dólares para inteligencia artificial: la dueña de ChatGPT consiguió US$ 11.000 millones de financiamiento y alcanza un valor de US$ 1,25 billones",
+          "link": "https://www.clarin.com/economia/dolares-inteligencia-artificial-duena-chatgpt-consiguio-us-11000-millones-financiamiento-alcanza-valor-us-125-billones_0_FkvD9nqRAz.html",
+          "hora": "2026-11-07T11:07:35-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "ADEPA expresó su preocupación y repudio por las acciones de la AFA contra distintos medios de comunicación",
+          "link": "https://www.clarin.com/politica/adepa-expreso-preocupacion-repudio-acciones-afa-distintos-medios-comunicacion_0_mnoHPkP8Bo.html",
+          "hora": "2026-11-06T16:39:32-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "ADEPA da la bienvenida al Papa León XIV y destaca su rol frente al avance de la inteligencia artificial",
+          "link": "https://www.clarin.com/politica/adepa-da-bienvenida-papa-leon-xiv-destaca-rol-frente-avance-inteligencia-artificial_0_DV315jwynL.html",
+          "hora": "2026-11-06T15:58:45-03:00"
         }
       ],
       "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "daniel-lopez-rosetti-medico-sobre-el-ritmo-de-vida-actual-es",
+      "titulo": "Daniel López Rosetti, médico, sobre el ritmo de vida actual: “Estamos a velocidad digital y somos analógicos”",
+      "categoria": "social",
+      "prioritaria": true,
+      "desde": "2026-11-06T18:49:00-03:00",
+      "calor": 40,
+      "medios": [
+        "La Nación",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "TN",
+          "titulo": "Fue a patinar sobre hielo en un shopping, se fracturó un tobillo y la Justicia ordenó indemnizarla con $21.500.000",
+          "link": "https://tn.com.ar/policiales/2026/11/07/fue-a-patinar-sobre-hielo-en-un-shopping-se-fracturo-un-tobillo-y-la-justicia-ordeno-indemnizarla-con-21500000/",
+          "hora": "2026-11-07T13:10:43-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Tenía humedad en el dormitorio por una parrilla del vecino en Vicente López y la Justicia ordenó indemnizarla con $11 millones",
+          "link": "https://tn.com.ar/policiales/2026/11/07/tenia-humedad-en-el-dormitorio-por-una-parrilla-del-vecino-en-vicente-lopez-y-la-justicia-ordeno-indemnizarla-con-11-millones/",
+          "hora": "2026-11-07T09:44:27-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Daniel López Rosetti, médico: “La resiliencia no es cicatrizar”",
+          "link": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-medico-la-resiliencia-no-es-cicatrizar-nid05112026/",
+          "hora": "2026-11-06T19:47:00-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Daniel López Rosetti, médico, sobre el ritmo de vida actual: “Estamos a velocidad digital y somos analógicos”",
+          "link": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-medico-sobre-el-ritmo-de-vida-actual-estamos-a-velocidad-digital-y-somos-nid04112026/",
+          "hora": "2026-11-06T18:49:00-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "una-mujer-se-cayo-en-la-calle-por-una-baldosa-faltante-y-el",
+      "titulo": "Entra en vigor una regla del DHS y el Uscis elimina la actualización automática del permiso de trabajo EAD de inmigrantes",
+      "categoria": "otros",
+      "prioritaria": false,
+      "desde": "2026-11-06T20:18:34-03:00",
+      "calor": 40,
+      "medios": [
+        "Infobae",
+        "La Nación"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Estados Unidos cambia las reglas para renovar permisos de trabajo y miles de inmigrantes podrían enfrentar interrupciones laborales",
+          "link": "https://www.infobae.com/estados-unidos/2026/11/07/estados-unidos-cambia-las-reglas-para-renovar-permisos-de-trabajo-y-miles-de-inmigrantes-podrian-enfrentar-interrupciones-laborales/",
+          "hora": "2026-11-07T12:17:49-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Entra en vigor una regla del DHS y el Uscis elimina la actualización automática del permiso de trabajo EAD de inmigrantes",
+          "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/entra-en-vigor-una-regla-del-dhs-y-el-uscis-elimina-la-actualizacion-automatica-del-permiso-de-nid05112026/",
+          "hora": "2026-11-07T12:07:25-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Las reglas son claras: el Congreso puede investigar al ICE para intentar frenar las redadas contra inmigrantes",
+          "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/las-reglas-son-claras-el-congreso-puede-investigar-al-ice-para-intentar-frenar-las-redadas-contra-nid05112026/",
+          "hora": "2026-11-07T12:02:08-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Los proyectos en el Congreso de Estados Unidos que podrían presionar sobre una eventual asistencia financiera de Trump a Milei",
+          "link": "https://www.infobae.com/politica/2026/11/07/los-proyectos-en-el-congreso-de-estados-unidos-que-podrian-presionar-sobre-una-eventual-asistencia-financiera-de-trump-a-milei/",
+          "hora": "2026-11-07T07:45:07-03:00"
+        }
+      ],
+      "oficiales": [
+        {
+          "fuente": "CEPA",
+          "titulo": "Elecciones en Estados Unidos: efectos en el mundo y en la Argentina: guerra, tasas, aranceles y Argentina",
+          "link": "https://centrocepa.com.ar/documentos/informes/885-elecciones-en-estados-unidos-efectos-en-el-mundo-y-en-la-argentina-guerra-tasas-aranceles-y-argentina"
+        }
+      ],
       "resumen": null,
       "angulos": []
     },
@@ -2382,47 +2242,9 @@
       "angulos": []
     },
     {
-      "id": "franco-mastantuono-conto-cual-es-su-jugador-favorito-del-rea-2",
-      "titulo": "Los creadores de “The Pitt” y “ER” irán a juicio por el parecido entre ambas series",
-      "categoria": "espectaculos",
-      "prioritaria": false,
-      "desde": "2026-11-05T21:13:04-03:00",
-      "calor": 39,
-      "medios": [
-        "La Nación",
-        "Ámbito"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "Brad Pitt compró una finca de 500 hectáreas por 60 millones de dólares y la transformó en una reserva agrícola vitivinícola libre de químicos",
-          "link": "https://www.lanacion.com.ar/espectaculos/brad-pitt-compro-una-finca-de-500-hectareas-por-60-millones-de-dolares-y-la-transformo-en-una-nid02112026/",
-          "hora": "2026-11-07T12:11:48-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Los creadores de “The Pitt” y “ER” irán a juicio por el parecido entre ambas series",
-          "link": "https://www.lanacion.com.ar/espectaculos/personajes/los-creadores-de-the-pitt-y-er-iran-a-juicio-por-el-parecido-entre-ambas-series-nid06112026/",
-          "hora": "2026-11-06T18:04:44-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Scarlett Johansson dio detalles sobre su papel en \"The Batman II\": \"Fue muy difícil descifrarlo\"",
-          "link": "https://www.ambito.com/espectaculos/scarlett-johansson-dio-detalles-su-papel-the-batman-ii-fue-muy-dificil-descifrarlo-n6342373",
-          "hora": "2026-11-06T13:06:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
       "id": "los-bancos-estaran-cinco-dias-cerrados-por-la-visita-del-pap",
-      "titulo": "Los bancos estarán cinco días cerrados por la visita del papa León XIV: qué servicios funcionarán y cuáles no",
-      "categoria": "economia",
+      "titulo": "El vino mendocino de 125 años que llegará a la misa del papa León XIV en Córdoba: una historia de fe, educación y solidaridad",
+      "categoria": "social",
       "prioritaria": true,
       "desde": "2026-11-06T10:02:00-03:00",
       "calor": 39,
@@ -2436,9 +2258,9 @@
       "notas": [
         {
           "medio": "Infobae",
-          "titulo": "El Museo de Arte Colonial en la ciudad de Antigua Guatemala recupera tres obras tras diez meses de resguardo en el Palacio Nacional",
-          "link": "https://www.infobae.com/guatemala/2026/11/07/el-museo-de-arte-colonial-en-la-ciudad-de-antigua-guatemala-recupera-tres-obras-tras-diez-meses-de-resguardo-en-el-palacio-nacional/",
-          "hora": "2026-11-07T11:58:34-03:00"
+          "titulo": "El secreto mejor guardado de Córdoba: vinos únicos, una uva excepcional y leyendas de brujas",
+          "link": "https://www.infobae.com/espana/2026/11/07/el-secreto-mejor-guardado-de-cordoba-vinos-unicos-una-uva-excepcional-y-leyendas-de-brujas/",
+          "hora": "2026-11-07T12:22:08-03:00"
         },
         {
           "medio": "La Nación",
@@ -2448,9 +2270,85 @@
         },
         {
           "medio": "Infobae",
-          "titulo": "Los bancos estarán cinco días cerrados por la visita del papa León XIV: qué servicios funcionarán y cuáles no",
-          "link": "https://www.infobae.com/economia/2026/11/06/los-bancos-estaran-cinco-dias-cerrados-por-la-visita-del-papa-leon-xiv-que-servicios-funcionaran-y-cuales-no/",
-          "hora": "2026-11-06T15:30:03-03:00"
+          "titulo": "El vino mendocino de 125 años que llegará a la misa del papa León XIV en Córdoba: una historia de fe, educación y solidaridad",
+          "link": "https://www.infobae.com/sociedad/2026/11/07/el-vino-mendocino-de-125-anos-que-llegara-a-la-misa-del-papa-leon-xiv-en-cordoba-una-historia-de-fe-educacion-y-solidaridad/",
+          "hora": "2026-11-07T02:46:32-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "a-que-hora-es-la-qualy-del-gp-de-brasil-de-la-formula-1-con",
+      "titulo": "Crece la tensión en Ferrari: Vasseur reunió a Leclerc y Hamilton y les recordó que \"la marca está primero\"",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-11-06T10:13:43-03:00",
+      "calor": 39,
+      "medios": [
+        "Clarín",
+        "Infobae"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Colapinto afrontará la clasificación en Brasil: Verstappen, Hamilton, Leclerc y Russell deberán cumplir penalizaciones en la grilla",
+          "link": "https://www.infobae.com/deportes/2026/11/07/antes-de-la-clasificacion-franco-colapinto-afrontara-la-ultima-practica-en-el-gran-premio-de-brasil-de-formula-1-hora-y-todo-lo-que-hay-que-saber/",
+          "hora": "2026-11-07T13:08:38-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Verstappen fue el más rápido en el tercer y último libre de Brasil",
+          "link": "https://www.infobae.com/espana/agencias/2026/11/07/verstappen-fue-el-mas-rapido-en-el-tercer-y-ultimo-libre-de-brasil/",
+          "hora": "2026-11-07T12:45:40-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Crece la tensión en Ferrari: Vasseur reunió a Leclerc y Hamilton y les recordó que \"la marca está primero\"",
+          "link": "https://www.clarin.com/deportes/crece-tension-ferrari-vasseur-reunio-leclerc-hamilton-recordo-marca-primero_0_cUg5tucdZS.html",
+          "hora": "2026-11-07T06:01:10-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "el-pp-critica-que-sanchez-no-vaya-al-funeral-religioso-por-l",
+      "titulo": "La homilía del papa León XIV en su primera misa en Uruguay: “Es importante construir puentes”",
+      "categoria": "social",
+      "prioritaria": true,
+      "desde": "2026-11-06T10:18:00-03:00",
+      "calor": 39,
+      "medios": [
+        "Infobae",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Ante 40.000 fieles en Paysandú, León XIV instó a construir puentes para evitar la pobreza, enfrentar la corrupción y defender la educación",
+          "link": "https://www.infobae.com/america/2026/11/07/ante-40000-fieles-en-paysandu-leon-xiv-insto-a-construir-puentes-para-evitar-la-pobreza-enfrentar-la-corrupcion-y-defender-la-educacion/",
+          "hora": "2026-11-07T13:07:56-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Ante miles de fieles, el papa León XIV dio su primera misa en Uruguay: “Es importante construir puentes”",
+          "link": "https://tn.com.ar/sociedad/2026/11/07/viaje-del-papa-leon-xiv-a-la-argentina-en-vivo-cuando-llega-al-pais-las-misas-confirmadas-y-las-ultimas-noticias/",
+          "hora": "2026-11-07T13:05:59-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "La homilía del papa León XIV en su primera misa en Uruguay: “Es importante construir puentes”",
+          "link": "https://tn.com.ar/internacional/2026/11/07/la-homilia-del-papa-leon-xiv-en-su-primera-misa-en-uruguay-es-importante-construir-puentes/",
+          "hora": "2026-11-07T12:52:14-03:00"
         }
       ],
       "oficiales": [],
@@ -2496,15 +2394,15 @@
       "angulos": []
     },
     {
-      "id": "proteccion-ciudadana-el-municipio-refuerza-su-sistema-de-pat",
-      "titulo": "Extranjeros intentaron sacar del Perú más de 12 mil tarántulas ocultas en maletas",
-      "categoria": "social",
-      "prioritaria": true,
-      "desde": "2026-11-06T10:51:00-03:00",
+      "id": "san-lorenzo-vs-platense-horario-y-por-donde-pasan-el-partido-2",
+      "titulo": "La búsqueda del nuevo James Bond suma dos candidatos sorpresa: Robert Pattinson y Nicholas Hoult",
+      "categoria": "espectaculos",
+      "prioritaria": false,
+      "desde": "2026-11-06T11:31:07-03:00",
       "calor": 39,
       "medios": [
-        "Infobae",
-        "TN"
+        "La Nación",
+        "Infobae"
       ],
       "en_x": false,
       "posicion_x": null,
@@ -2512,97 +2410,21 @@
       "notas": [
         {
           "medio": "Infobae",
-          "titulo": "Extranjeros intentaron sacar del Perú más de 12 mil tarántulas ocultas en maletas",
-          "link": "https://www.infobae.com/peru/2026/11/05/extranjeros-intentaron-sacar-del-peru-mas-de-3000-tarantulas-ocultas-en-maletas/",
-          "hora": "2026-11-07T11:55:21-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Crece la expectativa por el cierre de la fase regular del Clausura 2026: así está el cuadro de playoffs",
-          "link": "https://tn.com.ar/deportes/futbol/2026/11/07/crece-la-expectativa-por-el-cierre-de-la-fase-regular-del-clausura-2026-asi-esta-el-cuadro-de-playoffs/",
-          "hora": "2026-11-07T09:04:44-03:00"
+          "titulo": "Duelo de candidatos al ascenso entre el Girona y el Almería en Montilivi",
+          "link": "https://www.infobae.com/espana/agencias/2026/11/07/duelo-de-candidatos-al-ascenso-entre-el-girona-y-el-almeria-en-montilivi/",
+          "hora": "2026-11-07T12:46:46-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "La expectativa por la llegada del papa León XIV al Perú: más que una visita, un regreso y un reencuentro con la comunidad y su fe",
-          "link": "https://www.infobae.com/sociedad/2026/11/07/la-expectativa-por-la-llegada-del-papa-leon-xiv-al-peru-mas-que-una-visita-un-regreso-y-un-reencuentro-con-la-comunidad-y-su-fe/",
-          "hora": "2026-11-07T02:33:56-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "maluma-armo-un-show-sorpresa-en-el-aeropuerto-de-miami-y-anu",
-      "titulo": "Maluma armó un show sorpresa en el aeropuerto de Miami y anunció su gira mundial de más de 60 fechas",
-      "categoria": "social",
-      "prioritaria": true,
-      "desde": "2026-11-06T12:45:27-03:00",
-      "calor": 39,
-      "medios": [
-        "Infobae",
-        "Página/12"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "La razón histórica detrás de la X en los códigos de muchos aeropuertos",
-          "link": "https://www.infobae.com/america/mundo/2026/11/07/la-razon-historica-detras-de-la-x-en-los-codigos-de-muchos-aeropuertos/",
-          "hora": "2026-11-07T11:56:42-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Maluma armó un show sorpresa en el aeropuerto de Miami y anunció su gira mundial de más de 60 fechas",
-          "link": "https://www.infobae.com/estados-unidos/2026/11/06/maluma-armo-un-show-sorpresa-en-el-aeropuerto-de-miami-y-anuncio-su-gira-mundial-de-mas-de-60-fechas/",
-          "hora": "2026-11-06T16:52:18-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Mendoza inicia una investigación histórica tras el hallazgo de los restos de un niño que era buscado hace 40 años",
-          "link": "https://www.pagina12.com.ar/2026/11/06/mendoza-inicia-una-investigacion-historica-tras-el-hallazgo-de-los-restos-de-un-nino-que-era-buscado-hace-40-anos/",
-          "hora": "2026-11-06T12:45:27-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "celine-dion-mando-construir-una-mansion-de-1365-metros-cuadr",
-      "titulo": "Céline Dion mandó construir una mansión de 1365 metros cuadrados en Florida y ahora se vendió por US$12,5 millones",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-11-06T13:19:37-03:00",
-      "calor": 39,
-      "medios": [
-        "Infobae",
-        "La Nación"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "Céline Dion mandó construir una mansión de 1365 metros cuadrados en Florida y ahora se vendió por US$12,5 millones",
-          "link": "https://www.lanacion.com.ar/estados-unidos/famosos/celine-dion-mando-construir-una-mansion-de-1365-metros-cuadrados-en-florida-y-ahora-se-vendio-por-nid05112026/",
-          "hora": "2026-11-07T12:09:28-03:00"
+          "titulo": "La búsqueda del nuevo James Bond suma dos candidatos sorpresa: Robert Pattinson y Nicholas Hoult",
+          "link": "https://www.infobae.com/entretenimiento/2026/11/07/la-busqueda-del-nuevo-james-bond-suma-dos-candidatos-sorpresa-robert-pattinson-y-nicholas-hoult/",
+          "hora": "2026-11-07T11:28:20-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "¿Ganó Mario Díaz-Balart? Las claves para entender por qué el sábado 7 de noviembre es decisivo para el político en Florida",
-          "link": "https://www.lanacion.com.ar/estados-unidos/florida/gano-mario-diaz-balart-las-claves-para-entender-por-que-el-sabado-7-de-noviembre-es-decisivo-para-el-nid07112026/",
-          "hora": "2026-11-07T03:32:00-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Alejandro Díaz, CEO de AmCham, habló de las inversiones de EEUU en Argentina: “Van a depender del recorrido que tenga el país”",
-          "link": "https://www.infobae.com/economia/2026/11/06/alejandro-diaz-ceo-de-amcham-hablo-de-las-inversiones-de-eeuu-en-argentina-van-a-depender-del-recorrido-que-tenga-el-pais/",
-          "hora": "2026-11-06T13:19:37-03:00"
+          "titulo": "Las cinco frases que delatan una mentalidad pobre, según Robert Kiyosaki",
+          "link": "https://www.lanacion.com.ar/lifestyle/las-cinco-frases-que-delatan-una-mentalidad-pobre-segun-robert-kiyosaki-nid06112026/",
+          "hora": "2026-11-07T07:00:00-03:00"
         }
       ],
       "oficiales": [],
@@ -2648,37 +2470,37 @@
       "angulos": []
     },
     {
-      "id": "instituto-recibira-a-newell-s-en-cordoba-por-la-fecha-16-del",
-      "titulo": "Instituto recibirá a Newell’s en Córdoba por la fecha 16 del Torneo Clausura: hora, TV y posibles formaciones",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-07T07:14:54-03:00",
+      "id": "el-espiritu-liberal-sigue-vivo-dijo-javier-milei-en-la-cumbr",
+      "titulo": "“El espíritu liberal sigue vivo”, dijo Javier Milei en la Cumbre Iberoamericana en España",
+      "categoria": "politica",
+      "prioritaria": true,
+      "desde": "2026-11-06T14:54:24-03:00",
       "calor": 39,
       "medios": [
-        "Infobae",
-        "Clarín"
+        "La Nación",
+        "Página/12"
       ],
       "en_x": false,
       "posicion_x": null,
       "en_google": false,
       "notas": [
         {
-          "medio": "Clarín",
-          "titulo": "Instituto de Córdoba vs Newell's, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido del Torneo Clausura",
-          "link": "https://www.clarin.com/deportes/instituto-cordoba-vs-newells-vivo-hora-juegan-formaciones-ver-partido-torneo-clausura_0_u3z0pcNMx8.html",
-          "hora": "2026-11-07T12:11:09-03:00"
+          "medio": "Página/12",
+          "titulo": "Tras el fallo de la Corte, detuvieron al jerarca de la Ford condenado por crímenes de lesa humanidad",
+          "link": "https://www.pagina12.com.ar/2026/11/07/tras-el-fallo-de-la-corte-detuvieron-al-jerarca-de-la-ford-condenado-por-crimenes-de-lesa-humanidad/",
+          "hora": "2026-11-07T12:55:55-03:00"
         },
         {
-          "medio": "Clarín",
-          "titulo": "Talleres de Córdoba vs Estudiantes de La Plata, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido del Torneo Clausura",
-          "link": "https://www.clarin.com/deportes/talleres-cordoba-vs-estudiantes-plata-vivo-hora-juegan-formaciones-ver-partido-torneo-clausura_0_nUF84PesAe.html",
-          "hora": "2026-11-07T12:01:34-03:00"
+          "medio": "La Nación",
+          "titulo": "“El espíritu liberal sigue vivo”, dijo Javier Milei en la Cumbre Iberoamericana en España",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-espiritu-liberal-sigue-vivo-dijo-el-presidente-en-la-cumbre-nid06112026/",
+          "hora": "2026-11-06T21:36:45-03:00"
         },
         {
-          "medio": "Infobae",
-          "titulo": "Instituto recibirá a Newell’s en Córdoba por la fecha 16 del Torneo Clausura: hora, TV y posibles formaciones",
-          "link": "https://www.infobae.com/deportes/2026/11/07/instituto-recibira-a-newells-en-cordoba-por-la-fecha-16-del-torneo-clausura-hora-tv-y-posibles-formaciones/",
-          "hora": "2026-11-07T07:14:54-03:00"
+          "medio": "La Nación",
+          "titulo": "En fotos: del paseo en pijama de Jennifer Lawrence y Kim Kardashian al espíritu indomable de Harrison Ford",
+          "link": "https://www.lanacion.com.ar/espectaculos/personajes/en-fotos-del-paseo-en-pijama-de-jennifer-lawrence-y-kim-kardashian-al-espiritu-indomable-de-harrison-nid06112026/",
+          "hora": "2026-11-06T14:54:24-03:00"
         }
       ],
       "oficiales": [],
@@ -2686,14 +2508,153 @@
       "angulos": []
     },
     {
-      "id": "en-el-gobierno-esperan-un-mensaje-breve-y-conciliador-de-mil",
-      "titulo": "En el Gobierno esperan un mensaje breve y conciliador de Milei en el Palacio Libertad tras un pedido del Vaticano",
+      "id": "adepa-expreso-su-preocupacion-y-repudio-por-las-acciones-de-2-2",
+      "titulo": "La AFA recurrirá al TAS luego de que la FIFA ratificara la sanción a Paredes por los incidentes en la final del Mundial",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-11-06T16:39:32-03:00",
+      "calor": 39,
+      "medios": [
+        "Infobae",
+        "La Nación"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Sin Guillermo Viscarra, la lista de convocados de Bolivia para enfrentar a Perú en Matute por la fecha FIFA",
+          "link": "https://www.infobae.com/peru/deportes/2026/11/07/sin-guillermo-viscarra-la-lista-de-convocados-de-bolivia-para-enfrentar-a-peru-en-matute-por-la-fecha-fifa/",
+          "hora": "2026-11-07T13:10:41-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "La FIFA le redujo la sanción a Nahuel Molina, pero mantuvo las 10 fechas de suspensión a Leandro Paredes: la AFA irá al TAS",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/la-fifa-le-redujo-la-sancion-a-nahuel-molina-pero-mantuvo-las-10-fechas-de-suspension-a-leandro-nid06112026/",
+          "hora": "2026-11-06T20:28:36-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "La AFA recurrirá al TAS luego de que la FIFA ratificara la sanción a Paredes por los incidentes en la final del Mundial",
+          "link": "https://www.infobae.com/deportes/2026/11/06/la-afa-recurrira-al-tas-luego-de-que-la-fifa-ratificara-la-sancion-a-paredes-por-los-incidentes-en-la-final-del-mundial/",
+          "hora": "2026-11-06T20:14:11-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "los-argentinos-coparon-las-semifinales-y-el-challenger-de-vi",
+      "titulo": "Los argentinos coparon las semifinales y el Challenger de Villa María tendrá un campeón nacional",
+      "categoria": "social",
+      "prioritaria": true,
+      "desde": "2026-11-06T17:17:33-03:00",
+      "calor": 39,
+      "medios": [
+        "Infobae",
+        "Página/12"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "En un mes murieron dos delfines en cautiverio: Moana y Mincho, Profepa atribuye causas al huracán Polo y a estado avanzado de cáncer",
+          "link": "https://www.infobae.com/mexico/2026/11/07/en-un-mes-murieron-dos-delfines-en-cautiverio-moana-y-mincho-profepa-atribuye-causas-al-huracan-polo-y-a-estado-avanzado-de-cancer/",
+          "hora": "2026-11-07T13:10:32-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Los argentinos coparon las semifinales y el Challenger de Villa María tendrá un campeón nacional",
+          "link": "https://www.infobae.com/deportes/2026/11/06/los-argentinos-coparon-las-semifinales-y-el-challenger-de-villa-maria-tendra-un-campeon-nacional/",
+          "hora": "2026-11-06T20:29:37-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Murieron dos niños en un incendio en la Villa 31",
+          "link": "https://www.pagina12.com.ar/2026/11/06/murieron-dos-ninos-en-un-incendio-en-la-villa-31/",
+          "hora": "2026-11-06T17:17:33-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "adorni-un-denunciante-pidio-que-intervenga-la-procuraduria-d",
+      "titulo": "Adorni: un denunciante pidió que intervenga la Procuraduría de Investigaciones Administrativas y que siga la causa por enriquecimiento ilícito",
       "categoria": "politica",
       "prioritaria": true,
-      "desde": "2026-11-07T10:21:16-03:00",
+      "desde": "2026-11-06T18:27:00-03:00",
+      "calor": 39,
+      "medios": [
+        "Ámbito"
+      ],
+      "en_x": true,
+      "posicion_x": 3,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Ámbito",
+          "titulo": "Adorni: un denunciante pidió que intervenga la Procuraduría de Investigaciones Administrativas y que siga la causa por enriquecimiento ilícito",
+          "link": "https://www.ambito.com/politica/adorni-un-denunciante-pidio-que-intervenga-la-procuraduria-investigaciones-administrativas-y-que-siga-la-causa-enriquecimiento-ilicito-n6342613",
+          "hora": "2026-11-06T18:27:00-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "cambios-en-la-tv-abierta-yanina-latorre-puso-en-duda-su-pase",
+      "titulo": "Cambios en la TV abierta: Yanina Latorre puso en duda su pase a elnueve y qué pasará con Ángel De Brito y Beto Casella",
+      "categoria": "espectaculos",
+      "prioritaria": false,
+      "desde": "2026-11-06T19:22:51-03:00",
       "calor": 39,
       "medios": [
         "La Nación",
+        "Infobae"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Aleco Irarragorri presume su cábala a Ángel de Oro y Niebla Roja del CMLL previo al triunfo de Santos Laguna sobre el Atlante",
+          "link": "https://www.infobae.com/mexico/deportes/2026/11/07/aleco-irarragorri-presume-su-cabala-a-angel-de-oro-y-niebla-roja-del-cmll-previo-al-triunfo-de-santos-laguna-sobre-el-atlante/",
+          "hora": "2026-11-07T13:03:30-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Romina Manguel los domingos y dudas sobre Doman y Canosa: así se arma Elnueve",
+          "link": "https://www.lanacion.com.ar/espectaculos/romina-manguel-los-domingos-y-dudas-sobre-doman-y-canosa-asi-se-arma-elnueve-nid07112026/",
+          "hora": "2026-11-07T00:30:00-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Cambios en la TV abierta: Yanina Latorre puso en duda su pase a elnueve y qué pasará con Ángel De Brito y Beto Casella",
+          "link": "https://www.lanacion.com.ar/espectaculos/television/cambios-en-la-tv-abierta-yanina-latorre-puso-en-duda-su-pase-a-elnueve-y-que-pasara-con-angel-de-nid06112026/",
+          "hora": "2026-11-06T19:22:51-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "un-ex-juez-de-la-corte-suprema-bonaerense-se-metio-con-su-au",
+      "titulo": "Un ex juez de la Corte Suprema bonaerense se metió con su auto a un negocio y atropelló a cinco mujeres",
+      "categoria": "social",
+      "prioritaria": true,
+      "desde": "2026-11-06T20:31:25-03:00",
+      "calor": 39,
+      "medios": [
+        "Infobae",
         "Ámbito"
       ],
       "en_x": false,
@@ -2701,22 +2662,22 @@
       "en_google": false,
       "notas": [
         {
-          "medio": "Ámbito",
-          "titulo": "El pedido especial del Vaticano al gobierno de Córdoba antes de la visita de León XIV",
-          "link": "https://www.ambito.com/politica/el-pedido-especial-del-vaticano-al-gobierno-cordoba-antes-la-visita-leon-xiv-n6341485",
-          "hora": "2026-11-07T11:02:00-03:00"
+          "medio": "Infobae",
+          "titulo": "Expresidente de la Corte Suprema explicó cómo la justicia colombiana puede actuar en el caso de los ‘sexocontratos’ presuntamente entregados por Petro",
+          "link": "https://www.infobae.com/colombia/2026/11/07/expresidente-de-la-corte-suprema-explico-como-la-justicia-colombiana-puede-actuar-en-el-caso-de-los-sexocontratos-presuntamente-entregados-por-petro/",
+          "hora": "2026-11-07T13:04:27-03:00"
         },
         {
           "medio": "Ámbito",
-          "titulo": "Pablo Quirno confirmó que los gobernadores y Victoria Villarruel \"están invitados al Palacio Libertad\"",
-          "link": "https://www.ambito.com/politica/pablo-quirno-confirmo-que-los-gobernadores-y-victoria-villarruel-estan-invitados-al-palacio-libertad-n6340715",
-          "hora": "2026-11-07T10:41:00-03:00"
+          "titulo": "Fallos laborales: qué cambia para empresas y trabajadores tras la decisión de la Corte Suprema",
+          "link": "https://www.ambito.com/opiniones/fallos-laborales-que-cambia-empresas-y-trabajadores-la-decision-la-corte-suprema-n6342620",
+          "hora": "2026-11-07T00:00:00-03:00"
         },
         {
-          "medio": "La Nación",
-          "titulo": "En el Gobierno esperan un mensaje breve y conciliador de Milei en el Palacio Libertad tras un pedido del Vaticano",
-          "link": "https://www.lanacion.com.ar/politica/en-el-gobierno-esperan-un-mensaje-breve-y-conciliador-de-milei-en-el-palacio-libertad-tras-un-pedido-nid07112026/",
-          "hora": "2026-11-07T10:21:16-03:00"
+          "medio": "Infobae",
+          "titulo": "Un ex juez de la Corte Suprema bonaerense se metió con su auto a un negocio y atropelló a cinco mujeres",
+          "link": "https://www.infobae.com/sociedad/2026/11/06/un-ex-juez-de-la-corte-suprema-bonaerense-se-metio-con-su-auto-a-un-negocio-y-atropello-a-cinco-mujeres/",
+          "hora": "2026-11-06T20:31:25-03:00"
         }
       ],
       "oficiales": [],
@@ -2724,15 +2685,15 @@
       "angulos": []
     },
     {
-      "id": "1-2-el-racing-tumba-al-malaga-con-goles-de-iker-luque-y-yass",
-      "titulo": "1-2. El Racing tumba al Málaga con goles de Iker Luque y Yassir Zabiri",
-      "categoria": "deportes",
+      "id": "los-principales-narcogrupos-de-la-ciudad-de-mexico-serian-si",
+      "titulo": "Los principales narcogrupos de la Ciudad de México serían siete: así están divididos",
+      "categoria": "espectaculos",
       "prioritaria": false,
-      "desde": "2026-11-07T11:58:30-03:00",
+      "desde": "2026-11-07T00:01:00-03:00",
       "calor": 39,
       "medios": [
-        "Infobae",
-        "TN"
+        "La Nación",
+        "Infobae"
       ],
       "en_x": false,
       "posicion_x": null,
@@ -2740,21 +2701,21 @@
       "notas": [
         {
           "medio": "Infobae",
-          "titulo": "1-2. El Racing deja hundido al Málaga",
-          "link": "https://www.infobae.com/espana/agencias/2026/11/07/1-2-el-racing-deja-hundido-al-malaga/",
-          "hora": "2026-11-07T12:30:24-03:00"
+          "titulo": "Los principales narcogrupos de la Ciudad de México serían siete: así están divididos",
+          "link": "https://www.infobae.com/mexico/2026/11/07/los-principales-narcogrupos-de-la-ciudad-de-mexico-serian-siete-asi-estan-divididos/",
+          "hora": "2026-11-07T13:08:43-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "1-2. El Racing tumba al Málaga con goles de Iker Luque y Yassir Zabiri",
-          "link": "https://www.infobae.com/america/agencias/2026/11/07/1-2-el-racing-tumba-al-malaga-con-goles-de-iker-luque-y-yassir-zabiri/",
-          "hora": "2026-11-07T12:15:39-03:00"
+          "titulo": "Temblor hoy en México 7 de noviembre de 2026: se registra sismo de magnitud 4.1 en Oaxaca",
+          "link": "https://www.infobae.com/mexico/2026/11/07/temblor-hoy-en-mexico-noticias-actividad-sismica-7-de-noviembre-de-2026/",
+          "hora": "2026-11-07T12:28:31-03:00"
         },
         {
-          "medio": "TN",
-          "titulo": "Racing le ganó a Málaga 2 a 1 por la fecha 12 de La Liga de España",
-          "link": "https://tn.com.ar/deportes/futbol/2026/11/07/malaga-vs-racing-en-vivo-por-la-fecha-12-de-la-liga-de-espana-hora-donde-ver-y-formaciones/",
-          "hora": "2026-11-07T11:58:30-03:00"
+          "medio": "La Nación",
+          "titulo": "De Nicole Kidman a Zendaya: siete estrellas de Hollywood que consiguieron un rol principal y terminaron abandonando la película",
+          "link": "https://www.lanacion.com.ar/espectaculos/personajes/de-nicole-kidman-a-zendaya-siete-estrellas-de-hollywood-que-consiguieron-un-rol-principal-y-nid07112026/",
+          "hora": "2026-11-07T00:01:00-03:00"
         }
       ],
       "oficiales": [],
@@ -2765,13 +2726,13 @@
   "tendencias_x": [
     {
       "posicion": 1,
-      "nombre": "Paraguay",
-      "link": "https://x.com/search?q=Paraguay"
+      "nombre": "Uruguay",
+      "link": "https://x.com/search?q=Uruguay"
     },
     {
       "posicion": 2,
-      "nombre": "Uruguay",
-      "link": "https://x.com/search?q=Uruguay"
+      "nombre": "Paraguay",
+      "link": "https://x.com/search?q=Paraguay"
     },
     {
       "posicion": 3,
@@ -2790,18 +2751,18 @@
     },
     {
       "posicion": 6,
+      "nombre": "Wanda",
+      "link": "https://x.com/search?q=Wanda"
+    },
+    {
+      "posicion": 7,
       "nombre": "#sabadodeplp",
       "link": "https://x.com/search?q=%23sabadodeplp"
     },
     {
-      "posicion": 7,
+      "posicion": 8,
       "nombre": "Paysandú",
       "link": "https://x.com/search?q=Paysand%C3%BA"
-    },
-    {
-      "posicion": 8,
-      "nombre": "Wanda",
-      "link": "https://x.com/search?q=Wanda"
     },
     {
       "posicion": 9,
@@ -2810,220 +2771,230 @@
     },
     {
       "posicion": 10,
-      "nombre": "#MileiMufa",
-      "link": "https://x.com/search?q=%23MileiMufa"
-    },
-    {
-      "posicion": 11,
-      "nombre": "Ueno Bank",
-      "link": "https://x.com/search?q=Ueno%20Bank"
-    },
-    {
-      "posicion": 12,
-      "nombre": "#gaudiovendehumo",
-      "link": "https://x.com/search?q=%23gaudiovendehumo"
-    },
-    {
-      "posicion": 13,
       "nombre": "Don Julio",
       "link": "https://x.com/search?q=Don%20Julio"
     },
     {
+      "posicion": 11,
+      "nombre": "#gaudiovendehumo",
+      "link": "https://x.com/search?q=%23gaudiovendehumo"
+    },
+    {
+      "posicion": 12,
+      "nombre": "Ueno Bank",
+      "link": "https://x.com/search?q=Ueno%20Bank"
+    },
+    {
+      "posicion": 13,
+      "nombre": "#MileiMufa",
+      "link": "https://x.com/search?q=%23MileiMufa"
+    },
+    {
       "posicion": 14,
+      "nombre": "#2026MAMAVOTE️",
+      "link": "https://x.com/search?q=%232026MAMAVOTE%EF%B8%8F"
+    },
+    {
+      "posicion": 15,
       "nombre": "#gaudioesgrupochampagne",
       "link": "https://x.com/search?q=%23gaudioesgrupochampagne"
     },
     {
-      "posicion": 15,
-      "nombre": "Leeds",
-      "link": "https://x.com/search?q=Leeds"
-    },
-    {
       "posicion": 16,
-      "nombre": "Mauro",
-      "link": "https://x.com/search?q=Mauro"
-    },
-    {
-      "posicion": 17,
-      "nombre": "#gastongaudioludopata",
-      "link": "https://x.com/search?q=%23gastongaudioludopata"
-    },
-    {
-      "posicion": 18,
       "nombre": "Insua",
       "link": "https://x.com/search?q=Insua"
     },
     {
-      "posicion": 19,
-      "nombre": "Tottenham",
-      "link": "https://x.com/search?q=Tottenham"
-    },
-    {
-      "posicion": 20,
-      "nombre": "Tesla",
-      "link": "https://x.com/search?q=Tesla"
-    },
-    {
-      "posicion": 21,
-      "nombre": "Riestra",
-      "link": "https://x.com/search?q=Riestra"
-    },
-    {
-      "posicion": 22,
+      "posicion": 17,
       "nombre": "Montevideo",
       "link": "https://x.com/search?q=Montevideo"
     },
     {
-      "posicion": 23,
-      "nombre": "PIL SERIES EP9",
-      "link": "https://x.com/search?q=PIL%20SERIES%20EP9"
+      "posicion": 18,
+      "nombre": "Tesla",
+      "link": "https://x.com/search?q=Tesla"
     },
     {
-      "posicion": 24,
+      "posicion": 19,
+      "nombre": "Riestra",
+      "link": "https://x.com/search?q=Riestra"
+    },
+    {
+      "posicion": 20,
       "nombre": "San Lorenzo",
       "link": "https://x.com/search?q=San%20Lorenzo"
     },
     {
-      "posicion": 25,
-      "nombre": "Lewis",
-      "link": "https://x.com/search?q=Lewis"
-    },
-    {
-      "posicion": 26,
-      "nombre": "Día del Periodista Deportivo",
-      "link": "https://x.com/search?q=D%C3%ADa%20del%20Periodista%20Deportivo"
-    },
-    {
-      "posicion": 27,
+      "posicion": 21,
       "nombre": "Iavicoli",
       "link": "https://x.com/search?q=Iavicoli"
     },
     {
-      "posicion": 28,
-      "nombre": "Trump",
-      "link": "https://x.com/search?q=Trump"
+      "posicion": 22,
+      "nombre": "Día del Periodista Deportivo",
+      "link": "https://x.com/search?q=D%C3%ADa%20del%20Periodista%20Deportivo"
     },
     {
-      "posicion": 29,
-      "nombre": "Titán",
-      "link": "https://x.com/search?q=Tit%C3%A1n"
-    },
-    {
-      "posicion": 30,
+      "posicion": 23,
       "nombre": "Orsini",
       "link": "https://x.com/search?q=Orsini"
     },
     {
-      "posicion": 31,
+      "posicion": 24,
       "nombre": "Tempone",
       "link": "https://x.com/search?q=Tempone"
     },
     {
-      "posicion": 32,
+      "posicion": 25,
+      "nombre": "Migueles",
+      "link": "https://x.com/search?q=Migueles"
+    },
+    {
+      "posicion": 26,
+      "nombre": "Tottenham",
+      "link": "https://x.com/search?q=Tottenham"
+    },
+    {
+      "posicion": 27,
       "nombre": "Pedro Alliana",
       "link": "https://x.com/search?q=Pedro%20Alliana"
     },
     {
-      "posicion": 33,
-      "nombre": "Devecchi",
-      "link": "https://x.com/search?q=Devecchi"
+      "posicion": 28,
+      "nombre": "Leeds",
+      "link": "https://x.com/search?q=Leeds"
     },
     {
-      "posicion": 34,
-      "nombre": "migueles",
-      "link": "https://x.com/search?q=migueles"
-    },
-    {
-      "posicion": 35,
-      "nombre": "Silvero",
-      "link": "https://x.com/search?q=Silvero"
-    },
-    {
-      "posicion": 36,
-      "nombre": "matheu",
-      "link": "https://x.com/search?q=matheu"
-    },
-    {
-      "posicion": 37,
-      "nombre": "Bond",
-      "link": "https://x.com/search?q=Bond"
-    },
-    {
-      "posicion": 38,
-      "nombre": "Martín Palermo",
-      "link": "https://x.com/search?q=Mart%C3%ADn%20Palermo"
-    },
-    {
-      "posicion": 39,
+      "posicion": 29,
       "nombre": "Interlagos",
       "link": "https://x.com/search?q=Interlagos"
     },
     {
-      "posicion": 40,
+      "posicion": 30,
+      "nombre": "Devecchi",
+      "link": "https://x.com/search?q=Devecchi"
+    },
+    {
+      "posicion": 31,
+      "nombre": "PIL SERIES EP9",
+      "link": "https://x.com/search?q=PIL%20SERIES%20EP9"
+    },
+    {
+      "posicion": 32,
+      "nombre": "Titán",
+      "link": "https://x.com/search?q=Tit%C3%A1n"
+    },
+    {
+      "posicion": 33,
+      "nombre": "Silvero",
+      "link": "https://x.com/search?q=Silvero"
+    },
+    {
+      "posicion": 34,
+      "nombre": "matheu",
+      "link": "https://x.com/search?q=matheu"
+    },
+    {
+      "posicion": 35,
+      "nombre": "Lewis",
+      "link": "https://x.com/search?q=Lewis"
+    },
+    {
+      "posicion": 36,
       "nombre": "Culotta",
       "link": "https://x.com/search?q=Culotta"
     },
     {
-      "posicion": 41,
+      "posicion": 37,
+      "nombre": "Martín Palermo",
+      "link": "https://x.com/search?q=Mart%C3%ADn%20Palermo"
+    },
+    {
+      "posicion": 38,
       "nombre": "HOY JUEGA BOCA",
       "link": "https://x.com/search?q=HOY%20JUEGA%20BOCA"
     },
     {
-      "posicion": 42,
-      "nombre": "Tornquist",
-      "link": "https://x.com/search?q=Tornquist"
-    },
-    {
-      "posicion": 43,
-      "nombre": "Los Pumas",
-      "link": "https://x.com/search?q=Los%20Pumas"
-    },
-    {
-      "posicion": 44,
+      "posicion": 39,
       "nombre": "STREAM BODYPAINTING",
       "link": "https://x.com/search?q=STREAM%20BODYPAINTING"
     },
     {
-      "posicion": 45,
-      "nombre": "Paula Bernini",
-      "link": "https://x.com/search?q=Paula%20Bernini"
+      "posicion": 40,
+      "nombre": "Los Pumas",
+      "link": "https://x.com/search?q=Los%20Pumas"
     },
     {
-      "posicion": 46,
-      "nombre": "Zelda",
-      "link": "https://x.com/search?q=Zelda"
+      "posicion": 41,
+      "nombre": "Tornquist",
+      "link": "https://x.com/search?q=Tornquist"
     },
     {
-      "posicion": 47,
-      "nombre": "Magallan",
-      "link": "https://x.com/search?q=Magallan"
-    },
-    {
-      "posicion": 48,
+      "posicion": 42,
       "nombre": "Guido Rodríguez",
       "link": "https://x.com/search?q=Guido%20Rodr%C3%ADguez"
     },
     {
-      "posicion": 49,
+      "posicion": 43,
+      "nombre": "Stephen Miller",
+      "link": "https://x.com/search?q=Stephen%20Miller"
+    },
+    {
+      "posicion": 44,
+      "nombre": "Franja Morada",
+      "link": "https://x.com/search?q=Franja%20Morada"
+    },
+    {
+      "posicion": 45,
+      "nombre": "Bond",
+      "link": "https://x.com/search?q=Bond"
+    },
+    {
+      "posicion": 46,
+      "nombre": "Magallan",
+      "link": "https://x.com/search?q=Magallan"
+    },
+    {
+      "posicion": 47,
       "nombre": "Tuzzio",
       "link": "https://x.com/search?q=Tuzzio"
     },
     {
+      "posicion": 48,
+      "nombre": "Zelda",
+      "link": "https://x.com/search?q=Zelda"
+    },
+    {
+      "posicion": 49,
+      "nombre": "Arboleda",
+      "link": "https://x.com/search?q=Arboleda"
+    },
+    {
       "posicion": 50,
-      "nombre": "Miranda",
-      "link": "https://x.com/search?q=Miranda"
+      "nombre": "ARIA Music Awards de 2026",
+      "link": "https://x.com/search?q=ARIA%20Music%20Awards%20de%202026"
     }
   ],
   "google_trends": [
     {
-      "nombre": "argentina",
-      "trafico": "500+",
-      "link": "https://www.google.com/search?q=argentina"
+      "nombre": "rodolfo d'onofrio",
+      "trafico": "100+",
+      "link": "https://www.google.com/search?q=rodolfo%20d%27onofrio"
     },
     {
-      "nombre": "hoy juega boca",
+      "nombre": "a que hora juega boca hoy",
+      "trafico": "1000+",
+      "link": "https://www.google.com/search?q=a%20que%20hora%20juega%20boca%20hoy"
+    },
+    {
+      "nombre": "emanuel noir",
       "trafico": "100+",
-      "link": "https://www.google.com/search?q=hoy%20juega%20boca"
+      "link": "https://www.google.com/search?q=emanuel%20noir"
+    },
+    {
+      "nombre": "argentina",
+      "trafico": "1000+",
+      "link": "https://www.google.com/search?q=argentina"
     },
     {
       "nombre": "rcd espanyol - deportivo",
@@ -3032,18 +3003,8 @@
     },
     {
       "nombre": "newman vs hindu",
-      "trafico": "100+",
+      "trafico": "200+",
       "link": "https://www.google.com/search?q=newman%20vs%20hindu"
-    },
-    {
-      "nombre": "carta astral",
-      "trafico": "100+",
-      "link": "https://www.google.com/search?q=carta%20astral"
-    },
-    {
-      "nombre": "rb leipzig - augsburgo",
-      "trafico": "500+",
-      "link": "https://www.google.com/search?q=rb%20leipzig%20-%20augsburgo"
     }
   ],
   "estado_fuentes": [
@@ -3060,7 +3021,7 @@
     {
       "fuente": "La Nación",
       "ok": true,
-      "items": 460
+      "items": 459
     },
     {
       "fuente": "Página/12",
