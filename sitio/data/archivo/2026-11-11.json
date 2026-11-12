@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-11T20:50:06-03:00",
+  "actualizado": "2026-11-11T21:27:03-03:00",
   "proxima_actualizacion": "2026-11-12T08:00:00-03:00",
   "ia_disponible": false,
   "agenda_hoy": [
@@ -17,18 +17,18 @@
       "categoria": "politica",
       "prioritaria": true,
       "desde": "2026-11-11T04:29:58-03:00",
-      "calor": 94,
+      "calor": 79,
       "medios": [
         "La Nación",
         "Infobae",
         "Clarín",
         "Página/12",
-        "TN",
-        "Ámbito"
+        "Ámbito",
+        "TN"
       ],
       "en_x": true,
       "posicion_x": 13,
-      "en_google": true,
+      "en_google": false,
       "notas": [
         {
           "medio": "Página/12",
@@ -79,12 +79,6 @@
           "hora": "2026-11-11T15:56:29-03:00"
         },
         {
-          "medio": "TN",
-          "titulo": "El Gobierno rechazó la decisión de Irán de declarar como organizaciones terroristas a la Armada y la Fuerza Aérea argentinas",
-          "link": "https://tn.com.ar/politica/2026/11/11/el-gobierno-rechazo-la-decision-de-iran-de-declarar-como-organizaciones-terroristas-a-la-armada-y-la-fuerza-aerea-argentinas/",
-          "hora": "2026-11-11T15:13:23-03:00"
-        },
-        {
           "medio": "La Nación",
           "titulo": "Patricia Bullrich le respondió a Irán, que declaró a la Armada y la Fuerza Aérea argentinas organizaciones terroristas",
           "link": "https://www.lanacion.com.ar/politica/patricia-bullrich-le-respondio-a-iran-que-declaro-a-la-armada-y-la-fuerza-aerea-argentinas-como-nid11112026/",
@@ -102,102 +96,12 @@
       "angulos": []
     },
     {
-      "id": "murio-carlos-babington-gloria-de-huracan-3",
-      "titulo": "De qué murió Carlos Babington, ídolo de Huracán",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-11T00:01:00-03:00",
-      "calor": 77,
-      "medios": [
-        "La Nación",
-        "Clarín",
-        "Infobae",
-        "Página/12",
-        "Ámbito",
-        "TN"
-      ],
-      "en_x": true,
-      "posicion_x": 25,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "El día que Carlos Babington vivió “sensaciones explosivas” con un potrillo que dio el batacazo en el Gran Premio Jockey Club",
-          "link": "https://www.lanacion.com.ar/deportes/turf/el-dia-que-carlos-babington-vivio-sensaciones-explosivas-con-un-potrillo-que-dio-el-batacazo-en-el-nid11112026/",
-          "hora": "2026-11-11T20:38:29-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Hasta siempre, \"Inglés\": Carlos Babington hizo hablar a la pelota en la era dorada de un fútbol argentino repleto de \"10\" de calidad",
-          "link": "https://www.clarin.com/deportes/siempre-ingles-carlos-babington-hizo-hablar-pelota-dorada-futbol-argentino-repleto-10-calidad_0_vMzgggThHI.html",
-          "hora": "2026-11-11T17:27:00-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "“Huracán y yo somos algo que no se va a poder romper nunca”: el recorrido de Carlos Babington en el “Globo” y su historia con la Selección",
-          "link": "https://www.infobae.com/deportes/2026/11/11/huracan-y-yo-somos-algo-que-no-se-va-a-poder-romper-nunca-el-recorrido-de-carlos-babington-en-el-globo-y-su-historia-con-la-seleccion/",
-          "hora": "2026-11-11T16:07:44-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "La reacción de Horacio Pagani a la muerte de su amigo Carlos Babington: “Una noticia fulminante”",
-          "link": "https://tn.com.ar/deportes/futbol/2026/11/11/la-reaccion-de-horacio-pagani-a-la-muerte-de-su-amigo-carlos-babington-una-noticia-fulminante/",
-          "hora": "2026-11-11T15:16:19-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Murió Carlos Babington, emblema de Huracán y símbolo del fútbol argentino",
-          "link": "https://www.infobae.com/deportes/2026/11/11/murio-carlos-babington-emblema-de-huracan-y-simbolo-del-futbol-argentino/",
-          "hora": "2026-11-11T14:10:16-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "La dolorosa despedida al aire de Horacio Pagani a su amigo Carlos Babington: “Fue una noticia fulminante que la recibí en el auto”",
-          "link": "https://www.infobae.com/deportes/2026/11/11/la-dolorosa-despedida-al-aire-de-horacion-pagani-a-su-amigo-carlos-babington-fue-una-noticia-fulminante-que-la-recibi-en-el-auto/",
-          "hora": "2026-11-11T14:08:39-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Murió Carlos Babington, el \"inglés\" de la zurda prodigiosa que se convirtió en dirigente, pero no pudo volver a pisar el club de sus amores",
-          "link": "https://www.clarin.com/deportes/murio-carlos-babington-ingles-zurda-prodigiosa-convirtio-dirigente-pudo-volver-pisar-club-amores_0_moeKk3RBwX.html",
-          "hora": "2026-11-11T13:54:42-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Murió Carlos Babington, la zurda mágica del Huracán del 73 y de la selección argentina en el Mundial 74",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/huracan/murio-carlos-babington-la-zurda-magica-del-huracan-del-73-y-de-la-seleccion-del-mundial-74-nid11112026/",
-          "hora": "2026-11-11T13:42:20-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "De qué murió Carlos Babington, ídolo de Huracán",
-          "link": "https://www.ambito.com/deportes/de-que-murio-carlos-babington-idolo-huracan-n6343967",
-          "hora": "2026-11-11T12:53:00-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Murió Carlos Babington, ídolo de Huracán y campeón de 1973: el emotivo mensaje del club",
-          "link": "https://www.ambito.com/deportes/murio-carlos-babington-idolo-huracan-y-campeon-1973-el-emotivo-mensaje-del-club-n6343959",
-          "hora": "2026-11-11T11:56:00-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Murió Carlos Babington, gloria de Huracán",
-          "link": "https://www.pagina12.com.ar/2026/11/11/murio-carlos-babington-gloria-de-huracan/",
-          "hora": "2026-11-11T11:52:13-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
       "id": "que-se-sabe-de-la-muerte-de-marcos-camino-historico-integran",
       "titulo": "Dolor por la muerte de Marcos Camino: cómo será su despedida y el emotivo mensaje de Cacho Deicas y Los Palmeras",
       "categoria": "espectaculos",
       "prioritaria": false,
       "desde": "2026-11-10T17:53:56-03:00",
-      "calor": 74,
+      "calor": 73,
       "medios": [
         "Infobae",
         "La Nación",
@@ -208,12 +112,6 @@
       "posicion_x": 17,
       "en_google": false,
       "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Profundo dolor en el velatorio de Marcos Camino, fundador de Los Palmeras",
-          "link": "https://www.infobae.com/teleshow/2026/11/11/profundo-dolor-en-el-velatorio-de-marcos-camino-fundador-de-los-palmeras/",
-          "hora": "2026-11-11T20:05:10-03:00"
-        },
         {
           "medio": "La Nación",
           "titulo": "Cacho Deicas, de Los Palmeras, ante la muerte de Marcos Camino: “Una vida entera compartiendo buenos y malos momentos; las hemos pasado todas”",
@@ -286,45 +184,76 @@
       "angulos": []
     },
     {
-      "id": "reabren-hoy-el-aeropuerto-de-ezeiza-pero-volvera-a-cerrar-do-2-3",
-      "titulo": "Polémica en Perú: cuestionan a Keiko Fujimori porque se irá del país durante la visita del papa León XIV",
-      "categoria": "otros",
+      "id": "murio-carlos-babington-gloria-de-huracan-3",
+      "titulo": "De qué murió Carlos Babington, ídolo de Huracán",
+      "categoria": "deportes",
       "prioritaria": false,
-      "desde": "2026-11-10T17:33:47-03:00",
-      "calor": 69,
+      "desde": "2026-11-11T00:01:00-03:00",
+      "calor": 71,
       "medios": [
         "La Nación",
         "Infobae",
-        "TN",
+        "Clarín",
+        "Página/12",
         "Ámbito"
       ],
       "en_x": true,
-      "posicion_x": 1,
+      "posicion_x": 25,
       "en_google": false,
       "notas": [
         {
+          "medio": "La Nación",
+          "titulo": "El día que Carlos Babington vivió sensaciones “explosivas” con un potrillo que dio el batacazo en el Gran Premio Jockey Club",
+          "link": "https://www.lanacion.com.ar/deportes/turf/el-dia-que-carlos-babington-vivio-sensaciones-explosivas-con-un-potrillo-que-dio-el-batacazo-en-el-nid11112026/",
+          "hora": "2026-11-11T20:38:29-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Hasta siempre, \"Inglés\": Carlos Babington hizo hablar a la pelota en la era dorada de un fútbol argentino repleto de \"10\" de calidad",
+          "link": "https://www.clarin.com/deportes/siempre-ingles-carlos-babington-hizo-hablar-pelota-dorada-futbol-argentino-repleto-10-calidad_0_vMzgggThHI.html",
+          "hora": "2026-11-11T17:27:00-03:00"
+        },
+        {
           "medio": "Infobae",
-          "titulo": "Papa León XIV recibe saludo protocolar de Keiko Fujimori: el momento de casi medio minuto en su bienvenida al Perú",
-          "link": "https://www.infobae.com/peru/2026/11/11/papa-leon-xiv-recibe-saludo-protocolar-de-keiko-fujimori-el-momento-de-casi-medio-minuto-tras-su-llegada-al-peru/",
-          "hora": "2026-11-11T20:46:00-03:00"
+          "titulo": "“Huracán y yo somos algo que no se va a poder romper nunca”: el recorrido de Carlos Babington en el “Globo” y su historia con la Selección",
+          "link": "https://www.infobae.com/deportes/2026/11/11/huracan-y-yo-somos-algo-que-no-se-va-a-poder-romper-nunca-el-recorrido-de-carlos-babington-en-el-globo-y-su-historia-con-la-seleccion/",
+          "hora": "2026-11-11T16:07:44-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Murió Carlos Babington, emblema de Huracán y símbolo del fútbol argentino",
+          "link": "https://www.infobae.com/deportes/2026/11/11/murio-carlos-babington-emblema-de-huracan-y-simbolo-del-futbol-argentino/",
+          "hora": "2026-11-11T14:10:16-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "La dolorosa despedida al aire de Horacio Pagani a su amigo Carlos Babington: “Fue una noticia fulminante que la recibí en el auto”",
+          "link": "https://www.infobae.com/deportes/2026/11/11/la-dolorosa-despedida-al-aire-de-horacion-pagani-a-su-amigo-carlos-babington-fue-una-noticia-fulminante-que-la-recibi-en-el-auto/",
+          "hora": "2026-11-11T14:08:39-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "Polémica en Perú: cuestionan a Keiko Fujimori porque se irá del país durante la visita del papa León XIV",
-          "link": "https://www.lanacion.com.ar/el-mundo/polemica-en-peru-cuestionan-a-keiko-fujimori-porque-se-ira-del-pais-durante-la-visita-del-papa-leon-nid11112026/",
-          "hora": "2026-11-11T18:11:32-03:00"
+          "titulo": "Murió Carlos Babington, la zurda mágica del Huracán del 73 y de la selección argentina en el Mundial 74",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/huracan/murio-carlos-babington-la-zurda-magica-del-huracan-del-73-y-de-la-seleccion-del-mundial-74-nid11112026/",
+          "hora": "2026-11-11T13:42:20-03:00"
         },
         {
           "medio": "Ámbito",
-          "titulo": "Keiko Fujimori estará ausente durante la visita del papa León XIV a Perú",
-          "link": "https://www.ambito.com/mundo/keiko-fujimori-estara-ausente-la-visita-del-papa-leon-xiv-peru-n6343930",
-          "hora": "2026-11-11T17:50:00-03:00"
+          "titulo": "De qué murió Carlos Babington, ídolo de Huracán",
+          "link": "https://www.ambito.com/deportes/de-que-murio-carlos-babington-idolo-huracan-n6343967",
+          "hora": "2026-11-11T12:53:00-03:00"
         },
         {
-          "medio": "TN",
-          "titulo": "Polémica en Perú: la presidenta Keiko Fujimori se irá de gira por China y Japón en plena visita del papa León XIV",
-          "link": "https://tn.com.ar/internacional/2026/11/11/polemica-en-peru-la-presidenta-keiko-fujimori-se-ira-de-gira-por-china-y-japon-en-plena-visita-del-papa-leon-xiv/",
-          "hora": "2026-11-11T16:54:40-03:00"
+          "medio": "Ámbito",
+          "titulo": "Murió Carlos Babington, ídolo de Huracán y campeón de 1973: el emotivo mensaje del club",
+          "link": "https://www.ambito.com/deportes/murio-carlos-babington-idolo-huracan-y-campeon-1973-el-emotivo-mensaje-del-club-n6343959",
+          "hora": "2026-11-11T11:56:00-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Murió Carlos Babington, gloria de Huracán",
+          "link": "https://www.pagina12.com.ar/2026/11/11/murio-carlos-babington-gloria-de-huracan/",
+          "hora": "2026-11-11T11:52:13-03:00"
         }
       ],
       "oficiales": [],
@@ -372,12 +301,6 @@
           "titulo": "El balneario de moda con una laguna de 3000 hectáreas y playas de agua dulce que queda a 2 horas de Buenos Aires",
           "link": "https://tn.com.ar/turismo/2026/11/11/el-balneario-de-moda-con-una-laguna-de-3000-hectareas-y-playas-de-agua-dulce-que-queda-a-2-horas-de-buenos-aires/",
           "hora": "2026-11-11T17:44:19-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "La Noche de los Museos 2026 tendrá una edición récord con más de 350 espacios: cuándo es, horarios y cómo viajar gratis",
-          "link": "https://www.lanacion.com.ar/que-sale/la-noche-de-los-museos-2026-tendra-una-edicion-record-con-mas-de-350-espacios-cuando-es-cuales-son-nid11112026/",
-          "hora": "2026-11-11T17:42:23-03:00"
         },
         {
           "medio": "TN",
@@ -445,38 +368,94 @@
       "angulos": []
     },
     {
-      "id": "el-momento-en-que-el-papa-leon-xiv-se-emociono-durante-su-vi",
-      "titulo": "El momento en que el papa León XIV se emocionó durante su visita a la cárcel de Devoto",
-      "categoria": "politica",
+      "id": "juicio-a-pity-alvarez-comienzan-los-alegatos-de-la-fiscalia",
+      "titulo": "Juicio a “Pity” Álvarez: la Fiscalía pidió que el cantante sea condenado a 18 años y 6 meses de prisión",
+      "categoria": "social",
       "prioritaria": true,
-      "desde": "2026-11-11T08:36:21-03:00",
+      "desde": "2026-11-11T00:30:00-03:00",
       "calor": 62,
       "medios": [
         "Infobae",
         "La Nación",
-        "Página/12"
+        "Página/12",
+        "TN",
+        "Ámbito"
       ],
-      "en_x": true,
-      "posicion_x": 4,
+      "en_x": false,
+      "posicion_x": null,
       "en_google": false,
       "notas": [
         {
+          "medio": "Infobae",
+          "titulo": "Juicio por el femicidio de Micaela García: la fiscalía pidió prisión perpetua para el acusado de violar y asesinar a la joven",
+          "link": "https://www.infobae.com/sociedad/policiales/2026/11/11/juicio-por-el-femicidio-de-micaela-garcia-la-fiscalia-pidio-prision-perpetua-para-nestor-pavon/",
+          "hora": "2026-11-11T21:06:24-03:00"
+        },
+        {
           "medio": "La Nación",
-          "titulo": "El momento en que el papa León XIV se emocionó durante su visita a la cárcel de Devoto",
-          "link": "https://www.lanacion.com.ar/sociedad/el-momento-en-que-el-papa-leon-xiv-se-emociono-durante-su-visita-a-la-carcel-de-devoto-nid11112026/",
-          "hora": "2026-11-11T17:51:00-03:00"
+          "titulo": "Pidieron la pena de prisión perpetua para el acusado de abusar sexualmente y matar a Micaela García",
+          "link": "https://www.lanacion.com.ar/seguridad/pidieron-la-pena-de-prision-perpetua-para-el-acusado-de-abusar-sexualmente-y-matar-a-micaela-garcia-nid11112026/",
+          "hora": "2026-11-11T19:56:00-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "León XIV visitó la cárcel de Devoto y llamó a los presos a refugiarse en Dios: “Es momento de reiniciar sus vidas”",
-          "link": "https://www.infobae.com/politica/2026/11/11/leon-xiv-visito-la-carcel-de-devoto-y-llamo-a-los-presos-a-refugiarse-en-dios-es-momento-de-reiniciar-sus-vidas/",
-          "hora": "2026-11-11T10:23:04-03:00"
+          "titulo": "El crimen de Cristian Díaz y un alegato demoledor para “Pity” Álvarez: “Jugó a ser Dios”, aseguró el fiscal",
+          "link": "https://www.infobae.com/sociedad/policiales/2026/11/11/el-crimen-de-cristian-diaz-y-un-alegato-demoledor-para-pity-alvarez-jugo-a-ser-dios-aseguro-el-fiscal/",
+          "hora": "2026-11-11T19:36:21-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Juicio a “Pity” Álvarez: la Fiscalía pidió que el cantante sea condenado a 18 años y 6 meses de prisión",
+          "link": "https://www.infobae.com/sociedad/policiales/2026/11/11/juicio-a-pity-alvarez-en-vivo-el-fiscal-sandro-abraldes-dara-a-conocer-que-pena-pide-para-el-musico/",
+          "hora": "2026-11-11T18:59:07-03:00"
         },
         {
           "medio": "Página/12",
-          "titulo": "El mensaje del papa León XIV en su visita a los presos la cárcel de Devoto",
-          "link": "https://www.pagina12.com.ar/2026/11/11/el-mensaje-del-papa-leon-xiv-en-su-visita-a-los-presos-la-carcel-de-devoto/",
-          "hora": "2026-11-11T08:36:21-03:00"
+          "titulo": "Un pedido de 18 años para Pity Alvarez",
+          "link": "https://www.pagina12.com.ar/2026/11/11/un-pedido-de-18-anos-para-pity-alvarez/",
+          "hora": "2026-11-11T18:43:57-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Juicio contra Pity Álvarez: la Fiscalía pidió 18 años y medio de prisión",
+          "link": "https://www.ambito.com/espectaculos/juicio-contra-pity-alvarez-la-fiscalia-pidio-18-anos-y-medio-prision-n6344180",
+          "hora": "2026-11-11T18:09:00-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "La fiscalía pidió perpetua para uno de los coautores del femicidio de Micaela García",
+          "link": "https://www.pagina12.com.ar/2026/11/11/la-fiscalia-pidio-perpetua-para-uno-de-los-coautores-del-femicidio-de-micaela-garcia/",
+          "hora": "2026-11-11T17:51:07-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "El abogado del hombre acusado de prender fuego y matar a 3 mujeres en Barracas pidió que sea absuelto",
+          "link": "https://tn.com.ar/policiales/2026/11/11/el-abogado-del-hombre-que-prendio-fuego-y-mato-a-3-mujeres-en-barracas-pidio-que-sea-absuelto-no-se-comprobo-que-haya-sido-el/",
+          "hora": "2026-11-11T17:31:27-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Segundo juicio por el femicidio de Micaela García: la fiscalía pidió prisión perpetua para el acusado",
+          "link": "https://tn.com.ar/policiales/2026/11/11/segundo-juicio-por-el-femicidio-de-micaela-garcia-la-fiscalia-pidio-prision-perpetua-para-el-acusado/",
+          "hora": "2026-11-11T15:59:01-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "El fiscal pidió 18 años de prisión para Pity Álvarez, acusado de asesinato: “Él decidió que Cristian Díaz debía morir”",
+          "link": "https://tn.com.ar/policiales/2026/11/11/el-juicio-contra-pity-alvarez-por-homicidio-entra-en-su-etapa-final-la-fiscalia-presenta-sus-alegatos-y-define-el-pedido-de-pena/",
+          "hora": "2026-11-11T15:42:13-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Juicio a “Pity” Álvarez: se conocerán los alegatos de la Fiscalía",
+          "link": "https://www.pagina12.com.ar/2026/11/11/juicio-a-pity-alvarez-el-musico-escuchara-los-alegatos-de-la-fiscalia/",
+          "hora": "2026-11-11T12:17:32-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Juicio a “Pity” Álvarez: comienzan los alegatos de la Fiscalía y hay expectativa por el pedido de pena",
+          "link": "https://www.infobae.com/sociedad/policiales/2026/11/11/juicio-a-pity-alvarez-comienzan-los-alegatos-de-la-fiscalia-y-hay-expectativa-por-el-pedido-de-pena/",
+          "hora": "2026-11-11T00:30:00-03:00"
         }
       ],
       "oficiales": [],
@@ -542,88 +521,119 @@
       "angulos": []
     },
     {
-      "id": "juicio-a-pity-alvarez-comienzan-los-alegatos-de-la-fiscalia",
-      "titulo": "Juicio a “Pity” Álvarez: la Fiscalía pidió que el cantante sea condenado a 18 años y 6 meses de prisión",
+      "id": "alma-misionera-la-historia-detras-de-la-cancion-que-es-furor-2",
+      "titulo": "\"Alma Misionera\", la historia detrás de la canción que marcó la visita del papa León XIV",
       "categoria": "social",
       "prioritaria": true,
-      "desde": "2026-11-11T00:30:00-03:00",
+      "desde": "2026-11-10T20:00:00-03:00",
+      "calor": 61,
+      "medios": [
+        "La Nación",
+        "Infobae",
+        "Ámbito"
+      ],
+      "en_x": true,
+      "posicion_x": 12,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Alma Misionera, la historia y el origen de la canción que acompañó al papa León XIV durante su paso por Argentina",
+          "link": "https://www.infobae.com/sociedad/2026/11/11/alma-misionera-la-historia-y-el-origen-de-la-cancion-que-acompano-al-papa-leon-xiv-durante-su-paso-por-argentina/",
+          "hora": "2026-11-11T16:28:47-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "La historia detrás de la decisión de la CNV de suspender a una firma que ofrecía una cripto con supuesto respaldo en litio",
+          "link": "https://www.infobae.com/economia/2025/07/20/la-historia-detras-de-la-decision-de-la-cnv-de-suspender-a-una-firma-que-ofrecia-una-cripto-con-supuesto-respaldo-en-litio/",
+          "hora": "2026-11-11T15:19:32-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Video: la versión de “Alma Misionera” que emocionó e hizo cantar al papa León XIV en el encuentro con jóvenes",
+          "link": "https://www.lanacion.com.ar/sociedad/video-la-version-de-alma-misionera-que-emociono-al-papa-leon-xiv-en-el-encuentro-con-jovenes-nid11112026/",
+          "hora": "2026-11-11T13:29:46-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "“Alma misionera”: la historia detrás de la canción que es furor por la visita de León XIV a la Argentina",
+          "link": "https://www.lanacion.com.ar/sociedad/alma-misionera-la-historia-detras-de-la-cancion-que-es-furor-por-la-visita-de-leon-xiv-a-la-nid10112026/",
+          "hora": "2026-11-11T11:24:10-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "\"Alma Misionera\", la historia detrás de la canción que marcó la visita del papa León XIV",
+          "link": "https://www.ambito.com/espectaculos/alma-misionera-la-historia-detras-la-cancion-que-emociono-al-papa-leon-xiv-n6343875",
+          "hora": "2026-11-11T10:20:00-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "los-numeros-detras-del-escandalo-de-infidelidad-y-espionaje",
+      "titulo": "El directorio de Nvidia se dispone a echar a su CEO, Jensen Huang, tras el escándalo por presunto espionaje chino",
+      "categoria": "economia",
+      "prioritaria": true,
+      "desde": "2026-11-11T00:31:02-03:00",
       "calor": 61,
       "medios": [
         "Infobae",
         "La Nación",
-        "Página/12",
-        "TN",
-        "Ámbito"
+        "Clarín"
       ],
-      "en_x": false,
-      "posicion_x": null,
+      "en_x": true,
+      "posicion_x": 31,
       "en_google": false,
       "notas": [
         {
+          "medio": "Infobae",
+          "titulo": "La infidelidad de Jensen Huang pone a su esposa bajo el reflector",
+          "link": "https://www.infobae.com/america/the-new-york-times/2026/11/12/la-infidelidad-de-jensen-huang-pone-a-su-esposa-bajo-el-reflector/",
+          "hora": "2026-11-11T21:15:43-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Nvidia decide si echa a Jensen Huang: revelan una segunda amante",
+          "link": "https://www.infobae.com/estados-unidos/2026/11/11/nvidia-se-prepararia-para-destituir-a-su-ceo-jensen-huang-el-directorio-podria-reunirse-hoy-para-definir-su-futuro/",
+          "hora": "2026-11-11T21:05:52-03:00"
+        },
+        {
           "medio": "La Nación",
-          "titulo": "Pidieron la pena de prisión perpetua para el acusado de abusar sexualmente y matar a Micaela García",
-          "link": "https://www.lanacion.com.ar/seguridad/pidieron-la-pena-de-prision-perpetua-para-el-acusado-de-abusar-sexualmente-y-matar-a-micaela-garcia-nid11112026/",
-          "hora": "2026-11-11T19:56:00-03:00"
+          "titulo": "El directorio de Nvidia se dispone a echar a su CEO, Jensen Huang, tras el escándalo por presunto espionaje chino",
+          "link": "https://www.lanacion.com.ar/el-mundo/la-junta-directiva-de-nvidia-busca-destituir-a-su-director-tras-dos-infidelidades-una-de-ellas-fue-nid11112026/",
+          "hora": "2026-11-11T20:32:21-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "El crimen de Cristian Díaz y un alegato demoledor para “Pity” Álvarez: “Jugó a ser Dios”, aseguró el fiscal",
-          "link": "https://www.infobae.com/sociedad/policiales/2026/11/11/el-crimen-de-cristian-diaz-y-un-alegato-demoledor-para-pity-alvarez-jugo-a-ser-dios-aseguro-el-fiscal/",
-          "hora": "2026-11-11T19:36:21-03:00"
+          "titulo": "Nvidia estaría considerando la destitución de su CEO, Jensen Huang, tras segunda supuesta infidelidad",
+          "link": "https://www.infobae.com/tecno/2026/11/11/nvidia-estaria-considerando-la-destitucion-de-su-ceo-jensen-huang-tras-segunda-supuesta-infidelidad/",
+          "hora": "2026-11-11T20:27:22-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Nvidia se prepara para despedir a su CEO, Jensen Huang, tras el escándalo de su amante y las acusaciones de espionaje chino",
+          "link": "https://www.clarin.com/mundo/nvidia-prepara-despedir-ceo-jensen-huang-escandalo-amante-acusaciones-espionaje-chino_0_O48slPGMbJ.html",
+          "hora": "2026-11-11T20:24:22-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Juicio a “Pity” Álvarez: la Fiscalía pidió que el cantante sea condenado a 18 años y 6 meses de prisión",
-          "link": "https://www.infobae.com/sociedad/policiales/2026/11/11/juicio-a-pity-alvarez-en-vivo-el-fiscal-sandro-abraldes-dara-a-conocer-que-pena-pide-para-el-musico/",
-          "hora": "2026-11-11T18:59:07-03:00"
+          "titulo": "Se desploman las acciones de Nvidia tras las nuevas versiones del escándalo que involucra a su CEO Jensen Huang",
+          "link": "https://www.infobae.com/economia/2026/11/11/se-desploman-las-acciones-de-nvidia-tras-las-nuevas-versiones-del-escandalo-que-involucra-a-su-ceo-jensen-huang/",
+          "hora": "2026-11-11T20:17:07-03:00"
         },
         {
-          "medio": "Página/12",
-          "titulo": "Un pedido de 18 años para Pity Alvarez",
-          "link": "https://www.pagina12.com.ar/2026/11/11/un-pedido-de-18-anos-para-pity-alvarez/",
-          "hora": "2026-11-11T18:43:57-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Juicio contra Pity Álvarez: la Fiscalía pidió 18 años y medio de prisión",
-          "link": "https://www.ambito.com/espectaculos/juicio-contra-pity-alvarez-la-fiscalia-pidio-18-anos-y-medio-prision-n6344180",
-          "hora": "2026-11-11T18:09:00-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "La fiscalía pidió perpetua para uno de los coautores del femicidio de Micaela García",
-          "link": "https://www.pagina12.com.ar/2026/11/11/la-fiscalia-pidio-perpetua-para-uno-de-los-coautores-del-femicidio-de-micaela-garcia/",
-          "hora": "2026-11-11T17:51:07-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Segundo juicio por el femicidio de Micaela García: la fiscalía pidió prisión perpetua para el acusado",
-          "link": "https://tn.com.ar/policiales/2026/11/11/segundo-juicio-por-el-femicidio-de-micaela-garcia-la-fiscalia-pidio-prision-perpetua-para-el-acusado/",
-          "hora": "2026-11-11T15:59:01-03:00"
+          "medio": "La Nación",
+          "titulo": "El escándalo Nvidia: las infidelidades de los CEO que terminaron costándoles millones a las empresas",
+          "link": "https://www.lanacion.com.ar/economia/negocios/el-escandalo-nvidia-las-infidelidades-de-los-ceo-que-terminaron-costandoles-millones-a-las-empresas-nid09112026/",
+          "hora": "2026-11-11T09:01:51-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Juicio por el femicidio de Micaela García: la fiscalía pidió prisión perpetua para Néstor Pavón",
-          "link": "https://www.infobae.com/sociedad/policiales/2026/11/11/juicio-por-el-femicidio-de-micaela-garcia-la-fiscalia-pidio-prision-perpetua-para-nestor-pavon/",
-          "hora": "2026-11-11T15:58:30-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "El fiscal pidió 18 años de prisión para Pity Álvarez, acusado de asesinato: “Él decidió que Cristian Díaz debía morir”",
-          "link": "https://tn.com.ar/policiales/2026/11/11/el-juicio-contra-pity-alvarez-por-homicidio-entra-en-su-etapa-final-la-fiscalia-presenta-sus-alegatos-y-define-el-pedido-de-pena/",
-          "hora": "2026-11-11T15:42:13-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Juicio a “Pity” Álvarez: se conocerán los alegatos de la Fiscalía",
-          "link": "https://www.pagina12.com.ar/2026/11/11/juicio-a-pity-alvarez-el-musico-escuchara-los-alegatos-de-la-fiscalia/",
-          "hora": "2026-11-11T12:17:32-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Juicio a “Pity” Álvarez: comienzan los alegatos de la Fiscalía y hay expectativa por el pedido de pena",
-          "link": "https://www.infobae.com/sociedad/policiales/2026/11/11/juicio-a-pity-alvarez-comienzan-los-alegatos-de-la-fiscalia-y-hay-expectativa-por-el-pedido-de-pena/",
-          "hora": "2026-11-11T00:30:00-03:00"
+          "titulo": "Los números detrás del escándalo de infidelidad y espionaje en Nvidia: cuánto pueden perder la empresa y los accionistas",
+          "link": "https://www.infobae.com/economia/2026/11/11/los-numeros-detras-del-escandalo-de-infidelidad-y-espionaje-en-nvidia-cuanto-pueden-perder-la-empresa-y-los-accionistas/",
+          "hora": "2026-11-11T00:31:02-03:00"
         }
       ],
       "oficiales": [],
@@ -677,157 +687,175 @@
       "angulos": []
     },
     {
-      "id": "alma-misionera-la-historia-detras-de-la-cancion-que-es-furor-2",
-      "titulo": "\"Alma Misionera\", la historia detrás de la canción que marcó la visita del papa León XIV",
+      "id": "el-momento-en-que-el-papa-leon-xiv-se-emociono-durante-su-vi",
+      "titulo": "El momento en que el papa León XIV se emocionó durante su visita a la cárcel de Devoto",
       "categoria": "social",
       "prioritaria": true,
-      "desde": "2026-11-10T20:00:00-03:00",
-      "calor": 60,
+      "desde": "2026-11-10T23:25:32-03:00",
+      "calor": 59,
       "medios": [
         "La Nación",
         "Infobae",
+        "Página/12",
         "Ámbito"
       ],
-      "en_x": true,
-      "posicion_x": 12,
+      "en_x": false,
+      "posicion_x": null,
       "en_google": false,
       "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Alma Misionera, la historia y el origen de la canción que acompañó al papa León XIV durante su paso por Argentina",
-          "link": "https://www.infobae.com/sociedad/2026/11/11/alma-misionera-la-historia-y-el-origen-de-la-cancion-que-acompano-al-papa-leon-xiv-durante-su-paso-por-argentina/",
-          "hora": "2026-11-11T16:28:47-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Video: la versión de “Alma Misionera” que emocionó e hizo cantar al papa León XIV en el encuentro con jóvenes",
-          "link": "https://www.lanacion.com.ar/sociedad/video-la-version-de-alma-misionera-que-emociono-al-papa-leon-xiv-en-el-encuentro-con-jovenes-nid11112026/",
-          "hora": "2026-11-11T13:29:46-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "“Alma misionera”: la historia detrás de la canción que es furor por la visita de León XIV a la Argentina",
-          "link": "https://www.lanacion.com.ar/sociedad/alma-misionera-la-historia-detras-de-la-cancion-que-es-furor-por-la-visita-de-leon-xiv-a-la-nid10112026/",
-          "hora": "2026-11-11T11:24:10-03:00"
-        },
         {
           "medio": "Ámbito",
-          "titulo": "\"Alma Misionera\", la historia detrás de la canción que marcó la visita del papa León XIV",
-          "link": "https://www.ambito.com/espectaculos/alma-misionera-la-historia-detras-la-cancion-que-emociono-al-papa-leon-xiv-n6343875",
-          "hora": "2026-11-11T10:20:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "los-numeros-detras-del-escandalo-de-infidelidad-y-espionaje",
-      "titulo": "El directorio de Nvidia se dispone a echar a su CEO, Jensen Huang, tras el escándalo por presunto espionaje chino",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-11-11T00:31:02-03:00",
-      "calor": 60,
-      "medios": [
-        "Infobae",
-        "La Nación",
-        "Clarín"
-      ],
-      "en_x": true,
-      "posicion_x": 31,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Nvidia decide si echa a Jensen Huang: revelan una segunda amante",
-          "link": "https://www.infobae.com/estados-unidos/2026/11/11/nvidia-se-prepararia-para-destituir-a-su-ceo-jensen-huang-el-directorio-podria-reunirse-hoy-para-definir-su-futuro/",
-          "hora": "2026-11-11T20:49:25-03:00"
+          "titulo": "Papa León XIV en Argentina EN VIVO último día: cárcel de Devoto, misa en Luján y últimas noticias",
+          "link": "https://www.ambito.com/politica/papa-leon-XIV-argentina-javier-milei-iglesia-vaticano-caba-lujan-misa-carcel-devoto-en-vivo-minuto-a-minuto-11-noviembre",
+          "hora": "2026-11-11T21:05:00-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "El directorio de Nvidia se dispone a echar a su CEO, Jensen Huang, tras el escándalo por presunto espionaje chino",
-          "link": "https://www.lanacion.com.ar/el-mundo/la-junta-directiva-de-nvidia-busca-destituir-a-su-director-tras-dos-infidelidades-una-de-ellas-fue-nid11112026/",
-          "hora": "2026-11-11T20:32:21-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Nvidia estaría considerando la destitución de su CEO, Jensen Huang, tras segunda supuesta infidelidad",
-          "link": "https://www.infobae.com/tecno/2026/11/11/nvidia-estaria-considerando-la-destitucion-de-su-ceo-jensen-huang-tras-segunda-supuesta-infidelidad/",
-          "hora": "2026-11-11T20:27:22-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Nvidia se prepara para despedir a su CEO, Jensen Huang, tras el escándalo de su amante y las acusaciones de espionaje chino",
-          "link": "https://www.clarin.com/mundo/nvidia-prepara-despedir-ceo-jensen-huang-escandalo-amante-acusaciones-espionaje-chino_0_O48slPGMbJ.html",
-          "hora": "2026-11-11T20:24:22-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Se desploman las acciones de Nvidia tras las nuevas versiones del escándalo que involucra a su CEO Jensen Huang",
-          "link": "https://www.infobae.com/economia/2026/11/11/se-desploman-las-acciones-de-nvidia-tras-las-nuevas-versiones-del-escandalo-que-involucra-a-su-ceo-jensen-huang/",
-          "hora": "2026-11-11T20:17:07-03:00"
+          "titulo": "La sucesión de “malentendidos” que llevó a la cárcel a un experto en comunicaciones que se presenta como bombero",
+          "link": "https://www.lanacion.com.ar/seguridad/la-sucesion-de-malentendidos-que-llevo-a-la-carcel-a-un-bombero-voluntario-experto-en-comunicaciones-nid11112026/",
+          "hora": "2026-11-11T20:24:19-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "El escándalo Nvidia: las infidelidades de los CEO que terminaron costándoles millones a las empresas",
-          "link": "https://www.lanacion.com.ar/economia/negocios/el-escandalo-nvidia-las-infidelidades-de-los-ceo-que-terminaron-costandoles-millones-a-las-empresas-nid09112026/",
-          "hora": "2026-11-11T09:01:51-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Los números detrás del escándalo de infidelidad y espionaje en Nvidia: cuánto pueden perder la empresa y los accionistas",
-          "link": "https://www.infobae.com/economia/2026/11/11/los-numeros-detras-del-escandalo-de-infidelidad-y-espionaje-en-nvidia-cuanto-pueden-perder-la-empresa-y-los-accionistas/",
-          "hora": "2026-11-11T00:31:02-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "jorge-rial-expuso-a-yanina-latorre-con-una-foto-de-la-misa-d",
-      "titulo": "Fuerte polémica por la “carpa VIP” en la misa del Papa en Palermo a la que asistieron políticos y famosos",
-      "categoria": "politica",
-      "prioritaria": true,
-      "desde": "2026-11-09T19:27:07-03:00",
-      "calor": 58,
-      "medios": [
-        "La Nación",
-        "Página/12"
-      ],
-      "en_x": true,
-      "posicion_x": 8,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "La respuesta oficial del gobierno de Milei sobre la carpa VIP instalada en la misa del Papa en Palermo",
-          "link": "https://www.lanacion.com.ar/politica/la-respuesta-oficial-del-gobierno-de-milei-sobre-la-carpa-vip-instalada-en-la-misa-del-papa-en-nid11112026/",
-          "hora": "2026-11-11T17:05:05-03:00"
+          "titulo": "El momento en que el papa León XIV se emocionó durante su visita a la cárcel de Devoto",
+          "link": "https://www.lanacion.com.ar/sociedad/el-momento-en-que-el-papa-leon-xiv-se-emociono-durante-su-visita-a-la-carcel-de-devoto-nid11112026/",
+          "hora": "2026-11-11T17:51:00-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "Jorge Macri reunió a su gabinete en medio de la controversia por la invitación de famosos a la “carpa VIP”",
-          "link": "https://www.lanacion.com.ar/politica/jorge-macri-reune-al-gabinete-en-medio-del-silencio-del-gobierno-porteno-por-la-invitacion-de-nid11112026/",
-          "hora": "2026-11-11T16:22:22-03:00"
+          "titulo": "El instante en que el capellán de la cárcel de Devoto se quebró frente al Papa",
+          "link": "https://www.lanacion.com.ar/sociedad/el-instante-exacto-en-que-el-capellan-de-la-carcel-de-devoto-se-quebro-frente-al-papa-nid11112026/",
+          "hora": "2026-11-11T16:51:00-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "Marcela Tinayre desmintió su presencia en la “carpa VIP” de la misa del papa León XIV en Palermo",
-          "link": "https://www.lanacion.com.ar/espectaculos/personajes/marcela-tinayre-desmintio-su-presencia-en-la-carpa-vip-de-la-misa-del-papa-leon-xiv-en-palermo-no-se-nid11112026/",
-          "hora": "2026-11-11T12:35:36-03:00"
+          "titulo": "Así fue la llegada del papa León XIV a la cárcel de Devoto en su último día en la Argentina",
+          "link": "https://www.lanacion.com.ar/sociedad/asi-fue-la-llegada-del-papa-leon-xiv-a-la-carcel-de-devoto-en-su-ultima-dia-en-la-argentina-nid11112026/",
+          "hora": "2026-11-11T16:48:00-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "Fuerte polémica por la “carpa VIP” en la misa del Papa en Palermo a la que asistieron políticos y famosos",
-          "link": "https://www.lanacion.com.ar/politica/fuerte-polemica-por-la-carpa-vip-en-la-misa-del-papa-en-palermo-a-la-que-asistieron-politicos-y-nid10112026/",
-          "hora": "2026-11-11T09:37:22-03:00"
+          "titulo": "“Una mañana bendecida”: así vivieron los internos de otras cárceles la visita del Papa a Devoto",
+          "link": "https://www.lanacion.com.ar/sociedad/una-manana-bendecida-asi-vivieron-los-internos-de-otras-carceles-la-visita-del-papa-a-devoto-nid11112026/",
+          "hora": "2026-11-11T16:05:20-03:00"
         },
         {
           "medio": "Página/12",
-          "titulo": "Denuncias penales y citaciones al Congreso por el escándalo de la carpa VIP",
-          "link": "https://www.pagina12.com.ar/2026/11/11/denuncias-penales-y-citaciones-al-congreso-por-el-escandalo-de-la-carpa-vip/",
+          "titulo": "Último día del papa León XIV en Argentina: la visita a la cárcel de Devoto, la masiva misa en la Basílica de Luján y la despedida del país, minuto a minuto",
+          "link": "https://www.pagina12.com.ar/2026/11/06/la-visita-del-papa-leon-xiv-a-la-argentina-su-paso-por-uruguay-y-los-preparativos-para-su-llegada-al-pais/",
+          "hora": "2026-11-11T13:17:50-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "El discurso de León XIV: el texto completo de la homilía del Papa en la misa en la Basílica de Luján",
+          "link": "https://www.lanacion.com.ar/sociedad/el-discurso-de-leon-xiv-el-texto-completo-de-la-homilia-del-papa-en-la-misa-en-la-basilica-de-lujan-nid11112026/",
+          "hora": "2026-11-11T10:59:02-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "León XIV visitó la cárcel de Devoto y llamó a los presos a refugiarse en Dios: “Es momento de reiniciar sus vidas”",
+          "link": "https://www.infobae.com/politica/2026/11/11/leon-xiv-visito-la-carcel-de-devoto-y-llamo-a-los-presos-a-refugiarse-en-dios-es-momento-de-reiniciar-sus-vidas/",
+          "hora": "2026-11-11T10:23:04-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "El obispo que acompañó a León XIV en Devoto contó qué significó la visita: “La cárcel es reflejo de una sociedad herida”",
+          "link": "https://www.infobae.com/sociedad/2026/11/11/el-obispo-que-acompano-a-leon-xiv-en-devoto-conto-que-significo-la-visita-la-carcel-es-reflejo-de-una-sociedad-herida/",
+          "hora": "2026-11-11T10:01:46-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "El discurso de León XIV | El texto completo del Papa en la cárcel de Devoto: “Una nueva vida es posible”",
+          "link": "https://www.lanacion.com.ar/sociedad/el-discurso-de-leon-xiv-el-texto-completo-del-papa-en-la-carcel-de-devoto-una-nueva-vida-es-posible-nid11112026/",
+          "hora": "2026-11-11T09:58:43-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "“La cárcel es testigo de profundos cambios y conversiones”: la mañana en que León XIV llevó un mensaje de esperanza a Devoto",
+          "link": "https://www.lanacion.com.ar/sociedad/parece-el-mundial-la-manana-en-que-devoto-salio-a-la-calle-para-ver-al-papa-nid11112026/",
+          "hora": "2026-11-11T09:24:35-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "El discurso completo de Jorge García Cuerva en la cárcel de Devoto junto a León XIV: “Siempre es posible volver a levantarse”",
+          "link": "https://www.lanacion.com.ar/sociedad/el-discurso-completo-de-jorge-garcia-cuerva-en-la-carcel-de-devoto-junto-a-leon-xiv-siempre-es-nid11112026/",
+          "hora": "2026-11-11T09:02:33-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Visita de León XIV: los testimonios de dos detenidos y de un expreso de la cárcel de Devoto ante el Papa",
+          "link": "https://www.lanacion.com.ar/politica/visita-de-leon-xiv-los-testimonios-de-dos-detenidos-y-un-expreso-detenidos-de-la-carcel-de-devoto-nid11112026/",
+          "hora": "2026-11-11T08:44:19-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "El mensaje del papa León XIV en su visita a los presos la cárcel de Devoto",
+          "link": "https://www.pagina12.com.ar/2026/11/11/el-mensaje-del-papa-leon-xiv-en-su-visita-a-los-presos-la-carcel-de-devoto/",
+          "hora": "2026-11-11T08:36:21-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "León XIV visita la cárcel de Devoto, que tiene una convivencia surrealista con el club Lamadrid",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/leon-xiv-visita-la-carcel-de-devoto-que-tiene-una-convivencia-surrealista-con-el-club-lamadrid-nid11112026/",
           "hora": "2026-11-11T00:01:00-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "El discurso completo de León XIV ante los jóvenes en Palermo",
+          "link": "https://www.pagina12.com.ar/2026/11/11/el-discurso-completo-de-leon-xiv-ante-los-jovenes-en-palermo/",
+          "hora": "2026-11-10T23:25:32-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "reabren-hoy-el-aeropuerto-de-ezeiza-pero-volvera-a-cerrar-do-2-3",
+      "titulo": "Polémica en Perú: cuestionan a Keiko Fujimori porque se irá del país durante la visita del papa León XIV",
+      "categoria": "otros",
+      "prioritaria": false,
+      "desde": "2026-11-10T17:33:47-03:00",
+      "calor": 58,
+      "medios": [
+        "La Nación",
+        "Infobae",
+        "TN",
+        "Ámbito"
+      ],
+      "en_x": true,
+      "posicion_x": 43,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "TN",
+          "titulo": "El papa León XIV ya está en Perú: fue recibido por la presidenta Keiko Fujimori en el Palacio de Gobierno",
+          "link": "https://tn.com.ar/sociedad/2026/11/11/el-ultimo-dia-del-papa-leon-xiv-en-la-argentina-visitara-la-carcel-de-devoto-y-dara-una-masiva-misa-en-lujan/",
+          "hora": "2026-11-11T21:22:21-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Papa León XIV recibe saludo protocolar de Keiko Fujimori: el momento de casi medio minuto en su bienvenida al Perú",
+          "link": "https://www.infobae.com/peru/2026/11/11/papa-leon-xiv-recibe-saludo-protocolar-de-keiko-fujimori-el-momento-de-casi-medio-minuto-tras-su-llegada-al-peru/",
+          "hora": "2026-11-11T20:59:58-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Polémica en Perú: cuestionan a Keiko Fujimori porque se irá del país durante la visita del papa León XIV",
+          "link": "https://www.lanacion.com.ar/el-mundo/polemica-en-peru-cuestionan-a-keiko-fujimori-porque-se-ira-del-pais-durante-la-visita-del-papa-leon-nid11112026/",
+          "hora": "2026-11-11T18:11:32-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Keiko Fujimori estará ausente durante la visita del papa León XIV a Perú",
+          "link": "https://www.ambito.com/mundo/keiko-fujimori-estara-ausente-la-visita-del-papa-leon-xiv-peru-n6343930",
+          "hora": "2026-11-11T17:50:00-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Polémica en Perú: la presidenta Keiko Fujimori se irá de gira por China y Japón en plena visita del papa León XIV",
+          "link": "https://tn.com.ar/internacional/2026/11/11/polemica-en-peru-la-presidenta-keiko-fujimori-se-ira-de-gira-por-china-y-japon-en-plena-visita-del-papa-leon-xiv/",
+          "hora": "2026-11-11T16:54:40-03:00"
         }
       ],
       "oficiales": [],
@@ -882,11 +910,11 @@
     },
     {
       "id": "leandro-paredes-y-su-noche-inolvidable-en-boca-ante-vasco-da-2-2",
-      "titulo": "Se confirmó el cronograma de los octavos de final del Torneo Clausura: todo lo que hay que saber",
+      "titulo": "La Liga Profesional dio a conocer los cruces de los octavos de final del Clausura: cuándo juegan River y Lanús",
       "categoria": "deportes",
       "prioritaria": false,
       "desde": "2026-11-10T22:54:40-03:00",
-      "calor": 54,
+      "calor": 56,
       "medios": [
         "Infobae",
         "Clarín",
@@ -902,13 +930,19 @@
           "medio": "La Nación",
           "titulo": "La Liga Profesional dio a conocer los cruces de los octavos de final del Clausura: cuándo juegan River y Lanús",
           "link": "https://www.lanacion.com.ar/deportes/futbol/la-liga-profesional-dio-a-conocer-los-cruces-de-los-octavos-de-final-del-clausura-cuando-juegan-nid11112026/",
-          "hora": "2026-11-11T20:43:14-03:00"
+          "hora": "2026-11-11T20:44:23-03:00"
         },
         {
           "medio": "Infobae",
           "titulo": "Se confirmó el cronograma de los octavos de final del Torneo Clausura: todo lo que hay que saber",
           "link": "https://www.infobae.com/deportes/2026/11/11/se-confirmo-el-cronograma-de-los-octavos-de-final-del-torneo-clausura-todo-lo-que-hay-que-saber/",
           "hora": "2026-11-11T20:40:46-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "La programación de los octavos de final del Torneo Clausura: cinco días de partidos y cuándo juegan River-Lanús y Boca-Ind. Rivadavia",
+          "link": "https://www.clarin.com/deportes/programacion-octavos-final-torneo-clausura-dias-partidos-juegan-river-lanus-boca-ind-rivadavia_0_73J1OgpHx6.html",
+          "hora": "2026-11-11T20:36:37-03:00"
         },
         {
           "medio": "TN",
@@ -940,42 +974,48 @@
       "angulos": []
     },
     {
-      "id": "primera-reaccion-del-papa-leon-xiv-en-peru-el-santo-padre-se",
-      "titulo": "Primera reacción del papa León XIV en Perú: el santo padre se emociona ante el multitudinario recibimiento en Lima",
+      "id": "el-papa-es-peruano-decenas-de-miles-de-fieles-abarrotan-las",
+      "titulo": "El papa es peruano: decenas de miles de fieles abarrotan las calles de Lima para saludar a León XIV",
       "categoria": "otros",
       "prioritaria": false,
-      "desde": "2026-11-11T20:07:13-03:00",
-      "calor": 54,
+      "desde": "2026-11-11T20:46:00-03:00",
+      "calor": 56,
       "medios": [
         "Infobae"
       ],
       "en_x": true,
-      "posicion_x": 3,
+      "posicion_x": 1,
       "en_google": false,
       "notas": [
         {
           "medio": "Infobae",
-          "titulo": "Primera reacción del papa León XIV en Perú: el santo padre se emociona ante el multitudinario recibimiento en Lima",
-          "link": "https://www.infobae.com/peru/2026/11/11/la-primera-reaccion-del-papa-leon-xiv-en-suelo-peruano-tras-aterrizar-en-lima-para-iniciar-su-visita-al-peru/",
-          "hora": "2026-11-11T20:32:13-03:00"
+          "titulo": "León XIV llegó a Perú EN VIVO: peruanos colman las calles de Lima para recibir al papa que ya se encuentra en Palacio de Gobierno",
+          "link": "https://www.infobae.com/peru/2026/11/11/papa-leon-xiv-en-peru-en-vivo-minuto-a-minuto-de-su-llegada-recorrido-calles-cerradas-y-ultimas-noticias-del-santo-padre/",
+          "hora": "2026-11-11T21:20:53-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Alianza Lima saluda la llegada de León XIV a Perú, su última parada del viaje apostólico a Sudamérica: “Bienvenido a casa, Santo Padre”",
-          "link": "https://www.infobae.com/peru/deportes/2026/11/11/alianza-lima-saluda-la-llegada-de-leon-xiv-a-peru-su-ultima-parada-del-viaje-apostolico-a-sudamerica-bienvenido-a-casa-santo-padre/",
-          "hora": "2026-11-11T20:28:14-03:00"
+          "titulo": "El papa es peruano: decenas de miles de fieles abarrotan las calles de Lima para saludar a León XIV",
+          "link": "https://www.infobae.com/peru/2026/11/12/desde-el-callao-hasta-palacio-de-gobierno-miles-de-fieles-abarrotan-las-calles-de-lima-para-saludar-al-papa-leon-xiv/",
+          "hora": "2026-11-11T21:16:45-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Los primeros minutos del papa León XIV en suelo peruano: honores, autoridades, sonrisas y emoción del santo padre y los peruanos",
-          "link": "https://www.infobae.com/peru/2026/11/11/los-primeros-minutos-del-papa-leon-xiv-en-suelo-peruano-honores-autoridades-sonrisas-y-emocion-del-santo-padre-y-los-peruanos/",
-          "hora": "2026-11-11T20:22:44-03:00"
+          "titulo": "Perú emocionado por el papa León XIV: niños, adultos y ancianos se vuelcan a las calles de Lima para verlo",
+          "link": "https://www.infobae.com/peru/2026/11/11/peru-emocionado-por-el-papa-leon-xiv-ninos-adultos-y-ancianos-lo-acompanan-en-su-recorrido-con-el-papamovil-por-lima/",
+          "hora": "2026-11-11T21:12:30-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Papa León XIV llegó al Perú: así fue recibido el Santo Padre al pisar suelo nacional",
-          "link": "https://www.infobae.com/peru/2026/11/11/papa-leon-xiv-llego-al-peru-asi-fue-recibido-el-santo-padre-al-pisar-suelo-nacional/",
-          "hora": "2026-11-11T20:07:13-03:00"
+          "titulo": "Papa León XIV sorprende al bajar la luna de su auto para saludar a los fieles peruanos durante su llegada a Lima",
+          "link": "https://www.infobae.com/peru/2026/11/11/papa-leon-xiv-sorprende-al-bajar-la-luna-de-su-auto-para-saludar-a-los-fieles-peruanos-durante-su-llegada-a-lima/",
+          "hora": "2026-11-11T20:46:47-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Miles de personas reciben en las calles de Lima al papa León XIV en su arribo a Perú",
+          "link": "https://www.infobae.com/america/agencias/2026/11/11/miles-de-personas-reciben-en-las-calles-de-lima-al-papa-leon-xiv-en-su-arribo-a-peru/",
+          "hora": "2026-11-11T20:46:00-03:00"
         }
       ],
       "oficiales": [],
@@ -983,43 +1023,152 @@
       "angulos": []
     },
     {
-      "id": "dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-martes",
-      "titulo": "🔴 Dólar oficial hoy y dólar blue: a cuánto cotizaron este miércoles 11 de noviembre",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-11-10T23:32:35-03:00",
-      "calor": 53,
+      "id": "cambia-una-regla-del-uscis-y-ee-uu-rechaza-permisos-de-traba",
+      "titulo": "La vida del hijo latino de Arnold Schwarzenegger y su año de debut como fisicoculturista en EE.UU.",
+      "categoria": "otros",
+      "prioritaria": false,
+      "desde": "2026-11-11T01:25:22-03:00",
+      "calor": 55,
       "medios": [
+        "Infobae",
         "Clarín",
+        "La Nación",
         "TN"
       ],
       "en_x": false,
       "posicion_x": null,
-      "en_google": true,
+      "en_google": false,
       "notas": [
         {
-          "medio": "TN",
-          "titulo": "🔴 Dólar oficial hoy y dólar blue: a cuánto cotizaron este miércoles 11 de noviembre",
-          "link": "https://tn.com.ar/economia/2026/11/11/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-miercoles-11-de-noviembre/",
-          "hora": "2026-11-11T20:22:33-03:00"
+          "medio": "La Nación",
+          "titulo": "La vida del hijo latino de Arnold Schwarzenegger y su año de debut como fisicoculturista en EE.UU.",
+          "link": "https://www.lanacion.com.ar/estados-unidos/famosos/la-vida-del-hijo-latino-de-arnold-schwarzenegger-y-su-ano-de-debut-como-fisicoculturista-en-eeuu-nid11112026/",
+          "hora": "2026-11-11T21:11:00-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Reunieron el dinero para repatriar al niño colombiano que murió en accidente de motocross en EE. UU.: “Gracias a ustedes, Ryan regresa a casa”",
+          "link": "https://www.infobae.com/colombia/2026/11/11/reunieron-el-dinero-para-repatriar-al-nino-colombiano-que-murio-en-accidente-de-motocross-en-ee-uu-gracias-a-ustedes-ryan-regresa-a-casa/",
+          "hora": "2026-11-11T20:40:46-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Colombia pide a EE.UU. mediar ante Venezuela para buscar a militar secuestrada por el ELN",
+          "link": "https://www.infobae.com/america/agencias/2026/11/11/colombia-pide-a-eeuu-mediar-ante-venezuela-para-buscar-a-militar-secuestrada-por-el-eln/",
+          "hora": "2026-11-11T20:16:21-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "México espera acuerdo siderúrgico con EE.UU. tras frenar importaciones asiáticas",
+          "link": "https://www.infobae.com/america/agencias/2026/11/11/mexico-espera-acuerdo-siderurgico-con-eeuu-tras-frenar-importaciones-asiaticas/",
+          "hora": "2026-11-11T20:16:04-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Guerra con Ucrania: Rusia recurre a las silobolsas, una tecnología que generó una revolución en la Argentina",
+          "link": "https://www.lanacion.com.ar/economia/campo/guerra-con-ucrania-rusia-recurre-a-las-silobolsas-una-tecnologia-que-genero-una-revolucion-en-la-nid11112026/",
+          "hora": "2026-11-11T20:12:07-03:00"
         },
         {
           "medio": "TN",
-          "titulo": "Dólar: a cuánto cotizaron el oficial y las otras opciones cambiarias este miércoles 11 de noviembre",
-          "link": "https://tn.com.ar/economia/2026/11/11/dolar-a-cuanto-cotizan-el-oficial-y-las-otras-opciones-cambiarias-este-miercoles-11-de-noviembre/",
-          "hora": "2026-11-11T19:32:30-03:00"
+          "titulo": "Rusia informó la muerte “repentina” de su embajador en EE.UU.: había asumido el cargo durante el acercamiento entre Putin y Trump",
+          "link": "https://tn.com.ar/internacional/2026/11/11/rusia-informo-la-muerte-repentina-de-su-embajador-en-estados-unidos-un-buen-camarada-y-lider-experimentado/",
+          "hora": "2026-11-11T19:26:57-03:00"
         },
         {
           "medio": "TN",
-          "titulo": "Dólar oficial y dólar tarjeta: banco por banco, a cuánto cotizaron este miércoles 11 de noviembre",
-          "link": "https://tn.com.ar/economia/2026/11/11/dolar-oficial-y-dolar-tarjeta-banco-por-banco-a-cuanto-cotizan-este-miercoles-11-de-noviembre/",
-          "hora": "2026-11-11T19:32:10-03:00"
+          "titulo": "Rusia y Ucrania acordaron un nuevo canje de prisioneros “a gran escala” y prometieron mantener un diálogo con mediación de EE.UU.",
+          "link": "https://tn.com.ar/internacional/2026/11/11/rusia-y-ucrania-acordaron-un-nuevo-canje-de-prisioneros-a-gran-escala-y-prometieron-mantener-un-dialogo-con-mediacion-de-eeuu/",
+          "hora": "2026-11-11T15:26:18-03:00"
         },
         {
           "medio": "Clarín",
-          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cerró el oficial y cuál fue el precio del paralelo, minuto a minuto, este 11 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-minuto-minuto-11-noviembre_0_Acl5XKXH0Q.html",
-          "hora": "2026-11-11T08:38:10-03:00"
+          "titulo": "La FDA de EE.UU. exige que las populares inyecciones para adelgazar adviertan que pueden dañar la vista",
+          "link": "https://www.clarin.com/sociedad/eeuu-ahora-exige-populares-inyecciones-adelgazar-adviertan-pueden-danar-vista_0_mjav6hW993.html",
+          "hora": "2026-11-11T15:05:27-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "La estricta dieta del hijo de Arnold Schwarzenegger para destacar en el fisicoculturismo natural y su “permitido” favorito",
+          "link": "https://www.infobae.com/deportes/2026/11/11/la-estricta-dieta-del-hijo-de-arnold-schwarzenegger-para-destacar-en-el-fisicoculturismo-natural-y-su-permitido-favorito/",
+          "hora": "2026-11-11T01:25:22-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "milei-vuelve-a-hacer-gestos-de-acercamiento-con-macri-y-busc-2",
+      "titulo": "Jorge Macri negocia el recambio de autoridades en el Instituto Electoral mientras gana fuerza el plan para no desdoblar",
+      "categoria": "politica",
+      "prioritaria": true,
+      "desde": "2026-11-11T02:06:05-03:00",
+      "calor": 54,
+      "medios": [
+        "Infobae",
+        "La Nación",
+        "Ámbito"
+      ],
+      "en_x": true,
+      "posicion_x": 33,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Ámbito",
+          "titulo": "Jorge Macri negocia el recambio de autoridades en el Instituto Electoral mientras gana fuerza el plan para no desdoblar",
+          "link": "https://www.ambito.com/politica/jorge-macri-negocia-el-recambio-autoridades-el-instituto-electoral-mientras-gana-fuerza-el-plan-no-desdoblar-n6344186",
+          "hora": "2026-11-11T20:59:00-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Tras la derrota electoral, la Casa Blanca ya confronta a los demócratas por sus planes de investigar a Trump",
+          "link": "https://www.lanacion.com.ar/estados-unidos/tras-la-derrota-electoral-la-casa-blanca-ya-confronta-a-los-democratas-por-sus-planes-de-investigar-nid11112026/",
+          "hora": "2026-11-11T19:02:11-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Milei vuelve a hacer gestos de acercamiento con Macri y buscan retomar un entendimiento electoral",
+          "link": "https://www.infobae.com/politica/2026/11/11/milei-vuelve-a-hacer-gestos-de-acercamiento-con-macri-y-buscan-retomar-un-entendimiento-electoral/",
+          "hora": "2026-11-11T02:06:05-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "el-mensaje-de-despedida-de-leon-xiv-este-pais-ahora-tiene-do",
+      "titulo": "El mensaje de despedida de León XIV: “Este país ahora tiene dos Papas, uno que ha nacido aquí y otro por adopción”",
+      "categoria": "social",
+      "prioritaria": true,
+      "desde": "2026-11-11T14:33:00-03:00",
+      "calor": 53,
+      "medios": [
+        "Infobae",
+        "Ámbito"
+      ],
+      "en_x": true,
+      "posicion_x": 21,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "El papa León XIV se despidió de la Argentina tras una histórica visita: “Este país desde ahora tiene dos Papas, uno que ha nacido aquí y otro por adopción”",
+          "link": "https://www.infobae.com/sociedad/2026/11/11/ultimo-dia-del-papa-leon-xiv-en-la-argentina-noche-de-vigilia-en-lujan-y-una-misa-que-espera-reunir-a-mas-de-un-millon-de-fieles/",
+          "hora": "2026-11-11T21:24:31-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "El mensaje de despedida de León XIV: “Este país ahora tiene dos Papas, uno que ha nacido aquí y otro por adopción”",
+          "link": "https://www.infobae.com/sociedad/2026/11/11/el-mensaje-de-despedida-de-leon-xiv-este-pais-ahora-tiene-dos-papas-uno-que-ha-nacido-aqui-y-otro-por-adopcion/",
+          "hora": "2026-11-11T15:45:17-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "\"Este país tiene dos Papas: uno que nació aquí y otro por adopción\": se despidió León XIV a la Argentina",
+          "link": "https://www.ambito.com/informacion-general/este-pais-tiene-dos-papas-uno-que-nacio-aqui-y-otro-adopcion-se-despidio-leon-xiv-la-argentina-n6344062",
+          "hora": "2026-11-11T14:33:00-03:00"
         }
       ],
       "oficiales": [],
@@ -1032,7 +1181,7 @@
       "categoria": "espectaculos",
       "prioritaria": false,
       "desde": "2026-11-11T07:22:57-03:00",
-      "calor": 53,
+      "calor": 52,
       "medios": [
         "Clarín",
         "Infobae",
@@ -1080,37 +1229,36 @@
       "angulos": []
     },
     {
-      "id": "el-mensaje-de-despedida-de-leon-xiv-este-pais-ahora-tiene-do",
-      "titulo": "El mensaje de despedida de León XIV: “Este país ahora tiene dos Papas, uno que ha nacido aquí y otro por adopción”",
-      "categoria": "social",
-      "prioritaria": true,
-      "desde": "2026-11-11T14:33:00-03:00",
-      "calor": 53,
+      "id": "primera-reaccion-del-papa-leon-xiv-en-peru-el-santo-padre-se",
+      "titulo": "Primera reacción del papa León XIV en Perú: el santo padre se emociona ante el multitudinario recibimiento en Lima",
+      "categoria": "otros",
+      "prioritaria": false,
+      "desde": "2026-11-11T20:07:13-03:00",
+      "calor": 52,
       "medios": [
-        "Infobae",
-        "Ámbito"
+        "Infobae"
       ],
       "en_x": true,
-      "posicion_x": 21,
+      "posicion_x": 3,
       "en_google": false,
       "notas": [
         {
           "medio": "Infobae",
-          "titulo": "El papa León XIV se despidió de la Argentina tras una histórica visita: “Este país desde ahora tiene dos Papas, uno que ha nacido aquí y otro por adopción”",
-          "link": "https://www.infobae.com/sociedad/2026/11/11/ultimo-dia-del-papa-leon-xiv-en-la-argentina-noche-de-vigilia-en-lujan-y-una-misa-que-espera-reunir-a-mas-de-un-millon-de-fieles/",
-          "hora": "2026-11-11T19:57:08-03:00"
+          "titulo": "Primera reacción del papa León XIV en Perú: el santo padre se emociona ante el multitudinario recibimiento en Lima",
+          "link": "https://www.infobae.com/peru/2026/11/11/la-primera-reaccion-del-papa-leon-xiv-en-suelo-peruano-tras-aterrizar-en-lima-para-iniciar-su-visita-al-peru/",
+          "hora": "2026-11-11T20:32:13-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "El mensaje de despedida de León XIV: “Este país ahora tiene dos Papas, uno que ha nacido aquí y otro por adopción”",
-          "link": "https://www.infobae.com/sociedad/2026/11/11/el-mensaje-de-despedida-de-leon-xiv-este-pais-ahora-tiene-dos-papas-uno-que-ha-nacido-aqui-y-otro-por-adopcion/",
-          "hora": "2026-11-11T15:45:17-03:00"
+          "titulo": "Alianza Lima saluda la llegada de León XIV a Perú, su última parada del viaje apostólico a Sudamérica: “Bienvenido a casa, Santo Padre”",
+          "link": "https://www.infobae.com/peru/deportes/2026/11/11/alianza-lima-saluda-la-llegada-de-leon-xiv-a-peru-su-ultima-parada-del-viaje-apostolico-a-sudamerica-bienvenido-a-casa-santo-padre/",
+          "hora": "2026-11-11T20:28:14-03:00"
         },
         {
-          "medio": "Ámbito",
-          "titulo": "\"Este país tiene dos Papas: uno que nació aquí y otro por adopción\": se despidió León XIV a la Argentina",
-          "link": "https://www.ambito.com/informacion-general/este-pais-tiene-dos-papas-uno-que-nacio-aqui-y-otro-adopcion-se-despidio-leon-xiv-la-argentina-n6344062",
-          "hora": "2026-11-11T14:33:00-03:00"
+          "medio": "Infobae",
+          "titulo": "Los primeros minutos del papa León XIV en suelo peruano: honores, autoridades, sonrisas y emoción del santo padre y los peruanos",
+          "link": "https://www.infobae.com/peru/2026/11/11/los-primeros-minutos-del-papa-leon-xiv-en-suelo-peruano-honores-autoridades-sonrisas-y-emocion-del-santo-padre-y-los-peruanos/",
+          "hora": "2026-11-11T20:22:44-03:00"
         }
       ],
       "oficiales": [],
@@ -1118,13 +1266,57 @@
       "angulos": []
     },
     {
-      "id": "el-vicepresidente-de-estados-unidos-cancela-su-viaje-a-la-ar",
-      "titulo": "Estados Unidos podría perder su estatus de país libre de sarampión por primera vez en 26 años",
-      "categoria": "otros",
-      "prioritaria": false,
-      "desde": "2026-11-10T13:18:19-03:00",
+      "id": "jorge-rial-expuso-a-yanina-latorre-con-una-foto-de-la-misa-d",
+      "titulo": "Fuerte polémica por la “carpa VIP” en la misa del Papa en Palermo a la que asistieron políticos y famosos",
+      "categoria": "politica",
+      "prioritaria": true,
+      "desde": "2026-11-09T19:27:07-03:00",
       "calor": 51,
       "medios": [
+        "La Nación"
+      ],
+      "en_x": true,
+      "posicion_x": 8,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "La respuesta oficial del gobierno de Milei sobre la carpa VIP instalada en la misa del Papa en Palermo",
+          "link": "https://www.lanacion.com.ar/politica/la-respuesta-oficial-del-gobierno-de-milei-sobre-la-carpa-vip-instalada-en-la-misa-del-papa-en-nid11112026/",
+          "hora": "2026-11-11T17:05:05-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Jorge Macri reunió a su gabinete en medio de la controversia por la invitación de famosos a la “carpa VIP”",
+          "link": "https://www.lanacion.com.ar/politica/jorge-macri-reune-al-gabinete-en-medio-del-silencio-del-gobierno-porteno-por-la-invitacion-de-nid11112026/",
+          "hora": "2026-11-11T16:22:22-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Marcela Tinayre desmintió su presencia en la “carpa VIP” de la misa del papa León XIV en Palermo",
+          "link": "https://www.lanacion.com.ar/espectaculos/personajes/marcela-tinayre-desmintio-su-presencia-en-la-carpa-vip-de-la-misa-del-papa-leon-xiv-en-palermo-no-se-nid11112026/",
+          "hora": "2026-11-11T12:35:36-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Fuerte polémica por la “carpa VIP” en la misa del Papa en Palermo a la que asistieron políticos y famosos",
+          "link": "https://www.lanacion.com.ar/politica/fuerte-polemica-por-la-carpa-vip-en-la-misa-del-papa-en-palermo-a-la-que-asistieron-politicos-y-nid10112026/",
+          "hora": "2026-11-11T09:37:22-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "al-menos-un-muerto-y-multiples-heridos-tras-el-colapso-de-un",
+      "titulo": "Colapsó un edificio en construcción en Nueva York: al menos un muerto y 12 heridos",
+      "categoria": "otros",
+      "prioritaria": false,
+      "desde": "2026-11-11T00:01:00-03:00",
+      "calor": 51,
+      "medios": [
+        "Clarín",
         "Infobae",
         "La Nación",
         "Página/12"
@@ -1135,56 +1327,38 @@
       "notas": [
         {
           "medio": "Infobae",
-          "titulo": "Canciller Omar Bula ofreció disculpas al Partido Demócrata de Estados Unidos por antiguos comentarios en redes sociales: “No reflejan mis opiniones actuales”",
-          "link": "https://www.infobae.com/colombia/2026/11/11/canciller-omar-bula-ofrecio-disculpas-al-partido-democrata-de-estados-unidos-por-antiguos-comentarios-en-redes-sociales-no-reflejan-mis-opiniones-actuales/",
-          "hora": "2026-11-11T20:48:21-03:00"
+          "titulo": "Al menos un muerto y varios atrapados tras el derrumbe de un edificio en el distrito neoyorquino de Brooklyn",
+          "link": "https://www.infobae.com/america/agencias/2026/11/12/al-menos-un-muerto-y-varios-atrapados-tras-el-derrumbe-de-un-edificio-en-el-distrito-neoyorquino-de-brooklyn/",
+          "hora": "2026-11-11T21:00:55-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Al menos 1 muerto y 10 heridos tras derrumbarse un edificio de tres plantas en Nueva York",
+          "link": "https://www.clarin.com/estados-unidos/al-menos-1-muerto-y-10-heridos-tras-derrumbarse-un-edificio-de-tres-plantas-en-nueva-york_0_V0lau2h7zu.html",
+          "hora": "2026-11-11T21:00:17-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "“Proyección imaginativa”: un argentino gana el Premio de Novela en Español Escrita en Estados Unidos",
-          "link": "https://www.lanacion.com.ar/cultura/proyeccion-imaginativa-un-argentino-gana-el-premio-de-novela-en-espanol-escrita-en-estados-unidos-nid11112026/",
-          "hora": "2026-11-11T20:15:51-03:00"
+          "titulo": "Colapsó un edificio en construcción en Nueva York: al menos un muerto y 12 heridos",
+          "link": "https://www.lanacion.com.ar/el-mundo/colapso-un-edificio-en-construccion-en-nueva-york-bomberos-trabajan-en-el-rescate-de-personas-nid11112026/",
+          "hora": "2026-11-11T20:55:54-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Estados Unidos podría perder su estatus de país libre de sarampión por primera vez en 26 años",
-          "link": "https://www.infobae.com/estados-unidos/2026/11/11/estados-unidos-podria-perder-su-estatus-de-pais-libre-de-sarampion-por-primera-vez-en-26-anos/",
-          "hora": "2026-11-11T20:02:51-03:00"
+          "titulo": "Al menos un muerto y múltiples heridos tras el colapso de un edificio en Brooklyn",
+          "link": "https://www.infobae.com/estados-unidos/2026/11/11/al-menos-un-muerto-y-multiples-heridos-tras-el-colapso-de-un-edificio-en-brooklyn/",
+          "hora": "2026-11-11T20:52:19-03:00"
         },
         {
-          "medio": "La Nación",
-          "titulo": "Rescatan a un bebé en Estados Unidos tras ser enterrado vivo en una jaula para perros",
-          "link": "https://www.lanacion.com.ar/el-mundo/rescatan-a-un-bebe-en-estados-unidos-tras-ser-enterrado-vivo-en-una-jaula-para-perros-nid11112026/",
-          "hora": "2026-11-11T18:55:29-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Rusia anunció que murió “repentinamente” su embajador en Estados Unidos, Alexander Darchiev",
-          "link": "https://www.lanacion.com.ar/el-mundo/rusia-anuncio-que-murio-repentinamente-su-embajador-en-estados-unidos-alexander-darchiev-nid11112026/",
-          "hora": "2026-11-11T17:27:23-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Primer aporte nacional: durante 12 años evaluaron un riego usado en Israel y Estados Unidos y descubrieron importantes resultados",
-          "link": "https://www.lanacion.com.ar/economia/campo/primer-aporte-nacional-durante-12-anos-evaluaron-un-riego-usado-en-israel-y-estados-unidos-y-nid10112026/",
-          "hora": "2026-11-11T15:35:44-03:00"
+          "medio": "Clarín",
+          "titulo": "Un muerto y varios heridos por colapso de un edificio en Nueva York",
+          "link": "https://www.clarin.com/estados-unidos/un-muerto-y-varios-heridos-por-colapso-de-un-edificio-en-nueva-york_0_0lgvFaLvBA.html",
+          "hora": "2026-11-11T20:50:14-03:00"
         },
         {
           "medio": "Página/12",
-          "titulo": "La justicia de Estados Unidos confirmó la condena a Fred Machado",
-          "link": "https://www.pagina12.com.ar/2026/11/11/la-justicia-de-estados-unidos-confirmo-la-condena-a-fred-machado/",
-          "hora": "2026-11-11T11:06:40-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Con tasas más altas en Estados Unidos, el mercado mira el riesgo electoral argentino",
-          "link": "https://www.infobae.com/economia/2026/11/11/con-tasas-mas-altas-en-estados-unidos-el-mercado-mira-el-riesgo-electoral-argentino/",
-          "hora": "2026-11-11T00:29:15-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "La denuncia por “Cristina Libre” llegó al Congreso de los Estados Unidos",
-          "link": "https://www.pagina12.com.ar/2026/11/11/la-denuncia-por-cristina-libre-llego-al-congreso-de-los-estados-unidos/",
+          "titulo": "Dos choques en cadena en una autopista dejaron 12 muertos y 50 heridos",
+          "link": "https://www.pagina12.com.ar/2026/11/10/dos-choques-en-cadena-en-una-autopista-dejaron-12-muertos-y-50-heridos/",
           "hora": "2026-11-11T00:01:00-03:00"
         }
       ],
@@ -1193,31 +1367,57 @@
       "angulos": []
     },
     {
-      "id": "reabren-hoy-el-aeropuerto-de-ezeiza-pero-volvera-a-cerrar-do-3",
-      "titulo": "Frente a una multitud, el Papa celebrará una histórica misa en la Basílica de Luján antes de partir hacia Perú",
-      "categoria": "politica",
+      "id": "sorpresa-en-el-futbol-internacional-por-la-convocatoria-del",
+      "titulo": "Sorpresa en el fútbol internacional por la convocatoria del nieto de la leyenda Johan Cruyff a una selección de América",
+      "categoria": "social",
       "prioritaria": true,
-      "desde": "2026-11-10T17:33:47-03:00",
+      "desde": "2026-11-11T01:18:31-03:00",
       "calor": 51,
       "medios": [
+        "Infobae",
+        "Clarín",
         "La Nación",
-        "Infobae"
+        "Página/12"
       ],
-      "en_x": true,
-      "posicion_x": 2,
+      "en_x": false,
+      "posicion_x": null,
       "en_google": false,
       "notas": [
         {
-          "medio": "Infobae",
-          "titulo": "Frente a una multitud, el Papa celebrará una histórica misa en la Basílica de Luján antes de partir hacia Perú",
-          "link": "https://www.infobae.com/politica/2026/11/11/frente-a-una-multitud-el-papa-celebrara-una-historica-misa-en-la-basilica-de-lujan-antes-de-partir-hacia-peru/",
-          "hora": "2026-11-11T08:54:49-03:00"
+          "medio": "La Nación",
+          "titulo": "El Papa ya está en Sudamérica: la intimidad del viaje de León XIV",
+          "link": "https://www.lanacion.com.ar/el-mundo/el-papa-ya-esta-en-vuelo-la-intimidad-del-vuelo-del-papa-a-sudamerica-nid06112026/",
+          "hora": "2026-11-11T21:01:36-03:00"
         },
         {
-          "medio": "La Nación",
-          "titulo": "De la vigilia de los jóvenes a Luján: los argentinos hacen un viaje récord para llegar a ver al Papa en la última misa que celebrará en el país",
-          "link": "https://www.lanacion.com.ar/sociedad/de-la-vigilia-de-los-jovenes-a-lujan-los-argentinos-hacen-un-viaje-record-para-llegar-a-ver-al-papa-nid11112026/",
-          "hora": "2026-11-11T07:13:39-03:00"
+          "medio": "Infobae",
+          "titulo": "De TikTok a La Mansión VIP 2: quién es La Cukis, habitante sorpresa del reality de HotSpanish",
+          "link": "https://www.infobae.com/mexico/2026/11/12/de-tiktok-a-la-mansion-vip-2-quien-es-la-cukis-habitante-sorpresa-del-reality-de-hotspanish/",
+          "hora": "2026-11-11T21:01:11-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "España investiga la posible difusión de contenidos pedófilos en TikTok",
+          "link": "https://www.pagina12.com.ar/2026/11/11/espana-investiga-la-posible-difusion-de-contenidos-pedofilos-en-tiktok/",
+          "hora": "2026-11-11T17:55:44-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Sorpresa en el fútbol internacional por la convocatoria del nieto de la leyenda Johan Cruyff a una selección de América",
+          "link": "https://www.infobae.com/deportes/2026/11/11/sorpresa-en-el-futbol-internacional-por-la-convocatoria-del-nieto-de-la-leyenda-johan-cruyff-a-una-seleccion-de-america/",
+          "hora": "2026-11-11T16:08:07-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "La convocatoria de León XIV: ¿el Papa le ganó a Messi?",
+          "link": "https://www.clarin.com/sociedad/convocatoria-leon-xiv-papa-gano-messi_0_V28wl9I7wV.html",
+          "hora": "2026-11-11T15:42:55-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "La intimidad de la despedida definitiva de Rubens Barrichello de la Fórmula 1: la emotiva sorpresa que lo hizo llorar",
+          "link": "https://www.infobae.com/deportes/2026/11/11/la-intimidad-de-la-despedida-definitiva-de-rubens-barrichello-de-la-formula-1-la-emotiva-sorpresa-que-lo-hizo-llorar/",
+          "hora": "2026-11-11T01:18:31-03:00"
         }
       ],
       "oficiales": [],
@@ -1242,9 +1442,9 @@
       "notas": [
         {
           "medio": "Infobae",
-          "titulo": "Esta es la convocatoria de la selección Colombia sub-17 para el Mundial de Qatar: hay un jugador del Real Madrid",
+          "titulo": "Esta es la convocatoria de la selección Colombia Sub-17 para el Mundial de Qatar: hay un jugador del Real Madrid",
           "link": "https://www.infobae.com/colombia/deportes/2026/11/11/esta-es-la-convocatoria-de-la-seleccion-colombia-sub-17-para-el-mundial-de-qatar-hay-un-jugador-del-real-madrid/",
-          "hora": "2026-11-11T20:34:14-03:00"
+          "hora": "2026-11-11T20:57:20-03:00"
         },
         {
           "medio": "Infobae",
@@ -1294,51 +1494,31 @@
       "angulos": []
     },
     {
-      "id": "giro-total-en-tesla-dejaran-de-fabricar-la-cybertruck-en-tex",
-      "titulo": "Giro total en Tesla: dejarán de fabricar la Cybertruck en Texas para priorizar el robotaxi",
-      "categoria": "otros",
-      "prioritaria": false,
-      "desde": "2026-11-11T00:01:00-03:00",
+      "id": "reabren-hoy-el-aeropuerto-de-ezeiza-pero-volvera-a-cerrar-do-3",
+      "titulo": "Frente a una multitud, el Papa celebrará una histórica misa en la Basílica de Luján antes de partir hacia Perú",
+      "categoria": "politica",
+      "prioritaria": true,
+      "desde": "2026-11-10T17:33:47-03:00",
       "calor": 50,
       "medios": [
-        "Infobae",
         "La Nación",
-        "Página/12",
-        "Ámbito"
+        "Infobae"
       ],
-      "en_x": false,
-      "posicion_x": null,
+      "en_x": true,
+      "posicion_x": 2,
       "en_google": false,
       "notas": [
         {
+          "medio": "Infobae",
+          "titulo": "Frente a una multitud, el Papa celebrará una histórica misa en la Basílica de Luján antes de partir hacia Perú",
+          "link": "https://www.infobae.com/politica/2026/11/11/frente-a-una-multitud-el-papa-celebrara-una-historica-misa-en-la-basilica-de-lujan-antes-de-partir-hacia-peru/",
+          "hora": "2026-11-11T08:54:49-03:00"
+        },
+        {
           "medio": "La Nación",
-          "titulo": "Brian Harrison, republicano de Texas que pide limitar el poder de Hinojosa antes de 2027: “Seguimos teniendo el poder absoluto”",
-          "link": "https://www.lanacion.com.ar/estados-unidos/texas/brian-harrison-republicano-de-texas-que-pide-limitar-el-poder-de-hinojosa-antes-de-2027-seguimos-nid11112026/",
-          "hora": "2026-11-11T20:42:00-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "El petróleo de Texas sube un 0,57 % y cierra en 86,53 dólares",
-          "link": "https://www.infobae.com/america/agencias/2026/11/11/el-petroleo-de-texas-sube-un-057-y-cierra-en-8653-dolares/",
-          "hora": "2026-11-11T20:15:48-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Giro total en Tesla: dejarán de fabricar la Cybertruck en Texas para priorizar el robotaxi",
-          "link": "https://www.ambito.com/informacion-general/giro-total-tesla-dejaran-fabricar-la-cybertruck-texas-priorizar-el-robotaxi-n6344081",
-          "hora": "2026-11-11T20:00:00-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Tesla en la Argentina: qué modelos vendería, a qué precios y por qué no llegará la Cybertruck al país",
-          "link": "https://www.infobae.com/economia/2026/11/11/tesla-en-la-argentina-que-modelos-venderia-a-que-precios-y-por-que-no-llegara-la-cybertruck-al-pais/",
-          "hora": "2026-11-11T13:30:14-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "M. John Harrison, Premio Booker con una distopía que pone “el mundo patas arriba”",
-          "link": "https://www.pagina12.com.ar/2026/11/10/m-john-harrison-premio-booker-con-una-distopia-que-pone-el-mundo-patas-arriba/",
-          "hora": "2026-11-11T00:01:00-03:00"
+          "titulo": "De la vigilia de los jóvenes a Luján: los argentinos hacen un viaje récord para llegar a ver al Papa en la última misa que celebrará en el país",
+          "link": "https://www.lanacion.com.ar/sociedad/de-la-vigilia-de-los-jovenes-a-lujan-los-argentinos-hacen-un-viaje-record-para-llegar-a-ver-al-papa-nid11112026/",
+          "hora": "2026-11-11T07:13:39-03:00"
         }
       ],
       "oficiales": [],
@@ -1627,45 +1807,37 @@
       "angulos": []
     },
     {
-      "id": "de-transportar-a-jfk-y-marilyn-monroe-al-fondo-del-mar-hunde",
-      "titulo": "De transportar a JFK y Marilyn Monroe al fondo del mar: hunden el mítico S.S. United States para crear un arrecife artificial",
-      "categoria": "social",
+      "id": "tres-sitios-argentinos-fueron-declarados-patrimonio-geologic",
+      "titulo": "Tres sitios argentinos fueron declarados Patrimonio Geológico Mundial: cuáles son y qué los hace extraordinarios",
+      "categoria": "economia",
       "prioritaria": true,
-      "desde": "2026-11-11T13:22:48-03:00",
+      "desde": "2026-11-11T11:32:08-03:00",
       "calor": 49,
       "medios": [
         "Infobae",
-        "Clarín",
-        "La Nación",
-        "TN"
+        "La Nación"
       ],
       "en_x": false,
       "posicion_x": null,
-      "en_google": false,
+      "en_google": true,
       "notas": [
         {
+          "medio": "Infobae",
+          "titulo": "Tres sitios argentinos fueron declarados Patrimonio Geológico Mundial: cuáles son y qué los hace extraordinarios",
+          "link": "https://www.infobae.com/tendencias/2026/11/11/tres-sitios-argentinos-fueron-declarados-patrimonio-geologico-mundial-cuales-son-y-que-los-hace-extraordinarios/",
+          "hora": "2026-11-11T20:27:24-03:00"
+        },
+        {
           "medio": "La Nación",
-          "titulo": "Guerra con Ucrania: Rusia recurre a las silobolsas, una tecnología que generó una revolución en la Argentina",
-          "link": "https://www.lanacion.com.ar/economia/campo/guerra-con-ucrania-rusia-recurre-a-las-silobolsas-una-tecnologia-que-genero-una-revolucion-en-la-nid11112026/",
-          "hora": "2026-11-11T20:12:07-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "De transportar a JFK y Marilyn Monroe al fondo del mar: hunden el mítico S.S. United States para crear un arrecife artificial",
-          "link": "https://www.clarin.com/internacional/transportar-jfk-marilyn-monroe-fondo-mar-hunden-mitico-ss-united-states-crear-arrecife-artificial_0_Z9qh6GZgNx.html",
-          "hora": "2026-11-11T19:35:09-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "En 2016 trituraron 5000 inodoros viejos y tiraron sus restos al mar: los utilizaron para crear un refugio para 50.000 ostras",
-          "link": "https://tn.com.ar/sociedad/2026/11/11/en-2016-trituraron-5000-inodoros-viejos-y-tiraron-sus-restos-al-mar-los-utilizaron-para-crear-un-refugio-para-50000-ostras/",
-          "hora": "2026-11-11T19:20:29-03:00"
+          "titulo": "Por su valor único: tres sitios argentinos fueron incluidos en una prestigiosa lista internacional de patrimonio geológico",
+          "link": "https://www.lanacion.com.ar/sociedad/por-su-valor-unico-tres-sitios-argentinos-fueron-incluidos-en-una-prestigiosa-lista-internacional-de-nid11112026/",
+          "hora": "2026-11-11T15:37:21-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "De la revolución industrial a la inteligencia artificial: las ideas de Chesterton que vuelven a cobrar vigencia con León XIV",
-          "link": "https://www.infobae.com/sociedad/2026/11/11/de-la-revolucion-industrial-a-la-inteligencia-artificial-las-ideas-de-chesterton-que-vuelven-a-cobrar-vigencia-con-leon-xiv/",
-          "hora": "2026-11-11T13:22:48-03:00"
+          "titulo": "Macro Private Bank es la nueva propuesta de banca privada para clientes premium de alto patrimonio",
+          "link": "https://www.infobae.com/economia/2026/10/29/macro-private-bank-es-la-nueva-propuesta-de-banca-privada-para-clientes-premium-de-alto-patrimonio/",
+          "hora": "2026-11-11T11:32:08-03:00"
         }
       ],
       "oficiales": [],
@@ -1698,45 +1870,62 @@
       "angulos": []
     },
     {
-      "id": "leandro-paredes-y-su-noche-inolvidable-en-boca-ante-vasco-da-2",
-      "titulo": "La sorpresiva frase de Carlos Ischia sobre Boca: “Me molestó que no los descalificaran”",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-10T22:54:40-03:00",
-      "calor": 47,
+      "id": "el-vicepresidente-de-estados-unidos-cancela-su-viaje-a-la-ar",
+      "titulo": "Rescatan a un bebé en Estados Unidos tras ser enterrado vivo en una jaula para perros",
+      "categoria": "economia",
+      "prioritaria": true,
+      "desde": "2026-11-10T13:18:19-03:00",
+      "calor": 48,
       "medios": [
         "Infobae",
-        "Clarín",
         "La Nación",
-        "TN"
+        "Página/12"
       ],
       "en_x": false,
       "posicion_x": null,
       "en_google": false,
       "notas": [
         {
+          "medio": "Infobae",
+          "titulo": "Canciller Omar Bula ofreció disculpas al Partido Demócrata de Estados Unidos por antiguos comentarios en redes sociales: “No reflejan mis opiniones actuales”",
+          "link": "https://www.infobae.com/colombia/2026/11/11/canciller-omar-bula-ofrecio-disculpas-al-partido-democrata-de-estados-unidos-por-antiguos-comentarios-en-redes-sociales-no-reflejan-mis-opiniones-actuales/",
+          "hora": "2026-11-11T20:48:21-03:00"
+        },
+        {
           "medio": "La Nación",
-          "titulo": "La sorpresiva frase de Carlos Ischia sobre Boca: “Me molestó que no los descalificaran”",
-          "link": "https://www.lanacion.com.ar/deportes/la-sorpresiva-frase-de-un-extecnico-de-boca-por-la-polemica-en-la-copa-argentina-me-molesto-que-no-nid11112026/",
-          "hora": "2026-11-11T17:00:33-03:00"
+          "titulo": "“Proyección imaginativa”: un argentino gana el Premio de Novela en Español Escrita en Estados Unidos",
+          "link": "https://www.lanacion.com.ar/cultura/proyeccion-imaginativa-un-argentino-gana-el-premio-de-novela-en-espanol-escrita-en-estados-unidos-nid11112026/",
+          "hora": "2026-11-11T20:15:51-03:00"
         },
         {
-          "medio": "TN",
-          "titulo": "La sorpresiva frase de un exentrenador de Boca sobre la polémica de la Copa Argentina: “Me molestó que no lo descalifiquen”",
-          "link": "https://tn.com.ar/deportes/futbol/2026/11/11/la-sorpresiva-frase-de-un-exentrenador-de-boca-sobre-la-polemica-de-la-copa-argentina-me-molesto-que-no-lo-descalifiquen/",
-          "hora": "2026-11-11T15:35:15-03:00"
+          "medio": "La Nación",
+          "titulo": "Rescatan a un bebé en Estados Unidos tras ser enterrado vivo en una jaula para perros",
+          "link": "https://www.lanacion.com.ar/el-mundo/rescatan-a-un-bebe-en-estados-unidos-tras-ser-enterrado-vivo-en-una-jaula-para-perros-nid11112026/",
+          "hora": "2026-11-11T18:55:29-03:00"
         },
         {
-          "medio": "Clarín",
-          "titulo": "Reapareció Carlos Ischia y fue muy duro con Boca: \"Me molestó que no lo descalificaran de la Copa Argentina\"",
-          "link": "https://www.clarin.com/deportes/reaparecio-carlos-ischia-duro-boca-molesto-descalificaran-copa-argentina_0_ULxYVtf2tl.html",
-          "hora": "2026-11-11T13:39:56-03:00"
+          "medio": "La Nación",
+          "titulo": "Primer aporte nacional: durante 12 años evaluaron un riego usado en Israel y Estados Unidos y descubrieron importantes resultados",
+          "link": "https://www.lanacion.com.ar/economia/campo/primer-aporte-nacional-durante-12-anos-evaluaron-un-riego-usado-en-israel-y-estados-unidos-y-nid10112026/",
+          "hora": "2026-11-11T15:35:44-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "La justicia de Estados Unidos confirmó la condena a Fred Machado",
+          "link": "https://www.pagina12.com.ar/2026/11/11/la-justicia-de-estados-unidos-confirmo-la-condena-a-fred-machado/",
+          "hora": "2026-11-11T11:06:40-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Inesperado reclamo de un ex entrenador de Boca Juniors: “Lo tendrían que haber descalificado de la Copa Argentina”",
-          "link": "https://www.infobae.com/deportes/2026/11/11/inesperado-reclamo-de-un-ex-entrenador-de-boca-juniors-lo-tendrian-que-haber-descalificado-de-la-copa-argentina/",
-          "hora": "2026-11-11T11:05:04-03:00"
+          "titulo": "Con tasas más altas en Estados Unidos, el mercado mira el riesgo electoral argentino",
+          "link": "https://www.infobae.com/economia/2026/11/11/con-tasas-mas-altas-en-estados-unidos-el-mercado-mira-el-riesgo-electoral-argentino/",
+          "hora": "2026-11-11T00:29:15-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "La denuncia por “Cristina Libre” llegó al Congreso de los Estados Unidos",
+          "link": "https://www.pagina12.com.ar/2026/11/11/la-denuncia-por-cristina-libre-llego-al-congreso-de-los-estados-unidos/",
+          "hora": "2026-11-11T00:01:00-03:00"
         }
       ],
       "oficiales": [],
@@ -1746,10 +1935,10 @@
     {
       "id": "el-papa-celebro-su-ultima-misa-ante-una-multitud-en-lujan-y",
       "titulo": "El Papa celebró su última misa ante una multitud en Luján y se despidió con una arenga: “Argentina, levántate y camina”",
-      "categoria": "politica",
+      "categoria": "social",
       "prioritaria": true,
-      "desde": "2026-11-11T10:58:00-03:00",
-      "calor": 47,
+      "desde": "2026-11-11T01:45:39-03:00",
+      "calor": 48,
       "medios": [
         "Infobae",
         "La Nación",
@@ -1776,6 +1965,12 @@
           "titulo": "El papa León XIV llamó a la reconciliación para construir un nuevo futuro: \"¡Argentina, levántate y camina!\"",
           "link": "https://www.ambito.com/informacion-general/el-papa-leon-xiv-llamo-la-reconciliacion-construir-un-nuevo-futuro-argentina-levantate-y-camina-n6343891",
           "hora": "2026-11-11T10:58:00-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Luján, la última escala del papa León XIV en la Argentina: la espera de los fieles y los rezos por milagros y reconciliaciones",
+          "link": "https://www.infobae.com/sociedad/2026/11/11/lujan-la-ultima-escala-del-papa-leon-xiv-en-la-argentina-la-espera-de-los-fieles-y-los-rezos-por-milagros-y-reconciliaciones/",
+          "hora": "2026-11-11T01:45:39-03:00"
         }
       ],
       "oficiales": [],
@@ -1783,14 +1978,160 @@
       "angulos": []
     },
     {
-      "id": "cambia-una-regla-del-uscis-y-ee-uu-rechaza-permisos-de-traba",
-      "titulo": "México espera acuerdo siderúrgico con EE.UU. tras frenar importaciones asiáticas",
-      "categoria": "otros",
-      "prioritaria": false,
-      "desde": "2026-11-11T15:05:27-03:00",
+      "id": "la-emocion-y-las-lagrimas-del-papa-leon-xiv-al-despedirse-de-2",
+      "titulo": "La emoción de Luquitas Rodríguez tras participar en el encuentro del papa León XIV con los jóvenes: “Una felicidad enorme”",
+      "categoria": "social",
+      "prioritaria": true,
+      "desde": "2026-11-11T13:35:28-03:00",
       "calor": 47,
       "medios": [
-        "Clarín",
+        "La Nación",
+        "Infobae",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "Gabriel Rolón, sobre ser un hijo deseado: “No es lo mismo que ser el producto de un método anticonceptivo que falló”",
+          "link": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-sobre-ser-un-hijo-deseado-no-es-lo-mismo-que-ser-el-producto-de-un-metodo-nid11112026/",
+          "hora": "2026-11-11T21:00:00-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Gabriel Rolón, psicoanalista: “Podemos alcanzar la faltacidad, la mezcla de falta y felicidad, que es una felicidad en falta”",
+          "link": "https://www.lanacion.com.ar/lnmas/gabriel-rolon-psicoanalista-podemos-alcanzar-la-faltacidad-la-mezcla-de-falta-y-felicidad-que-es-una-nid09112026/",
+          "hora": "2026-11-11T19:41:00-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "La emoción de Luquitas Rodríguez tras participar en el encuentro del papa León XIV con los jóvenes: “Una felicidad enorme” - Video 1",
+          "link": "https://tn.com.ar/videos/show/famosos/2026/11/11/la-emocion-de-luquitas-rodriguez-tras-participar-en-el-encuentro-del-papa-leon-xiv-con-los-jovenes-una-felicidad-enorme-video-1/",
+          "hora": "2026-11-11T17:01:35-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "La emoción de Luquitas Rodríguez tras participar en el encuentro del papa León XIV con los jóvenes: “Una felicidad enorme”",
+          "link": "https://tn.com.ar/show/famosos/2026/11/11/la-emocion-de-luquitas-rodriguez-tras-participar-en-el-encuentro-del-papa-leon-xiv-con-los-jovenes-una-felicidad-enorme/",
+          "hora": "2026-11-11T17:01:33-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Reunión reservada del papa León XIV con empresarios argentinos y diplomáticos: detalles del encuentro y la emoción de los presentes",
+          "link": "https://www.infobae.com/economia/2026/11/11/reunion-reservada-del-papa-leon-xiv-con-empresarios-argentinos-y-diplomaticos-detalles-del-encuentro-y-la-emocion-de-los-presentes/",
+          "hora": "2026-11-11T16:15:33-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Las palabras de Luquitas Rodríguez frente al papa León XIV durante la vigilia con los jóvenes en Palermo",
+          "link": "https://www.lanacion.com.ar/sociedad/las-palabras-de-luquitas-rodriguez-al-papa-leon-xiv-durante-la-vigilia-con-los-jovenes-en-palermo-nid10112026/",
+          "hora": "2026-11-11T14:43:02-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "desde-una-joven-cartonera-a-una-agricultora-kolla-los-invita",
+      "titulo": "Desde una joven cartonera a una agricultora kolla: los invitados que formaron parte de la misa de León XIV en Luján",
+      "categoria": "politica",
+      "prioritaria": true,
+      "desde": "2026-11-11T00:01:00-03:00",
+      "calor": 46,
+      "medios": [
+        "La Nación",
+        "Infobae"
+      ],
+      "en_x": true,
+      "posicion_x": 34,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Desde una joven cartonera a una agricultora kolla: los invitados que formaron parte de la misa de León XIV en Luján",
+          "link": "https://www.infobae.com/sociedad/2026/11/11/desde-una-joven-cartonera-a-una-agricultora-kolla-los-invitados-que-formaron-parte-de-la-misa-de-leon-xiv-en-lujan/",
+          "hora": "2026-11-11T13:48:53-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Los invitados políticos a la última misa del Papa, con fuerte presencia del peronismo",
+          "link": "https://www.lanacion.com.ar/politica/los-invitados-politicos-a-la-ultima-misa-del-papa-con-fuerte-presencia-del-peronismo-nid11112026/",
+          "hora": "2026-11-11T12:02:01-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Los preparativos para la misa de León XIV en Luján: invitaciones del gobierno provincial y un operativo de ingreso para políticos",
+          "link": "https://www.lanacion.com.ar/politica/los-preparativos-para-la-misa-de-leon-xiv-en-lujan-invitaciones-del-gobierno-provincial-y-un-nid11112026/",
+          "hora": "2026-11-11T00:01:00-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "fin-de-semana-largo-donde-es-feriado-el-martes-10-de-noviemb",
+      "titulo": "Fin de semana largo: dónde es feriado el martes 10 de noviembre",
+      "categoria": "social",
+      "prioritaria": true,
+      "desde": "2026-11-11T07:57:08-03:00",
+      "calor": 46,
+      "medios": [
+        "La Nación",
+        "Infobae",
+        "Ámbito"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "Feriado: la “sinergia” que llevó a la costa a vivir un exitoso fin de semana como si fuera enero",
+          "link": "https://www.lanacion.com.ar/sociedad/feriado-la-sinergia-que-llevo-a-la-costa-a-vivir-un-exitoso-fin-de-semana-como-si-fuera-enero-nid11112026/",
+          "hora": "2026-11-11T21:19:26-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "El dólar mayorista retrocedió tras el fin de semana XXL y con restricciones ante el feriado en EEUU",
+          "link": "https://www.ambito.com/finanzas/dolar-el-mercado-retoma-las-operaciones-los-feriados-el-blue-mas-barato-que-el-oficial-y-el-mep-n6343798",
+          "hora": "2026-11-11T15:22:00-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Cuándo es el próximo fin de semana largo tras la visita del papa León XIV a la Argentina",
+          "link": "https://www.infobae.com/sociedad/2026/11/11/cuando-es-el-proximo-fin-de-semana-largo-tras-la-visita-del-papa-leon-xiv-a-la-argentina/",
+          "hora": "2026-11-11T13:58:35-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Fin de semana largo: dónde es feriado el miércoles 11 de noviembre",
+          "link": "https://www.lanacion.com.ar/sociedad/fin-de-semana-largo-donde-es-feriado-el-miercoles-11-de-noviembre-nid10112026/",
+          "hora": "2026-11-11T07:57:14-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Fin de semana largo: dónde es feriado el martes 10 de noviembre",
+          "link": "https://www.lanacion.com.ar/sociedad/fin-de-semana-largo-donde-es-feriado-el-martes-10-de-noviembre-nid09112026/",
+          "hora": "2026-11-11T07:57:08-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "internaron-de-urgencia-a-norberto-marcos-expareja-de-fatima",
+      "titulo": "Internaron de urgencia a Norberto Marcos, expareja de Fátima Florez",
+      "categoria": "espectaculos",
+      "prioritaria": false,
+      "desde": "2026-11-11T17:39:05-03:00",
+      "calor": 46,
+      "medios": [
+        "La Nación",
         "Infobae",
         "TN"
       ],
@@ -1800,39 +2141,109 @@
       "notas": [
         {
           "medio": "Infobae",
-          "titulo": "Reunieron el dinero para repatriar al niño colombiano que murió en accidente de motocross en EE. UU.: “Gracias a ustedes, Ryan regresa a casa”",
-          "link": "https://www.infobae.com/colombia/2026/11/11/reunieron-el-dinero-para-repatriar-al-nino-colombiano-que-murio-en-accidente-de-motocross-en-ee-uu-gracias-a-ustedes-ryan-regresa-a-casa/",
-          "hora": "2026-11-11T20:40:46-03:00"
+          "titulo": "Una mujer quedó atrapada con sus dos hijos en un edificio que se prendió fuego: el impactante rescate",
+          "link": "https://www.infobae.com/sociedad/2026/11/12/una-mujer-quedo-atrapada-con-sus-dos-hijos-en-un-edificio-que-se-prendio-fuego-el-impactante-rescate/",
+          "hora": "2026-11-11T21:12:30-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Colombia pide a EE.UU. mediar ante Venezuela para buscar a militar secuestrada por el ELN",
-          "link": "https://www.infobae.com/america/agencias/2026/11/11/colombia-pide-a-eeuu-mediar-ante-venezuela-para-buscar-a-militar-secuestrada-por-el-eln/",
-          "hora": "2026-11-11T20:16:21-03:00"
+          "titulo": "Un amigo de Norberto Marcos contó los motivos de su internación: “Se venía haciendo mala sangre”",
+          "link": "https://www.infobae.com/teleshow/2026/11/11/un-amigo-de-norberto-marcos-conto-los-motivos-de-su-internacion-se-venia-haciendo-mala-sangre/",
+          "hora": "2026-11-11T20:50:25-03:00"
         },
+        {
+          "medio": "TN",
+          "titulo": "Internaron a Norberto Marcos, expareja de Fátima Florez: qué se sabe sobre su salud",
+          "link": "https://tn.com.ar/show/famosos/2026/11/11/internaron-a-norberto-marcos-expareja-de-fatima-florez-que-se-sabe-sobre-su-salud/",
+          "hora": "2026-11-11T20:50:12-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Santiago del Estero: una mujer denunció a su expareja luego de descubrir un video en el que abusaba de su hijo de 6 años",
+          "link": "https://tn.com.ar/policiales/2026/11/11/santiago-del-estero-una-mujer-denuncio-a-su-expareja-luego-de-descubrir-un-video-en-el-que-abusaba-de-su-hijo-de-6-anos/",
+          "hora": "2026-11-11T18:44:07-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Internaron de urgencia a Norberto Marcos, expareja de Fátima Florez",
+          "link": "https://www.lanacion.com.ar/espectaculos/internaron-de-urgencia-a-norberto-marcos-expareja-de-fatima-florez-nid11112026/",
+          "hora": "2026-11-11T17:39:05-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "quien-es-la-joven-que-sufre-de-piel-de-cristal-que-el-papa-l",
+      "titulo": "Quién es la joven que sufre de “piel de cristal” que el Papa León XIV pidió conocer en Córdoba",
+      "categoria": "social",
+      "prioritaria": true,
+      "desde": "2026-11-11T19:45:59-03:00",
+      "calor": 46,
+      "medios": [
+        "Infobae"
+      ],
+      "en_x": true,
+      "posicion_x": 18,
+      "en_google": false,
+      "notas": [
         {
           "medio": "Infobae",
-          "titulo": "México espera acuerdo siderúrgico con EE.UU. tras frenar importaciones asiáticas",
-          "link": "https://www.infobae.com/america/agencias/2026/11/11/mexico-espera-acuerdo-siderurgico-con-eeuu-tras-frenar-importaciones-asiaticas/",
-          "hora": "2026-11-11T20:16:04-03:00"
-        },
+          "titulo": "Quién es la joven que sufre de “piel de cristal” que el Papa León XIV pidió conocer en Córdoba",
+          "link": "https://www.infobae.com/sociedad/2026/11/11/quien-es-la-joven-que-sufre-de-piel-de-cristal-que-el-papa-leon-xiv-pidio-conocer-en-cordoba/",
+          "hora": "2026-11-11T19:45:59-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "el-democrata-scott-colom-se-convierte-en-el-primer-senador-n",
+      "titulo": "El demócrata Scott Colom se convierte en el primer senador negro por Misisipi en 145 años",
+      "categoria": "otros",
+      "prioritaria": false,
+      "desde": "2026-11-11T20:20:03-03:00",
+      "calor": 46,
+      "medios": [
+        "Clarín",
+        "Infobae",
+        "La Nación"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
         {
-          "medio": "TN",
-          "titulo": "Rusia informó la muerte “repentina” de su embajador en EE.UU.: había asumido el cargo durante el acercamiento entre Putin y Trump",
-          "link": "https://tn.com.ar/internacional/2026/11/11/rusia-informo-la-muerte-repentina-de-su-embajador-en-estados-unidos-un-buen-camarada-y-lider-experimentado/",
-          "hora": "2026-11-11T19:26:57-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Rusia y Ucrania acordaron un nuevo canje de prisioneros “a gran escala” y prometieron mantener un diálogo con mediación de EE.UU.",
-          "link": "https://tn.com.ar/internacional/2026/11/11/rusia-y-ucrania-acordaron-un-nuevo-canje-de-prisioneros-a-gran-escala-y-prometieron-mantener-un-dialogo-con-mediacion-de-eeuu/",
-          "hora": "2026-11-11T15:26:18-03:00"
+          "medio": "La Nación",
+          "titulo": "Los demócratas consiguieron otra banca en el Senado en un distrito en el que no ganaban desde 1982",
+          "link": "https://www.lanacion.com.ar/estados-unidos/los-democratas-consiguieron-otra-banca-en-el-senado-en-un-distrito-en-el-que-no-ganaban-desde-1982-nid11112026/",
+          "hora": "2026-11-11T21:06:02-03:00"
         },
         {
           "medio": "Clarín",
-          "titulo": "La FDA de EE.UU. exige que las populares inyecciones para adelgazar adviertan que pueden dañar la vista",
-          "link": "https://www.clarin.com/sociedad/eeuu-ahora-exige-populares-inyecciones-adelgazar-adviertan-pueden-danar-vista_0_mjav6hW993.html",
-          "hora": "2026-11-11T15:05:27-03:00"
+          "titulo": "El demócrata Scott Colom se convierte en el primer senador negro por Misisipi en 145 años",
+          "link": "https://www.clarin.com/estados-unidos/el-democrata-scott-colom-se-convierte-en-el-primer-senador-negro-por-misisipi-en-145-anos_0_IToomYYg5k.html",
+          "hora": "2026-11-11T20:40:10-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "El demócrata Scott Colom se convierte en el primer senador negro por Misisipi en 145 años",
+          "link": "https://www.infobae.com/america/agencias/2026/11/11/el-democrata-scott-colom-se-convierte-en-el-primer-senador-negro-por-misisipi-en-145-anos/",
+          "hora": "2026-11-11T20:30:18-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Demócratas logran una victoria histórica en Misisipi y amplían mayoría en Senado de EEUU",
+          "link": "https://www.clarin.com/estados-unidos/democratas-logran-una-victoria-historica-en-misisipi-y-amplian-mayoria-en-senado-de-eeuu_0_mpOuPRIOy4.html",
+          "hora": "2026-11-11T20:20:09-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "El demócrata Scott Colom gana las elecciones al Senado de EEUU por Mississippi",
+          "link": "https://www.clarin.com/estados-unidos/el-democrata-scott-colom-gana-las-elecciones-al-senado-de-eeuu-por-mississippi_0_cjfYZwJDTs.html",
+          "hora": "2026-11-11T20:20:03-03:00"
         }
       ],
       "oficiales": [],
@@ -1841,11 +2252,11 @@
     },
     {
       "id": "mapa-de-cortes-de-calles-por-la-misa-del-papa-leon-xiv-cierr-2",
-      "titulo": "Quién es Leonardo Bertulazzi, de terrorista de las temidas Brigadas Rojas italianas a \"ese señor tan bueno\"",
-      "categoria": "social",
+      "titulo": "La fuga de Leonardo Bertulazzi: el recuerdo de las Brigadas Rojas y un secuestro que mantuvo en vilo a Italia",
+      "categoria": "politica",
       "prioritaria": true,
       "desde": "2026-11-08T22:43:21-03:00",
-      "calor": 46,
+      "calor": 45,
       "medios": [
         "Infobae",
         "Clarín",
@@ -1869,12 +2280,6 @@
           "hora": "2026-11-11T13:27:04-03:00"
         },
         {
-          "medio": "Clarín",
-          "titulo": "Quién es Leonardo Bertulazzi, de terrorista de las temidas Brigadas Rojas italianas a \"ese señor tan bueno\"",
-          "link": "https://www.clarin.com/sociedad/leonardo-bertulazzi-terrorista-temidas-brigadas-rojas-italianas-senor-bueno_0_C1gMhd8D8A.html",
-          "hora": "2026-11-11T13:15:29-03:00"
-        },
-        {
           "medio": "Página/12",
           "titulo": "Un exmiembro de las Brigadas Rojas se fugó de su detención domiciliaria en San Telmo",
           "link": "https://www.pagina12.com.ar/2026/11/11/un-exmiembro-de-una-organizacion-terrorista-italiana-se-fugo-de-su-prision-domiciliaria-en-san-telmo/",
@@ -1892,50 +2297,50 @@
       "angulos": []
     },
     {
-      "id": "el-riesgo-pais-se-desplomo-7-y-cerro-por-debajo-de-los-900-p-2-2",
-      "titulo": "Mercados: las acciones argentinas operaron dispares en una jornada con actividad limitada en Wall Street",
+      "id": "leon-xiv-el-contundente-elogio-del-papa-a-la-innovacion-agri-2-2",
+      "titulo": "Tenía 81 años: murió un productor agropecuario y sospechan que lo mató un carnero",
       "categoria": "economia",
       "prioritaria": true,
-      "desde": "2026-11-09T18:06:05-03:00",
-      "calor": 46,
+      "desde": "2026-11-10T00:01:00-03:00",
+      "calor": 45,
       "medios": [
         "Infobae",
-        "Ámbito",
-        "Página/12"
+        "La Nación",
+        "Clarín"
       ],
       "en_x": false,
       "posicion_x": null,
       "en_google": false,
       "notas": [
         {
-          "medio": "Ámbito",
-          "titulo": "Wall Street rebotó con fuerza de la mano de la inteligencia artificial: CoreWeave se disparó casi 25%",
-          "link": "https://www.ambito.com/finanzas/los-futuros-wall-street-adelantan-un-fuerte-rebote-un-resultado-alentador-del-sector-tecnologico-n6343818",
-          "hora": "2026-11-11T18:51:00-03:00"
+          "medio": "Infobae",
+          "titulo": "Tragedia en una localidad bonaerense: un productor rural apareció muerto e investigan si lo atacó un carnero",
+          "link": "https://www.infobae.com/sociedad/2026/11/11/tragedia-en-una-localidad-bonaerense-un-productor-rural-aparecio-muerto-e-investigan-si-lo-ataco-un-carnero/",
+          "hora": "2026-11-11T17:39:06-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Tras lograr destrabar las exportaciones, un productor de Chaco hizo un nuevo envío de sandías a Uruguay",
+          "link": "https://www.clarin.com/rural/messi-sandia-hizo-nuevo-lograr-destrabar-exportaciones-recupero-mercados-hizo-nuevo-envio-apunta-generar-polo-productivo_0_IaXRELpM2L.html",
+          "hora": "2026-11-11T17:19:58-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Tenía 81 años: murió un productor agropecuario y sospechan que lo mató un carnero",
+          "link": "https://www.lanacion.com.ar/economia/campo/misteriosa-muerte-sospechan-que-un-carnero-mato-a-un-productor-agropecuario-de-81-anos-nid10112026/",
+          "hora": "2026-11-11T15:24:11-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "“Perspectivas favorables”: Cresud, el brazo agropecuario de IRSA, sembrará 324.000 hectáreas, un 3,3% más",
+          "link": "https://www.lanacion.com.ar/economia/campo/perspectivas-favorables-cresud-el-brazo-agropecuario-de-irsa-sembrara-324000-hectareas-un-33-mas-nid11112026/",
+          "hora": "2026-11-11T10:32:34-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Mercados: las acciones argentinas operaron dispares en una jornada con actividad limitada en Wall Street",
-          "link": "https://www.infobae.com/economia/2026/11/11/mercados-las-acciones-argentinas-operan-sin-cambios-en-una-jornada-con-actividad-limitada-en-wall-street/",
-          "hora": "2026-11-11T18:06:09-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Repunte de los papeles argentinos en Wall Street",
-          "link": "https://www.pagina12.com.ar/2026/11/10/repunte-de-los-papeles-argentinos-en-wall-street/",
-          "hora": "2026-11-11T00:01:00-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Diálogos de Wall Street: acechan nubarrones en el mercado, y truenos en la Fed por tasas e inflación",
-          "link": "https://www.ambito.com/economia/dialogos-wall-street-acechan-nubarrones-el-mercado-y-truenos-la-fed-tasas-e-inflacion-n6343753",
-          "hora": "2026-11-11T00:00:00-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Las acciones argentinas cerraron en baja en Wall Street, pese a la mejora de los bonos",
-          "link": "https://www.infobae.com/economia/2026/11/10/las-acciones-argentinas-caen-en-wall-street-por-la-baja-del-petroleo-y-el-dato-de-inflacion-de-eeuu/",
-          "hora": "2026-11-10T20:58:45-03:00"
+          "titulo": "Las exportaciones de vino se dispararon 19% en octubre, pero aún siguen en terreno negativo en el acumulado del año",
+          "link": "https://www.infobae.com/economia/2026/11/11/las-exportaciones-de-vino-se-dispararon-19-en-octubre-pero-aun-siguen-en-terreno-negativo-en-el-acumulado-del-ano/",
+          "hora": "2026-11-11T00:27:05-03:00"
         }
       ],
       "oficiales": [],
@@ -1948,7 +2353,7 @@
       "categoria": "politica",
       "prioritaria": true,
       "desde": "2026-11-10T07:29:32-03:00",
-      "calor": 46,
+      "calor": 45,
       "medios": [
         "Infobae",
         "La Nación",
@@ -1999,7 +2404,7 @@
       "categoria": "espectaculos",
       "prioritaria": false,
       "desde": "2026-11-10T20:45:53-03:00",
-      "calor": 46,
+      "calor": 45,
       "medios": [
         "Clarín",
         "Infobae",
@@ -2045,91 +2450,60 @@
       "angulos": []
     },
     {
-      "id": "desde-una-joven-cartonera-a-una-agricultora-kolla-los-invita",
-      "titulo": "Desde una joven cartonera a una agricultora kolla: los invitados que formaron parte de la misa de León XIV en Luján",
+      "id": "de-los-restaurantes-a-los-hospitales-como-la-ia-cambia-las-o",
+      "titulo": "De los restaurantes a los hospitales: cómo la IA cambia las operaciones y qué recomienda Sam Altman",
+      "categoria": "otros",
+      "prioritaria": false,
+      "desde": "2026-11-11T00:01:00-03:00",
+      "calor": 45,
+      "medios": [
+        "La Nación",
+        "Infobae",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "TN",
+          "titulo": "Los 5 errores de ciberseguridad al buscar trabajo con IA: qué no hacer y cómo cuidar tus datos",
+          "link": "https://tn.com.ar/tecno/novedades/2026/11/11/los-5-errores-de-ciberseguridad-al-buscar-trabajo-con-ia-que-no-hacer-y-como-cuidar-tus-datos/",
+          "hora": "2026-11-11T19:56:13-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "La UBA prepara un evento a beneficio del Hospital de Clínicas que sorteará objetos donados por deportistas y artistas",
+          "link": "https://www.infobae.com/sociedad/2026/11/11/la-uba-prepara-un-evento-a-beneficio-del-hospital-de-clinicas-que-sorteara-objetos-donados-por-deportistas-y-artistas/",
+          "hora": "2026-11-11T18:53:36-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Se cayó ChatGPT en todo el mundo: qué pasó con la IA más popular",
+          "link": "https://tn.com.ar/tecno/novedades/2026/11/11/se-cayo-chatgpt-en-todo-el-mundo-que-paso-y-cuando-vuelve-la-ia/",
+          "hora": "2026-11-11T18:21:19-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "De los restaurantes a los hospitales: cómo la IA cambia las operaciones y qué recomienda Sam Altman",
+          "link": "https://www.lanacion.com.ar/tecnologia/de-los-restaurantes-a-los-hospitales-como-la-ia-cambia-las-operaciones-y-que-recomienda-sam-altman-nid11112026/",
+          "hora": "2026-11-11T00:01:00-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "milei-vuelve-a-hacer-gestos-de-acercamiento-con-macri-y-busc",
+      "titulo": "“Agradezco a Dios” y “entre mate y mate”: la emotiva definición del papa León XIV sobre el pueblo argentino",
       "categoria": "politica",
       "prioritaria": true,
-      "desde": "2026-11-11T00:01:00-03:00",
-      "calor": 46,
+      "desde": "2026-11-11T02:06:05-03:00",
+      "calor": 45,
       "medios": [
-        "La Nación",
-        "Infobae"
-      ],
-      "en_x": true,
-      "posicion_x": 34,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Desde una joven cartonera a una agricultora kolla: los invitados que formaron parte de la misa de León XIV en Luján",
-          "link": "https://www.infobae.com/sociedad/2026/11/11/desde-una-joven-cartonera-a-una-agricultora-kolla-los-invitados-que-formaron-parte-de-la-misa-de-leon-xiv-en-lujan/",
-          "hora": "2026-11-11T13:48:53-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Los invitados políticos a la última misa del Papa, con fuerte presencia del peronismo",
-          "link": "https://www.lanacion.com.ar/politica/los-invitados-politicos-a-la-ultima-misa-del-papa-con-fuerte-presencia-del-peronismo-nid11112026/",
-          "hora": "2026-11-11T12:02:01-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Los preparativos para la misa de León XIV en Luján: invitaciones del gobierno provincial y un operativo de ingreso para políticos",
-          "link": "https://www.lanacion.com.ar/politica/los-preparativos-para-la-misa-de-leon-xiv-en-lujan-invitaciones-del-gobierno-provincial-y-un-nid11112026/",
-          "hora": "2026-11-11T00:01:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "luciano-pereyra-se-emociono-hasta-las-lagrimas-antes-de-la-m",
-      "titulo": "Luciano Pereyra se emocionó hasta las lágrimas antes de la misa del papa León XIV en Luján",
-      "categoria": "espectaculos",
-      "prioritaria": false,
-      "desde": "2026-11-11T09:37:00-03:00",
-      "calor": 46,
-      "medios": [
-        "La Nación",
-        "Ámbito"
-      ],
-      "en_x": true,
-      "posicion_x": 36,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "“Solo le pido a Dios”, la canción que emocionó a Juan Pablo II y a Francisco y que ahora escuchó León XIV",
-          "link": "https://www.lanacion.com.ar/espectaculos/musica/solo-le-pido-a-dios-la-cancion-que-se-convirtio-en-una-plegaria-que-emociono-a-juan-pablo-ii-y-a-nid11112026/",
-          "hora": "2026-11-11T14:05:13-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Luciano Pereyra se emocionó hasta las lágrimas antes de la misa del papa León XIV en Luján",
-          "link": "https://www.lanacion.com.ar/espectaculos/personajes/luciano-pereyra-se-emociono-hasta-las-lagrimas-antes-de-la-misa-del-papa-leon-xiv-en-lujan-nid11112026/",
-          "hora": "2026-11-11T11:19:14-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Luciano Pereyra cantó \"Solo le pido a Dios\" en la previa de la llegada del papa León XIV a Luján",
-          "link": "https://www.ambito.com/espectaculos/luciano-pereyra-canto-solo-le-pido-dios-la-previa-la-llegada-del-papa-leon-xiv-lujan-n6343853",
-          "hora": "2026-11-11T09:37:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "la-emocion-y-las-lagrimas-del-papa-leon-xiv-al-despedirse-de-2",
-      "titulo": "La emoción de Luquitas Rodríguez tras participar en el encuentro del papa León XIV con los jóvenes: “Una felicidad enorme”",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-11-11T13:35:28-03:00",
-      "calor": 46,
-      "medios": [
-        "La Nación",
         "Infobae",
+        "Clarín",
         "TN"
       ],
       "en_x": false,
@@ -2137,149 +2511,28 @@
       "en_google": false,
       "notas": [
         {
-          "medio": "La Nación",
-          "titulo": "Gabriel Rolón, psicoanalista: “Podemos alcanzar la faltacidad, la mezcla de falta y felicidad, que es una felicidad en falta”",
-          "link": "https://www.lanacion.com.ar/lnmas/gabriel-rolon-psicoanalista-podemos-alcanzar-la-faltacidad-la-mezcla-de-falta-y-felicidad-que-es-una-nid09112026/",
-          "hora": "2026-11-11T19:41:00-03:00"
+          "medio": "TN",
+          "titulo": "Tras el gesto de Milei de invitar a Macri a la misa de León XIV, el PRO retoma su armado territorial y las negociaciones con LLA",
+          "link": "https://tn.com.ar/politica/2026/11/11/tras-el-gesto-de-milei-de-invitar-a-macri-a-la-misa-de-leon-xiv-el-pro-retoma-su-armado-territorial-y-las-negociaciones-con-lla/",
+          "hora": "2026-11-11T20:13:48-03:00"
         },
         {
-          "medio": "TN",
-          "titulo": "La emoción de Luquitas Rodríguez tras participar en el encuentro del papa León XIV con los jóvenes: “Una felicidad enorme” - Video 1",
-          "link": "https://tn.com.ar/videos/show/famosos/2026/11/11/la-emocion-de-luquitas-rodriguez-tras-participar-en-el-encuentro-del-papa-leon-xiv-con-los-jovenes-una-felicidad-enorme-video-1/",
-          "hora": "2026-11-11T17:01:35-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "La emoción de Luquitas Rodríguez tras participar en el encuentro del papa León XIV con los jóvenes: “Una felicidad enorme”",
-          "link": "https://tn.com.ar/show/famosos/2026/11/11/la-emocion-de-luquitas-rodriguez-tras-participar-en-el-encuentro-del-papa-leon-xiv-con-los-jovenes-una-felicidad-enorme/",
-          "hora": "2026-11-11T17:01:33-03:00"
+          "medio": "Clarín",
+          "titulo": "Ley Malvinas: el trasfondo de las negociaciones en Diputados y las dudas por el capítulo electoral",
+          "link": "https://www.clarin.com/politica/ley-malvinas-trasfondo-negociaciones-diputados-dudas-capitulo-electoral_0_BWcrWsqRil.html",
+          "hora": "2026-11-11T16:55:00-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Reunión reservada del papa León XIV con empresarios argentinos y diplomáticos: detalles del encuentro y la emoción de los presentes",
-          "link": "https://www.infobae.com/economia/2026/11/11/reunion-reservada-del-papa-leon-xiv-con-empresarios-argentinos-y-diplomaticos-detalles-del-encuentro-y-la-emocion-de-los-presentes/",
-          "hora": "2026-11-11T16:15:33-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Las palabras de Luquitas Rodríguez frente al papa León XIV durante la vigilia con los jóvenes en Palermo",
-          "link": "https://www.lanacion.com.ar/sociedad/las-palabras-de-luquitas-rodriguez-al-papa-leon-xiv-durante-la-vigilia-con-los-jovenes-en-palermo-nid10112026/",
-          "hora": "2026-11-11T14:43:02-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "quien-es-la-joven-que-sufre-de-piel-de-cristal-que-el-papa-l",
-      "titulo": "Quién es la joven que sufre de “piel de cristal” que el Papa León XIV pidió conocer en Córdoba",
-      "categoria": "social",
-      "prioritaria": true,
-      "desde": "2026-11-11T19:45:59-03:00",
-      "calor": 46,
-      "medios": [
-        "Infobae"
-      ],
-      "en_x": true,
-      "posicion_x": 18,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Quién es la joven que sufre de “piel de cristal” que el Papa León XIV pidió conocer en Córdoba",
-          "link": "https://www.infobae.com/sociedad/2026/11/11/quien-es-la-joven-que-sufre-de-piel-de-cristal-que-el-papa-leon-xiv-pidio-conocer-en-cordoba/",
-          "hora": "2026-11-11T19:45:59-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "leon-xiv-el-contundente-elogio-del-papa-a-la-innovacion-agri-2-2-2",
-      "titulo": "La agenda de la TV del jueves: Italia, Francia, España e Inglaterra en la Liga de las Naciones de Europa",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-10T00:01:00-03:00",
-      "calor": 45,
-      "medios": [
-        "La Nación",
-        "TN",
-        "Página/12"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "La agenda de la TV del jueves: Italia, Francia, España e Inglaterra en la Liga de las Naciones de Europa",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-del-jueves-italia-francia-espana-e-inglaterra-en-la-liga-de-las-naciones-de-nid11112026/",
-          "hora": "2026-11-11T20:29:27-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Evacuan escuelas en Italia por denuncias de bombas",
-          "link": "https://www.pagina12.com.ar/2026/11/11/evacuan-escuelas-en-italia-por-denuncias-de-bombas/",
-          "hora": "2026-11-11T16:57:17-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Tensión en Europa: alrededor de 6000 escuelas recibieron amenazas de bomba en Italia y hubo evacuaciones de emergencia en Escocia",
-          "link": "https://tn.com.ar/internacional/2026/11/11/tension-en-europa-alrededor-de-6000-escuelas-recibieron-amenazas-de-bomba-en-italia-y-hubo-evacuaciones-de-emergencia-en-escocia/",
-          "hora": "2026-11-11T15:17:16-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "La agenda de la TV del miércoles: el WTA Finals de tenis femenino, la NBA y los Juegos Olímpicos de la Juventud",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-del-miercoles-el-wta-finals-de-tenis-femenino-la-nba-y-los-juegos-olimpicos-de-la-nid10112026/",
-          "hora": "2026-11-11T00:02:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "corrientes-en-alerta-por-incendios-forestales-un-foco-se-rea",
-      "titulo": "Corrientes en alerta por incendios forestales: un foco se reactivó y otras cuatro zonas están bajo riesgo extremo",
-      "categoria": "social",
-      "prioritaria": true,
-      "desde": "2026-11-11T00:01:00-03:00",
-      "calor": 45,
-      "medios": [
-        "Infobae",
-        "Página/12",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "La Agencia Nacional de Tierras formaliza predios rurales para las familias afectadas por los incendios forestales que consumieron más de 31.000 hectáreas en Tolima",
-          "link": "https://www.infobae.com/colombia/2026/11/11/la-agencia-nacional-de-tierras-formaliza-predios-rurales-para-las-familias-afectadas-por-los-incendios-forestales-que-consumieron-mas-de-31000-hectareas-en-tolima/",
-          "hora": "2026-11-11T20:49:11-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Una estancia de Córdoba tenía 350.000 hectáreas y 5 tipos de ganado: en 1868 donaron tierras para una ciudad de 60.000 habitantes",
-          "link": "https://tn.com.ar/sociedad/2026/11/11/una-estancia-de-cordoba-tenia-350000-hectareas-y-5-tipos-de-ganado-en-1868-donaron-tierras-para-una-ciudad-de-60000-habitantes/",
-          "hora": "2026-11-11T15:09:18-03:00"
+          "titulo": "“Agradezco a Dios” y “entre mate y mate”: la emotiva definición del papa León XIV sobre el pueblo argentino",
+          "link": "https://www.infobae.com/sociedad/2026/11/11/agradezco-a-dios-y-entre-mate-y-mate-la-emotiva-definicion-del-papa-leon-xiv-sobre-el-pueblo-argentino/",
+          "hora": "2026-11-11T12:26:49-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Corrientes en alerta por incendios forestales: un foco se reactivó y otras cuatro zonas están bajo riesgo extremo",
-          "link": "https://www.infobae.com/sociedad/2026/11/11/corrientes-en-alerta-por-incendios-forestales-un-foco-se-reactivo-y-otras-cuatro-zonas-estan-bajo-riesgo-extremo/",
-          "hora": "2026-11-11T00:23:34-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Villa Lugano: ordenan garantizar condiciones de seguridad ante incendios en el barrio La Dulce",
-          "link": "https://www.pagina12.com.ar/2026/11/10/villa-lugano-ordenan-garantizar-condiciones-de-seguridad-ante-incendios-en-el-barrio-la-dulce/",
-          "hora": "2026-11-11T00:01:00-03:00"
+          "titulo": "Las negociaciones por el Presupuesto 2027 siguen sin definiciones y los aliados ya desconfían del Gobierno",
+          "link": "https://www.infobae.com/politica/2026/11/11/las-negociaciones-por-el-presupuesto-2027-siguen-sin-definiciones-y-los-aliados-ya-desconfian-del-gobierno/",
+          "hora": "2026-11-11T02:06:41-03:00"
         }
       ],
       "oficiales": [],
@@ -2332,6 +2585,89 @@
       "angulos": []
     },
     {
+      "id": "luciano-pereyra-se-emociono-hasta-las-lagrimas-antes-de-la-m",
+      "titulo": "Luciano Pereyra se emocionó hasta las lágrimas antes de la misa del papa León XIV en Luján",
+      "categoria": "espectaculos",
+      "prioritaria": false,
+      "desde": "2026-11-11T09:37:00-03:00",
+      "calor": 45,
+      "medios": [
+        "La Nación",
+        "Ámbito"
+      ],
+      "en_x": true,
+      "posicion_x": 36,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "“Solo le pido a Dios”, la canción que emocionó a Juan Pablo II y a Francisco y que ahora escuchó León XIV",
+          "link": "https://www.lanacion.com.ar/espectaculos/musica/solo-le-pido-a-dios-la-cancion-que-se-convirtio-en-una-plegaria-que-emociono-a-juan-pablo-ii-y-a-nid11112026/",
+          "hora": "2026-11-11T14:05:13-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Luciano Pereyra se emocionó hasta las lágrimas antes de la misa del papa León XIV en Luján",
+          "link": "https://www.lanacion.com.ar/espectaculos/personajes/luciano-pereyra-se-emociono-hasta-las-lagrimas-antes-de-la-misa-del-papa-leon-xiv-en-lujan-nid11112026/",
+          "hora": "2026-11-11T11:19:14-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Luciano Pereyra cantó \"Solo le pido a Dios\" en la previa de la llegada del papa León XIV a Luján",
+          "link": "https://www.ambito.com/espectaculos/luciano-pereyra-canto-solo-le-pido-dios-la-previa-la-llegada-del-papa-leon-xiv-lujan-n6343853",
+          "hora": "2026-11-11T09:37:00-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "salen-los-brasilenos-y-entran-los-mexicanos-se-vendio-una-de",
+      "titulo": "Salen los brasileños y entran los mexicanos: se vendió una de las siderúrgicas más antiguas del país",
+      "categoria": "economia",
+      "prioritaria": true,
+      "desde": "2026-11-11T11:53:03-03:00",
+      "calor": 45,
+      "medios": [
+        "La Nación",
+        "Clarín",
+        "Infobae"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Lilly Téllez acusa a Sheinbaum de defender a Andy López Beltrán pese al rechazo de los mexicanos",
+          "link": "https://www.infobae.com/mexico/2026/11/11/lilly-tellez-acusa-a-sheinbaum-de-defender-a-andy-lopez-beltran-pese-al-rechazo-de-los-mexicanos/",
+          "hora": "2026-11-11T20:56:55-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Inesperado giro en el crimen del padre de futbolista brasileño Rony: encuentro íntimo y una deuda",
+          "link": "https://www.infobae.com/deportes/2026/11/11/inesperado-giro-en-el-crimen-del-padre-de-futbolista-brasileno-rony-encuentro-intimo-y-una-deuda/",
+          "hora": "2026-11-11T14:35:59-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Salen los brasileños y entran los mexicanos: se vendió una de las siderúrgicas más antiguas del país",
+          "link": "https://www.clarin.com/economia/salen-brasilenos-entran-mexicanos-vendio-siderurgicas-antiguas-pais_0_PVeDyTlv5i.html",
+          "hora": "2026-11-11T11:58:24-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Un grupo mexicano compró la siderúrgica Acerbrag",
+          "link": "https://www.lanacion.com.ar/economia/negocios/un-grupo-mexicano-compro-la-siderurgica-acerbrag-nid11112026/",
+          "hora": "2026-11-11T11:53:03-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
       "id": "el-mensaje-de-despedida-del-papa-leon-xiv-antes-de-viajar-ha-2",
       "titulo": "El mensaje de despedida del papa León XIV antes de viajar hacia Perú: “Hasta siempre, mi querida Argentina”",
       "categoria": "social",
@@ -2365,14 +2701,14 @@
     },
     {
       "id": "frankie-muniz-fue-hospitalizado-tras-sufrir-un-accidente-dur",
-      "titulo": "Frankie Muniz fue hospitalizado tras sufrir un accidente durante prácticas de NASCAR",
+      "titulo": "Frankie Muniz, estrella de Malcolm in the Middle, fue hospitalizado tras sufrir un fuerte choque en Florida",
       "categoria": "espectaculos",
       "prioritaria": false,
-      "desde": "2026-11-11T19:15:12-03:00",
+      "desde": "2026-11-11T12:21:54-03:00",
       "calor": 45,
       "medios": [
-        "Infobae",
         "La Nación",
+        "Infobae",
         "TN"
       ],
       "en_x": false,
@@ -2383,7 +2719,7 @@
           "medio": "La Nación",
           "titulo": "Frankie Muniz, estrella de Malcolm in the Middle, fue hospitalizado tras sufrir un fuerte choque en Florida",
           "link": "https://www.lanacion.com.ar/espectaculos/frankie-muniz-estrella-de-malcolm-in-the-middle-fue-hospitalizado-tras-sufrir-un-fuerte-choque-en-nid11112026/",
-          "hora": "2026-11-11T20:41:36-03:00"
+          "hora": "2026-11-11T20:47:30-03:00"
         },
         {
           "medio": "TN",
@@ -2393,15 +2729,15 @@
         },
         {
           "medio": "Infobae",
-          "titulo": "Un accidente de auto llevó a Frankie Muniz al hospital: ¿peligra su próxima visita a México?",
-          "link": "https://www.infobae.com/mexico/2026/11/11/un-accidente-de-auto-llevo-a-frankie-muniz-al-hospital-peligra-su-proxima-visita-a-mexico/",
-          "hora": "2026-11-11T20:15:00-03:00"
-        },
-        {
-          "medio": "Infobae",
           "titulo": "Frankie Muniz fue hospitalizado tras sufrir un accidente durante prácticas de NASCAR",
           "link": "https://www.infobae.com/entretenimiento/2026/11/11/frankie-muniz-fue-hospitalizado-tras-sufrir-un-accidente-durante-practicas-de-nascar/",
           "hora": "2026-11-11T19:15:12-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Una mujer murió y un hombre quedó hospitalizado tras chocar y volcar en Entre Ríos",
+          "link": "https://www.lanacion.com.ar/sociedad/una-mujer-murio-y-un-hombre-quedo-hospitalizado-tras-chocar-y-volcar-en-entre-rios-nid11112026/",
+          "hora": "2026-11-11T12:21:54-03:00"
         }
       ],
       "oficiales": [],
@@ -2409,15 +2745,15 @@
       "angulos": []
     },
     {
-      "id": "leon-xiv-el-contundente-elogio-del-papa-a-la-innovacion-agri-2-2",
-      "titulo": "Los motivos que dispararon la tensión entre Zinedine Zidane y Kylian Mbappé en la selección de Francia",
-      "categoria": "economia",
+      "id": "hay-gente-dispuesta-a-hundir-el-barco-sugestivo-mensaje-de-m",
+      "titulo": "\"Hay gente dispuesta a hundir el barco\": sugestivo mensaje de Milei en medio del conflicto del Gobierno con Patricia Bullrich",
+      "categoria": "politica",
       "prioritaria": true,
-      "desde": "2026-11-10T00:01:00-03:00",
-      "calor": 44,
+      "desde": "2026-11-11T16:23:49-03:00",
+      "calor": 45,
       "medios": [
-        "Infobae",
         "Clarín",
+        "Ámbito",
         "Página/12"
       ],
       "en_x": false,
@@ -2426,27 +2762,97 @@
       "notas": [
         {
           "medio": "Página/12",
-          "titulo": "UEFA: la Italia de Mancini recibe a la Francia de Zidane",
-          "link": "https://www.pagina12.com.ar/2026/11/11/uefa-la-italia-de-mancini-recibe-a-la-francia-de-zidane/",
-          "hora": "2026-11-11T17:23:53-03:00"
+          "titulo": "“Hay gente dispuesta a hundir el barco”: Comenzaron los tambores de guerra contra Bullrich",
+          "link": "https://www.pagina12.com.ar/2026/11/11/hay-gente-dispuesta-a-hundir-el-barco-comenzaron-los-tambores-de-guerra-contra-bullrich/",
+          "hora": "2026-11-11T20:59:38-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Javier Milei agitó la interna libertaria con un posteo en plena tensión con Patricia Bullrich: \"Hay gente dispuesta a hundir el barco\"",
+          "link": "https://www.ambito.com/politica/javier-milei-agito-la-interna-libertaria-un-posteo-plena-tension-patricia-bullrich-hay-gente-dispuesta-hundir-el-barco-n6344226",
+          "hora": "2026-11-11T20:06:00-03:00"
         },
         {
           "medio": "Clarín",
-          "titulo": "Tras lograr destrabar las exportaciones, un productor de Chaco hizo un nuevo envío de sandías a Uruguay",
-          "link": "https://www.clarin.com/rural/messi-sandia-hizo-nuevo-lograr-destrabar-exportaciones-recupero-mercados-hizo-nuevo-envio-apunta-generar-polo-productivo_0_IaXRELpM2L.html",
-          "hora": "2026-11-11T17:19:58-03:00"
+          "titulo": "Cerca de Bullrich se desmarcaron del llamativo mensaje de Milei: \"Patricia no se da por aludida\"",
+          "link": "https://www.clarin.com/politica/cerca-bullrich-desmarcaron-llamativo-mensaje-milei-patricia-da-aludida_0_mSB7Hkh5hm.html",
+          "hora": "2026-11-11T17:58:46-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "\"Hay gente dispuesta a hundir el barco\": sugestivo mensaje de Milei en medio del conflicto del Gobierno con Patricia Bullrich",
+          "link": "https://www.clarin.com/politica/gente-dispuesta-hundir-barco-sugestivo-mensaje-milei-medio-conflicto-gobierno-patricia-bullrich_0_1f174QW9qW.html",
+          "hora": "2026-11-11T16:23:49-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "el-riesgo-pais-se-desplomo-7-y-cerro-por-debajo-de-los-900-p-2-2",
+      "titulo": "Mercados: las acciones argentinas operaron dispares en una jornada con actividad limitada en Wall Street",
+      "categoria": "economia",
+      "prioritaria": true,
+      "desde": "2026-11-09T18:06:05-03:00",
+      "calor": 44,
+      "medios": [
+        "Infobae",
+        "Ámbito",
+        "Página/12"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Ámbito",
+          "titulo": "Wall Street rebotó con fuerza de la mano de la inteligencia artificial: CoreWeave se disparó casi 25%",
+          "link": "https://www.ambito.com/finanzas/los-futuros-wall-street-adelantan-un-fuerte-rebote-un-resultado-alentador-del-sector-tecnologico-n6343818",
+          "hora": "2026-11-11T18:51:00-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Los motivos que dispararon la tensión entre Zinedine Zidane y Kylian Mbappé en la selección de Francia",
-          "link": "https://www.infobae.com/deportes/2026/11/11/los-motivos-que-dispararon-la-tension-entre-zinedine-zidane-y-kylian-mbappe-en-la-seleccion-de-francia/",
-          "hora": "2026-11-11T15:02:47-03:00"
+          "titulo": "Mercados: las acciones argentinas operaron dispares en una jornada con actividad limitada en Wall Street",
+          "link": "https://www.infobae.com/economia/2026/11/11/mercados-las-acciones-argentinas-operan-sin-cambios-en-una-jornada-con-actividad-limitada-en-wall-street/",
+          "hora": "2026-11-11T18:06:09-03:00"
         },
         {
-          "medio": "Infobae",
-          "titulo": "Las exportaciones de vino se dispararon 19% en octubre, pero aún siguen en terreno negativo en el acumulado del año",
-          "link": "https://www.infobae.com/economia/2026/11/11/las-exportaciones-de-vino-se-dispararon-19-en-octubre-pero-aun-siguen-en-terreno-negativo-en-el-acumulado-del-ano/",
-          "hora": "2026-11-11T00:27:05-03:00"
+          "medio": "Página/12",
+          "titulo": "Repunte de los papeles argentinos en Wall Street",
+          "link": "https://www.pagina12.com.ar/2026/11/10/repunte-de-los-papeles-argentinos-en-wall-street/",
+          "hora": "2026-11-11T00:01:00-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Diálogos de Wall Street: acechan nubarrones en el mercado, y truenos en la Fed por tasas e inflación",
+          "link": "https://www.ambito.com/economia/dialogos-wall-street-acechan-nubarrones-el-mercado-y-truenos-la-fed-tasas-e-inflacion-n6343753",
+          "hora": "2026-11-11T00:00:00-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "el-papa-en-devoto-entre-la-euforia-de-los-vecinos-y-los-recl",
+      "titulo": "El Papa en Devoto: entre la euforia de los vecinos y los reclamos de “las mujeres de la fila”",
+      "categoria": "social",
+      "prioritaria": true,
+      "desde": "2026-11-11T11:29:20-03:00",
+      "calor": 44,
+      "medios": [
+        "Página/12"
+      ],
+      "en_x": true,
+      "posicion_x": 4,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Página/12",
+          "titulo": "El Papa en Devoto: entre la euforia de los vecinos y los reclamos de “las mujeres de la fila”",
+          "link": "https://www.pagina12.com.ar/2026/11/11/el-papa-en-devoto-entre-la-euforia-de-los-vecinos-y-los-reclamos-de-las-mujeres-de-la-fila/",
+          "hora": "2026-11-11T11:29:20-03:00"
         }
       ],
       "oficiales": [],
@@ -2596,49 +3002,10 @@
       "angulos": []
     },
     {
-      "id": "el-emotivo-discurso-de-leon-xiv-ante-una-multitud-de-jovenes",
-      "titulo": "El emotivo discurso de León XIV ante una multitud de jóvenes: “No permitan que nada ni nadie les arrebate la libertad”",
-      "categoria": "politica",
-      "prioritaria": true,
-      "desde": "2026-11-10T23:24:42-03:00",
-      "calor": 43,
-      "medios": [
-        "La Nación",
-        "Infobae",
-        "Ámbito"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "El pueblo de Washington que construyó un hospital y una escuela con los impuestos de Microsoft, aunque no todos sus vecinos salieron ganando",
-          "link": "https://www.infobae.com/estados-unidos/2026/11/11/el-pueblo-de-washington-que-construyo-un-hospital-y-una-escuela-con-los-impuestos-de-microsoft-aunque-no-todos-sus-vecinos-salieron-ganando/",
-          "hora": "2026-11-11T20:01:58-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Se fue el papa León XIV y Javier Milei encara el frente interno: dudas en Washington y La Libertad Avanza en llamas",
-          "link": "https://www.ambito.com/politica/se-fue-el-papa-leon-xiv-y-javier-milei-encara-el-frente-interno-dudas-washington-y-la-libertad-avanza-llamas-n6343918",
-          "hora": "2026-11-11T14:23:00-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "El emotivo discurso de León XIV ante una multitud de jóvenes: “No permitan que nada ni nadie les arrebate la libertad”",
-          "link": "https://www.lanacion.com.ar/politica/el-papa-leon-xiv-encabezo-una-vigilia-en-palermo-y-llamo-a-los-jovenes-a-desconfiar-de-los-idolos-nid10112026/",
-          "hora": "2026-11-10T23:24:42-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "al-menos-un-muerto-y-multiples-heridos-tras-el-colapso-de-un",
-      "titulo": "Al menos un muerto y múltiples heridos tras el colapso de un edificio en Brooklyn",
-      "categoria": "social",
-      "prioritaria": true,
+      "id": "giro-total-en-tesla-dejaran-de-fabricar-la-cybertruck-en-tex-2",
+      "titulo": "Brian Harrison, republicano de Texas que pide limitar el poder de Hinojosa antes de 2027: “Seguimos teniendo el poder absoluto”",
+      "categoria": "espectaculos",
+      "prioritaria": false,
       "desde": "2026-11-11T00:01:00-03:00",
       "calor": 43,
       "medios": [
@@ -2652,59 +3019,20 @@
       "notas": [
         {
           "medio": "La Nación",
-          "titulo": "Colapsó un edificio en construcción en Nueva York: al menos un muerto y 12 heridos",
-          "link": "https://www.lanacion.com.ar/el-mundo/colapso-un-edificio-en-construccion-en-nueva-york-bomberos-trabajan-en-el-rescate-de-personas-nid11112026/",
-          "hora": "2026-11-11T20:24:45-03:00"
+          "titulo": "Brian Harrison, republicano de Texas que pide limitar el poder de Hinojosa antes de 2027: “Seguimos teniendo el poder absoluto”",
+          "link": "https://www.lanacion.com.ar/estados-unidos/texas/brian-harrison-republicano-de-texas-que-pide-limitar-el-poder-de-hinojosa-antes-de-2027-seguimos-nid11112026/",
+          "hora": "2026-11-11T20:42:00-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Al menos un muerto y múltiples heridos tras el colapso de un edificio en Brooklyn",
-          "link": "https://www.infobae.com/estados-unidos/2026/11/11/al-menos-un-muerto-y-multiples-heridos-tras-el-colapso-de-un-edificio-en-brooklyn/",
-          "hora": "2026-11-11T20:24:42-03:00"
+          "titulo": "El petróleo de Texas sube un 0,57 % y cierra en 86,53 dólares",
+          "link": "https://www.infobae.com/america/agencias/2026/11/11/el-petroleo-de-texas-sube-un-057-y-cierra-en-8653-dolares/",
+          "hora": "2026-11-11T20:15:48-03:00"
         },
         {
           "medio": "Página/12",
-          "titulo": "Dos choques en cadena en una autopista dejaron 12 muertos y 50 heridos",
-          "link": "https://www.pagina12.com.ar/2026/11/10/dos-choques-en-cadena-en-una-autopista-dejaron-12-muertos-y-50-heridos/",
-          "hora": "2026-11-11T00:01:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "el-hijo-de-connie-ansaldi-conto-que-se-va-a-estudiar-a-china",
-      "titulo": "El hijo de Connie Ansaldi contó que se va a estudiar a China: “Voy a aprender de robótica, manga e industrias”",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-11-11T00:01:00-03:00",
-      "calor": 43,
-      "medios": [
-        "La Nación",
-        "Página/12",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "Efecto China y “costo argentino”: referentes de la industria del acero elogian avances macro, pero alertan por el empleo y la competitividad",
-          "link": "https://www.lanacion.com.ar/economia/efecto-china-y-costo-argentino-referentes-de-la-industria-del-acero-elogian-avances-macro-pero-nid11112026/",
-          "hora": "2026-11-11T17:52:12-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "El hijo de Connie Ansaldi contó que se va a estudiar a China: “Voy a aprender de robótica, manga e industrias”",
-          "link": "https://tn.com.ar/show/famosos/2026/11/11/el-hijo-de-connie-ansaldi-conto-que-se-va-a-estudiar-a-china-voy-a-aprender-de-robotica-manga-e-industrias/",
-          "hora": "2026-11-11T17:09:31-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "La industria textil, en la lona",
-          "link": "https://www.pagina12.com.ar/2026/11/10/la-industria-textil-en-la-lona/",
+          "titulo": "M. John Harrison, Premio Booker con una distopía que pone “el mundo patas arriba”",
+          "link": "https://www.pagina12.com.ar/2026/11/10/m-john-harrison-premio-booker-con-una-distopia-que-pone-el-mundo-patas-arriba/",
           "hora": "2026-11-11T00:01:00-03:00"
         }
       ],
@@ -2745,213 +3073,6 @@
           "titulo": "Mujertrova, hermandad de cancioneras para transformar la realidad",
           "link": "https://www.pagina12.com.ar/2026/11/11/mujertrova-hermandad-de-cancioneras-para-transformar-la-realidad/",
           "hora": "2026-11-11T00:01:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "por-que-el-petroleo-se-desplomo-pero-no-impacta-en-el-precio",
-      "titulo": "Por qué el petróleo se desplomó, pero no impacta en el precio de la nafta",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-11-11T00:29:50-03:00",
-      "calor": 43,
-      "medios": [
-        "Infobae",
-        "La Nación",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "TN",
-          "titulo": "Tras la baja del petróleo, el Gobierno explicó qué puede pasar con el precio de la nafta",
-          "link": "https://tn.com.ar/economia/2026/11/11/tras-la-baja-del-petroleo-el-gobierno-explico-que-puede-pasar-con-el-precio-de-la-nafta/",
-          "hora": "2026-11-11T16:47:34-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "El precio del petróleo se desplomó casi 21% en menos de dos semanas: cuándo va a bajar la nafta en la Argentina",
-          "link": "https://www.infobae.com/economia/2026/11/11/el-precio-del-petroleo-se-desplomo-casi-21-en-menos-de-dos-semanas-cuando-va-a-bajar-la-nafta-en-la-argentina/",
-          "hora": "2026-11-11T13:40:34-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Por qué el petróleo se desplomó, pero no impacta en el precio de la nafta",
-          "link": "https://www.lanacion.com.ar/economia/el-petroleo-se-desplomo-pero-la-nafta-no-la-cuenta-pendiente-que-refleja-el-surtidor-local-nid11112026/",
-          "hora": "2026-11-11T12:24:30-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Baja del petróleo: cuánto costaba la nafta en la Argentina la última vez que el barril estuvo por debajo de los USD 90",
-          "link": "https://www.infobae.com/economia/2026/11/11/baja-del-petroleo-cuanto-costaba-la-nafta-en-la-argentina-la-ultima-vez-que-el-barril-estuvo-por-debajo-de-los-usd-90/",
-          "hora": "2026-11-11T00:29:50-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "milei-vuelve-a-hacer-gestos-de-acercamiento-con-macri-y-busc",
-      "titulo": "Milei vuelve a hacer gestos de acercamiento con Macri y buscan retomar un entendimiento electoral",
-      "categoria": "politica",
-      "prioritaria": true,
-      "desde": "2026-11-11T02:06:05-03:00",
-      "calor": 43,
-      "medios": [
-        "Infobae",
-        "Clarín",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "TN",
-          "titulo": "Tras el gesto de Milei de invitar a Macri a la misa de León XIV, el PRO retoma su armado territorial y las negociaciones con LLA",
-          "link": "https://tn.com.ar/politica/2026/11/11/tras-el-gesto-de-milei-de-invitar-a-macri-a-la-misa-de-leon-xiv-el-pro-retoma-su-armado-territorial-y-las-negociaciones-con-lla/",
-          "hora": "2026-11-11T20:13:48-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Ley Malvinas: el trasfondo de las negociaciones en Diputados y las dudas por el capítulo electoral",
-          "link": "https://www.clarin.com/politica/ley-malvinas-trasfondo-negociaciones-diputados-dudas-capitulo-electoral_0_BWcrWsqRil.html",
-          "hora": "2026-11-11T16:55:00-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Milei vuelve a hacer gestos de acercamiento con Macri y buscan retomar un entendimiento electoral",
-          "link": "https://www.infobae.com/politica/2026/11/11/milei-vuelve-a-hacer-gestos-de-acercamiento-con-macri-y-buscan-retomar-un-entendimiento-electoral/",
-          "hora": "2026-11-11T02:06:05-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "axel-kicillof-despliega-sus-embajadores-en-todo-el-litoral-p",
-      "titulo": "Axel Kicillof despliega sus embajadores en todo el litoral para consolidar su armado electoral",
-      "categoria": "politica",
-      "prioritaria": true,
-      "desde": "2026-11-11T08:18:00-03:00",
-      "calor": 43,
-      "medios": [
-        "Infobae",
-        "Ámbito",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "TN",
-          "titulo": "Kicillof promulgó una polémica ley que permite a los municipios destinar los fondos de los caminos rurales para las obras hídricas",
-          "link": "https://tn.com.ar/campo/2026/11/11/kicillof-promulgo-una-polemica-ley-que-permite-a-los-municipios-destinar-los-fondos-de-los-caminos-rurales-para-las-obras-hidricas/",
-          "hora": "2026-11-11T18:08:05-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Axel Kicillof despliega sus embajadores en todo el litoral para consolidar su armado electoral",
-          "link": "https://www.infobae.com/politica/2026/11/11/axel-kicillof-despliega-sus-embajadores-en-todo-el-litoral-para-consolidar-su-armado-electoral/",
-          "hora": "2026-11-11T15:28:29-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Axel Kicillof, antes de la misa en Luján: \"Los posicionamientos del Papa contrastan con los de la ultraderecha internacional\"",
-          "link": "https://www.ambito.com/axel-kicillof-antes-la-misa-lujan-los-posicionamientos-del-papa-contrastan-los-la-ultraderecha-internacional-n6343804",
-          "hora": "2026-11-11T08:18:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "detuvieron-en-aeroparque-a-la-pareja-de-lazaro-baez-tras-una",
-      "titulo": "Detuvieron a la pareja de Lázaro Báez en el aeropuerto de Ezeiza: sospechan que intentaba fugarse",
-      "categoria": "politica",
-      "prioritaria": true,
-      "desde": "2026-11-11T09:37:45-03:00",
-      "calor": 43,
-      "medios": [
-        "La Nación",
-        "Clarín",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "TN",
-          "titulo": "Detuvieron en Aeroparque a la pareja de Lázaro Báez: sospechan que planeaba fugarse",
-          "link": "https://tn.com.ar/politica/2026/11/11/detuvieron-en-aeroparque-a-la-pareja-de-lazaro-baez-y-sospechan-que-planeaba-fugarse/",
-          "hora": "2026-11-11T16:30:02-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Detuvieron a la novia de Lázaro Báez y a él lo dejaron incomunicado en el Penal de Ezeiza, en una causa de lavado con vínculos narco",
-          "link": "https://www.clarin.com/politica/detuvieron-novia-lazaro-baez-dejaron-incomunicado-penal-ezeiza-causa-lavado-vinculos-narco_0_6PkRXsFQwy.html",
-          "hora": "2026-11-11T15:48:19-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Detuvieron a la pareja de Lázaro Báez en el aeropuerto de Ezeiza: sospechan que intentaba fugarse",
-          "link": "https://www.lanacion.com.ar/politica/detuvieron-a-la-pareja-de-lazaro-baez-en-aeroparque-sospechan-que-intentaba-fugarse-nid11112026/",
-          "hora": "2026-11-11T13:52:51-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "En una causa por narcotráfico y lavado de dinero, allanaron propiedades de Lázaro Báez",
-          "link": "https://www.lanacion.com.ar/politica/allanan-propiedades-de-lazaro-baez-en-una-causa-por-narcotrafico-y-lavado-de-dinero-nid10112026/",
-          "hora": "2026-11-11T09:37:45-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "josep-guardiola-es-el-maximo-candidato-a-dirigir-una-selecci",
-      "titulo": "Josep Guardiola es el máximo candidato a dirigir una selección que está a punto de quedarse sin entrenador",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-11T11:16:10-03:00",
-      "calor": 43,
-      "medios": [
-        "Infobae",
-        "Página/12",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "TN",
-          "titulo": "La selección que tiene a Pep Guardiola como candidato para reemplazar a un DT argentino",
-          "link": "https://tn.com.ar/deportes/futbol/2026/11/11/la-seleccion-que-tiene-a-pep-guardiola-como-candidato-para-reemplazar-a-un-dt-argentino/",
-          "hora": "2026-11-11T19:16:59-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Josep Guardiola es el máximo candidato a dirigir una selección que está a punto de quedarse sin entrenador",
-          "link": "https://www.infobae.com/deportes/2026/11/11/josep-guardiola-es-el-maximo-candidato-a-dirigir-una-seleccion-que-esta-a-punto-de-quedarse-sin-entrenador/",
-          "hora": "2026-11-11T16:59:15-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Scaloni renueva con la Selección: el récord que conseguirá como DT de Argentina",
-          "link": "https://www.pagina12.com.ar/2026/11/11/scaloni-renueva-con-la-seleccion-el-record-que-conseguira-como-dt-de-argentina/",
-          "hora": "2026-11-11T11:16:10-03:00"
         }
       ],
       "oficiales": [],
@@ -3213,6 +3334,16 @@
   ],
   "google_trends": [
     {
+      "nombre": "river id",
+      "trafico": "100+",
+      "link": "https://www.google.com/search?q=river%20id"
+    },
+    {
+      "nombre": "patrimonio geológico",
+      "trafico": "100+",
+      "link": "https://www.google.com/search?q=patrimonio%20geol%C3%B3gico"
+    },
+    {
       "nombre": "argentina",
       "trafico": "10000+",
       "link": "https://www.google.com/search?q=argentina"
@@ -3221,21 +3352,6 @@
       "nombre": "selección de fútbol de uruguay",
       "trafico": "200+",
       "link": "https://www.google.com/search?q=selecci%C3%B3n%20de%20f%C3%BAtbol%20de%20uruguay"
-    },
-    {
-      "nombre": "fuerzas armadas",
-      "trafico": "2000+",
-      "link": "https://www.google.com/search?q=fuerzas%20armadas"
-    },
-    {
-      "nombre": "mercado de divisas",
-      "trafico": "1000+",
-      "link": "https://www.google.com/search?q=mercado%20de%20divisas"
-    },
-    {
-      "nombre": "allanamiento",
-      "trafico": "2000+",
-      "link": "https://www.google.com/search?q=allanamiento"
     }
   ],
   "estado_fuentes": [
@@ -3252,7 +3368,7 @@
     {
       "fuente": "La Nación",
       "ok": true,
-      "items": 445
+      "items": 446
     },
     {
       "fuente": "Página/12",
@@ -3277,7 +3393,7 @@
     {
       "fuente": "Google Trends AR",
       "ok": true,
-      "items": 5
+      "items": 4
     },
     {
       "fuente": "INDEC (calendario)",
