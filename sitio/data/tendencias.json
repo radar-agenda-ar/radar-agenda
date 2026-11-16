@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-16T13:42:02-03:00",
+  "actualizado": "2026-11-16T13:54:30-03:00",
   "proxima_actualizacion": "2026-11-16T16:00:00-03:00",
   "ia_disponible": false,
   "agenda_hoy": [
@@ -17,7 +17,7 @@
       "categoria": "espectaculos",
       "prioritaria": false,
       "desde": "2026-11-16T12:18:00-03:00",
-      "calor": 75,
+      "calor": 77,
       "medios": [
         "Clarín",
         "Infobae",
@@ -29,6 +29,12 @@
       "posicion_x": 2,
       "en_google": false,
       "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Robert Pattinson celebra su nombramiento como el nuevo James Bond: “Es un sueño hecho realidad”",
+          "link": "https://www.infobae.com/entretenimiento/2026/11/16/robert-pattinson-celebra-su-nombramiento-como-el-nuevo-james-bond-es-un-sueno-hecho-realidad/",
+          "hora": "2026-11-16T13:46:30-03:00"
+        },
         {
           "medio": "Infobae",
           "titulo": "El nuevo James Bond será Robert Pattinson y tendrá contrato por tres películas",
@@ -82,7 +88,7 @@
       "categoria": "otros",
       "prioritaria": false,
       "desde": "2026-11-16T00:36:31-03:00",
-      "calor": 74,
+      "calor": 73,
       "medios": [
         "La Nación",
         "Clarín",
@@ -110,12 +116,6 @@
           "titulo": "EE.UU. realizará este martes una prueba nacional del sistema de alerta de emergencias",
           "link": "https://www.clarin.com/estados-unidos/ee-uu-realizara-este-martes-una-prueba-nacional-del-sistema-de-alerta-de-emergencias_0_7PqZg3Sh5D.html",
           "hora": "2026-11-16T13:10:08-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Trump atribuye la paralización aérea en EE.UU. a \"equipos extremadamente antiguos\"",
-          "link": "https://www.infobae.com/america/agencias/2026/11/16/trump-atribuye-la-paralizacion-aerea-en-eeuu-a-equipos-extremadamente-antiguos/",
-          "hora": "2026-11-16T13:01:29-03:00"
         },
         {
           "medio": "Clarín",
@@ -299,7 +299,7 @@
       "categoria": "espectaculos",
       "prioritaria": false,
       "desde": "2026-11-16T11:00:00-03:00",
-      "calor": 67,
+      "calor": 68,
       "medios": [
         "Infobae",
         "Clarín",
@@ -309,6 +309,12 @@
       "posicion_x": 6,
       "en_google": false,
       "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "La mítica Dolly Parton recibe tres nominaciones póstumas a los Grammy",
+          "link": "https://www.infobae.com/america/agencias/2026/11/16/la-mitica-dolly-parton-recibe-tres-nominaciones-postumas-a-los-grammy/",
+          "hora": "2026-11-16T13:45:29-03:00"
+        },
         {
           "medio": "Infobae",
           "titulo": "Quién es RAYE, la cantante que iguala el récord de Beyoncé con 11 nominaciones a los Grammy 2027",
@@ -649,6 +655,52 @@
       "angulos": []
     },
     {
+      "id": "el-mensaje-de-lionel-scaloni-tras-la-derrota-de-la-seleccion-3",
+      "titulo": "Havanna prepara su desembarco en China, tras un acuerdo con Lionel Messi",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-11-13T18:43:00-03:00",
+      "calor": 57,
+      "medios": [
+        "Clarín",
+        "La Nación",
+        "Ámbito",
+        "Página/12"
+      ],
+      "en_x": true,
+      "posicion_x": 43,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Página/12",
+          "titulo": "Selección argentina: conferencia de Lionel Scaloni y viaje a Córdoba",
+          "link": "https://www.pagina12.com.ar/2026/11/16/seleccion-argentina-conferencia-de-lionel-scaloni-y-viaje-a-cordoba/",
+          "hora": "2026-11-16T13:45:58-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Havanna prepara su desembarco en China, tras un acuerdo con Lionel Messi",
+          "link": "https://www.lanacion.com.ar/economia/negocios/havanna-prepara-su-desembarco-en-china-tras-un-acuerdo-con-lionel-messi-nid16112026/",
+          "hora": "2026-11-16T12:27:16-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Lionel Messi recibirá en Miami un trofeo gigante de plata en reconocimiento a su trayectoria",
+          "link": "https://www.ambito.com/deportes/lionel-messi-recibira-miami-un-trofeo-gigante-plata-reconocimiento-su-trayectoria-n6345634",
+          "hora": "2026-11-16T11:06:00-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Enzo Fernández y Alexis Mac Allister: los encargados de bajar la línea discursiva de Scaloni explicaron cómo es construir un equipo sin Messi",
+          "link": "https://www.clarin.com/deportes/enzo-fernandez-alexis-mac-allister-encargados-bajar-linea-discursiva-scaloni-explicaron-construir-equipo-messi_0_8y2zISLzyz.html",
+          "hora": "2026-11-16T06:01:27-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
       "id": "piura-van-con-pasajeros-vuelca-en-quebrada-rio-seco-pese-a-l",
       "titulo": "Piura: van con pasajeros vuelca en quebrada Río Seco pese a las alertas y crece la preocupación en Morropón",
       "categoria": "economia",
@@ -681,51 +733,6 @@
           "titulo": "Alerta por el bolsillo: casi el 70% de los argentinos se queda sin plata antes del día 20 y crece el endeudamiento",
           "link": "https://www.ambito.com/economia/el-68-los-argentinos-se-queda-ingresos-antes-del-dia-20-y-casi-el-60-se-endeuda-llegar-fin-mes-n6345436",
           "hora": "2026-11-15T15:06:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-domingo",
-      "titulo": "Dólar oficial y dólar tarjeta: banco por banco, a cuánto cotizan este lunes 16 de noviembre",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-11-15T21:22:33-03:00",
-      "calor": 56,
-      "medios": [
-        "La Nación",
-        "TN",
-        "Página/12"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": true,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotizan el oficial y el paralelo este lunes 16 de noviembre, minuto a minuto",
-          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotizan-el-oficial-y-el-paralelo-este-lunes-16-de-noviembre-nid16112026/",
-          "hora": "2026-11-16T13:10:00-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Dólar blue, dólar hoy: a cuánto cotizan el lunes 16 de noviembre de 2026",
-          "link": "https://www.pagina12.com.ar/2026/11/16/dolar-blue-dolar-hoy-a-cuanto-cotizan-el-lunes-16-de-noviembre-de-2026/",
-          "hora": "2026-11-16T08:50:00-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Dólar: a cuánto cotizan el oficial y las otras opciones cambiarias este lunes 16 de noviembre",
-          "link": "https://tn.com.ar/economia/2026/11/16/dolar-a-cuanto-cotizan-el-oficial-y-las-otras-opciones-cambiarias-este-lunes-16-de-noviembre/",
-          "hora": "2026-11-16T08:20:00-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Dólar oficial y dólar tarjeta: banco por banco, a cuánto cotizan este lunes 16 de noviembre",
-          "link": "https://tn.com.ar/economia/2026/11/16/dolar-oficial-y-dolar-tarjeta-banco-por-banco-a-cuanto-cotizan-este-lunes-16-de-noviembre/",
-          "hora": "2026-11-16T07:48:00-03:00"
         }
       ],
       "oficiales": [],
@@ -821,6 +828,45 @@
       "angulos": []
     },
     {
+      "id": "dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-domingo",
+      "titulo": "Dólar: a cuánto cotizan el oficial y las otras opciones cambiarias este lunes 16 de noviembre",
+      "categoria": "economia",
+      "prioritaria": true,
+      "desde": "2026-11-15T21:22:33-03:00",
+      "calor": 55,
+      "medios": [
+        "La Nación",
+        "TN",
+        "Página/12"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": true,
+      "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotizan el oficial y el paralelo este lunes 16 de noviembre, minuto a minuto",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotizan-el-oficial-y-el-paralelo-este-lunes-16-de-noviembre-nid16112026/",
+          "hora": "2026-11-16T13:10:00-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Dólar blue, dólar hoy: a cuánto cotizan el lunes 16 de noviembre de 2026",
+          "link": "https://www.pagina12.com.ar/2026/11/16/dolar-blue-dolar-hoy-a-cuanto-cotizan-el-lunes-16-de-noviembre-de-2026/",
+          "hora": "2026-11-16T08:50:00-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Dólar: a cuánto cotizan el oficial y las otras opciones cambiarias este lunes 16 de noviembre",
+          "link": "https://tn.com.ar/economia/2026/11/16/dolar-a-cuanto-cotizan-el-oficial-y-las-otras-opciones-cambiarias-este-lunes-16-de-noviembre/",
+          "hora": "2026-11-16T08:20:00-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
       "id": "atp-finals-horacio-zeballos-debuto-con-un-triunfo-en-turin-y",
       "titulo": "ATP Finals: Horacio Zeballos debutó con un triunfo en Turín y dio el primer paso hacia el título que le falta",
       "categoria": "deportes",
@@ -881,14 +927,14 @@
     },
     {
       "id": "ayer-misionero-agustino-en-el-peru-hoy-pastor-de-todas-las-i",
-      "titulo": "Multitudinaria despedida al Papa León XIV en Perú: Cerca de dos millones de fieles se congregan para su última misa",
+      "titulo": "¿A qué hora se va el papa León XIV del Perú y cuándo llegará al Vaticano?",
       "categoria": "otros",
       "prioritaria": false,
       "desde": "2026-11-16T09:22:39-03:00",
       "calor": 54,
       "medios": [
-        "Infobae",
         "La Nación",
+        "Infobae",
         "TN",
         "Ámbito"
       ],
@@ -898,9 +944,33 @@
       "notas": [
         {
           "medio": "Infobae",
-          "titulo": "“¡El pueblo peruano también es mi pueblo!”: Papa León XIV se despidió de Perú con una misa en Las Palmas",
+          "titulo": "León XIV se despide de Perú y pide no olvidar a los pobres en una misa multitudinaria",
+          "link": "https://www.infobae.com/america/agencias/2026/11/16/leon-xiv-se-despide-de-peru-y-pide-no-olvidar-a-los-pobres-en-una-misa-multitudinaria/",
+          "hora": "2026-11-16T13:45:52-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "¿A qué hora se va el papa León XIV del Perú y cuándo llegará al Vaticano?",
+          "link": "https://www.infobae.com/peru/2026/11/16/a-que-hora-se-va-el-papa-leon-xiv-del-peru-y-cuando-llegara-al-vaticano/",
+          "hora": "2026-11-16T13:42:15-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Papa León XIV en Perú, EN VIVO: las últimas actividades antes del fin del viaje, minuto a minuto",
+          "link": "https://www.lanacion.com.ar/el-mundo/papa-leon-xiv-en-peru-en-vivo-las-ultimas-actividades-antes-del-fin-del-viaje-minuto-a-minuto-nid16112026/",
+          "hora": "2026-11-16T13:42:00-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Papa León XIV se despide de Perú: ¿A qué hora el sucesor de Pedro se va del país de regreso al Vaticano?",
+          "link": "https://www.infobae.com/peru/2026/11/15/papa-leon-xiv-se-despide-de-peru-a-que-hora-el-sucesor-de-pedro-se-va-del-pais-de-regreso-al-vaticano/",
+          "hora": "2026-11-16T13:40:34-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "“¡El pueblo peruano también es mi pueblo!”: Papa León XIV se despidió de Perú con una multitudinaria misa en Las Palmas",
           "link": "https://www.infobae.com/peru/2026/11/16/el-pueblo-peruano-tambien-es-mi-pueblo-leon-xiv-se-despidio-de-peru-con-una-misa-en-las-palmas/",
-          "hora": "2026-11-16T13:37:43-03:00"
+          "hora": "2026-11-16T13:38:46-03:00"
         },
         {
           "medio": "Ámbito",
@@ -909,40 +979,16 @@
           "hora": "2026-11-16T13:20:00-03:00"
         },
         {
-          "medio": "La Nación",
-          "titulo": "Papa León XIV en Perú, EN VIVO: las últimas actividades antes del fin del viaje, minuto a minuto",
-          "link": "https://www.lanacion.com.ar/el-mundo/papa-leon-xiv-en-peru-en-vivo-las-ultimas-actividades-antes-del-fin-del-viaje-minuto-a-minuto-nid16112026/",
-          "hora": "2026-11-16T13:19:13-03:00"
-        },
-        {
           "medio": "TN",
           "titulo": "Ante 700.000 personas, el papa León XIV brinda en Lima la última misa de su gira por Sudamérica: “Los llevaré siempre conmigo”",
           "link": "https://tn.com.ar/internacional/2026/11/17/tras-visitar-tres-paises-el-papa-leon-xiv-cierra-su-historica-gira-en-sudamerica-con-una-misa-en-lima/",
           "hora": "2026-11-16T13:18:06-03:00"
         },
         {
-          "medio": "Infobae",
-          "titulo": "Papa León XIV en Las Palmas EN VIVO: cerca de dos millones de fieles abarrotan la base aérea para su última misa en Perú",
-          "link": "https://www.infobae.com/peru/2026/11/16/ultimo-dia-del-papa-leon-xiv-en-peru-en-vivo-misa-en-las-palmas-y-el-adios-a-sus-fieles-antes-de-regresar-al-vaticano/",
-          "hora": "2026-11-16T13:12:38-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Multitudinaria despedida al Papa León XIV en Perú: Cerca de dos millones de fieles se congregan para su última misa",
-          "link": "https://www.infobae.com/peru/2026/11/16/multitudinaria-despedida-al-papa-leon-xiv-en-las-palmas-cerca-de-dos-millones-de-fieles-se-congregan-para-su-ultima-misa/",
-          "hora": "2026-11-16T13:01:51-03:00"
-        },
-        {
           "medio": "La Nación",
           "titulo": "La gira del Papa en Sudamérica: la intimidad del viaje de León XIV",
           "link": "https://www.lanacion.com.ar/el-mundo/el-papa-ya-esta-en-vuelo-la-intimidad-del-vuelo-del-papa-a-sudamerica-nid06112026/",
           "hora": "2026-11-16T12:47:32-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Diez claves que dejó el papa León XIV en la Argentina: un momento de gracia que interpela a los fieles",
-          "link": "https://www.infobae.com/sociedad/2026/11/16/diez-claves-que-dejo-el-papa-leon-xiv-en-la-argentina-un-momento-de-gracia-que-interpela-a-los-fieles/",
-          "hora": "2026-11-16T09:22:39-03:00"
         }
       ],
       "oficiales": [],
@@ -1157,45 +1203,6 @@
           "titulo": "Darío Franco: “Miro el fútbol argentino por trabajo, pero no puedo disfrutarlo”",
           "link": "https://www.lanacion.com.ar/deportes/futbol/dario-franco-miro-el-futbol-argentino-por-trabajo-pero-no-puedo-disfrutarlo-nid16112026/",
           "hora": "2026-11-16T08:14:52-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "el-mensaje-de-lionel-scaloni-tras-la-derrota-de-la-seleccion-3",
-      "titulo": "Havanna prepara su desembarco en China, tras un acuerdo con Lionel Messi",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-13T18:43:00-03:00",
-      "calor": 51,
-      "medios": [
-        "Clarín",
-        "La Nación",
-        "Ámbito"
-      ],
-      "en_x": true,
-      "posicion_x": 43,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "Havanna prepara su desembarco en China, tras un acuerdo con Lionel Messi",
-          "link": "https://www.lanacion.com.ar/economia/negocios/havanna-prepara-su-desembarco-en-china-tras-un-acuerdo-con-lionel-messi-nid16112026/",
-          "hora": "2026-11-16T12:27:16-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Lionel Messi recibirá en Miami un trofeo gigante de plata en reconocimiento a su trayectoria",
-          "link": "https://www.ambito.com/deportes/lionel-messi-recibira-miami-un-trofeo-gigante-plata-reconocimiento-su-trayectoria-n6345634",
-          "hora": "2026-11-16T11:06:00-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Enzo Fernández y Alexis Mac Allister: los encargados de bajar la línea discursiva de Scaloni explicaron cómo es construir un equipo sin Messi",
-          "link": "https://www.clarin.com/deportes/enzo-fernandez-alexis-mac-allister-encargados-bajar-linea-discursiva-scaloni-explicaron-construir-equipo-messi_0_8y2zISLzyz.html",
-          "hora": "2026-11-16T06:01:27-03:00"
         }
       ],
       "oficiales": [],
@@ -1728,57 +1735,6 @@
       "angulos": []
     },
     {
-      "id": "el-rio-parana-supero-el-nivel-de-evacuacion-en-santa-fe-tras",
-      "titulo": "El río Paraná superó el nivel de evacuación en Santa Fe: trasladaron a más de 200 personas a centros de asistencia",
-      "categoria": "social",
-      "prioritaria": true,
-      "desde": "2026-11-15T02:08:01-03:00",
-      "calor": 46,
-      "medios": [
-        "La Nación",
-        "Infobae",
-        "Clarín"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Río Paraná de Argentina alcanza nivel de evacuación por inundaciones en cinco ciudades",
-          "link": "https://www.infobae.com/america/agencias/2026/11/16/rio-parana-de-argentina-alcanza-nivel-de-evacuacion-por-inundaciones-en-cinco-ciudades/",
-          "hora": "2026-11-16T13:02:57-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Súper Niño 2026 en Argentina, EN VIVO: el río Paraná sigue creciendo y superó el nivel de evacuación en Santa Fe",
-          "link": "https://www.lanacion.com.ar/sociedad/super-nino-2026-en-argentina-en-vivo-el-rio-parana-sigue-creciendo-y-supero-el-nivel-de-evacuacion-nid16112026/",
-          "hora": "2026-11-16T12:48:48-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Súper Niño 2026 en Argentina, EN VIVO: el río Paraná sigue creciendo y superó el nivel de evacuación en Santa Fe",
-          "link": "https://www.clarin.com/sociedad/super-nino-2026-argentina-vivo-rio-parana-sigue-creciendo-supero-nivel-evacuacion-santa-fe_0_COoAC6rbfX.html",
-          "hora": "2026-11-16T08:08:28-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "El río Paraná alcanzó el nivel de evacuación en la ciudad de Santa Fe y comenzaron los traslados de familias",
-          "link": "https://www.infobae.com/sociedad/2026/11/15/el-rio-parana-alcanzo-el-nivel-de-evacuacion-en-la-ciudad-de-santa-fe-y-comenzaron-los-traslados-de-familias/",
-          "hora": "2026-11-15T19:47:15-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "El río Paraná superó el nivel de evacuación en Santa Fe: trasladaron a más de 200 personas a centros de asistencia",
-          "link": "https://www.lanacion.com.ar/sociedad/el-rio-parana-supero-el-nivel-de-evacuacion-en-santa-fe-trasladaron-a-mas-de-200-personas-a-centros-nid15112026/",
-          "hora": "2026-11-15T17:38:33-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
       "id": "de-la-energia-al-consumo-masivo-como-queda-el-nuevo-mapa-de",
       "titulo": "De la energía al consumo masivo: cómo queda el nuevo mapa de negocios del grupo Manzano en Argentina",
       "categoria": "economia",
@@ -1850,6 +1806,51 @@
       "angulos": []
     },
     {
+      "id": "el-rio-parana-supero-el-nivel-de-evacuacion-en-santa-fe-tras",
+      "titulo": "El río Paraná superó el nivel de evacuación en Santa Fe: trasladaron a más de 200 personas a centros de asistencia",
+      "categoria": "social",
+      "prioritaria": true,
+      "desde": "2026-11-15T02:08:01-03:00",
+      "calor": 45,
+      "medios": [
+        "La Nación",
+        "Infobae",
+        "Clarín"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "Súper Niño 2026 en Argentina, EN VIVO: el río Paraná sigue creciendo y superó el nivel de evacuación en Santa Fe",
+          "link": "https://www.lanacion.com.ar/sociedad/super-nino-2026-en-argentina-en-vivo-el-rio-parana-sigue-creciendo-y-supero-el-nivel-de-evacuacion-nid16112026/",
+          "hora": "2026-11-16T12:48:48-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Súper Niño 2026 en Argentina, EN VIVO: el río Paraná sigue creciendo y superó el nivel de evacuación en Santa Fe",
+          "link": "https://www.clarin.com/sociedad/super-nino-2026-argentina-vivo-rio-parana-sigue-creciendo-supero-nivel-evacuacion-santa-fe_0_COoAC6rbfX.html",
+          "hora": "2026-11-16T08:08:28-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "El río Paraná alcanzó el nivel de evacuación en la ciudad de Santa Fe y comenzaron los traslados de familias",
+          "link": "https://www.infobae.com/sociedad/2026/11/15/el-rio-parana-alcanzo-el-nivel-de-evacuacion-en-la-ciudad-de-santa-fe-y-comenzaron-los-traslados-de-familias/",
+          "hora": "2026-11-15T19:47:15-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "El río Paraná superó el nivel de evacuación en Santa Fe: trasladaron a más de 200 personas a centros de asistencia",
+          "link": "https://www.lanacion.com.ar/sociedad/el-rio-parana-supero-el-nivel-de-evacuacion-en-santa-fe-trasladaron-a-mas-de-200-personas-a-centros-nid15112026/",
+          "hora": "2026-11-15T17:38:33-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
       "id": "conmocion-en-el-futbol-juvenil-murio-abel-nunez-un-jugador-q",
       "titulo": "Tragedia en el fútbol argentino: murió el juvenil Abel Núñez tras recibir un golpe en la cabeza durante un partido",
       "categoria": "deportes",
@@ -1895,12 +1896,147 @@
       "angulos": []
     },
     {
+      "id": "phil-collins-habla-sobre-la-posibilidad-de-regresar-a-los-es",
+      "titulo": "Phil Collins habla sobre la posibilidad de regresar a los escenarios tras sus problemas de salud",
+      "categoria": "espectaculos",
+      "prioritaria": false,
+      "desde": "2026-11-15T23:30:00-03:00",
+      "calor": 45,
+      "medios": [
+        "Infobae",
+        "TN",
+        "Ámbito"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Ámbito",
+          "titulo": "Phil Collins afirmó que ahora está \"bien de salud\" e insinuó la \"posibilidad de dar algunos conciertos\"",
+          "link": "https://www.ambito.com/espectaculos/phil-collins-afirmo-que-ahora-esta-bien-salud-e-insinuo-la-posibilidad-dar-algunos-conciertos-n6345726",
+          "hora": "2026-11-16T13:45:00-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "\"No hay nadie más merecedor\": Lily Collins homenajea a su padre Phil Collins tras su ingreso al Salón de la Fama del Rock & Roll",
+          "link": "https://www.infobae.com/entretenimiento/2026/11/16/no-hay-nadie-mas-merecedor-lily-collins-homenajea-a-su-padre-phil-collins-tras-su-ingreso-al-salon-de-la-fama-del-rock-roll/",
+          "hora": "2026-11-16T12:05:50-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Phil Collins se emocionó al ser reconocido en el Salón de la Fama del Rock: “Crecí queriendo únicamente tocar la batería”",
+          "link": "https://tn.com.ar/musica/noticias/2026/11/16/phil-collins-se-emociono-al-ser-reconocido-en-el-salon-de-la-fama-del-rock-creci-queriendo-unicamente-tocar-la-bateria/",
+          "hora": "2026-11-16T08:05:02-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Phil Collins habla sobre la posibilidad de regresar a los escenarios tras sus problemas de salud",
+          "link": "https://www.infobae.com/entretenimiento/2026/11/16/phil-collins-habla-sobre-la-posibilidad-de-regresar-a-los-escenarios-tras-sus-problemas-de-salud/",
+          "hora": "2026-11-15T23:30:00-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "el-frances-philippe-diallo-sera-el-candidato-de-la-uefa-para",
+      "titulo": "El francés Philippe Diallo será el candidato de la UEFA para las elecciones a la presidencia de la FIFA",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-11-16T00:01:00-03:00",
+      "calor": 45,
+      "medios": [
+        "Infobae",
+        "Página/12",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Elecciones generales España 29-N, en directo | La Academia de Televisión organizará el jueves 26 de noviembre el debate a cuatro entre los principales candidatos a la Presidencia del Gobierno",
+          "link": "https://www.infobae.com/espana/2026/11/16/elecciones-generales-espana-2026-en-directo-ultima-hora-de-la-visita-de-lula-da-silva-el-futuro-de-yolanda-diaz-y-el-programa-del-frente-amplio/",
+          "hora": "2026-11-16T13:48:31-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "El francés Philippe Diallo será el candidato de la UEFA para las elecciones a la presidencia de la FIFA",
+          "link": "https://www.infobae.com/america/agencias/2026/11/16/el-frances-philippe-diallo-sera-el-candidato-de-la-uefa-para-las-elecciones-a-la-presidencia-de-la-fifa/",
+          "hora": "2026-11-16T13:45:59-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Un francés desafiará a Gianni Infantino en las elecciones a presidente de la FIFA: quién es Philippe Diallo, el elegido de la UEFA",
+          "link": "https://tn.com.ar/deportes/futbol/2026/11/16/un-frances-desafiara-a-gianni-infantino-en-las-elecciones-a-presidente-de-la-fifa-quien-es-philippe-diallo-el-elegido-de-la-uefa/",
+          "hora": "2026-11-16T13:23:17-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Un candidato poco escandaloso para la FIFA",
+          "link": "https://www.pagina12.com.ar/2026/11/15/un-candidato-poco-escandaloso-para-la-fifa/",
+          "hora": "2026-11-16T00:01:00-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "lo-que-nos-dejo-el-papa-necesitamos-solidaridad-y-libertad-e",
+      "titulo": "Lo que nos dejó el Papa: necesitamos solidaridad y libertad económica",
+      "categoria": "social",
+      "prioritaria": true,
+      "desde": "2026-11-15T17:46:14-03:00",
+      "calor": 44,
+      "medios": [
+        "Infobae",
+        "La Nación",
+        "Página/12"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "Lo que nos dejó el Papa: necesitamos solidaridad y libertad económica",
+          "link": "https://www.lanacion.com.ar/economia/lo-que-nos-dejo-el-papa-necesitamos-solidaridad-y-libertad-economica-nid16112026/",
+          "hora": "2026-11-16T10:13:50-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Diez claves que dejó el papa León XIV en la Argentina: un momento de gracia que interpela a los fieles",
+          "link": "https://www.infobae.com/sociedad/2026/11/16/diez-claves-que-dejo-el-papa-leon-xiv-en-la-argentina-un-momento-de-gracia-que-interpela-a-los-fieles/",
+          "hora": "2026-11-16T09:22:39-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Caso Melmann: la familia denunció no haber sido notificada del pedido de libertad condicional de un policía condenado",
+          "link": "https://www.pagina12.com.ar/2026/11/15/caso-melmann-la-familia-denuncio-no-haber-sido-notificada-del-pedido-de-libertad-condicional-de-un-policia-condenado/",
+          "hora": "2026-11-15T18:19:27-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "La juventud de La Libertad Avanza prepara un congreso nacional en Rosario con la mira en 2027",
+          "link": "https://www.infobae.com/politica/2026/11/15/la-juventud-de-la-libertad-avanza-prepara-un-congreso-nacional-en-rosario-con-la-mira-en-2027/",
+          "hora": "2026-11-15T17:46:14-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
       "id": "como-hizo-la-ley-y-el-orden-uve-para-llegar-a-los-600-capitu",
       "titulo": "El iPhone Duo 2 recuperaría una función famosa en los teléfonos de Apple: ¿qué mejora incorporaría?",
       "categoria": "espectaculos",
       "prioritaria": false,
       "desde": "2026-11-15T18:24:09-03:00",
-      "calor": 45,
+      "calor": 44,
       "medios": [
         "Página/12",
         "TN",
@@ -1914,7 +2050,7 @@
           "medio": "Ámbito",
           "titulo": "\"Slow Horses\", la serie protagonizada por Gary Oldman, fue renovada por Apple TV para las temporadas 9 y 10",
           "link": "https://www.ambito.com/espectaculos/slow-horses-la-serie-protagonizada-gary-oldman-fue-renovada-apple-tv-las-temporadas-9-y-10-n6345653",
-          "hora": "2026-11-16T11:51:15-03:00"
+          "hora": "2026-11-16T11:12:00-03:00"
         },
         {
           "medio": "TN",
@@ -1933,51 +2069,6 @@
           "titulo": "“12 12 12”, por Apple TV: un robo en tres tiempos",
           "link": "https://www.pagina12.com.ar/2026/11/16/12-12-12-por-apple-tv-un-robo-en-tres-tiempos/",
           "hora": "2026-11-16T00:03:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "sospechas-de-lavado-encuentran-un-nuevo-vinculo-entre-cristi",
-      "titulo": "Sospechas de lavado: encuentran un nuevo vínculo entre Cristina Kirchner y Lázaro Báez",
-      "categoria": "politica",
-      "prioritaria": true,
-      "desde": "2026-11-15T19:28:50-03:00",
-      "calor": 45,
-      "medios": [
-        "Clarín",
-        "Infobae",
-        "La Nación"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Qué hace diferente la crucifixión de Jesús en ‘The Chosen’ según el actor que lo interpreta",
-          "link": "https://www.infobae.com/entretenimiento/2026/11/16/que-hace-diferente-la-crucifixion-de-jesus-en-the-chosen-segun-el-actor-que-lo-interpreta/",
-          "hora": "2026-11-16T11:50:23-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Suspendieron por 30 días un operativo en una estancia de Lázaro Báez porque las ovejas están en período de parición",
-          "link": "https://www.lanacion.com.ar/politica/suspendieron-por-30-dias-un-operativo-en-una-estancia-de-lazaro-baez-porque-las-ovejas-estan-en-nid15112026/",
-          "hora": "2026-11-16T10:37:09-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Claire Danes y Ewan McGregor se enfrentan a una sospecha fatal en The Spot",
-          "link": "https://www.infobae.com/que-puedo-ver/2026/11/16/claire-danes-y-ewan-mcgregor-se-enfrentan-a-una-sospecha-fatal-en-the-spot/",
-          "hora": "2026-11-16T06:54:00-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Sospechas de lavado: encuentran un nuevo vínculo entre Cristina Kirchner y Lázaro Báez",
-          "link": "https://www.clarin.com/politica/sospechas-lavado-encuentran-nuevo-vinculo-cristina-kirchner-lazaro-baez_0_QzI4BV6Chv.html",
-          "hora": "2026-11-16T06:01:26-03:00"
         }
       ],
       "oficiales": [],
@@ -2066,55 +2157,38 @@
       "angulos": []
     },
     {
-      "id": "calendario-de-jubilaciones-de-la-anses-cuando-cobro-en-novie",
-      "titulo": "Calendario Anses: cuándo cobro la AUH en noviembre 2026 si mi DNI termina en 3",
-      "categoria": "economia",
+      "id": "sospechas-de-lavado-encuentran-un-nuevo-vinculo-entre-cristi",
+      "titulo": "Sospechas de lavado: encuentran un nuevo vínculo entre Cristina Kirchner y Lázaro Báez",
+      "categoria": "politica",
       "prioritaria": true,
-      "desde": "2026-11-15T09:55:45-03:00",
+      "desde": "2026-11-15T19:28:50-03:00",
       "calor": 43,
       "medios": [
-        "La Nación",
-        "Ámbito"
+        "Clarín",
+        "Infobae",
+        "La Nación"
       ],
       "en_x": false,
       "posicion_x": null,
       "en_google": false,
       "notas": [
         {
-          "medio": "Ámbito",
-          "titulo": "Calendario de ANSES del 16 al 20 de noviembre de 2026: qué días cobran jubilados y AUH por terminación de DNI",
-          "link": "https://www.ambito.com/informacion-general/calendario-anses-del-16-al-20-noviembre-2026-que-dias-cobran-jubilados-y-auh-terminacion-dni-n6345708",
-          "hora": "2026-11-16T13:02:00-03:00"
+          "medio": "La Nación",
+          "titulo": "Suspendieron por 30 días un operativo en una estancia de Lázaro Báez porque las ovejas están en período de parición",
+          "link": "https://www.lanacion.com.ar/politica/suspendieron-por-30-dias-un-operativo-en-una-estancia-de-lazaro-baez-porque-las-ovejas-estan-en-nid15112026/",
+          "hora": "2026-11-16T10:37:09-03:00"
         },
         {
-          "medio": "La Nación",
-          "titulo": "Jubilaciones de Anses: cuánto cobro en noviembre 2026 con el aumento, el bono y el aguinaldo",
-          "link": "https://www.lanacion.com.ar/economia/jubilaciones-de-anses-cuanto-cobro-en-noviembre-2026-con-el-aumento-el-bono-y-el-aguinaldo-nid16112026/",
-          "hora": "2026-11-16T10:25:49-03:00"
+          "medio": "Infobae",
+          "titulo": "Claire Danes y Ewan McGregor se enfrentan a una sospecha fatal en The Spot",
+          "link": "https://www.infobae.com/que-puedo-ver/2026/11/16/claire-danes-y-ewan-mcgregor-se-enfrentan-a-una-sospecha-fatal-en-the-spot/",
+          "hora": "2026-11-16T06:54:00-03:00"
         },
         {
-          "medio": "La Nación",
-          "titulo": "Fecha de cobro de Anses: el cronograma de pagos para este lunes 16 de noviembre",
-          "link": "https://www.lanacion.com.ar/economia/fecha-de-cobro-de-anses-el-cronograma-de-pagos-para-este-lunes-16-de-noviembre-nid16112026/",
-          "hora": "2026-11-16T07:25:01-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Calendario Anses: comienza el pago de las prestaciones sociales que se cobran en la semana del 16 al 20 de noviembre",
-          "link": "https://www.lanacion.com.ar/economia/calendario-anses-comienza-el-pago-de-las-prestaciones-sociales-que-se-cobran-en-la-semana-del-16-al-nid15112026/",
-          "hora": "2026-11-16T07:21:35-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Cuándo cobro Anses: el calendario completo de noviembre 2026",
-          "link": "https://www.lanacion.com.ar/economia/cuando-cobro-anses-el-calendario-completo-de-noviembre-2026-nid27102026/",
-          "hora": "2026-11-16T07:17:51-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Calendario Anses: cuándo cobro la AUH en noviembre 2026 si mi DNI termina en 3",
-          "link": "https://www.lanacion.com.ar/economia/calendario-anses-cuando-cobro-la-auh-en-noviembre-2026-si-mi-dni-termina-en-3-nid15112026/",
-          "hora": "2026-11-15T18:39:00-03:00"
+          "medio": "Clarín",
+          "titulo": "Sospechas de lavado: encuentran un nuevo vínculo entre Cristina Kirchner y Lázaro Báez",
+          "link": "https://www.clarin.com/politica/sospechas-lavado-encuentran-nuevo-vinculo-cristina-kirchner-lazaro-baez_0_QzI4BV6Chv.html",
+          "hora": "2026-11-16T06:01:26-03:00"
         }
       ],
       "oficiales": [],
@@ -2165,7 +2239,7 @@
       "titulo": "Balance del Festival de Mar del Plata: creció la convocatoria, faltaron figuras y aún resta encontrar una identidad",
       "categoria": "espectaculos",
       "prioritaria": false,
-      "desde": "2026-11-15T21:35:48-03:00",
+      "desde": "2026-11-15T21:22:00-03:00",
       "calor": 43,
       "medios": [
         "La Nación",
@@ -2192,7 +2266,7 @@
           "medio": "Ámbito",
           "titulo": "El cine iraní se llevó los premios mayores del Festival de Mar del Plata",
           "link": "https://www.ambito.com/espectaculos/el-cine-irani-se-llevo-los-premios-mayores-del-festival-mar-del-plata-n6345486",
-          "hora": "2026-11-15T21:35:48-03:00"
+          "hora": "2026-11-15T21:22:00-03:00"
         }
       ],
       "oficiales": [],
@@ -2317,6 +2391,45 @@
       "angulos": []
     },
     {
+      "id": "ecuador-denuncio-un-supuesto-plan-para-asesinar-a-noboa-desd",
+      "titulo": "Ecuador denunció un supuesto plan para asesinar a Noboa desde Colombia y la oposición cuestionó la falta de pruebas",
+      "categoria": "politica",
+      "prioritaria": true,
+      "desde": "2026-11-16T08:38:36-03:00",
+      "calor": 43,
+      "medios": [
+        "La Nación",
+        "Infobae",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Ecuador denunció un supuesto plan para asesinar a Noboa desde Colombia y la oposición cuestionó la falta de pruebas",
+          "link": "https://www.infobae.com/america/america-latina/2026/11/16/ecuador-denuncio-un-supuesto-plan-para-asesinar-a-noboa-desde-colombia-y-la-oposicion-cuestiono-la-falta-de-pruebas/",
+          "hora": "2026-11-16T13:48:48-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "El gobernador de Neuquén marcó diferencias con Milei y descolocó a la oposición local con el calendario electoral",
+          "link": "https://www.lanacion.com.ar/politica/el-gobernador-de-neuquen-marco-diferencias-con-milei-y-descoloco-a-la-oposicion-local-con-el-nid16112026/",
+          "hora": "2026-11-16T12:25:12-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "El excampeón de Gran Hermano Bautista Mascia anunció su nuevo emprendimiento y descolocó a sus fans",
+          "link": "https://tn.com.ar/show/famosos/2026/11/16/el-excampeon-de-gran-hermano-bautista-mascia-anuncio-su-nuevo-emprendimiento-y-descoloco-a-sus-fans/",
+          "hora": "2026-11-16T08:38:36-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
       "id": "vuelve-jensen-huang-a-nvidia-la-campana-de-elon-musk-y-otros",
       "titulo": "Escándalo en Nvidia: Elon Musk y otros ejecutivos firmaron una petición para que Jensen Huang sea reincorporado como CEO",
       "categoria": "economia",
@@ -2349,101 +2462,6 @@
           "titulo": "Hiperconsumo: de Luis XIV a Elon Musk",
           "link": "https://www.lanacion.com.ar/economia/hiperconsumo-de-luis-iv-a-elon-musk-nid16112026/",
           "hora": "2026-11-16T08:41:10-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "claudia-sheinbaum-se-reune-con-la-comunidad-mexicana-en-chin",
-      "titulo": "Claudia Sheinbaum, sobre inmigrantes que se van a Estados Unidos: “Ni una sola caravana de migrantes ha llegado al norte”",
-      "categoria": "otros",
-      "prioritaria": false,
-      "desde": "2026-11-16T10:29:22-03:00",
-      "calor": 43,
-      "medios": [
-        "La Nación",
-        "Infobae"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Los centros de datos a hiperescala consumen tanta energía eléctrica como estados enteros de Estados Unidos",
-          "link": "https://www.infobae.com/america/agencias/2026/11/16/los-centros-de-datos-a-hiperescala-consumen-tanta-energia-electrica-como-estados-enteros-de-estados-unidos/",
-          "hora": "2026-11-16T13:32:50-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Claudia Sheinbaum se reúne con la comunidad mexicana en China previo a su participación en la APEC",
-          "link": "https://www.infobae.com/mexico/2026/11/16/claudia-sheinbaum-se-reune-con-la-comunidad-mexicana-en-china-previo-a-su-participacion-en-la-apec/",
-          "hora": "2026-11-16T13:09:28-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Estados Unidos nombrará “campeones nacionales” de la IA a Nvidia, OpenAI y Anthropic",
-          "link": "https://www.infobae.com/estados-unidos/2026/11/16/estados-unidos-nombrara-campeones-nacionales-de-la-ia-a-nvidia-openai-y-anthropic/",
-          "hora": "2026-11-16T13:03:12-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Los centros de datos de Estados Unidos consumen cerca del 2% de la electricidad del país",
-          "link": "https://www.infobae.com/america/agencias/2026/11/16/los-centros-de-datos-de-estados-unidos-consumen-cerca-del-2-de-la-electricidad-del-pais/",
-          "hora": "2026-11-16T13:02:24-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Miles de vuelos afectados en Estados Unidos: qué se sabe de la falla que puso en alerta al sistema aéreo",
-          "link": "https://www.infobae.com/sociedad/2026/11/16/miles-de-vuelos-afectados-en-estados-unidos-que-se-sabe-de-la-falla-que-puso-en-alerta-al-sistema-aereo/",
-          "hora": "2026-11-16T11:24:50-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Claudia Sheinbaum, sobre inmigrantes que se van a Estados Unidos: “Ni una sola caravana de migrantes ha llegado al norte”",
-          "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/claudia-sheinbaum-sobre-inmigrantes-que-se-van-a-estados-unidos-ni-una-sola-caravana-de-migrantes-ha-nid16112026/",
-          "hora": "2026-11-16T10:29:22-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "los-nominados-a-las-principales-categorias-de-los-grammys",
-      "titulo": "Los nominados a las principales categorías de los Grammys",
-      "categoria": "espectaculos",
-      "prioritaria": false,
-      "desde": "2026-11-16T13:00:15-03:00",
-      "calor": 43,
-      "medios": [
-        "Clarín",
-        "Infobae",
-        "Ámbito"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Karol G fue nominada a Mejor Álbum de Pop Latino en los Grammy 2027: estos son todos los colombianos nominados",
-          "link": "https://www.infobae.com/colombia/2026/11/16/karol-g-fue-nominada-a-mejor-album-de-pop-latino-en-los-grammy-2027-estos-son-todos-los-colombianos-nominados/",
-          "hora": "2026-11-16T13:05:45-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Todos los artistas argentinos nominados a los Grammy 2027 y su categoría",
-          "link": "https://www.ambito.com/espectaculos/todos-los-artistas-argentinos-nominados-los-grammy-2027-y-su-categoria-n6345712",
-          "hora": "2026-11-16T13:04:00-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Los nominados a las principales categorías de los Grammys",
-          "link": "https://www.clarin.com/estados-unidos/los-nominados-a-las-principales-categorias-de-los-grammys_0_GNKpZ9SBL6.html",
-          "hora": "2026-11-16T13:00:15-03:00"
         }
       ],
       "oficiales": [],
@@ -2529,45 +2547,6 @@
       "angulos": []
     },
     {
-      "id": "lo-que-nos-dejo-el-papa-necesitamos-solidaridad-y-libertad-e",
-      "titulo": "Lo que nos dejó el Papa: necesitamos solidaridad y libertad económica",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-11-15T17:46:14-03:00",
-      "calor": 42,
-      "medios": [
-        "Infobae",
-        "La Nación",
-        "Página/12"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "Lo que nos dejó el Papa: necesitamos solidaridad y libertad económica",
-          "link": "https://www.lanacion.com.ar/economia/lo-que-nos-dejo-el-papa-necesitamos-solidaridad-y-libertad-economica-nid16112026/",
-          "hora": "2026-11-16T10:13:50-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Caso Melmann: la familia denunció no haber sido notificada del pedido de libertad condicional de un policía condenado",
-          "link": "https://www.pagina12.com.ar/2026/11/15/caso-melmann-la-familia-denuncio-no-haber-sido-notificada-del-pedido-de-libertad-condicional-de-un-policia-condenado/",
-          "hora": "2026-11-15T18:19:27-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "La juventud de La Libertad Avanza prepara un congreso nacional en Rosario con la mira en 2027",
-          "link": "https://www.infobae.com/politica/2026/11/15/la-juventud-de-la-libertad-avanza-prepara-un-congreso-nacional-en-rosario-con-la-mira-en-2027/",
-          "hora": "2026-11-15T17:46:14-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
       "id": "la-salida-de-jensen-huang-de-nvidia-pone-en-duda-el-apoyo-de-2",
       "titulo": "Anthropic prepara su mega salida a bolsa: cuáles son las tres amenazas que enfrentará con su estreno en Wall Street",
       "categoria": "economia",
@@ -2611,52 +2590,6 @@
           "titulo": "Wall Street sufrió por Nvidia, la inflación y las tasas largas, pero ya está lista para retomar los récords de la mano de Anthropic",
           "link": "https://www.ambito.com/economia/wall-street-sufrio-nvidia-la-inflacion-y-las-tasas-largas-pero-ya-esta-lista-retomar-los-records-la-mano-anthropic-n6345464",
           "hora": "2026-11-16T00:00:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "ronaldinho-da-espectaculo-en-su-regreso-al-futbol-11-anos-de",
-      "titulo": "Ronaldinho volvió al fútbol profesional a los 46 años en Italia y recibió aplausos",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-15T14:57:39-03:00",
-      "calor": 41,
-      "medios": [
-        "Infobae",
-        "La Nación",
-        "Ámbito",
-        "Página/12"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Página/12",
-          "titulo": "La vuelta de Ronaldinho al fútbol",
-          "link": "https://www.pagina12.com.ar/2026/11/15/la-vuelta-de-ronaldinho-al-futbol/",
-          "hora": "2026-11-16T00:01:00-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Ronaldinho volvió al fútbol profesional a los 46 años en Italia y recibió aplausos",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/ronaldinho-volvio-al-futbol-profesional-a-los-46-anos-en-italia-y-recibio-aplausos-nid15112026/",
-          "hora": "2026-11-15T17:21:00-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Ronaldinho volvió a jugar al fútbol a los 46 años: así fue su regreso en el ascenso de Italia",
-          "link": "https://www.ambito.com/deportes/ronaldinho-volvio-jugar-al-futbol-los-46-anos-asi-fue-su-regreso-al-ascenso-italia-n6345452",
-          "hora": "2026-11-15T16:59:00-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "El show de Ronaldinho en su regreso al fútbol profesional con 46 años: de su toque en el gol a la figura de Alpine que lo acompañó",
-          "link": "https://www.infobae.com/deportes/2026/11/15/el-show-de-ronaldinho-en-su-regreso-al-futbol-profesional-con-46-anos-de-su-toque-en-el-gol-a-la-figura-de-alpine-que-lo-acompano/",
-          "hora": "2026-11-15T15:03:57-03:00"
         }
       ],
       "oficiales": [],
@@ -2803,50 +2736,6 @@
       "angulos": []
     },
     {
-      "id": "el-mensaje-de-lionel-scaloni-tras-la-derrota-de-la-seleccion",
-      "titulo": "Histórico: Gustavo Fernández conquistó el título en el Masters de tenis adaptado por primera vez",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-13T18:43:00-03:00",
-      "calor": 40,
-      "medios": [
-        "La Nación",
-        "Infobae"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Histórico: Gustavo Fernández conquistó el título en el Masters de tenis adaptado por primera vez",
-          "link": "https://www.infobae.com/deportes/2026/11/16/historico-gustavo-fernandez-conquisto-el-titulo-en-el-masters-de-tenis-adaptado-por-primera-vez/",
-          "hora": "2026-11-16T13:11:45-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Licencia de conducir sin examen en Nueva York: el anuncio de Hochul y el DMV que beneficiará a miles de retirados",
-          "link": "https://www.lanacion.com.ar/estados-unidos/nueva-york/licencia-de-conducir-sin-examen-en-nueva-york-el-anuncio-de-hochul-y-el-dmv-que-beneficiara-a-miles-nid15112026/",
-          "hora": "2026-11-16T11:07:00-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Mirra Andreeva conquistó el WTA Finals, se acerca al N° 1 y ganó un auto que no puede conducir",
-          "link": "https://www.lanacion.com.ar/deportes/tenis/mirra-andreeva-conquisto-el-wta-finals-se-acerca-al-n-1-y-gano-un-auto-que-no-puede-conducir-nid15112026/",
-          "hora": "2026-11-15T19:55:52-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Gustavo Fernández sigue alimentando una carrera cinematográfica: campeón del Masters por primera vez",
-          "link": "https://www.lanacion.com.ar/deportes/tenis/gustavo-fernandez-sigue-alimentando-una-carrera-cinematografica-campeon-del-masters-por-primera-vez-nid15112026/",
-          "hora": "2026-11-15T17:59:58-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
       "id": "antonela-roccuzzo-tras-su-paso-por-una-de-las-maravillas-del",
       "titulo": "Antonela Roccuzzo tras su paso por una de las maravillas del mundo: “Todavía sin palabras para describir este lugar”",
       "categoria": "espectaculos",
@@ -2937,6 +2826,91 @@
           "link": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350382/20261116"
         }
       ],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "ronaldinho-da-espectaculo-en-su-regreso-al-futbol-11-anos-de",
+      "titulo": "Ronaldinho volvió al fútbol profesional a los 46 años en Italia y recibió aplausos",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-11-15T14:57:39-03:00",
+      "calor": 40,
+      "medios": [
+        "Infobae",
+        "La Nación",
+        "Ámbito",
+        "Página/12"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Página/12",
+          "titulo": "La vuelta de Ronaldinho al fútbol",
+          "link": "https://www.pagina12.com.ar/2026/11/15/la-vuelta-de-ronaldinho-al-futbol/",
+          "hora": "2026-11-16T00:01:00-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Ronaldinho volvió al fútbol profesional a los 46 años en Italia y recibió aplausos",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/ronaldinho-volvio-al-futbol-profesional-a-los-46-anos-en-italia-y-recibio-aplausos-nid15112026/",
+          "hora": "2026-11-15T17:21:00-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Ronaldinho volvió a jugar al fútbol a los 46 años: así fue su regreso en el ascenso de Italia",
+          "link": "https://www.ambito.com/deportes/ronaldinho-volvio-jugar-al-futbol-los-46-anos-asi-fue-su-regreso-al-ascenso-italia-n6345452",
+          "hora": "2026-11-15T16:59:00-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "El show de Ronaldinho en su regreso al fútbol profesional con 46 años: de su toque en el gol a la figura de Alpine que lo acompañó",
+          "link": "https://www.infobae.com/deportes/2026/11/15/el-show-de-ronaldinho-en-su-regreso-al-futbol-profesional-con-46-anos-de-su-toque-en-el-gol-a-la-figura-de-alpine-que-lo-acompano/",
+          "hora": "2026-11-15T15:03:57-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "que-desafios-le-quedan-al-gobierno-de-aca-a-fin-de-ano-las-l",
+      "titulo": "Qué desafíos le quedan al Gobierno de acá a fin de año: las leyes por aprobar y la decisión crucial de cara al 2027",
+      "categoria": "politica",
+      "prioritaria": true,
+      "desde": "2026-11-16T03:08:46-03:00",
+      "calor": 40,
+      "medios": [
+        "Infobae",
+        "La Nación",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "Cierre fiscal: las decisiones que pueden aliviar impuestos sin quitarle liquidez al campo",
+          "link": "https://www.lanacion.com.ar/economia/campo/cierre-fiscal-las-decisiones-que-pueden-aliviar-impuestos-sin-quitarle-liquidez-al-campo-nid16112026/",
+          "hora": "2026-11-16T06:16:00-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "El Gobierno busca aprobar la Ley Malvinas antes del fallo del Tribunal del Mar para reforzar la presión sobre las petroleras",
+          "link": "https://tn.com.ar/politica/2026/11/16/el-gobierno-busca-aprobar-la-ley-malvinas-antes-del-fallo-del-tribunal-del-mar-para-reforzar-la-presion-sobre-las-petroleras/",
+          "hora": "2026-11-16T05:46:00-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Qué desafíos le quedan al Gobierno de acá a fin de año: las leyes por aprobar y la decisión crucial de cara al 2027",
+          "link": "https://www.infobae.com/politica/2026/11/16/que-desafios-le-quedan-al-gobierno-de-aca-a-fin-de-ano-las-leyes-por-aprobar-y-la-decision-crucial-de-cara-al-2027/",
+          "hora": "2026-11-16T03:08:46-03:00"
+        }
+      ],
+      "oficiales": [],
       "resumen": null,
       "angulos": []
     }
@@ -3205,6 +3179,11 @@
       "link": "https://www.google.com/search?q=alerta%20meteorol%C3%B3gica"
     },
     {
+      "nombre": "agata lescano",
+      "trafico": "200+",
+      "link": "https://www.google.com/search?q=agata%20lescano"
+    },
+    {
       "nombre": "normas de tránsito",
       "trafico": "200+",
       "link": "https://www.google.com/search?q=normas%20de%20tr%C3%A1nsito"
@@ -3215,13 +3194,8 @@
       "link": "https://www.google.com/search?q=16%20de%20noviembre"
     },
     {
-      "nombre": "islas feroe - moldavia",
-      "trafico": "100+",
-      "link": "https://www.google.com/search?q=islas%20feroe%20-%20moldavia"
-    },
-    {
       "nombre": "camionero",
-      "trafico": "100+",
+      "trafico": "200+",
       "link": "https://www.google.com/search?q=camionero"
     },
     {
@@ -3231,12 +3205,12 @@
     },
     {
       "nombre": "guillermo barros schelotto",
-      "trafico": "200+",
+      "trafico": "500+",
       "link": "https://www.google.com/search?q=guillermo%20barros%20schelotto"
     },
     {
       "nombre": "kazajistán - eslovaquia",
-      "trafico": "200+",
+      "trafico": "500+",
       "link": "https://www.google.com/search?q=kazajist%C3%A1n%20-%20eslovaquia"
     },
     {
@@ -3269,7 +3243,7 @@
     {
       "fuente": "Ámbito",
       "ok": true,
-      "items": 115
+      "items": 194
     },
     {
       "fuente": "TN",
