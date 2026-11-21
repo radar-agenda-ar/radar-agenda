@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-20T21:45:43-03:00",
+  "actualizado": "2026-11-20T21:56:03-03:00",
   "proxima_actualizacion": "2026-11-21T08:00:00-03:00",
   "ia_disponible": false,
   "agenda_hoy": [],
@@ -10,7 +10,7 @@
       "categoria": "deportes",
       "prioritaria": false,
       "desde": "2026-11-19T11:58:24-03:00",
-      "calor": 91,
+      "calor": 81,
       "medios": [
         "La Nación",
         "Clarín",
@@ -20,13 +20,13 @@
       ],
       "en_x": true,
       "posicion_x": 5,
-      "en_google": true,
+      "en_google": false,
       "notas": [
         {
           "medio": "TN",
           "titulo": "En vivo - Vélez vs. Belgrano: 1 - 1, por los octavos de final de la Liga Profesional",
           "link": "https://tn.com.ar/deportes/futbol/2026/11/20/velez-vs-belgrano-en-vivo-por-los-octavos-de-final-de-la-liga-profesional-hora-donde-ver-y-formaciones/",
-          "hora": "2026-11-20T21:38:27-03:00"
+          "hora": "2026-11-20T21:46:27-03:00"
         },
         {
           "medio": "Infobae",
@@ -199,7 +199,7 @@
       "categoria": "politica",
       "prioritaria": true,
       "desde": "2026-11-19T20:17:21-03:00",
-      "calor": 71,
+      "calor": 72,
       "medios": [
         "La Nación",
         "Infobae",
@@ -211,16 +211,16 @@
       "en_google": false,
       "notas": [
         {
+          "medio": "TN",
+          "titulo": "Javier Milei destacó el desembarco de Tesla en el país y aseguró: “Esto también es devolverle la libertad a los argentinos”",
+          "link": "https://tn.com.ar/politica/2026/11/20/milei-en-el-lanzamiento-oficial-de-tesla-argentina-otros-gobiernos-prometieron-crecimiento-y-dejaron-20-anos-de-estancamiento/",
+          "hora": "2026-11-20T21:44:56-03:00"
+        },
+        {
           "medio": "Ámbito",
           "titulo": "Tesla desembarcó en Argentina: con aparición de Elon Musk, Javier Milei aseguró que \"estamos mirando de frente al mundo\"",
           "link": "https://www.ambito.com/politica/tesla-desembarco-argentina-aparicion-elon-musk-javier-milei-aseguro-que-estamos-mirando-frente-al-mundo-n6347819",
           "hora": "2026-11-20T21:43:00-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Milei destacó el desembarco de Tesla en Argentina y aseguró: “Esto también es devolverle la libertad a los argentinos”",
-          "link": "https://tn.com.ar/politica/2026/11/20/milei-en-el-lanzamiento-oficial-de-tesla-argentina-otros-gobiernos-prometieron-crecimiento-y-dejaron-20-anos-de-estancamiento/",
-          "hora": "2026-11-20T21:32:04-03:00"
         },
         {
           "medio": "Infobae",
@@ -251,6 +251,12 @@
           "titulo": "Elon Musk se sumó como inversor en Skydance y Netflix se prepara para dar batalla y conservar su lugar en el podio del streaming",
           "link": "https://www.lanacion.com.ar/espectaculos/personajes/elon-musk-se-sumo-como-inversor-en-skydance-y-netflix-se-prepara-para-dar-batalla-y-conservar-su-nid19112026/",
           "hora": "2026-11-20T11:24:18-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Subiendo al Obelisco en un Model Y con Elon Musk: así celebró Javier Milei la llegada de Tesla a la Argentina",
+          "link": "https://www.ambito.com/politica/subiendo-al-obelisco-un-model-y-elon-musk-asi-celebro-javier-milei-la-llegada-tesla-la-argentina-n6347543",
+          "hora": "2026-11-20T10:46:13-03:00"
         }
       ],
       "oficiales": [],
@@ -446,8 +452,8 @@
       "angulos": []
     },
     {
-      "id": "estados-unidos-quiere-controlar-las-inversiones-chinas-en-ar",
-      "titulo": "El Senado aprobó las leyes de Discapacidad, inviolabilidad de la propiedad privada y un tratado de patentes con EEUU",
+      "id": "estados-unidos-quiere-controlar-las-inversiones-chinas-en-ar-2",
+      "titulo": "El Senado aprobó la adhesión al Tratado global de Patentes y blindó la ley de Tierras",
       "categoria": "politica",
       "prioritaria": true,
       "desde": "2026-11-19T15:15:35-03:00",
@@ -456,6 +462,7 @@
         "La Nación",
         "Infobae",
         "Clarín",
+        "Ámbito",
         "Página/12"
       ],
       "en_x": false,
@@ -463,28 +470,16 @@
       "en_google": false,
       "notas": [
         {
-          "medio": "Página/12",
-          "titulo": "Mientras el Gobierno festeja la ley de patentes, los laboratorios alertan por una fuerte suba de medicamentos",
-          "link": "https://www.pagina12.com.ar/2026/11/20/mientras-el-gobierno-festeja-la-ley-de-patentes-los-laboratorios-alertan-por-una-fuerte-suba-de-medicamentos/",
-          "hora": "2026-11-20T18:30:29-03:00"
-        },
-        {
           "medio": "Infobae",
           "titulo": "La Cámara de Comercio de EEUU celebró la adhesión al Tratado de Patentes: “Es un paso trascendental para el desarrollo del país”",
           "link": "https://www.infobae.com/economia/2026/11/20/la-camara-de-comercio-de-eeuu-celebro-la-adhesion-al-tratado-de-patentes-es-un-paso-trascendental-para-el-desarrollo-del-pais/",
           "hora": "2026-11-20T16:41:39-03:00"
         },
         {
-          "medio": "Infobae",
-          "titulo": "Neuquén aprobó una ley para proteger sus tierras productivas",
-          "link": "https://www.infobae.com/economia/2026/11/20/neuquen-aprobo-una-ley-para-proteger-sus-tierras-productivas/",
-          "hora": "2026-11-20T15:13:18-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "El Senado convocó al plenario de comisiones para debatir la ley de ludopatía el próximo miércoles",
-          "link": "https://www.infobae.com/politica/2026/11/20/el-senado-convoco-al-plenario-de-comisiones-para-debatir-la-ley-de-ludopatia-el-proximo-miercoles/",
-          "hora": "2026-11-20T12:22:45-03:00"
+          "medio": "Ámbito",
+          "titulo": "Tratado de Patentes: qué cambia para los medicamentos y qué pasará con los precios tras la adhesión",
+          "link": "https://www.ambito.com/politica/tratado-patentes-que-cambia-los-medicamentos-y-que-pasara-los-precios-la-adhesion-n6347457",
+          "hora": "2026-11-20T08:53:00-03:00"
         },
         {
           "medio": "Clarín",
@@ -523,16 +518,16 @@
           "hora": "2026-11-20T00:01:00-03:00"
         },
         {
-          "medio": "Página/12",
-          "titulo": "Sesión en el Senado: LLA volvió a frenar el debate de la ley de Ludopatía",
-          "link": "https://www.pagina12.com.ar/2026/11/19/sesion-en-el-senado-lla-volvio-a-frenar-el-debate-de-la-ley-de-ludopatia/",
-          "hora": "2026-11-20T00:01:00-03:00"
-        },
-        {
           "medio": "Infobae",
           "titulo": "El Senado aprobó las leyes de Discapacidad, inviolabilidad de la propiedad privada y un tratado de patentes con EEUU",
           "link": "https://www.infobae.com/politica/2026/11/19/senado-en-vivo-las-ultimas-noticias-del-debate-sobre-los-proyectos-de-discapacidad-propiedad-privada-y-patentes/",
           "hora": "2026-11-19T22:05:35-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "El Senado aprobó la adhesión al Tratado global de Patentes y blindó la ley de Tierras",
+          "link": "https://www.ambito.com/politica/el-senado-define-el-futuro-la-ley-tierras-y-la-adhesion-al-tratado-global-patentes-n6347359",
+          "hora": "2026-11-19T22:02:00-03:00"
         },
         {
           "medio": "La Nación",
@@ -613,6 +608,89 @@
         }
       ],
       "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "un-fallo-de-la-corte-dispuso-que-las-prepagas-necesitaran-au-2-3-2",
+      "titulo": "“No cambia nada”: ¿por qué el fallo de la Corte Suprema sobre las prepagas no frena los aumentos?",
+      "categoria": "economia",
+      "prioritaria": true,
+      "desde": "2026-11-18T17:07:39-03:00",
+      "calor": 55,
+      "medios": [
+        "La Nación",
+        "Infobae",
+        "Clarín",
+        "Página/12",
+        "Ámbito"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Fallo de la Corte Suprema sobre prepagas: qué cambia para los afiliados y cómo reclamar",
+          "link": "https://www.infobae.com/economia/2026/11/20/fallo-de-la-corte-suprema-sobre-prepagas-que-cambia-para-los-afiliados-y-como-reclamar/",
+          "hora": "2026-11-20T15:25:09-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "“No cambia nada”: ¿por qué el fallo de la Corte Suprema sobre las prepagas no frena los aumentos?",
+          "link": "https://www.pagina12.com.ar/2026/11/20/no-cambia-nada-por-que-el-fallo-de-la-corte-suprema-sobre-las-prepagas-no-frena-los-aumentos/",
+          "hora": "2026-11-20T14:08:35-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Jubilaciones: tres fallos judiciales abren la puerta a aumentos de hasta el 66% por pérdida frente a la inflación",
+          "link": "https://www.clarin.com/economia/jubilaciones-fallos-judiciales-abren-puerta-aumentos-66-perdida-frente-inflacion_0_eVG7Md7GhC.html",
+          "hora": "2026-11-20T10:53:12-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "La Corte Suprema frena los aumentos de las prepagas: cuándo se implementa el cambio y qué hacer si no se respeta",
+          "link": "https://www.ambito.com/politica/la-corte-suprema-frena-los-aumentos-las-prepagas-cuando-se-implementa-el-cambio-y-que-hacer-si-no-se-respeta-n6347534",
+          "hora": "2026-11-20T10:48:00-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Cuotas de las prepagas: tras el fallo de la Corte, se supo cuántas denuncias hubo por aumentos indebidos",
+          "link": "https://www.clarin.com/sociedad/fallo-corte-cuotas-prepagas-supo-cuantas-denuncias-aumentos-indebidos_0_jD9FGaEfow.html",
+          "hora": "2026-11-20T10:38:53-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "“El fallo no alcanza a todos los usuarios”: qué pueden reclamar los afiliados a las prepagas tras la decisión de la Corte",
+          "link": "https://www.infobae.com/economia/2026/11/20/el-fallo-no-alcanza-a-todos-los-usuarios-que-pueden-reclamar-los-afiliados-a-las-prepagas-tras-la-decision-de-la-corte/",
+          "hora": "2026-11-20T09:00:48-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "La Corte se declaró contra la liberación de los precios de las prepagas; hubo superávit comercial de US$3000 millones en octubre",
+          "link": "https://www.lanacion.com.ar/sociedad/la-corte-se-declaro-contra-la-liberacion-de-los-precios-de-las-prepagas-hubo-superavit-comercial-de-nid20112026/",
+          "hora": "2026-11-20T08:25:59-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Qué podría pasar tras el fallo de la Corte Suprema sobre las cuotas de las prepagas y cuál fue la reacción del sector",
+          "link": "https://www.lanacion.com.ar/economia/que-podria-pasar-tras-el-fallo-de-la-corte-sobre-las-cuotas-de-las-prepagas-y-como-reacciono-el-nid19112026/",
+          "hora": "2026-11-20T03:08:39-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Freno de la Corte a los aumentos de las prepagas",
+          "link": "https://www.pagina12.com.ar/2026/11/20/dnu-7023-la-corte-declaro-inconstitucional-la-liberacion-de-los-precios-de-las-prepagas/",
+          "hora": "2026-11-20T00:01:00-03:00"
+        }
+      ],
+      "oficiales": [
+        {
+          "fuente": "Boletín Oficial",
+          "titulo": "Corte Suprema De Justicia De La Nación: Resolución 2989/2026",
+          "link": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350613/20261120"
+        }
+      ],
       "resumen": null,
       "angulos": []
     },
@@ -773,65 +851,6 @@
       "angulos": []
     },
     {
-      "id": "ignacio-torres-confirmo-que-adelanta-las-elecciones-en-chubu",
-      "titulo": "Ignacio Torres confirmó que adelanta las elecciones en Chubut y se extiende la ola de desdoblamientos",
-      "categoria": "politica",
-      "prioritaria": true,
-      "desde": "2026-11-20T11:45:20-03:00",
-      "calor": 53,
-      "medios": [
-        "La Nación",
-        "Infobae",
-        "Clarín",
-        "Página/12",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "TN",
-          "titulo": "Chubut convocó a elecciones para el 21 de marzo de 2027 y estrenará la Boleta Única y Ficha Limpia",
-          "link": "https://tn.com.ar/politica/2026/11/20/chubut-convoco-a-elecciones-para-el-21-de-marzo-de-2027-y-estrenara-la-boleta-unica-y-ficha-limpia/",
-          "hora": "2026-11-20T17:01:03-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Torres se adelanta a Milei, desdobla las elecciones y abre la pelea por Chubut",
-          "link": "https://www.pagina12.com.ar/2026/11/20/torres-se-adelanta-a-milei-desdobla-las-elecciones-y-abre-la-pelea-por-chubut/",
-          "hora": "2026-11-20T15:39:01-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Chubut elegirá gobernador el 21 de marzo y ya son cinco las provincias que desdoblan la elección de la presidencial",
-          "link": "https://www.clarin.com/politica/chubut-elegira-gobernador-21-marzo-provincias-desdoblan-eleccion-presidencial_0_NGlH66SBrE.html",
-          "hora": "2026-11-20T14:04:56-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Ignacio Torres confirmó que adelanta las elecciones en Chubut y se extiende la ola de desdoblamientos",
-          "link": "https://www.lanacion.com.ar/politica/ignacio-torres-confirmo-que-adelanta-las-elecciones-en-chubut-y-se-extiende-la-ola-de-nid20112026/",
-          "hora": "2026-11-20T13:38:07-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Chubut adelantó las elecciones a marzo y Torres buscará la reelección",
-          "link": "https://www.infobae.com/politica/2026/11/20/chubut-adelanto-las-elecciones-a-marzo-y-torres-buscara-la-reeleccion/",
-          "hora": "2026-11-20T13:21:43-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Nadia Márquez busca ser la candidata a gobernadora de Milei en Neuquén, pero la ley de ficha limpia le impediría competir",
-          "link": "https://www.lanacion.com.ar/politica/nadia-marquez-busca-ser-la-candidata-a-gobernadora-de-milei-en-neuquen-pero-la-ley-de-ficha-limpia-nid20112026/",
-          "hora": "2026-11-20T11:45:20-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
       "id": "unicef-argentina-advirtio-que-el-41-de-los-hogares-con-chico",
       "titulo": "El 41% de los hogares con niños y adolescentes no logra cubrir sus gastos corrientes",
       "categoria": "social",
@@ -896,78 +915,61 @@
       "angulos": []
     },
     {
-      "id": "un-fallo-de-la-corte-dispuso-que-las-prepagas-necesitaran-au-2-3-2",
-      "titulo": "Fallo de la Corte Suprema sobre prepagas: qué cambia para los afiliados y cómo reclamar",
-      "categoria": "economia",
+      "id": "ignacio-torres-confirmo-que-adelanta-las-elecciones-en-chubu",
+      "titulo": "Ignacio Torres confirmó que adelanta las elecciones en Chubut y se extiende la ola de desdoblamientos",
+      "categoria": "politica",
       "prioritaria": true,
-      "desde": "2026-11-18T17:07:39-03:00",
-      "calor": 51,
+      "desde": "2026-11-20T11:45:20-03:00",
+      "calor": 52,
       "medios": [
         "La Nación",
         "Infobae",
         "Clarín",
-        "Página/12"
+        "Página/12",
+        "TN"
       ],
       "en_x": false,
       "posicion_x": null,
       "en_google": false,
       "notas": [
         {
-          "medio": "Infobae",
-          "titulo": "Fallo de la Corte Suprema sobre prepagas: qué cambia para los afiliados y cómo reclamar",
-          "link": "https://www.infobae.com/economia/2026/11/20/fallo-de-la-corte-suprema-sobre-prepagas-que-cambia-para-los-afiliados-y-como-reclamar/",
-          "hora": "2026-11-20T15:25:09-03:00"
+          "medio": "TN",
+          "titulo": "Chubut convocó a elecciones para el 21 de marzo de 2027 y estrenará la Boleta Única y Ficha Limpia",
+          "link": "https://tn.com.ar/politica/2026/11/20/chubut-convoco-a-elecciones-para-el-21-de-marzo-de-2027-y-estrenara-la-boleta-unica-y-ficha-limpia/",
+          "hora": "2026-11-20T17:01:03-03:00"
         },
         {
           "medio": "Página/12",
-          "titulo": "“No cambia nada”: ¿por qué el fallo de la Corte Suprema sobre las prepagas no frena los aumentos?",
-          "link": "https://www.pagina12.com.ar/2026/11/20/no-cambia-nada-por-que-el-fallo-de-la-corte-suprema-sobre-las-prepagas-no-frena-los-aumentos/",
-          "hora": "2026-11-20T14:08:35-03:00"
+          "titulo": "Torres se adelanta a Milei, desdobla las elecciones y abre la pelea por Chubut",
+          "link": "https://www.pagina12.com.ar/2026/11/20/torres-se-adelanta-a-milei-desdobla-las-elecciones-y-abre-la-pelea-por-chubut/",
+          "hora": "2026-11-20T15:39:01-03:00"
         },
         {
           "medio": "Clarín",
-          "titulo": "Jubilaciones: tres fallos judiciales abren la puerta a aumentos de hasta el 66% por pérdida frente a la inflación",
-          "link": "https://www.clarin.com/economia/jubilaciones-fallos-judiciales-abren-puerta-aumentos-66-perdida-frente-inflacion_0_eVG7Md7GhC.html",
-          "hora": "2026-11-20T10:53:12-03:00"
+          "titulo": "Chubut elegirá gobernador el 21 de marzo y ya son cinco las provincias que desdoblan la elección de la presidencial",
+          "link": "https://www.clarin.com/politica/chubut-elegira-gobernador-21-marzo-provincias-desdoblan-eleccion-presidencial_0_NGlH66SBrE.html",
+          "hora": "2026-11-20T14:04:56-03:00"
         },
         {
-          "medio": "Clarín",
-          "titulo": "Cuotas de las prepagas: tras el fallo de la Corte, se supo cuántas denuncias hubo por aumentos indebidos",
-          "link": "https://www.clarin.com/sociedad/fallo-corte-cuotas-prepagas-supo-cuantas-denuncias-aumentos-indebidos_0_jD9FGaEfow.html",
-          "hora": "2026-11-20T10:38:53-03:00"
+          "medio": "La Nación",
+          "titulo": "Ignacio Torres confirmó que adelanta las elecciones en Chubut y se extiende la ola de desdoblamientos",
+          "link": "https://www.lanacion.com.ar/politica/ignacio-torres-confirmo-que-adelanta-las-elecciones-en-chubut-y-se-extiende-la-ola-de-nid20112026/",
+          "hora": "2026-11-20T13:38:07-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "“El fallo no alcanza a todos los usuarios”: qué pueden reclamar los afiliados a las prepagas tras la decisión de la Corte",
-          "link": "https://www.infobae.com/economia/2026/11/20/el-fallo-no-alcanza-a-todos-los-usuarios-que-pueden-reclamar-los-afiliados-a-las-prepagas-tras-la-decision-de-la-corte/",
-          "hora": "2026-11-20T09:00:48-03:00"
+          "titulo": "Chubut adelantó las elecciones a marzo y Torres buscará la reelección",
+          "link": "https://www.infobae.com/politica/2026/11/20/chubut-adelanto-las-elecciones-a-marzo-y-torres-buscara-la-reeleccion/",
+          "hora": "2026-11-20T13:21:43-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "La Corte se declaró contra la liberación de los precios de las prepagas; hubo superávit comercial de US$3000 millones en octubre",
-          "link": "https://www.lanacion.com.ar/sociedad/la-corte-se-declaro-contra-la-liberacion-de-los-precios-de-las-prepagas-hubo-superavit-comercial-de-nid20112026/",
-          "hora": "2026-11-20T08:25:59-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Qué podría pasar tras el fallo de la Corte Suprema sobre las cuotas de las prepagas y cuál fue la reacción del sector",
-          "link": "https://www.lanacion.com.ar/economia/que-podria-pasar-tras-el-fallo-de-la-corte-sobre-las-cuotas-de-las-prepagas-y-como-reacciono-el-nid19112026/",
-          "hora": "2026-11-20T03:08:39-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Freno de la Corte a los aumentos de las prepagas",
-          "link": "https://www.pagina12.com.ar/2026/11/20/dnu-7023-la-corte-declaro-inconstitucional-la-liberacion-de-los-precios-de-las-prepagas/",
-          "hora": "2026-11-20T00:01:00-03:00"
+          "titulo": "Nadia Márquez busca ser la candidata a gobernadora de Milei en Neuquén, pero la ley de ficha limpia le impediría competir",
+          "link": "https://www.lanacion.com.ar/politica/nadia-marquez-busca-ser-la-candidata-a-gobernadora-de-milei-en-neuquen-pero-la-ley-de-ficha-limpia-nid20112026/",
+          "hora": "2026-11-20T11:45:20-03:00"
         }
       ],
-      "oficiales": [
-        {
-          "fuente": "Boletín Oficial",
-          "titulo": "Corte Suprema De Justicia De La Nación: Resolución 2989/2026",
-          "link": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350613/20261120"
-        }
-      ],
+      "oficiales": [],
       "resumen": null,
       "angulos": []
     },
@@ -992,7 +994,7 @@
           "medio": "TN",
           "titulo": "Franco Colapinto corre la última práctica del GP de Las Vegas antes de la clasificación",
           "link": "https://tn.com.ar/deportes/formula-1/2026/11/20/franco-colapinto-corre-la-ultima-practica-y-la-clasificacion-del-gran-premio-de-las-vegas/",
-          "hora": "2026-11-20T21:38:20-03:00"
+          "hora": "2026-11-20T21:44:00-03:00"
         },
         {
           "medio": "Página/12",
@@ -1173,6 +1175,38 @@
           "titulo": "El dueño de un supermercado fue detenido por abusar a un chico y los vecinos saquearon el local",
           "link": "https://www.pagina12.com.ar/2026/11/20/el-dueno-de-un-supermercado-fue-detenido-por-abusar-a-un-chico-y-despues-saqueado/",
           "hora": "2026-11-20T17:39:37-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "estados-unidos-quiere-controlar-las-inversiones-chinas-en-ar",
+      "titulo": "El Senado convocó al plenario de comisiones para debatir la ley de ludopatía el próximo miércoles",
+      "categoria": "politica",
+      "prioritaria": true,
+      "desde": "2026-11-19T15:15:35-03:00",
+      "calor": 49,
+      "medios": [
+        "Infobae",
+        "Página/12"
+      ],
+      "en_x": true,
+      "posicion_x": 13,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "El Senado convocó al plenario de comisiones para debatir la ley de ludopatía el próximo miércoles",
+          "link": "https://www.infobae.com/politica/2026/11/20/el-senado-convoco-al-plenario-de-comisiones-para-debatir-la-ley-de-ludopatia-el-proximo-miercoles/",
+          "hora": "2026-11-20T12:22:45-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Sesión en el Senado: LLA volvió a frenar el debate de la ley de Ludopatía",
+          "link": "https://www.pagina12.com.ar/2026/11/19/sesion-en-el-senado-lla-volvio-a-frenar-el-debate-de-la-ley-de-ludopatia/",
+          "hora": "2026-11-20T00:01:00-03:00"
         }
       ],
       "oficiales": [],
@@ -1547,6 +1581,22 @@
       "angulos": []
     },
     {
+      "id": "ronaldo-martinez",
+      "titulo": "Ronaldo Martínez",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-11-20T21:20:00-03:00",
+      "calor": 47,
+      "medios": [],
+      "en_x": true,
+      "posicion_x": 1,
+      "en_google": true,
+      "notas": [],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
       "id": "perota-chingo-regresa-a-las-raices-en-teatro-vorterix-2-2-2-2-2-2-2",
       "titulo": "De Eva De Dominici a las hermanas Tinelli, los looks más impactantes en una noche de gala en Buenos Aires",
       "categoria": "politica",
@@ -1614,16 +1664,16 @@
       "en_google": false,
       "notas": [
         {
-          "medio": "Infobae",
-          "titulo": "Antes de la clasificación, Franco Colapinto afronta la última práctica del Gran Premio de Las Vegas de Fórmula 1",
-          "link": "https://www.infobae.com/deportes/2026/11/20/antes-de-la-clasificacion-franco-colapinto-afrontara-la-ultima-practica-del-gran-premio-de-las-vegas-de-formula-1-hora-tv-y-todo-lo-que-hay-que-saber/",
-          "hora": "2026-11-20T21:39:13-03:00"
-        },
-        {
           "medio": "La Nación",
           "titulo": "Franco Colapinto en el Gran Premio de Las Vegas, en vivo: el minuto a minuto de la tercera práctica",
           "link": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-el-gran-premio-de-las-vegas-en-vivo-el-minuto-a-minuto-de-la-tercera-practica-nid20112026/",
-          "hora": "2026-11-20T21:32:37-03:00"
+          "hora": "2026-11-20T21:50:51-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Antes de la clasificación, Franco Colapinto afronta la última práctica del Gran Premio de Las Vegas de Fórmula 1",
+          "link": "https://www.infobae.com/deportes/2026/11/20/antes-de-la-clasificacion-franco-colapinto-afrontara-la-ultima-practica-del-gran-premio-de-las-vegas-de-formula-1-hora-tv-y-todo-lo-que-hay-que-saber/",
+          "hora": "2026-11-20T21:46:41-03:00"
         },
         {
           "medio": "Ámbito",
@@ -1751,51 +1801,6 @@
       "angulos": []
     },
     {
-      "id": "financiacion-de-autos-0-km-en-octubre-hubo-menos-operaciones-2",
-      "titulo": "Cuánto cuestan los autos eléctricos Tesla en la Argentina vs otros países de la región, Estados Unidos, China y Europa",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-11-19T12:57:54-03:00",
-      "calor": 45,
-      "medios": [
-        "Infobae",
-        "Clarín",
-        "La Nación"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "Milei defendió la apertura comercial en el acto por la llegada de los autos Tesla: “Vivimos detrás de una cortina de hierro”",
-          "link": "https://www.lanacion.com.ar/politica/milei-celebro-la-apertura-del-mercado-con-el-lanzamiento-de-tesla-durante-decadas-la-argentina-vivio-nid20112026/",
-          "hora": "2026-11-20T21:20:22-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Donald Trump amenazó con multas y un \"enorme impuesto\" a las empresas de Estados Unidos que construyan centros de datos en el exterior",
-          "link": "https://www.clarin.com/mundo/donald-trump-amenazo-multas-enorme-impuesto-empresas-estados-unidos-construyan-centros-datos-exterior_0_b5Tg5f5FrH.html",
-          "hora": "2026-11-20T16:41:01-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Cuánto cuestan los autos eléctricos Tesla en la Argentina vs otros países de la región, Estados Unidos, China y Europa",
-          "link": "https://www.infobae.com/economia/2026/11/20/cuanto-cuestan-los-autos-electricos-tesla-en-la-argentina-vs-otros-paises-de-la-region-estados-unidos-china-y-europa/",
-          "hora": "2026-11-20T13:32:14-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Abrió Tesla Argentina y ya se pueden comprar sus autos online: cómo acceder y cuánto cuesta cada modelo",
-          "link": "https://www.infobae.com/economia/2026/11/20/abrio-tesla-argentina-y-ya-se-pueden-comprar-sus-autos-online-como-acceder-y-cuanto-cuesta-cada-modelo/",
-          "hora": "2026-11-20T10:27:25-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
       "id": "vin-diesel-deja-rapido-y-furioso-y-presenta-el-trailer-de-bu",
       "titulo": "Detuvieron a cuatro nuevos sospechosos por la fuga del ex terrorista italiano Leonardo Bertulazzi",
       "categoria": "social",
@@ -1834,31 +1839,6 @@
           "titulo": "Detuvieron a la esposa de Bertulazzi, el exmiembro de las Brigadas Rojas que se escapó de forma sorprendente",
           "link": "https://www.pagina12.com.ar/2026/11/19/detuvieron-a-la-esposa-de-un-ex-guerrillero-italiano-que-se-escapo-de-forma-sorprendente/",
           "hora": "2026-11-20T00:01:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "rafecas-reasumio-el-caso-afa-y-se-lo-quedaria-varios-meses-p",
-      "titulo": "Rafecas reasumió el caso AFA y se lo quedaría varios meses, pese a que su ascenso avanza en el Senado",
-      "categoria": "politica",
-      "prioritaria": true,
-      "desde": "2026-11-20T17:18:25-03:00",
-      "calor": 45,
-      "medios": [
-        "La Nación"
-      ],
-      "en_x": true,
-      "posicion_x": 13,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "Rafecas reasumió el caso AFA y se lo quedaría varios meses, pese a que su ascenso avanza en el Senado",
-          "link": "https://www.lanacion.com.ar/politica/rafecas-reasumio-el-caso-afa-y-se-lo-quedaria-varios-meses-pese-a-que-su-ascenso-avanza-en-el-senado-nid20112026/",
-          "hora": "2026-11-20T17:18:25-03:00"
         }
       ],
       "oficiales": [],
@@ -1910,57 +1890,6 @@
           "titulo": "Escalada: reclamos tras la muerte del segundo operario de Metrogas por la explosión",
           "link": "https://www.pagina12.com.ar/2026/11/19/escalada-reclamos-tras-la-muerte-del-segundo-operario-de-metrogas-por-la-explosion/",
           "hora": "2026-11-20T00:01:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "hay-buenos-dias-y-no-tan-buenos-el-embajador-britanico-se-re-2",
-      "titulo": "Causa Malvinas: el Gobierno advirtió por escrito a los directivos de las petroleras británicas de las sanciones penales",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-11-19T08:06:17-03:00",
-      "calor": 44,
-      "medios": [
-        "Infobae",
-        "Clarín",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "TN",
-          "titulo": "Una petrolera británica toma distancia del proyecto Sea Lion y refuerza su interés en Vaca Muerta",
-          "link": "https://tn.com.ar/economia/2026/11/20/una-petrolera-britanica-toma-distancia-del-proyecto-sea-lion-y-refuerza-su-interes-en-vaca-muerta/",
-          "hora": "2026-11-20T16:14:30-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Causa Malvinas: el Gobierno advirtió por escrito a los directivos de las petroleras británicas de las sanciones penales",
-          "link": "https://www.clarin.com/politica/causa-malvinas-gobierno-advirtio-escrito-directivos-petroleras-britanicas-sanciones-penales_0_CW6oaz7IjK.html",
-          "hora": "2026-11-20T13:24:33-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Una petrolera británica se despega de las Malvinas: \"Nuestro foco está en Argentina\"",
-          "link": "https://www.clarin.com/energia-y-mineria/petrolera-britanica-despega-malvinas-foco-argentina_0_UpS79M0FsD.html",
-          "hora": "2026-11-20T11:42:56-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Las petroleras de Malvinas negocian para reemplazar dos contratistas y avanzar en Sea Lion",
-          "link": "https://www.clarin.com/energia-y-mineria/petroleras-malvinas-negocian-reemplazar-contratistas-avanzar-lion_0_GkU18laRKz.html",
-          "hora": "2026-11-20T11:22:58-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Malvinas: una petrolera británica se despegó del proyecto Sea Lion en medio de una sanción “heredada” y luego de una denuncia penal",
-          "link": "https://www.infobae.com/economia/2026/11/20/malvinas-una-petrolera-britanica-se-despego-del-proyecto-sea-lion-en-medio-de-una-sancion-heredada-y-luego-de-una-denuncia-penal/",
-          "hora": "2026-11-20T11:16:49-03:00"
         }
       ],
       "oficiales": [],
@@ -2032,6 +1961,57 @@
           "titulo": "“Hay buenos días y no tan buenos”: el embajador británico habló de la relación con Argentina en medio de la tensión por Malvinas",
           "link": "https://www.infobae.com/politica/2026/11/19/hay-buenos-dias-y-no-tan-buenos-el-embajador-britanico-se-refirio-al-conflicto-con-argentina-por-malvinas/",
           "hora": "2026-11-20T07:25:50-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "hay-buenos-dias-y-no-tan-buenos-el-embajador-britanico-se-re-2",
+      "titulo": "Causa Malvinas: el Gobierno advirtió por escrito a los directivos de las petroleras británicas de las sanciones penales",
+      "categoria": "economia",
+      "prioritaria": true,
+      "desde": "2026-11-19T08:06:17-03:00",
+      "calor": 43,
+      "medios": [
+        "Infobae",
+        "Clarín",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "TN",
+          "titulo": "Una petrolera británica toma distancia del proyecto Sea Lion y refuerza su interés en Vaca Muerta",
+          "link": "https://tn.com.ar/economia/2026/11/20/una-petrolera-britanica-toma-distancia-del-proyecto-sea-lion-y-refuerza-su-interes-en-vaca-muerta/",
+          "hora": "2026-11-20T16:14:30-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Causa Malvinas: el Gobierno advirtió por escrito a los directivos de las petroleras británicas de las sanciones penales",
+          "link": "https://www.clarin.com/politica/causa-malvinas-gobierno-advirtio-escrito-directivos-petroleras-britanicas-sanciones-penales_0_CW6oaz7IjK.html",
+          "hora": "2026-11-20T13:24:33-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Una petrolera británica se despega de las Malvinas: \"Nuestro foco está en Argentina\"",
+          "link": "https://www.clarin.com/energia-y-mineria/petrolera-britanica-despega-malvinas-foco-argentina_0_UpS79M0FsD.html",
+          "hora": "2026-11-20T11:42:56-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Las petroleras de Malvinas negocian para reemplazar dos contratistas y avanzar en Sea Lion",
+          "link": "https://www.clarin.com/energia-y-mineria/petroleras-malvinas-negocian-reemplazar-contratistas-avanzar-lion_0_GkU18laRKz.html",
+          "hora": "2026-11-20T11:22:58-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Malvinas: una petrolera británica se despegó del proyecto Sea Lion en medio de una sanción “heredada” y luego de una denuncia penal",
+          "link": "https://www.infobae.com/economia/2026/11/20/malvinas-una-petrolera-britanica-se-despego-del-proyecto-sea-lion-en-medio-de-una-sancion-heredada-y-luego-de-una-denuncia-penal/",
+          "hora": "2026-11-20T11:16:49-03:00"
         }
       ],
       "oficiales": [],
@@ -2129,38 +2109,38 @@
       "angulos": []
     },
     {
-      "id": "carlos-alcaraz-gano-sin-transpirar-termino-invicto-la-fase-d",
-      "titulo": "Carlos Alcaraz ganó sin transpirar, terminó invicto la fase de grupos del ATP Finals y jugará la semifinal con Ben Shelton",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-19T21:09:00-03:00",
+      "id": "el-consejo-agroindustrial-celebro-la-media-sancion-de-la-ley-3",
+      "titulo": "“Herramienta indispensable”: celebran la media sanción de una ley que cambiará el transporte fluvial y marítimo para el agro",
+      "categoria": "economia",
+      "prioritaria": true,
+      "desde": "2026-11-20T00:01:00-03:00",
       "calor": 43,
       "medios": [
         "La Nación",
         "Infobae",
-        "Página/12"
+        "TN"
       ],
       "en_x": false,
       "posicion_x": null,
       "en_google": false,
       "notas": [
         {
+          "medio": "TN",
+          "titulo": "TikTok presentó nuevas herramientas para detectar deepfakes y combatir la desinformación en su plataforma",
+          "link": "https://tn.com.ar/tecno/novedades/2026/11/20/tiktok-presento-nuevas-herramientas-para-detectar-deepfakes-y-combatir-la-desinformacion-en-su-plataforma/",
+          "hora": "2026-11-20T18:59:23-03:00"
+        },
+        {
           "medio": "Infobae",
-          "titulo": "Así quedaron las semifinales de las ATP World Tour Finals 2026: programación y dónde ver partidos en Perú",
-          "link": "https://www.infobae.com/peru/2026/11/20/asi-quedaron-las-semifinales-de-las-atp-world-tour-finals-2026-programacion-y-donde-ver-partidos-en-peru/",
-          "hora": "2026-11-20T20:07:13-03:00"
+          "titulo": "Argentina está entre los países que más consumen contenido erótico: alertan por la explotación sexual en plataformas digitales",
+          "link": "https://www.infobae.com/sociedad/2026/11/20/argentina-esta-entre-los-paises-que-mas-consumen-contenido-erotico-alertan-por-la-explotacion-sexual-en-plataformas-digitales/",
+          "hora": "2026-11-20T18:01:43-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "Carlos Alcaraz ganó sin transpirar, terminó invicto la fase de grupos del ATP Finals y jugará la semifinal con Ben Shelton",
-          "link": "https://www.lanacion.com.ar/deportes/tenis/carlos-alcaraz-gano-sin-transpirar-termino-invicto-la-fase-de-grupos-del-atp-finals-y-jugara-la-nid20112026/",
-          "hora": "2026-11-20T12:58:04-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "ATP Finals: se impuso Shelton y jugará las semifinales con Alcaraz",
-          "link": "https://www.pagina12.com.ar/2026/11/19/atp-finals-se-impuso-shelton-y-jugara-las-semifinales-con-alcaraz/",
-          "hora": "2026-11-20T00:01:00-03:00"
+          "titulo": "“Herramienta indispensable”: celebran la media sanción de una ley que cambiará el transporte fluvial y marítimo para el agro",
+          "link": "https://www.lanacion.com.ar/economia/campo/herramienta-indispensable-celebran-la-media-sancion-de-una-ley-que-cambiara-el-transporte-fluvial-y-nid20112026/",
+          "hora": "2026-11-20T11:36:56-03:00"
         }
       ],
       "oficiales": [],
@@ -2291,45 +2271,6 @@
       "angulos": []
     },
     {
-      "id": "los-pumas-vs-francia-una-rivalidad-que-se-torno-esquiva-en-l",
-      "titulo": "Los Pumas vs. Francia: una rivalidad que se tornó esquiva en los últimos tiempos",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-20T10:49:28-03:00",
-      "calor": 43,
-      "medios": [
-        "La Nación",
-        "Clarín",
-        "Página/12"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Página/12",
-          "titulo": "Los Pumas buscan un nuevo triunfo ante Francia",
-          "link": "https://www.pagina12.com.ar/2026/11/20/los-pumas-buscan-un-nuevo-triunfo-ante-francia/",
-          "hora": "2026-11-20T18:24:35-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Rubiolo, el veinteañero más experimentado de Los Pumas: \"Creo que Francia nos ve como un equipo muy intenso, no creo que dejen nada librado al azar\"",
-          "link": "https://www.clarin.com/deportes/rubiolo-veinteanero-experimentado-pumas-creo-francia-ve-equipo-intenso-creo-dejen-librado-azar_0_jHZHoblke9.html",
-          "hora": "2026-11-20T13:52:54-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Los Pumas vs. Francia: una rivalidad que se tornó esquiva en los últimos tiempos",
-          "link": "https://www.lanacion.com.ar/deportes/rugby/los-pumas-vs-francia-una-rivalidad-que-se-torno-esquiva-en-los-ultimos-tiempos-nid20112026/",
-          "hora": "2026-11-20T10:49:28-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
       "id": "asesor-salvadoreno-defiende-despliegue-militar-en-haiti-y-pr-2",
       "titulo": "Nelson Castro respondió a las críticas que recibió por su cobertura de la visita del papa León XIV a Perú",
       "categoria": "politica",
@@ -2362,6 +2303,84 @@
           "titulo": "Operativo centralidad: el despliegue de Javier y Karina Milei para recuperar la agenda tras la estadía de León XIV",
           "link": "https://www.ambito.com/politica/operativo-centralidad-el-despliegue-javier-y-karina-milei-recuperar-la-agenda-la-estadia-leon-xiv-n6347510",
           "hora": "2026-11-20T11:03:00-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "la-agenda-de-la-tv-y-streaming-del-sabado-boca-juega-la-fina",
+      "titulo": "La agenda de la TV y streaming del sábado: Boca juega la final de la Sudamericana, Messi, Los Pumas y Franco Colapinto",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-11-20T12:01:35-03:00",
+      "calor": 43,
+      "medios": [
+        "La Nación",
+        "Página/12",
+        "Ámbito"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "La agenda de la TV y streaming del sábado: Boca juega la final de la Sudamericana, Messi, Los Pumas y Franco Colapinto",
+          "link": "https://www.lanacion.com.ar/deportes/la-agenda-de-la-tv-y-streaming-del-sabado-boca-juega-la-final-de-la-sudamericana-messi-los-pumas-y-nid20112026/",
+          "hora": "2026-11-20T21:33:06-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Tiger Woods vuelve a competir después de dos años y volvió a elogiar a Messi: \"Es el mejor futbolista que vi en mi vida\"",
+          "link": "https://www.ambito.com/deportes/tiger-woods-vuelve-competir-despues-dos-anos-y-volvio-elogiar-messi-es-el-mejor-futbolista-que-vi-mi-vida-n6347551",
+          "hora": "2026-11-20T12:32:00-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Agenda deportiva del fin de semana: Boca juega la final y Colapinto corre en Las Vegas",
+          "link": "https://www.pagina12.com.ar/2026/11/20/agenda-deportiva-del-fin-de-semana-boca-juega-la-final-y-colapinto-corre-en-las-vegas/",
+          "hora": "2026-11-20T12:01:35-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "plazo-fijo-cual-es-la-tasa-de-interes-banco-por-banco-este-v",
+      "titulo": "Plazo fijo: cuál es la tasa de interés banco por banco este viernes 20 de noviembre",
+      "categoria": "economia",
+      "prioritaria": true,
+      "desde": "2026-11-20T12:20:22-03:00",
+      "calor": 43,
+      "medios": [
+        "La Nación",
+        "Infobae",
+        "Ámbito"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Cómo funciona el autoguardado de GTA 6 y por qué no saberlo arruinaría tu progreso",
+          "link": "https://www.infobae.com/tecno/2026/11/21/como-funciona-el-autoguardado-de-gta-6-y-por-que-no-saberlo-arruinaria-tu-progreso/",
+          "hora": "2026-11-20T21:46:29-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Plazo fijo con extra rendimiento: cómo funciona la nueva alternativa que paga hasta 50% más",
+          "link": "https://www.ambito.com/economia/plazo-fijo-extra-rendimiento-como-funciona-la-nueva-alternativa-que-paga-50-mas-n6346803",
+          "hora": "2026-11-20T16:00:00-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Plazo fijo: cuál es la tasa de interés banco por banco este viernes 20 de noviembre",
+          "link": "https://www.lanacion.com.ar/economia/plazo-fijo-cual-es-la-tasa-de-interes-banco-por-banco-este-viernes-20-de-noviembre-nid20112026/",
+          "hora": "2026-11-20T12:20:22-03:00"
         }
       ],
       "oficiales": [],
@@ -2720,44 +2739,6 @@
       "angulos": []
     },
     {
-      "id": "el-consejo-agroindustrial-celebro-la-media-sancion-de-la-ley",
-      "titulo": "“Herramienta indispensable”: celebran la media sanción de una ley que cambiará el transporte fluvial y marítimo para el agro",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-11-20T00:01:00-03:00",
-      "calor": 42,
-      "medios": [
-        "La Nación",
-        "Página/12"
-      ],
-      "en_x": true,
-      "posicion_x": 42,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "“Herramienta indispensable”: celebran la media sanción de una ley que cambiará el transporte fluvial y marítimo para el agro",
-          "link": "https://www.lanacion.com.ar/economia/campo/herramienta-indispensable-celebran-la-media-sancion-de-una-ley-que-cambiara-el-transporte-fluvial-y-nid20112026/",
-          "hora": "2026-11-20T11:36:56-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Aprueban la nueva ley de Discapacidad y reclaman que el Gobierno cumpla con su reglamentación",
-          "link": "https://www.lanacion.com.ar/politica/el-senado-sanciono-la-ley-de-discapacidad-y-la-oposicion-reclamo-al-gobierno-que-cumpla-con-su-nid19112026/",
-          "hora": "2026-11-20T03:04:41-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Ley de Discapacidad: las organizaciones acompañaron el tratamiento y celebraron la sanción",
-          "link": "https://www.pagina12.com.ar/2026/11/20/ley-de-discapacidad-las-organizaciones-acompanaron-el-tratamiento-y-celebraron-la-sancion/",
-          "hora": "2026-11-20T00:01:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
       "id": "shaca-la-bashura-de-18-a-20-una-llamativa-campana-en-san-isi",
       "titulo": "\"Shacá la bashura de 18 a 20”: una llamativa campaña en San Isidro para tirar la basura divide a los vecinos",
       "categoria": "social",
@@ -2790,6 +2771,45 @@
           "titulo": "\"Shacá la bashura de 18 a 20”: una llamativa campaña en San Isidro para tirar la basura divide a los vecinos",
           "link": "https://www.infobae.com/sociedad/2026/11/20/shaca-la-bashura-de-18-a-20-una-llamativa-campana-en-san-isidro-para-tirar-la-basura-divide-a-los-vecinos/",
           "hora": "2026-11-20T08:51:25-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "los-pumas-vs-francia-una-rivalidad-que-se-torno-esquiva-en-l",
+      "titulo": "Los Pumas vs. Francia: una rivalidad que se tornó esquiva en los últimos tiempos",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-11-20T10:49:28-03:00",
+      "calor": 42,
+      "medios": [
+        "La Nación",
+        "Clarín",
+        "Página/12"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Página/12",
+          "titulo": "Los Pumas buscan un nuevo triunfo ante Francia",
+          "link": "https://www.pagina12.com.ar/2026/11/20/los-pumas-buscan-un-nuevo-triunfo-ante-francia/",
+          "hora": "2026-11-20T18:24:35-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Rubiolo, el veinteañero más experimentado de Los Pumas: \"Creo que Francia nos ve como un equipo muy intenso, no creo que dejen nada librado al azar\"",
+          "link": "https://www.clarin.com/deportes/rubiolo-veinteanero-experimentado-pumas-creo-francia-ve-equipo-intenso-creo-dejen-librado-azar_0_jHZHoblke9.html",
+          "hora": "2026-11-20T13:52:54-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Los Pumas vs. Francia: una rivalidad que se tornó esquiva en los últimos tiempos",
+          "link": "https://www.lanacion.com.ar/deportes/rugby/los-pumas-vs-francia-una-rivalidad-que-se-torno-esquiva-en-los-ultimos-tiempos-nid20112026/",
+          "hora": "2026-11-20T10:49:28-03:00"
         }
       ],
       "oficiales": [],
@@ -2868,31 +2888,6 @@
           "titulo": "Huelga general en Italia: miles de personas marcharon contra el gobierno de Meloni en decenas de ciudades por el costo de vida",
           "link": "https://tn.com.ar/internacional/2026/11/20/huelga-general-en-italia-miles-de-personas-marcharon-contra-el-gobierno-de-meloni-en-decenas-de-ciudades-por-el-costo-de-vida/",
           "hora": "2026-11-20T15:03:19-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "nuestro-norte-es-competir-en-todos-los-frentes-sin-hipotecar",
-      "titulo": "“Nuestro norte es competir en todos los frentes sin hipotecar el futuro de Vélez”",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-20T17:46:42-03:00",
-      "calor": 42,
-      "medios": [
-        "Página/12"
-      ],
-      "en_x": true,
-      "posicion_x": 25,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Página/12",
-          "titulo": "“Nuestro norte es competir en todos los frentes sin hipotecar el futuro de Vélez”",
-          "link": "https://www.pagina12.com.ar/2026/11/20/nuestro-norte-es-competir-en-todos-los-frentes-sin-hipotecar-el-futuro-de-velez/",
-          "hora": "2026-11-20T17:46:42-03:00"
         }
       ],
       "oficiales": [],
@@ -3154,6 +3149,16 @@
   ],
   "google_trends": [
     {
+      "nombre": "bloomberg línea",
+      "trafico": "200+",
+      "link": "https://www.google.com/search?q=bloomberg%20l%C3%ADnea"
+    },
+    {
+      "nombre": "ronaldo martinez",
+      "trafico": "500+",
+      "link": "https://www.google.com/search?q=ronaldo%20martinez"
+    },
+    {
       "nombre": "lavado de dinero",
       "trafico": "200+",
       "link": "https://www.google.com/search?q=lavado%20de%20dinero"
@@ -3165,23 +3170,13 @@
     },
     {
       "nombre": "sofía jiménez",
-      "trafico": "100+",
+      "trafico": "200+",
       "link": "https://www.google.com/search?q=sof%C3%ADa%20jim%C3%A9nez"
     },
     {
       "nombre": "rafael grossi",
       "trafico": "100+",
       "link": "https://www.google.com/search?q=rafael%20grossi"
-    },
-    {
-      "nombre": "octavos de final liga argentina",
-      "trafico": "100+",
-      "link": "https://www.google.com/search?q=octavos%20de%20final%20liga%20argentina"
-    },
-    {
-      "nombre": "transportista",
-      "trafico": "200+",
-      "link": "https://www.google.com/search?q=transportista"
     }
   ],
   "estado_fuentes": [
@@ -3208,7 +3203,7 @@
     {
       "fuente": "Ámbito",
       "ok": true,
-      "items": 102
+      "items": 115
     },
     {
       "fuente": "TN",
