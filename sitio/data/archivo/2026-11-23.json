@@ -1,9 +1,86 @@
 {
-  "actualizado": "2026-11-23T19:33:47-03:00",
+  "actualizado": "2026-11-23T19:53:52-03:00",
   "proxima_actualizacion": "2026-11-23T20:00:00-03:00",
   "ia_disponible": false,
   "agenda_hoy": [],
   "temas": [
+    {
+      "id": "la-agenda-de-la-tv-del-lunes-gimnasia-y-newell-s-juegan-por",
+      "titulo": "Gimnasia La Plata le ganó 4-2 a Newell´s en el alargue y avanzó a los cuartos de final del Torneo Clausura",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-11-22T20:30:00-03:00",
+      "calor": 78,
+      "medios": [
+        "La Nación",
+        "Infobae",
+        "Clarín",
+        "Página/12",
+        "TN"
+      ],
+      "en_x": true,
+      "posicion_x": 2,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Tras la victoria de Gimnasia La Plata, así quedó el cuadro de los cuartos del Torneo Clausura: cuándo se jugará la última llave",
+          "link": "https://www.infobae.com/deportes/2026/11/23/tras-la-victoria-de-gimnasia-la-plata-asi-quedo-el-cuadro-de-los-cuartos-del-torneo-clausura-cuando-se-jugara-la-ultima-llave/",
+          "hora": "2026-11-23T19:51:26-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Gimnasia le ganó a Newell's 4 a 2 por los octavos de final de la Liga Profesional",
+          "link": "https://tn.com.ar/deportes/futbol/2026/11/23/gimnasia-vs-newells-en-vivo-por-los-octavos-de-final-de-la-liga-profesional-hora-donde-ver-y-formaciones/",
+          "hora": "2026-11-23T19:50:28-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Gimnasia La Plata le ganó 4-2 a Newell´s en el alargue y avanzó a los cuartos de final del Torneo Clausura",
+          "link": "https://www.infobae.com/deportes/2026/11/23/gimnasia-la-plata-se-enfrentara-a-newells-por-el-pase-a-los-cuartos-de-final-del-torneo-clausura-hora-tv-y-formaciones/",
+          "hora": "2026-11-23T19:50:18-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Gimnasia y Esgrima de La Plata vs. Newell’s Old Boys, minuto a minuto",
+          "link": "https://www.pagina12.com.ar/2026/11/23/gimnasia-y-esgrima-de-la-plata-vs-newells-old-boys-minuto-a-minuto/",
+          "hora": "2026-11-23T16:00:00-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Gimnasia de La Plata vs Newell's, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido de octavos del Torneo Clausura",
+          "link": "https://www.clarin.com/deportes/gimnasia-plata-vs-newells-vivo-hora-juegan-formaciones-ver-partido-octavos-torneo-clausura_0_avYW3A8o36.html",
+          "hora": "2026-11-23T14:41:32-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "En qué canal pasan hoy Gimnasia vs. Newell’s por el Torneo Clausura 2026",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/en-que-canal-pasan-hoy-gimnasia-vs-newells-por-el-torneo-clausura-2026-nid23112026/",
+          "hora": "2026-11-23T13:19:14-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Tras los triunfos de River Plate, Rosario Central e Instituto, así quedó el cuadro de cuartos de final del Torneo Clausura",
+          "link": "https://www.infobae.com/deportes/2026/11/23/tras-los-triunfos-de-river-plate-y-rosario-central-asi-quedo-el-cuadro-de-cuartos-de-final-del-torneo-clausura/",
+          "hora": "2026-11-23T00:05:15-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Liga Profesional: Rosario Central batió a Gimnasia (M) y pasó a cuartos de final en los playoffs",
+          "link": "https://www.pagina12.com.ar/2026/11/22/liga-profesional-rosario-central-batio-a-gimnasia-m-y-paso-a-cuartos-de-final-en-los-play-offs/",
+          "hora": "2026-11-23T00:01:00-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "La agenda de la TV del lunes: Gimnasia y Newell’s juegan por los octavos del final del Clausura",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-del-lunes-gimnasia-y-newells-juegan-por-los-octavos-del-final-del-clausura-nid22112026/",
+          "hora": "2026-11-22T20:30:00-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
     {
       "id": "yacobitti-cuestiono-el-homenaje-a-santucho-en-la-facultad-de",
       "titulo": "Yacobitti cuestionó el homenaje a Santucho en la Facultad de Ciencias Sociales de la UBA",
@@ -82,160 +159,12 @@
       "angulos": []
     },
     {
-      "id": "la-agenda-de-la-tv-del-lunes-gimnasia-y-newell-s-juegan-por",
-      "titulo": "La agenda de la TV del lunes: Gimnasia y Newell’s juegan por los octavos del final del Clausura",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-22T20:30:00-03:00",
-      "calor": 74,
-      "medios": [
-        "La Nación",
-        "Clarín",
-        "Infobae",
-        "Página/12",
-        "TN"
-      ],
-      "en_x": true,
-      "posicion_x": 2,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "TN",
-          "titulo": "En vivo - Gimnasia vs. Newell's: 3 - 2, por los octavos de final de la Liga Profesional",
-          "link": "https://tn.com.ar/deportes/futbol/2026/11/23/gimnasia-vs-newells-en-vivo-por-los-octavos-de-final-de-la-liga-profesional-hora-donde-ver-y-formaciones/",
-          "hora": "2026-11-23T19:27:28-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Gimnasia La Plata le gana a Newell´s en el alargue y se queda con el pase a los cuartos de final del Torneo Clausura",
-          "link": "https://www.infobae.com/deportes/2026/11/23/gimnasia-la-plata-se-enfrentara-a-newells-por-el-pase-a-los-cuartos-de-final-del-torneo-clausura-hora-tv-y-formaciones/",
-          "hora": "2026-11-23T19:19:12-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Gimnasia y Esgrima de La Plata vs. Newell’s Old Boys, minuto a minuto",
-          "link": "https://www.pagina12.com.ar/2026/11/23/gimnasia-y-esgrima-de-la-plata-vs-newells-old-boys-minuto-a-minuto/",
-          "hora": "2026-11-23T16:00:00-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Gimnasia de La Plata vs Newell's, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido de octavos del Torneo Clausura",
-          "link": "https://www.clarin.com/deportes/gimnasia-plata-vs-newells-vivo-hora-juegan-formaciones-ver-partido-octavos-torneo-clausura_0_avYW3A8o36.html",
-          "hora": "2026-11-23T14:41:32-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "En qué canal pasan hoy Gimnasia vs. Newell’s por el Torneo Clausura 2026",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/en-que-canal-pasan-hoy-gimnasia-vs-newells-por-el-torneo-clausura-2026-nid23112026/",
-          "hora": "2026-11-23T13:19:14-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "La agenda de la TV del lunes: Gimnasia y Newell’s juegan por los octavos del final del Clausura",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-del-lunes-gimnasia-y-newells-juegan-por-los-octavos-del-final-del-clausura-nid22112026/",
-          "hora": "2026-11-22T20:30:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "sin-operaciones-en-el-mercado-local-el-riesgo-pais-cayo-30-p",
-      "titulo": "Sin operaciones en el mercado local, el riesgo país cayó 30 puntos y las acciones argentinas volaron en Wall Street",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-11-23T00:00:00-03:00",
-      "calor": 61,
-      "medios": [
-        "Infobae",
-        "Clarín",
-        "La Nación",
-        "Ámbito",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Sin operaciones en el mercado local, el riesgo país cayó 30 puntos y las acciones argentinas volaron en Wall Street",
-          "link": "https://www.infobae.com/economia/2026/11/23/sin-operaciones-en-el-mercado-local-el-riesgo-pais-cayo-30-puntos-y-las-acciones-argentinas-volaron-en-wall-street/",
-          "hora": "2026-11-23T19:00:17-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Nvidia se disparó 31,5% en Wall Street ante el giro de la compañía y la restitución de Jensen Huang como presidente",
-          "link": "https://www.ambito.com/finanzas/nvidia-se-dispara-mas-33-wall-street-el-giro-la-compania-y-la-restitucion-jensen-huang-como-presidente-n6348307",
-          "hora": "2026-11-23T18:54:00-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Wall Street rebotó fuerte tras el regreso de Jensen Huang a Nvidia y el Nasdaq trepó un 6,5%",
-          "link": "https://www.ambito.com/finanzas/wall-street-rebota-67-el-nasdaq-al-frente-el-nuevo-nombramiento-jensen-huang-nvidia-n6348272",
-          "hora": "2026-11-23T18:48:00-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Cayó el riesgo país: Wall Street rebotó con fuerza y contagió a las acciones argentinas que cotizan en Nueva York",
-          "link": "https://www.lanacion.com.ar/economia/dolar/cae-el-riesgo-pais-wall-street-rebota-con-fuerza-y-contagia-a-las-acciones-argentinas-que-cotizan-en-nid23112026/",
-          "hora": "2026-11-23T18:39:24-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "La reincorporación de Jensen Huang a Nvidia impulsó el rebote de Wall Street tras una semana de pérdidas",
-          "link": "https://www.infobae.com/estados-unidos/2026/11/23/la-reincorporacion-de-jensen-huang-a-nvidia-impulso-el-rebote-de-wall-street-tras-una-semana-de-perdidas/",
-          "hora": "2026-11-23T18:28:11-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Las acciones argentinas rebotaron hasta 10% y el riesgo país cayó 30 puntos básicos en un día de euforia en las bolsas",
-          "link": "https://www.infobae.com/economia/2026/11/23/las-acciones-argentinas-rebotan-hasta-7-y-el-riesgo-pais-cae-50-puntos-basicos-en-un-dia-de-euforia-en-las-bolsas/",
-          "hora": "2026-11-23T18:14:14-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Nvidia se dispara más del 30%: el regreso de Jensen Huang sacude a Wall Street",
-          "link": "https://www.lanacion.com.ar/economia/IA/nvidia-se-dispara-casi-30-el-regreso-de-jensen-huang-sacude-a-wall-street-nid23112026/",
-          "hora": "2026-11-23T15:00:05-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "El riesgo país se mantiene por encima de los 1000 puntos y las acciones argentinas en Wall Street suben hasta 6%",
-          "link": "https://tn.com.ar/economia/2026/11/23/el-riesgo-pais-se-mantiene-por-encima-de-los-1000-puntos-mientras-las-acciones-argentinas-en-wall-street-suben-hasta-6/",
-          "hora": "2026-11-23T13:47:31-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Alivio en los mercados: mejoran las bolsas del mundo y el riesgo país baja aunque sigue por encima de los 1.000 puntos",
-          "link": "https://www.clarin.com/economia/alivio-mercados-mejoran-bolsas-mundo-riesgo-pais-baja-sigue-encima-1000-puntos_0_tdd8uYJ7WA.html",
-          "hora": "2026-11-23T12:15:57-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "El regreso de Jensen Huang dispara Wall Street tras una semana de desplome",
-          "link": "https://www.infobae.com/america/mundo/2026/11/23/el-regreso-de-jensen-huang-dispara-wall-street-tras-una-semana-de-desplome/",
-          "hora": "2026-11-23T12:08:49-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Riesgo país sobre 1.000 puntos y dólar en alza: la presión de 2027 llegó antes de tiempo",
-          "link": "https://www.ambito.com/opiniones/riesgo-pais-1000-puntos-y-dolar-alza-la-presion-2027-llego-antes-tiempo-n6348121",
-          "hora": "2026-11-23T00:00:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
       "id": "formula-1-colapinto-termino-sexto-en-un-inolvidable-gp-de-la",
       "titulo": "Los elogios de la Fórmula 1 a Franco Colapinto por su magistral largada y su “tiempo de reacción” en el GP de Las Vegas",
       "categoria": "deportes",
       "prioritaria": false,
       "desde": "2026-11-22T08:53:00-03:00",
-      "calor": 59,
+      "calor": 62,
       "medios": [
         "Infobae",
         "La Nación",
@@ -278,6 +207,12 @@
           "hora": "2026-11-23T13:14:19-03:00"
         },
         {
+          "medio": "Infobae",
+          "titulo": "Arde la interna en Ferrari tras el toque de Leclerc a Hamilton en el GP de Las Vegas de Fórmula 1: “Una falta de respeto hacia el equipo”",
+          "link": "https://www.infobae.com/deportes/2026/11/23/arde-la-interna-en-ferrari-tras-el-toque-de-leclerc-a-hamilton-en-el-gp-de-las-vegas-de-formula-1-una-falta-de-respeto-hacia-el-equipo/",
+          "hora": "2026-11-23T11:28:17-03:00"
+        },
+        {
           "medio": "Ámbito",
           "titulo": "Franco Colapinto sorprendió en un vuelo de clase turista tras su gran carrera en Las Vegas",
           "link": "https://www.ambito.com/deportes/franco-colapinto-sorprendio-un-vuelo-clase-turista-su-gran-carrera-las-vegas-n6348205",
@@ -290,10 +225,22 @@
           "hora": "2026-11-23T09:36:15-03:00"
         },
         {
+          "medio": "La Nación",
+          "titulo": "Las Vegas reavivó la tensión, profundizó la crisis entre Hamilton y Leclerc, y Ferrari naufraga en la pista y el garaje",
+          "link": "https://www.lanacion.com.ar/deportes/automovilismo/las-vegas-reavivo-la-tension-profundizo-la-crisis-entre-hamilton-y-leclerc-y-ferrari-naufraga-en-la-nid23112026/",
+          "hora": "2026-11-23T09:00:13-03:00"
+        },
+        {
           "medio": "Infobae",
           "titulo": "Una conocida seguidora de la F1 se sorprendió al compartir su vuelo con Franco Colapinto en clase turista: “Es el hombre del pueblo”",
           "link": "https://www.infobae.com/deportes/2026/11/23/una-conocida-seguidora-de-la-f1-se-sorprendio-al-compartir-su-vuelo-con-franco-colapinto-en-clase-turista-es-el-hombre-del-pueblo/",
           "hora": "2026-11-23T08:22:31-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Max Verstappen destrozó a Russell luego de quedarse con el GP de Las Vegas: “Está tan por debajo de mi nivel”",
+          "link": "https://www.lanacion.com.ar/deportes/automovilismo/max-verstappen-destrozo-a-russell-luego-de-quedarse-con-el-gp-de-las-vegas-esta-tan-por-debajo-de-mi-nid22112026/",
+          "hora": "2026-11-23T07:35:58-03:00"
         },
         {
           "medio": "Página/12",
@@ -306,6 +253,159 @@
           "titulo": "Radiografía de la carrera de Colapinto en el GP de Las Vegas de F1: gran largada, sobrepasos y otra vez en los puntos",
           "link": "https://www.infobae.com/deportes/2026/11/22/radiografia-de-la-carrera-de-colapinto-en-el-gp-de-las-vegas-de-f1-gran-largada-sobrepasos-y-otra-vez-en-los-puntos/",
           "hora": "2026-11-22T21:24:47-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "sin-operaciones-en-el-mercado-local-el-riesgo-pais-cayo-30-p",
+      "titulo": "Sin operaciones en el mercado local, el riesgo país cayó 30 puntos y las acciones argentinas volaron en Wall Street",
+      "categoria": "economia",
+      "prioritaria": true,
+      "desde": "2026-11-23T00:00:00-03:00",
+      "calor": 62,
+      "medios": [
+        "Infobae",
+        "La Nación",
+        "Clarín",
+        "Ámbito",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "TN",
+          "titulo": "El riesgo país se mantuvo por encima de los 1000 puntos y las acciones argentinas en Wall Street subieron hasta un 9%",
+          "link": "https://tn.com.ar/economia/2026/11/23/el-riesgo-pais-se-mantiene-por-encima-de-los-1000-puntos-mientras-las-acciones-argentinas-en-wall-street-suben-hasta-6/",
+          "hora": "2026-11-23T19:46:28-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Sin operaciones en el mercado local, el riesgo país cayó 30 puntos y las acciones argentinas volaron en Wall Street",
+          "link": "https://www.infobae.com/economia/2026/11/23/sin-operaciones-en-el-mercado-local-el-riesgo-pais-cayo-30-puntos-y-las-acciones-argentinas-volaron-en-wall-street/",
+          "hora": "2026-11-23T19:00:17-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Nvidia se disparó 31,5% en Wall Street ante el giro de la compañía y la restitución de Jensen Huang como presidente",
+          "link": "https://www.ambito.com/finanzas/nvidia-se-dispara-mas-33-wall-street-el-giro-la-compania-y-la-restitucion-jensen-huang-como-presidente-n6348307",
+          "hora": "2026-11-23T18:54:00-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Wall Street rebotó fuerte tras el regreso de Jensen Huang a Nvidia y el Nasdaq trepó un 6,5%",
+          "link": "https://www.ambito.com/finanzas/wall-street-rebota-67-el-nasdaq-al-frente-el-nuevo-nombramiento-jensen-huang-nvidia-n6348272",
+          "hora": "2026-11-23T18:48:00-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "El secretario de Finanzas atribuyó el salto del riesgo país al contexto global y descartó un impacto del dólar en la inflación",
+          "link": "https://tn.com.ar/economia/2026/11/23/el-secretario-de-finanzas-atribuyo-el-salto-del-riesgo-pais-al-contexto-global-y-descarto-un-impacto-del-dolar-en-la-inflacion/",
+          "hora": "2026-11-23T18:39:57-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Cayó el riesgo país: Wall Street rebotó con fuerza y contagió a las acciones argentinas que cotizan en Nueva York",
+          "link": "https://www.lanacion.com.ar/economia/dolar/cae-el-riesgo-pais-wall-street-rebota-con-fuerza-y-contagia-a-las-acciones-argentinas-que-cotizan-en-nid23112026/",
+          "hora": "2026-11-23T18:39:24-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Las acciones argentinas rebotaron hasta 10% y el riesgo país cayó 30 puntos básicos en un día de euforia en las bolsas",
+          "link": "https://www.infobae.com/economia/2026/11/23/las-acciones-argentinas-rebotan-hasta-7-y-el-riesgo-pais-cae-50-puntos-basicos-en-un-dia-de-euforia-en-las-bolsas/",
+          "hora": "2026-11-23T18:14:14-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Un funcionario de Caputo atribuyó la suba del riesgo país al contexto global y negó que el aumento del dólar impacte en la inflación",
+          "link": "https://www.infobae.com/economia/2026/11/23/un-funcionario-de-caputo-atribuyo-la-suba-del-riesgo-pais-al-contexto-global-y-nego-que-el-aumento-del-dolar-impacte-en-la-inflacion/",
+          "hora": "2026-11-23T18:14:09-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Nvidia se dispara más del 30%: el regreso de Jensen Huang sacude a Wall Street",
+          "link": "https://www.lanacion.com.ar/economia/IA/nvidia-se-dispara-casi-30-el-regreso-de-jensen-huang-sacude-a-wall-street-nid23112026/",
+          "hora": "2026-11-23T15:00:05-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Alivio en los mercados: mejoran las bolsas del mundo y el riesgo país baja aunque sigue por encima de los 1.000 puntos",
+          "link": "https://www.clarin.com/economia/alivio-mercados-mejoran-bolsas-mundo-riesgo-pais-baja-sigue-encima-1000-puntos_0_tdd8uYJ7WA.html",
+          "hora": "2026-11-23T12:15:57-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "El regreso de Jensen Huang dispara Wall Street tras una semana de desplome",
+          "link": "https://www.infobae.com/america/mundo/2026/11/23/el-regreso-de-jensen-huang-dispara-wall-street-tras-una-semana-de-desplome/",
+          "hora": "2026-11-23T12:08:49-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "¿Por qué llegamos a este nivel de riesgo país?",
+          "link": "https://www.lanacion.com.ar/economia/por-que-llegamos-a-este-nivel-de-riesgo-pais-nid23112026/",
+          "hora": "2026-11-23T10:29:41-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Inflación de noviembre: los últimos relevamientos arrojaron buenos datos, pero hay dudas por la suba del dólar",
+          "link": "https://www.infobae.com/economia/2026/11/23/inflacion-de-noviembre-los-ultimos-relevamientos-arrojaron-buenos-datos-pero-hay-dudas-por-la-suba-del-dolar/",
+          "hora": "2026-11-23T00:53:36-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Riesgo país sobre 1.000 puntos y dólar en alza: la presión de 2027 llegó antes de tiempo",
+          "link": "https://www.ambito.com/opiniones/riesgo-pais-1000-puntos-y-dolar-alza-la-presion-2027-llego-antes-tiempo-n6348121",
+          "hora": "2026-11-23T00:00:00-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "nvidia-anuncio-la-reincorporacion-de-jensen-huang-como-direc",
+      "titulo": "Nvidia anunció la reincorporación de Jensen Huang como director ejecutivo y presidente",
+      "categoria": "economia",
+      "prioritaria": true,
+      "desde": "2026-11-23T11:47:00-03:00",
+      "calor": 62,
+      "medios": [
+        "La Nación",
+        "Infobae",
+        "Ámbito",
+        "TN"
+      ],
+      "en_x": true,
+      "posicion_x": 25,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Nvidia suma USD 1 billón en bolsa tras el regreso de Jensen Huang como director ejecutivo",
+          "link": "https://www.infobae.com/tecno/2026/11/23/nvidia-suma-usd-1-billon-en-bolsa-tras-el-regreso-de-jensen-huang-como-director-ejecutivo/",
+          "hora": "2026-11-23T19:49:48-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Nvidia anunció la reincorporación de Jensen Huang como director ejecutivo y presidente",
+          "link": "https://www.lanacion.com.ar/el-mundo/nvidia-anuncio-la-reincorporacion-de-jensen-huang-como-director-general-y-presidente-ejecutivo-nid23112026/",
+          "hora": "2026-11-23T18:49:58-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Nvidia restituye a Jensen Huang como director ejecutivo",
+          "link": "https://tn.com.ar/economia/2026/11/23/nvidia-restituye-a-jensen-huang-como-director-ejecutivo/",
+          "hora": "2026-11-23T13:45:26-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Tras el escándalo, Nvidia anunció la reincorporación de Jensen Huang como director general y presidente ejecutivo",
+          "link": "https://www.ambito.com/finanzas/tras-el-escandalo-nvidia-anuncio-la-reincorporacion-jensen-huang-como-director-general-y-presidente-ejecutivo-n6348262",
+          "hora": "2026-11-23T11:47:00-03:00"
         }
       ],
       "oficiales": [],
@@ -396,14 +496,14 @@
       "angulos": []
     },
     {
-      "id": "nvidia-anuncio-la-reincorporacion-de-jensen-huang-como-direc",
-      "titulo": "Nvidia anunció la reincorporación de Jensen Huang como director ejecutivo y presidente",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-11-23T11:47:00-03:00",
-      "calor": 57,
+      "id": "escandalo-en-nvidia-revelan-que-la-mujer-vinculada-a-jensen",
+      "titulo": "EEUU incorpora a Megaspeed a su lista negra comercial tras el escándalo en torno al CEO de Nvidia",
+      "categoria": "otros",
+      "prioritaria": false,
+      "desde": "2026-11-23T00:53:30-03:00",
+      "calor": 58,
       "medios": [
-        "La Nación",
+        "Infobae",
         "Ámbito",
         "TN"
       ],
@@ -412,22 +512,28 @@
       "en_google": false,
       "notas": [
         {
-          "medio": "La Nación",
-          "titulo": "Nvidia anunció la reincorporación de Jensen Huang como director ejecutivo y presidente",
-          "link": "https://www.lanacion.com.ar/el-mundo/nvidia-anuncio-la-reincorporacion-de-jensen-huang-como-director-general-y-presidente-ejecutivo-nid23112026/",
-          "hora": "2026-11-23T18:49:58-03:00"
+          "medio": "Infobae",
+          "titulo": "EEUU incorpora a Megaspeed a su lista negra comercial tras el escándalo en torno al CEO de Nvidia",
+          "link": "https://www.infobae.com/america/agencias/2026/11/23/eeuu-incorpora-a-megaspeed-a-su-lista-negra-comercial-tras-el-escandalo-en-torno-al-ceo-de-nvidia/",
+          "hora": "2026-11-23T19:45:53-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "EEUU incluye en su lista negra a Megaspeed por presunto desvío de chips de Nvidia a China",
+          "link": "https://www.infobae.com/america/agencias/2026/11/23/eeuu-incluye-en-su-lista-negra-a-megaspeed-por-presunto-desvio-de-chips-de-nvidia-a-china/",
+          "hora": "2026-11-23T19:45:36-03:00"
         },
         {
           "medio": "TN",
-          "titulo": "Nvidia restituye a Jensen Huang como director ejecutivo",
-          "link": "https://tn.com.ar/economia/2026/11/23/nvidia-restituye-a-jensen-huang-como-director-ejecutivo/",
-          "hora": "2026-11-23T13:45:26-03:00"
+          "titulo": "Nvidia anunció la reincorporación de Jensen Huang como CEO tras el escándalo por su romance con una presunta espía china",
+          "link": "https://tn.com.ar/tecno/novedades/2026/11/23/nvidia-anuncio-la-reincorporacion-de-jensen-huang-como-director-ejecutivo/",
+          "hora": "2026-11-23T19:01:03-03:00"
         },
         {
           "medio": "Ámbito",
-          "titulo": "Tras el escándalo, Nvidia anunció la reincorporación de Jensen Huang como director general y presidente ejecutivo",
-          "link": "https://www.ambito.com/finanzas/tras-el-escandalo-nvidia-anuncio-la-reincorporacion-jensen-huang-como-director-general-y-presidente-ejecutivo-n6348262",
-          "hora": "2026-11-23T11:47:00-03:00"
+          "titulo": "Escándalo en Nvidia: revelan que la mujer vinculada a Jensen Huang tuvo contactos con la inteligencia china",
+          "link": "https://www.ambito.com/mundo/escandalo-nvidia-revelan-que-la-mujer-vinculada-jensen-huang-tuvo-contactos-la-inteligencia-china-n6348249",
+          "hora": "2026-11-23T11:32:00-03:00"
         }
       ],
       "oficiales": [],
@@ -460,7 +566,7 @@
         },
         {
           "medio": "TN",
-          "titulo": "Ley contra la ludopatía: aumenta la presión de la Iglesia sobre el Senado mientras el Gobierno busca modificar el proyecto",
+          "titulo": "Ley de Prevención de Ludopatía: aumenta la presión de la Iglesia sobre el Senado mientras el Gobierno busca modificar el proyecto",
           "link": "https://tn.com.ar/politica/2026/11/23/ley-contra-la-ludopatia-aumenta-la-presion-de-la-iglesia-sobre-el-senado-mientras-el-gobierno-busca-modificar-el-proyecto/",
           "hora": "2026-11-23T17:58:16-03:00"
         },
@@ -493,58 +599,6 @@
           "titulo": "Con una frase del papa León XIV, la Iglesia reclamó al Senado que apruebe la ley contra la ludopatía: “No dejen morir este proyecto”",
           "link": "https://www.infobae.com/politica/2026/11/23/con-una-frase-del-papa-leon-xiv-la-iglesia-reclamo-al-senado-que-apruebe-la-ley-contra-la-ludopatia-no-dejen-morir-este-proyecto/",
           "hora": "2026-11-23T07:28:03-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "brutal-golpiza-en-merlo-un-rugbier-ataco-por-la-espalda-al-j",
-      "titulo": "Brutal golpiza en Merlo: un rugbier atacó por la espalda al joven que sale con su ex novia y lo dejó inconsciente",
-      "categoria": "social",
-      "prioritaria": true,
-      "desde": "2026-11-23T09:35:21-03:00",
-      "calor": 56,
-      "medios": [
-        "Infobae",
-        "Clarín",
-        "TN",
-        "Página/12"
-      ],
-      "en_x": true,
-      "posicion_x": 45,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "TN",
-          "titulo": "La reacción de la madre del rugbier que atacó a golpes al novio de su ex: “Está mal influenciado por sus amigos”",
-          "link": "https://tn.com.ar/videos/policiales/2026/11/23/la-reaccion-de-la-madre-del-rugbier-que-ataco-a-golpes-al-novio-de-su-ex-esta-mal-influenciado-por-sus-amigos/",
-          "hora": "2026-11-23T15:04:15-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Un rugbier atacó a un joven que sale con su ex novia y lo dejó inconsciente",
-          "link": "https://www.pagina12.com.ar/2026/11/23/un-rugbier-ataco-a-un-joven-que-sale-con-su-ex-novia-y-lo-dejo-inconsciente/",
-          "hora": "2026-11-23T11:32:51-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Brutal ataque en Merlo: por celos, un rugbier le dio una paliza al joven que está saliendo con su ex novia",
-          "link": "https://www.clarin.com/sociedad/brutal-ataque-merlo-celos-rugbier-dio-paliza-joven-saliendo-ex-novia_0_VuhNAAiP1f.html",
-          "hora": "2026-11-23T10:08:50-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Brutal golpiza en Merlo: un rugbier atacó por la espalda al joven que sale con su ex novia y lo dejó inconsciente",
-          "link": "https://www.infobae.com/sociedad/policiales/2026/11/23/brutal-golpiza-en-merlo-un-rugbier-ataco-por-la-espalda-al-joven-que-sale-con-su-ex-novia-y-lo-dejo-inconsciente/",
-          "hora": "2026-11-23T09:50:40-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Video: un rugbier de 17 años atacó a trompadas al novio de su ex y lo dejó inconsciente",
-          "link": "https://tn.com.ar/policiales/2026/11/23/video-un-rugbier-de-17-anos-ataco-a-trompadas-al-novio-de-su-ex-y-lo-dejo-inconsciente/",
-          "hora": "2026-11-23T09:35:21-03:00"
         }
       ],
       "oficiales": [],
@@ -590,6 +644,58 @@
           "titulo": "“Lloro todos los días”: el relato del acróbata cordobés que fue detenido por el ICE en Estados Unidos",
           "link": "https://tn.com.ar/internacional/2026/11/23/lloro-todos-los-dias-el-relato-del-acrobata-cordobes-que-fue-detenido-por-el-ice-en-estados-unidos/",
           "hora": "2026-11-23T12:46:47-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "brutal-golpiza-en-merlo-un-rugbier-ataco-por-la-espalda-al-j",
+      "titulo": "Brutal golpiza en Merlo: un rugbier atacó por la espalda al joven que sale con su ex novia y lo dejó inconsciente",
+      "categoria": "social",
+      "prioritaria": true,
+      "desde": "2026-11-23T09:35:21-03:00",
+      "calor": 55,
+      "medios": [
+        "Infobae",
+        "Clarín",
+        "TN",
+        "Página/12"
+      ],
+      "en_x": true,
+      "posicion_x": 45,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "TN",
+          "titulo": "La reacción de la madre del rugbier que atacó a golpes al novio de su ex: “Está mal influenciado por sus amigos”",
+          "link": "https://tn.com.ar/videos/policiales/2026/11/23/la-reaccion-de-la-madre-del-rugbier-que-ataco-a-golpes-al-novio-de-su-ex-esta-mal-influenciado-por-sus-amigos/",
+          "hora": "2026-11-23T15:04:15-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Un rugbier atacó a un joven que sale con su ex novia y lo dejó inconsciente",
+          "link": "https://www.pagina12.com.ar/2026/11/23/un-rugbier-ataco-a-un-joven-que-sale-con-su-ex-novia-y-lo-dejo-inconsciente/",
+          "hora": "2026-11-23T11:32:51-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Brutal ataque en Merlo: por celos, un rugbier le dio una paliza al joven que está saliendo con su ex novia",
+          "link": "https://www.clarin.com/sociedad/brutal-ataque-merlo-celos-rugbier-dio-paliza-joven-saliendo-ex-novia_0_VuhNAAiP1f.html",
+          "hora": "2026-11-23T10:08:50-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Brutal golpiza en Merlo: un rugbier atacó por la espalda al joven que sale con su ex novia y lo dejó inconsciente",
+          "link": "https://www.infobae.com/sociedad/policiales/2026/11/23/brutal-golpiza-en-merlo-un-rugbier-ataco-por-la-espalda-al-joven-que-sale-con-su-ex-novia-y-lo-dejo-inconsciente/",
+          "hora": "2026-11-23T09:50:40-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Video: un rugbier de 17 años atacó a trompadas al novio de su ex y lo dejó inconsciente",
+          "link": "https://tn.com.ar/policiales/2026/11/23/video-un-rugbier-de-17-anos-ataco-a-trompadas-al-novio-de-su-ex-y-lo-dejo-inconsciente/",
+          "hora": "2026-11-23T09:35:21-03:00"
         }
       ],
       "oficiales": [],
@@ -689,16 +795,16 @@
       "en_google": false,
       "notas": [
         {
+          "medio": "TN",
+          "titulo": "Brentford le ganó a Everton 4 a 0 por la fecha 11 de la Premier League",
+          "link": "https://tn.com.ar/deportes/futbol/2026/11/23/brentford-vs-everton-en-vivo-por-la-fecha-11-de-la-premier-league-hora-donde-ver-y-formaciones/",
+          "hora": "2026-11-23T19:33:43-03:00"
+        },
+        {
           "medio": "Infobae",
           "titulo": "Lewis-Potter lidera al Brentford en la primera victoria como local ante el Everton (4-0)",
           "link": "https://www.infobae.com/espana/agencias/2026/11/23/lewis-potter-lidera-al-brentford-en-la-primera-victoria-como-local-ante-el-everton-4-0/",
           "hora": "2026-11-23T19:16:12-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Brentford le ganó a Everton 4 a 0 por la fecha 11 de la Premier League",
-          "link": "https://tn.com.ar/deportes/futbol/2026/11/23/brentford-vs-everton-en-vivo-por-la-fecha-11-de-la-premier-league-hora-donde-ver-y-formaciones/",
-          "hora": "2026-11-23T19:03:29-03:00"
         },
         {
           "medio": "TN",
@@ -834,12 +940,56 @@
       "angulos": []
     },
     {
+      "id": "detenido-el-hermano-del-expresidente-pena-por-el-escandalo-d",
+      "titulo": "Detenido el hermano del expresidente Peña por el escándalo de Ueno Bank",
+      "categoria": "otros",
+      "prioritaria": false,
+      "desde": "2026-11-23T18:47:39-03:00",
+      "calor": 51,
+      "medios": [
+        "Infobae",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": true,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Detienen a hermano y cuñada del expresidente paraguayo Peña investigados por el caso Ueno",
+          "link": "https://www.infobae.com/america/agencias/2026/11/23/detienen-a-hermano-y-cunada-del-expresidente-paraguayo-pena-investigados-por-el-caso-ueno/",
+          "hora": "2026-11-23T19:46:47-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Video: detuvieron a Francisco Peña, el hermano del expresidente de Paraguay investigado en la causa de Ueno Bank",
+          "link": "https://tn.com.ar/internacional/2026/11/23/video-detuvieron-a-francisco-pena-el-hermano-del-expresidente-de-paraguay-investigado-en-la-causa-de-ueno-bank/",
+          "hora": "2026-11-23T19:22:34-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Detenido el hermano del expresidente Peña por el escándalo de Ueno Bank",
+          "link": "https://www.infobae.com/america/agencias/2026/11/23/detenido-el-hermano-del-expresidente-pena-por-el-escandalo-de-ueno-bank/",
+          "hora": "2026-11-23T19:15:35-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "La Fiscalía de Paraguay ordenó detener al hermano de Santiago Peña y a su esposa por la causa de Ueno Bank",
+          "link": "https://www.infobae.com/america/america-latina/2026/11/23/la-fiscalia-de-paraguay-ordeno-detener-al-hermano-de-santiago-pena-y-a-su-esposa-por-la-causa-de-ueno-bank/",
+          "hora": "2026-11-23T18:47:39-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
       "id": "catherine-fulop-revelo-que-ova-sabatini-no-queria-que-volvie",
       "titulo": "Catherine Fulop reveló que Ova Sabatini no quería que volviera a Venezuela y contó cómo reaccionaron sus hijas",
       "categoria": "espectaculos",
       "prioritaria": false,
       "desde": "2026-11-23T00:41:39-03:00",
-      "calor": 51,
+      "calor": 50,
       "medios": [
         "Infobae",
         "La Nación",
@@ -892,51 +1042,6 @@
       "angulos": []
     },
     {
-      "id": "la-situacion-internacional-cada-vez-cuenta-mas-anoche-se-rec",
-      "titulo": "La situación internacional cada vez cuenta más: anoche se recuperaban los mercados y bajaba el petróleo",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-11-23T00:53:43-03:00",
-      "calor": 51,
-      "medios": [
-        "Infobae",
-        "Clarín",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": true,
-      "notas": [
-        {
-          "medio": "Clarín",
-          "titulo": "Emmy Internacionales 2026: este lunes se entregan los premios y Ricardo Darín y Leo Sbaraglia, entre otros argentinos, buscan quedarse con una estatuilla",
-          "link": "https://www.clarin.com/espectaculos/emmy-internacionales-2026-lunes-entregan-premios-ricardo-darin-leo-sbaraglia-argentinos-buscan-quedarse-estatuilla_0_Pp84pxY6Ze.html",
-          "hora": "2026-11-23T12:17:16-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Por el pago de regalías, Vaca Muerta mejora las cuentas de Neuquén y el petróleo más caro alivia a otras provincias",
-          "link": "https://www.clarin.com/energia-y-mineria/pago-regalias-vaca-muerta-mejora-cuentas-neuquen-petroleo-caro-alivia-provincias_0_fzryF2w7K1.html",
-          "hora": "2026-11-23T11:55:39-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "“Más innovación con reglas claras”: la agroindustria valora el ingreso de Argentina al sistema internacional de patentes",
-          "link": "https://tn.com.ar/campo/2026/11/23/mas-innovacion-con-reglas-claras-la-agroindustria-valora-el-ingreso-de-argentina-al-sistema-internacional-de-patentes/",
-          "hora": "2026-11-23T10:07:49-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "La situación internacional cada vez cuenta más: anoche se recuperaban los mercados y bajaba el petróleo",
-          "link": "https://www.infobae.com/economia/2026/11/23/la-situacion-internacional-cada-vez-cuenta-mas-anoche-se-recuperaban-los-mercados-y-bajaba-el-petroleo/",
-          "hora": "2026-11-23T00:53:43-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
       "id": "tres-empresas-presentaron-sus-propuestas-para-reactivar-plan",
       "titulo": "Tres empresas presentaron sus propuestas para reactivar plantas de una láctea quebrada",
       "categoria": "economia",
@@ -981,37 +1086,45 @@
       "angulos": []
     },
     {
-      "id": "detenido-el-hermano-del-expresidente-pena-por-el-escandalo-d",
-      "titulo": "Detenido el hermano del expresidente Peña por el escándalo de Ueno Bank",
-      "categoria": "otros",
-      "prioritaria": false,
-      "desde": "2026-11-23T18:47:39-03:00",
-      "calor": 50,
+      "id": "el-gobierno-enfrenta-dos-duras-batallas-en-el-congreso-con-f",
+      "titulo": "El Gobierno enfrenta dos duras batallas en el Congreso con final incierto: el Presupuesto y la suspensión de las PASO",
+      "categoria": "politica",
+      "prioritaria": true,
+      "desde": "2026-11-23T00:01:00-03:00",
+      "calor": 49,
       "medios": [
+        "Clarín",
         "Infobae",
+        "Página/12",
         "TN"
       ],
       "en_x": false,
       "posicion_x": null,
-      "en_google": true,
+      "en_google": false,
       "notas": [
         {
           "medio": "TN",
-          "titulo": "Video: detuvieron a Francisco Peña, el hermano del expresidente de Paraguay investigado en la causa de Ueno Bank",
-          "link": "https://tn.com.ar/internacional/2026/11/23/video-detuvieron-a-francisco-pena-el-hermano-del-expresidente-de-paraguay-investigado-en-la-causa-de-ueno-bank/",
-          "hora": "2026-11-23T19:22:34-03:00"
+          "titulo": "El Gobierno encara una semana clave en el Congreso: Presupuesto 2027, suspensión de las PASO y ley contra la ludopatía",
+          "link": "https://tn.com.ar/politica/2026/11/23/el-gobierno-encara-una-semana-clave-en-el-congreso-presupuesto-2027-suspension-de-las-paso-y-ley-contra-la-ludopatia/",
+          "hora": "2026-11-23T19:38:33-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Detenido el hermano del expresidente Peña por el escándalo de Ueno Bank",
-          "link": "https://www.infobae.com/america/agencias/2026/11/23/detenido-el-hermano-del-expresidente-pena-por-el-escandalo-de-ueno-bank/",
-          "hora": "2026-11-23T19:15:35-03:00"
+          "titulo": "Las “tres finales” que enfrenta el Gobierno y el debate por la suspensión de las PASO",
+          "link": "https://www.infobae.com/politica/2026/11/23/las-tres-finales-que-enfrenta-el-gobierno-y-el-debate-por-la-suspension-de-las-paso/",
+          "hora": "2026-11-23T14:36:14-03:00"
         },
         {
-          "medio": "Infobae",
-          "titulo": "La Fiscalía de Paraguay ordenó detener al hermano de Santiago Peña y a su esposa por la causa de Ueno Bank",
-          "link": "https://www.infobae.com/america/america-latina/2026/11/23/la-fiscalia-de-paraguay-ordeno-detener-al-hermano-de-santiago-pena-y-a-su-esposa-por-la-causa-de-ueno-bank/",
-          "hora": "2026-11-23T18:47:39-03:00"
+          "medio": "Clarín",
+          "titulo": "El Gobierno enfrenta dos duras batallas en el Congreso con final incierto: el Presupuesto y la suspensión de las PASO",
+          "link": "https://www.clarin.com/politica/gobierno-enfrenta-duras-batallas-congreso-final-incierto-presupuesto-suspension-paso_0_LpmS501yaI.html",
+          "hora": "2026-11-23T10:56:56-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "En medio de las negociaciones para suspender las PASO, Santilli se expone ante el Congreso",
+          "link": "https://www.pagina12.com.ar/2026/11/22/en-medio-de-las-negociaciones-para-suspender-las-paso-santilli-se-expone-ante-el-congreso/",
+          "hora": "2026-11-23T00:01:00-03:00"
         }
       ],
       "oficiales": [],
@@ -1095,52 +1208,6 @@
       "angulos": []
     },
     {
-      "id": "el-fin-de-semana-largo-movilizo-a-1-4-millones-de-turistas-a",
-      "titulo": "El fin de semana largo movilizó a 1,4 millones de turistas, aunque el gasto cayó 30% versus el año pasado",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-11-23T10:27:54-03:00",
-      "calor": 47,
-      "medios": [
-        "Infobae",
-        "La Nación",
-        "Página/12",
-        "Ámbito"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Ámbito",
-          "titulo": "El fin de semana largo movilizó $332.557 millones, pero cayó el gasto turístico y hubo menos viajeros",
-          "link": "https://www.ambito.com/economia/el-fin-semana-largo-movilizo-332557-millones-pero-cayo-el-gasto-turistico-y-hubo-menos-viajeros-n6348334",
-          "hora": "2026-11-23T14:35:00-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "“Históricamente muy bueno”: esperan que la exportación de granos aporte US$6000 millones hasta fin de año",
-          "link": "https://www.lanacion.com.ar/economia/campo/historicamente-muy-bueno-esperan-que-la-agroindustria-aporte-otros-us6000-millones-hasta-fin-de-ano-nid23112026/",
-          "hora": "2026-11-23T14:02:29-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "El turismo no se salva de Milei: otro fin de semana largo con menos viajes y menos gastos",
-          "link": "https://www.pagina12.com.ar/2026/11/23/el-turismo-no-se-salva-de-milei-otro-fin-de-semana-largo-con-menos-viajes-y-menos-gastos/",
-          "hora": "2026-11-23T13:30:00-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "El fin de semana largo movilizó a 1,4 millones de turistas, aunque el gasto cayó 30% versus el año pasado",
-          "link": "https://www.infobae.com/economia/2026/11/23/el-fin-de-semana-largo-movilizo-a-14-millones-de-turistas-aunque-el-gasto-cayo-30-versus-el-ano-pasado/",
-          "hora": "2026-11-23T10:27:54-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
       "id": "hablo-el-hijo-de-mario-santucho-y-defendio-el-homenaje-a-su",
       "titulo": "Habló el hijo de Mario Santucho y defendió el homenaje a su padre en la UBA",
       "categoria": "espectaculos",
@@ -1185,6 +1252,103 @@
           "titulo": "La vida de los hijos de Jackie Chan: carreras bajo la sombra de su padre y vínculos marcados por la distancia",
           "link": "https://www.infobae.com/entretenimiento/2026/11/23/la-vida-de-los-hijos-de-jackie-chan-carreras-bajo-la-sombra-de-su-padre-y-vinculos-marcados-por-la-distancia/",
           "hora": "2026-11-23T07:11:21-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "el-fin-de-semana-largo-movilizo-a-1-4-millones-de-turistas-a",
+      "titulo": "El fin de semana largo movilizó a 1,4 millones de turistas, aunque el gasto cayó 30% versus el año pasado",
+      "categoria": "economia",
+      "prioritaria": true,
+      "desde": "2026-11-23T10:27:54-03:00",
+      "calor": 46,
+      "medios": [
+        "Infobae",
+        "La Nación",
+        "Página/12",
+        "Ámbito"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Ámbito",
+          "titulo": "El fin de semana largo movilizó $332.557 millones, pero cayó el gasto turístico y hubo menos viajeros",
+          "link": "https://www.ambito.com/economia/el-fin-semana-largo-movilizo-332557-millones-pero-cayo-el-gasto-turistico-y-hubo-menos-viajeros-n6348334",
+          "hora": "2026-11-23T14:35:00-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "“Históricamente muy bueno”: esperan que la exportación de granos aporte US$6000 millones hasta fin de año",
+          "link": "https://www.lanacion.com.ar/economia/campo/historicamente-muy-bueno-esperan-que-la-agroindustria-aporte-otros-us6000-millones-hasta-fin-de-ano-nid23112026/",
+          "hora": "2026-11-23T14:02:29-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "El turismo no se salva de Milei: otro fin de semana largo con menos viajes y menos gastos",
+          "link": "https://www.pagina12.com.ar/2026/11/23/el-turismo-no-se-salva-de-milei-otro-fin-de-semana-largo-con-menos-viajes-y-menos-gastos/",
+          "hora": "2026-11-23T13:30:00-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "El fin de semana largo movilizó a 1,4 millones de turistas, aunque el gasto cayó 30% versus el año pasado",
+          "link": "https://www.infobae.com/economia/2026/11/23/el-fin-de-semana-largo-movilizo-a-14-millones-de-turistas-aunque-el-gasto-cayo-30-versus-el-ano-pasado/",
+          "hora": "2026-11-23T10:27:54-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "mourinho-dio-una-tajante-respuesta-sobre-el-futuro-de-nico-p",
+      "titulo": "Mourinho dio una tajante respuesta sobre el futuro de Nico Paz y una posible vuelta al Real Madrid",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-11-23T15:58:23-03:00",
+      "calor": 46,
+      "medios": [
+        "Clarín",
+        "Infobae",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "La inesperada sentencia de Mourinho cuando le preguntaron si Real Madrid buscará reincorporar a Nico Paz",
+          "link": "https://www.infobae.com/deportes/2026/11/23/la-inesperada-sentencia-de-mourinho-cuando-le-preguntaron-si-real-madrid-buscara-reincorporar-a-nico-paz/",
+          "hora": "2026-11-23T19:33:48-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Juega en el Real Madrid, lo comparan con Nico Paz y se lo disputan Argentina y España: “La calidad la tiene”",
+          "link": "https://www.infobae.com/deportes/2026/11/23/juega-en-el-real-madrid-lo-comparan-con-nico-paz-y-se-lo-disputan-argentina-y-espana-la-calidad-la-tiene/",
+          "hora": "2026-11-23T16:37:06-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Mourinho dio una tajante respuesta sobre el futuro de Nico Paz y una posible vuelta al Real Madrid",
+          "link": "https://www.clarin.com/deportes/mourinho-dio-tajante-respuesta-futuro-nico-paz-posible-vuelta-real-madrid_0_9if7hf2764.html",
+          "hora": "2026-11-23T16:30:52-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "La tajante respuesta de Camilota cuando le preguntaron por la denuncia de abuso sexual contra Thiago Medina",
+          "link": "https://tn.com.ar/videos/show/famosos/2026/11/23/la-tajante-respuesta-de-camilota-cuando-le-preguntaron-por-la-denuncia-de-abuso-sexual-contra-thiago-medina/",
+          "hora": "2026-11-23T16:09:30-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "“No es mi jugador”: la tajante respuesta de Mourinho sobre la posible llegada de Nico Paz al Real Madrid",
+          "link": "https://tn.com.ar/deportes/futbol/2026/11/23/no-es-mi-jugador-la-tajante-respuesta-de-mourinho-sobre-la-posible-llegada-de-nico-paz-al-real-madrid/",
+          "hora": "2026-11-23T15:58:23-03:00"
         }
       ],
       "oficiales": [],
@@ -1288,51 +1452,6 @@
       "angulos": []
     },
     {
-      "id": "escandalo-en-nvidia-revelan-que-la-mujer-vinculada-a-jensen",
-      "titulo": "Escándalo en Nvidia: revelan que la mujer vinculada a Jensen Huang tuvo contactos con la inteligencia china",
-      "categoria": "otros",
-      "prioritaria": false,
-      "desde": "2026-11-23T00:53:30-03:00",
-      "calor": 45,
-      "medios": [
-        "Infobae",
-        "Ámbito",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Chile acoge la Vinexpo Explorer en busca de reimpulsar su industria vitivinícola",
-          "link": "https://www.infobae.com/america/agencias/2026/11/23/chile-acoge-la-vinexpo-explorer-en-busca-de-reimpulsar-su-industria-vitivinicola/",
-          "hora": "2026-11-23T19:01:29-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Nvidia anunció la reincorporación de Jensen Huang como CEO tras el escándalo por su romance con una presunta espía china",
-          "link": "https://tn.com.ar/tecno/novedades/2026/11/23/nvidia-anuncio-la-reincorporacion-de-jensen-huang-como-director-ejecutivo/",
-          "hora": "2026-11-23T19:01:03-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Escándalo en Nvidia: revelan que la mujer vinculada a Jensen Huang tuvo contactos con la inteligencia china",
-          "link": "https://www.ambito.com/mundo/escandalo-nvidia-revelan-que-la-mujer-vinculada-jensen-huang-tuvo-contactos-la-inteligencia-china-n6348249",
-          "hora": "2026-11-23T11:32:00-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Software argentino: se estanca el empleo y la industria busca clientes en medio del avance de la inteligencia artificial",
-          "link": "https://www.infobae.com/economia/2026/11/23/software-argentino-se-estanca-el-empleo-y-la-industria-busca-clientes-en-medio-del-avance-de-la-inteligencia-artificial/",
-          "hora": "2026-11-23T00:53:30-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
       "id": "los-estrenos-de-netflix-argentina-esta-semana-que-series-y-p",
       "titulo": "Los estrenos de Netflix Argentina esta semana: qué series y películas ver del 23 al 29 de noviembre",
       "categoria": "espectaculos",
@@ -1423,92 +1542,15 @@
       "angulos": []
     },
     {
-      "id": "el-indec-dara-manana-el-dato-que-determinara-si-la-economia",
-      "titulo": "El Indec dará mañana el dato que determinará si la economía entró en “recesión técnica”",
+      "id": "bitcoin-cumplio-18-anos-solo-el-1-5-de-la-criptomoneda-esta",
+      "titulo": "Etanol en la gasolina: Minem tendrá lista a fin de año la hoja de ruta para impulsar su uso ante el alza de los combustibles",
       "categoria": "economia",
       "prioritaria": true,
-      "desde": "2026-11-23T12:10:14-03:00",
+      "desde": "2026-11-23T11:10:27-03:00",
       "calor": 45,
       "medios": [
+        "La Nación",
         "Infobae",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": true,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "El Indec dará mañana el dato que determinará si la economía entró en “recesión técnica”",
-          "link": "https://www.infobae.com/economia/2026/11/23/el-indec-dara-manana-el-dato-que-determinara-si-la-economia-entro-en-recesion-tecnica/",
-          "hora": "2026-11-23T12:46:01-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "El Gobierno sigue de cerca el dólar y el riesgo país mientras se prepara para un dato que puede confirmar una recesión técnica",
-          "link": "https://tn.com.ar/economia/2026/11/23/el-gobierno-sigue-de-cerca-el-dolar-y-el-riesgo-pais-mientras-se-prepara-para-un-dato-que-puede-confirmar-una-recesion-tecnica/",
-          "hora": "2026-11-23T12:10:14-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "en-un-galpon-que-usaban-los-narcos-la-justicia-secuestro-doc",
-      "titulo": "En un galpón que usaban los narcos, la Justicia secuestró documentos de la familia Báez, del Grupo Austral y vehículos",
-      "categoria": "politica",
-      "prioritaria": true,
-      "desde": "2026-11-23T12:38:45-03:00",
-      "calor": 45,
-      "medios": [
-        "Clarín",
-        "Infobae",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Más de 810.000 vehículos deberán revisar sus airbags en Estados Unidos: qué modelos están incluidos",
-          "link": "https://www.infobae.com/estados-unidos/2026/11/23/mas-de-810000-vehiculos-deberan-revisar-sus-airbags-en-estados-unidos-que-modelos-estan-incluidos/",
-          "hora": "2026-11-23T18:33:54-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "La Justicia de Santa Cruz encontró documentos de Lázaro Báez en un galpón que usaban narcos",
-          "link": "https://tn.com.ar/politica/2026/11/23/la-justicia-de-santa-cruz-encontro-documentos-de-lazaro-baez-en-un-galpon-que-usaban-narcos/",
-          "hora": "2026-11-23T16:30:08-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "La modelo de OnlyFans más buscada del mundo regresa a los Países Bajos tras once días bajo custodia migratoria en Estados Unidos",
-          "link": "https://www.infobae.com/entretenimiento/2026/11/23/la-modelo-de-onlyfans-mas-buscada-del-mundo-regresa-a-los-paises-bajos-tras-once-dias-bajo-custodia-migratoria-en-estados-unidos/",
-          "hora": "2026-11-23T16:00:19-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "En un galpón que usaban los narcos, la Justicia secuestró documentos de la familia Báez, del Grupo Austral y vehículos",
-          "link": "https://www.clarin.com/politica/galpon-usaban-narcos-justicia-secuestro-documentos-familia-baez-grupo-austral-vehiculos_0_lnZ90ZOl0z.html",
-          "hora": "2026-11-23T12:38:45-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "la-cantante-irani-parastoo-ahmadi-recibe-74-latigazos-por-ca",
-      "titulo": "La cantante iraní Parastoo Ahmadi recibe 74 latigazos por cantar sin velo durante show virtual",
-      "categoria": "otros",
-      "prioritaria": false,
-      "desde": "2026-11-23T13:10:29-03:00",
-      "calor": 45,
-      "medios": [
-        "Infobae",
-        "TN",
         "Página/12"
       ],
       "en_x": false,
@@ -1517,72 +1559,27 @@
       "notas": [
         {
           "medio": "Infobae",
-          "titulo": "Por qué Christian Nodal sólo canceló sus conciertos en México: el cantante mantiene giras en el extranjero",
-          "link": "https://www.infobae.com/mexico/2026/11/23/por-que-christian-nodal-solo-cancelo-sus-conciertos-en-mexico-el-cantante-mantiene-giras-en-el-extranjero/",
-          "hora": "2026-11-23T18:46:17-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Una cantante iraní recibió 74 latigazos por emitir un concierto virtual sin velo",
-          "link": "https://www.pagina12.com.ar/2026/11/23/una-cantante-irani-recibio-74-latigazos-por-emitir-un-concierto-virtual-sin-velo/",
-          "hora": "2026-11-23T18:34:10-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Una cantante iraní recibió 74 latigazos por cantar sin velo durante un concierto online",
-          "link": "https://tn.com.ar/internacional/2026/11/23/una-cantante-irani-recibio-74-latigazos-por-cantar-sin-velo-durante-un-concierto-online/",
-          "hora": "2026-11-23T18:11:10-03:00"
+          "titulo": "Etanol en la gasolina: Minem tendrá lista a fin de año la hoja de ruta para impulsar su uso ante el alza de los combustibles",
+          "link": "https://www.infobae.com/peru/2026/11/23/etanol-en-la-gasolina-minem-tendra-lista-a-fin-de-ano-la-hoja-de-ruta-para-impulsar-su-uso-ante-el-alza-de-los-combustibles/",
+          "hora": "2026-11-23T19:46:17-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "La cantante iraní Parastoo Ahmadi recibe 74 latigazos por cantar sin velo durante show virtual",
-          "link": "https://www.infobae.com/entretenimiento/2026/11/23/la-cantante-irani-parastoo-ahmadi-recibe-74-latigazos-por-cantar-sin-velo-durante-show-virtual/",
-          "hora": "2026-11-23T13:10:29-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "la-justicia-espanola-amnistia-definitivamente-al-lider-indep",
-      "titulo": "La justicia española amnistía definitivamente al líder independentista catalán Puigdemont",
-      "categoria": "otros",
-      "prioritaria": false,
-      "desde": "2026-11-23T17:02:47-03:00",
-      "calor": 45,
-      "medios": [
-        "La Nación",
-        "Infobae",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "El líder independentista de Quebec desafía a la justicia y no jurará lealtad al rey",
-          "link": "https://www.infobae.com/america/agencias/2026/11/23/el-lider-independentista-de-quebec-desafia-a-la-justicia-y-no-jurara-lealtad-al-rey/",
-          "hora": "2026-11-23T19:16:48-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Feijóo sobre si negociaría con Puigdemont su investidura: \"No todo vale en política\"",
-          "link": "https://www.infobae.com/espana/agencias/2026/11/23/feijoo-sobre-si-negociaria-con-puigdemont-su-investidura-no-todo-vale-en-politica/",
-          "hora": "2026-11-23T18:32:06-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "El tribunal supremo de España le dio la amnistía al expresidente de la región de Cataluña Carles Puigdemont",
-          "link": "https://tn.com.ar/internacional/2026/11/23/el-tribunal-supremo-de-espana-le-dio-la-amnistia-al-expresidente-de-la-region-de-cataluna-carles-puigdemont/",
-          "hora": "2026-11-23T17:35:33-03:00"
+          "titulo": "Azucareras en Perú buscan elevar de 7,8% a 10% el etanol por ley en las gasolinas, esta vez con el apoyo de EEUU",
+          "link": "https://www.infobae.com/peru/2026/11/23/azucareras-buscan-elevar-de-78-a-10-el-etanol-por-ley-en-las-gasolinas-de-peru/",
+          "hora": "2026-11-23T19:04:43-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "La justicia española amnistía definitivamente al líder independentista catalán Puigdemont",
-          "link": "https://www.lanacion.com.ar/el-mundo/la-justicia-espanola-amnistia-definitivamente-al-lider-independentista-catalan-puigdemont-nid23112026/",
-          "hora": "2026-11-23T17:02:47-03:00"
+          "titulo": "Bitcoin cumplió 18 años: solo el 1,5% de la criptomoneda está en uso activo y se perfila como fuente de crédito",
+          "link": "https://www.lanacion.com.ar/economia/bitcoin-cumplio-18-anos-solo-el-15-de-la-criptomoneda-esta-en-uso-activo-y-se-perfila-como-fuente-de-nid20112026/",
+          "hora": "2026-11-23T11:29:32-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Milei niega que la gente no llega a fin de mes, pero crece el uso de tarjetas de crédito en los supermercados",
+          "link": "https://www.pagina12.com.ar/2026/11/23/milei-niega-que-la-gente-no-llega-a-fin-de-mes-pero-crece-el-uso-de-tarjetas-de-credito-en-los-supermercados/",
+          "hora": "2026-11-23T11:10:27-03:00"
         }
       ],
       "oficiales": [],
@@ -1732,51 +1729,6 @@
       "angulos": []
     },
     {
-      "id": "mourinho-dio-una-tajante-respuesta-sobre-el-futuro-de-nico-p",
-      "titulo": "Mourinho dio una tajante respuesta sobre el futuro de Nico Paz y una posible vuelta al Real Madrid",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-23T15:58:23-03:00",
-      "calor": 44,
-      "medios": [
-        "Clarín",
-        "Infobae",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Juega en el Real Madrid, lo comparan con Nico Paz y se lo disputan Argentina y España: “La calidad la tiene”",
-          "link": "https://www.infobae.com/deportes/2026/11/23/juega-en-el-real-madrid-lo-comparan-con-nico-paz-y-se-lo-disputan-argentina-y-espana-la-calidad-la-tiene/",
-          "hora": "2026-11-23T16:37:06-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Mourinho dio una tajante respuesta sobre el futuro de Nico Paz y una posible vuelta al Real Madrid",
-          "link": "https://www.clarin.com/deportes/mourinho-dio-tajante-respuesta-futuro-nico-paz-posible-vuelta-real-madrid_0_9if7hf2764.html",
-          "hora": "2026-11-23T16:30:52-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "La tajante respuesta de Camilota cuando le preguntaron por la denuncia de abuso sexual contra Thiago Medina",
-          "link": "https://tn.com.ar/videos/show/famosos/2026/11/23/la-tajante-respuesta-de-camilota-cuando-le-preguntaron-por-la-denuncia-de-abuso-sexual-contra-thiago-medina/",
-          "hora": "2026-11-23T16:09:30-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "“No es mi jugador”: la tajante respuesta de Mourinho sobre la posible llegada de Nico Paz al Real Madrid",
-          "link": "https://tn.com.ar/deportes/futbol/2026/11/23/no-es-mi-jugador-la-tajante-respuesta-de-mourinho-sobre-la-posible-llegada-de-nico-paz-al-real-madrid/",
-          "hora": "2026-11-23T15:58:23-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
       "id": "la-leyenda-de-la-nfl-tom-brady-negocia-comprar-una-parte-del",
       "titulo": "Los dos récords indeseables que sufrió Pochettino en su debut como DT del Manchester United con goleada ante Liverpool",
       "categoria": "deportes",
@@ -1808,45 +1760,6 @@
           "medio": "Página/12",
           "titulo": "Pochettino arrancó más que torcido en el Manchester United por la Premier League",
           "link": "https://www.pagina12.com.ar/2026/11/22/pochettino-arranco-mas-que-torcido-en-el-manchester-united-por-la-premier-league/",
-          "hora": "2026-11-23T00:01:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "fallecio-el-neonatologo-juan-gershanik-referente-destacado-d",
-      "titulo": "Falleció el neonatólogo Juan Gershanik, referente destacado de la comunidad argentina en Nueva Orleans",
-      "categoria": "social",
-      "prioritaria": true,
-      "desde": "2026-11-23T00:01:00-03:00",
-      "calor": 43,
-      "medios": [
-        "Infobae",
-        "La Nación",
-        "Página/12"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "Falleció el neonatólogo Juan Gershanik, referente destacado de la comunidad argentina en Nueva Orleans",
-          "link": "https://www.lanacion.com.ar/sociedad/fallecio-el-neonatologo-juan-gershanik-referente-destacado-de-la-comunidad-argentina-en-nueva-nid23112026/",
-          "hora": "2026-11-23T16:07:54-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "El sentido homenaje de los Pumas y Francia para Federico Martín Aramburu tras la sentencia que condenó a los autores de su crimen",
-          "link": "https://www.infobae.com/deportes/2026/11/23/el-sentido-homenaje-de-los-pumas-y-francia-para-federico-martin-aramburu-tras-la-sentencia-que-condeno-a-los-autores-de-su-crimen/",
-          "hora": "2026-11-23T09:09:04-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Federico Martínez y Juan Tupac Soler, y el viaje de una anciana a su propia historia",
-          "link": "https://www.pagina12.com.ar/2026/11/23/federico-martinez-y-juan-tupac-soler-y-el-viaje/",
           "hora": "2026-11-23T00:01:00-03:00"
         }
       ],
@@ -1949,61 +1862,22 @@
       "en_google": false,
       "notas": [
         {
+          "medio": "TN",
+          "titulo": "“No paraba de oír voces”: el campeón mundial de boxeo Tyson Fury contó que le diagnosticaron esquizofrenia",
+          "link": "https://tn.com.ar/deportes/boxeo/2026/11/23/no-paraba-de-oir-voces-el-campeon-mundial-de-boxeo-tyson-fury-conto-que-sufre-una-enfermedad/",
+          "hora": "2026-11-23T19:48:22-03:00"
+        },
+        {
           "medio": "La Nación",
           "titulo": "Tyson Fury anuncia un diagnóstico tremendo antes de su combate contra Anthony Joshua",
           "link": "https://www.lanacion.com.ar/deportes/boxeo/tyson-fury-anuncia-un-diagnostico-tremendo-antes-de-su-combate-contra-anthony-joshua-nid23112026/",
           "hora": "2026-11-23T18:04:57-03:00"
         },
         {
-          "medio": "TN",
-          "titulo": "“No paraba de oír voces”: el campeón mundial de boxeo Tyson Fury contó que sufre una enfermedad",
-          "link": "https://tn.com.ar/deportes/boxeo/2026/11/23/no-paraba-de-oir-voces-el-campeon-mundial-de-boxeo-tyson-fury-conto-que-sufre-una-enfermedad/",
-          "hora": "2026-11-23T13:05:34-03:00"
-        },
-        {
           "medio": "Clarín",
           "titulo": "Tyson Fury reveló que fue diagnosticado con esquizofrenia: el drama personal que lo atormenta debajo del ring",
           "link": "https://www.clarin.com/deportes/tyson-fury-revelo-diagnosticado-esquizofrenia-drama-personal-atormenta-debajo-ring_0_fX3vFlPsDq.html",
           "hora": "2026-11-23T10:56:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "el-gobierno-enfrenta-dos-duras-batallas-en-el-congreso-con-f",
-      "titulo": "El Gobierno enfrenta dos duras batallas en el Congreso con final incierto: el Presupuesto y la suspensión de las PASO",
-      "categoria": "politica",
-      "prioritaria": true,
-      "desde": "2026-11-23T10:56:56-03:00",
-      "calor": 43,
-      "medios": [
-        "Clarín",
-        "Infobae",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "TN",
-          "titulo": "El Gobierno encara una semana clave en el Congreso: Presupuesto 2027, suspensión de las PASO y ley contra la ludopatía",
-          "link": "https://tn.com.ar/politica/2026/11/23/el-gobierno-encara-una-semana-clave-en-el-congreso-presupuesto-2027-suspension-de-las-paso-y-ley-contra-la-ludopatia/",
-          "hora": "2026-11-23T18:25:04-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Las “tres finales” que enfrenta el Gobierno y el debate por la suspensión de las PASO",
-          "link": "https://www.infobae.com/politica/2026/11/23/las-tres-finales-que-enfrenta-el-gobierno-y-el-debate-por-la-suspension-de-las-paso/",
-          "hora": "2026-11-23T14:36:14-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "El Gobierno enfrenta dos duras batallas en el Congreso con final incierto: el Presupuesto y la suspensión de las PASO",
-          "link": "https://www.clarin.com/politica/gobierno-enfrenta-duras-batallas-congreso-final-incierto-presupuesto-suspension-paso_0_LpmS501yaI.html",
-          "hora": "2026-11-23T10:56:56-03:00"
         }
       ],
       "oficiales": [],
@@ -2097,7 +1971,7 @@
       "calor": 43,
       "medios": [
         "Clarín",
-        "TN",
+        "Infobae",
         "Ámbito"
       ],
       "en_x": false,
@@ -2111,16 +1985,94 @@
           "hora": "2026-11-23T19:04:59-03:00"
         },
         {
+          "medio": "Infobae",
+          "titulo": "Bolsonaro es diagnosticado con neumonía tras ser internado por una obstrucción intestinal",
+          "link": "https://www.infobae.com/america/agencias/2026/11/23/bolsonaro-es-diagnosticado-con-neumonia-tras-ser-internado-por-una-obstruccion-intestinal/",
+          "hora": "2026-11-23T19:01:46-03:00"
+        },
+        {
           "medio": "Clarín",
           "titulo": "Violencia contra las mujeres: solo el 7% de las sobrevivientes denuncia ante la policía y la justicia sigue fallando",
           "link": "https://www.clarin.com/sociedad/violencia-mujeres-solo-7-sobrevivientes-denuncia-policia-justicia-sigue-fallando_0_4r9WC2uwty.html",
           "hora": "2026-11-23T14:31:20-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "el-reino-unido-esquiva-definiciones-ante-una-inminente-decis",
+      "titulo": "El Reino Unido esquiva definiciones ante una inminente decisión del Tribunal del Mar: “No vamos a entrar en especulaciones”",
+      "categoria": "politica",
+      "prioritaria": true,
+      "desde": "2026-11-23T13:02:53-03:00",
+      "calor": 43,
+      "medios": [
+        "Clarín",
+        "La Nación",
+        "Página/12"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Página/12",
+          "titulo": "Miles de evacuados por una “sustancia desconocida” en un concierto en el Reino Unido",
+          "link": "https://www.pagina12.com.ar/2026/11/23/miles-de-evacuados-por-una-sustancia-desconocida-en-un-concierto-en-el-reino-unido/",
+          "hora": "2026-11-23T18:05:57-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "El Reino Unido esquiva definiciones ante una inminente decisión del Tribunal del Mar: “No vamos a entrar en especulaciones”",
+          "link": "https://www.lanacion.com.ar/politica/el-reino-unido-esquiva-definiciones-ante-una-inminente-decision-del-tribunal-del-mar-no-vamos-a-nid23112026/",
+          "hora": "2026-11-23T14:09:12-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Escándalo en el ascenso uruguayo: Deportivo Colonia fue a la Justicia para revertir una decisión de la AUF que lo dejó fuera de la final por el ascenso",
+          "link": "https://www.clarin.com/deportes/escandalo-ascenso-uruguayo-deportivo-colonia-acudio-justicia-revertir-decision-auf-dejo-final-ascenso_0_51J0XLg37T.html",
+          "hora": "2026-11-23T13:02:53-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "la-cantante-irani-parastoo-ahmadi-recibe-74-latigazos-por-ca",
+      "titulo": "La cantante iraní Parastoo Ahmadi recibe 74 latigazos por cantar sin velo durante show virtual",
+      "categoria": "espectaculos",
+      "prioritaria": false,
+      "desde": "2026-11-23T13:10:29-03:00",
+      "calor": 43,
+      "medios": [
+        "Infobae",
+        "TN",
+        "Página/12"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Página/12",
+          "titulo": "Una cantante iraní recibió 74 latigazos por emitir un concierto virtual sin velo",
+          "link": "https://www.pagina12.com.ar/2026/11/23/una-cantante-irani-recibio-74-latigazos-por-emitir-un-concierto-virtual-sin-velo/",
+          "hora": "2026-11-23T18:34:10-03:00"
         },
         {
           "medio": "TN",
-          "titulo": "Bajó del auto, se golpeó la cabeza con un tacho de basura y la Justicia ordenó indemnizarla con $8.600.000",
-          "link": "https://tn.com.ar/policiales/2026/11/23/bajo-del-auto-se-golpeo-la-cabeza-con-un-tacho-de-basura-y-la-justicia-ordeno-indemnizarla-con-8600000/",
-          "hora": "2026-11-23T12:52:10-03:00"
+          "titulo": "Una cantante iraní recibió 74 latigazos por cantar sin velo durante un concierto online",
+          "link": "https://tn.com.ar/internacional/2026/11/23/una-cantante-irani-recibio-74-latigazos-por-cantar-sin-velo-durante-un-concierto-online/",
+          "hora": "2026-11-23T18:11:10-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "La cantante iraní Parastoo Ahmadi recibe 74 latigazos por cantar sin velo durante show virtual",
+          "link": "https://www.infobae.com/entretenimiento/2026/11/23/la-cantante-irani-parastoo-ahmadi-recibe-74-latigazos-por-cantar-sin-velo-durante-show-virtual/",
+          "hora": "2026-11-23T13:10:29-03:00"
         }
       ],
       "oficiales": [],
@@ -2160,45 +2112,6 @@
           "titulo": "La amenaza de la barra de Atlético Mineiro a los jugadores tras la derrota ante Boca: “Vamos a ir hasta donde estén”",
           "link": "https://tn.com.ar/deportes/futbol/2026/11/23/la-amenaza-de-la-barra-de-atletico-mineiro-a-los-jugadores-tras-la-derrota-ante-boca-vamos-a-ir-hasta-donde-esten/",
           "hora": "2026-11-23T13:21:03-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "el-reino-unido-esquiva-definiciones-ante-una-inminente-decis",
-      "titulo": "El Reino Unido esquiva definiciones ante una inminente decisión del Tribunal del Mar: “No vamos a entrar en especulaciones”",
-      "categoria": "politica",
-      "prioritaria": true,
-      "desde": "2026-11-23T14:09:12-03:00",
-      "calor": 43,
-      "medios": [
-        "La Nación",
-        "Infobae",
-        "Página/12"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Reino Unido expresa apoyo al Gobierno del presidente paraguayo Pedro Alliana",
-          "link": "https://www.infobae.com/america/agencias/2026/11/23/reino-unido-expresa-apoyo-al-gobierno-del-presidente-paraguayo-pedro-alliana/",
-          "hora": "2026-11-23T18:45:56-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Miles de evacuados por una “sustancia desconocida” en un concierto en el Reino Unido",
-          "link": "https://www.pagina12.com.ar/2026/11/23/miles-de-evacuados-por-una-sustancia-desconocida-en-un-concierto-en-el-reino-unido/",
-          "hora": "2026-11-23T18:05:57-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "El Reino Unido esquiva definiciones ante una inminente decisión del Tribunal del Mar: “No vamos a entrar en especulaciones”",
-          "link": "https://www.lanacion.com.ar/politica/el-reino-unido-esquiva-definiciones-ante-una-inminente-decision-del-tribunal-del-mar-no-vamos-a-nid23112026/",
-          "hora": "2026-11-23T14:09:12-03:00"
         }
       ],
       "oficiales": [],
@@ -2323,11 +2236,50 @@
       "angulos": []
     },
     {
-      "id": "la-maraton-de-valencia-tendra-un-bono-de-un-millon-de-dolare",
-      "titulo": "La maratón de Valencia tendrá un bono de un millón de dólares para el atleta que rompa el récord del mundo en 42 kilómetros",
+      "id": "la-actividad-metalurgica-sigue-cayendo-y-reclaman-politicas",
+      "titulo": "La actividad metalúrgica sigue cayendo y reclaman políticas de apoyo para el sector",
+      "categoria": "economia",
+      "prioritaria": true,
+      "desde": "2026-11-23T16:36:51-03:00",
+      "calor": 43,
+      "medios": [
+        "Clarín",
+        "Infobae",
+        "Página/12"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "El 74 % de los latinos en EEUU dice haber visto o escuchado actividad del ICE en su ciudad",
+          "link": "https://www.infobae.com/america/agencias/2026/11/23/el-74-de-los-latinos-en-eeuu-dice-haber-visto-o-escuchado-actividad-del-ice-en-su-ciudad/",
+          "hora": "2026-11-23T19:45:20-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "La metalúrgica volvió a caer",
+          "link": "https://www.pagina12.com.ar/2026/11/23/la-metalurgica-volvio-a-caer/",
+          "hora": "2026-11-23T19:01:33-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "La actividad metalúrgica sigue cayendo y reclaman políticas de apoyo para el sector",
+          "link": "https://www.clarin.com/economia/actividad-metalurgica-sigue-cayendo-reclaman-politicas-apoyo-sector_0_j3QKuFtuRm.html",
+          "hora": "2026-11-23T16:36:51-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "la-justicia-espanola-amnistia-definitivamente-al-lider-indep",
+      "titulo": "La justicia española amnistía definitivamente al líder independentista catalán Puigdemont",
       "categoria": "otros",
       "prioritaria": false,
-      "desde": "2026-11-23T16:47:10-03:00",
+      "desde": "2026-11-23T17:02:47-03:00",
       "calor": 43,
       "medios": [
         "La Nación",
@@ -2340,21 +2292,21 @@
       "notas": [
         {
           "medio": "Infobae",
-          "titulo": "De la Espriella defendió a Paloma Valencia tras polémica por mensajes que advertían de un atentado contra Miguel Uribe: “El país no está para discusiones menores”",
-          "link": "https://www.infobae.com/colombia/2026/11/23/de-la-espriella-defendio-a-paloma-valencia-tras-polemica-por-mensajes-que-advertian-de-un-atentado-contra-miguel-uribe-el-pais-no-esta-para-discusiones-menores/",
-          "hora": "2026-11-23T18:37:14-03:00"
+          "titulo": "El líder independentista de Quebec desafía a la justicia y no jurará lealtad al rey",
+          "link": "https://www.infobae.com/america/agencias/2026/11/23/el-lider-independentista-de-quebec-desafia-a-la-justicia-y-no-jurara-lealtad-al-rey/",
+          "hora": "2026-11-23T19:16:48-03:00"
         },
         {
           "medio": "TN",
-          "titulo": "La maratón de Valencia tendrá un bono de un millón de dólares para el atleta que rompa el récord del mundo en 42 kilómetros",
-          "link": "https://tn.com.ar/running/2026/11/23/la-maraton-de-valencia-tendra-un-bono-de-un-millon-de-dolares-para-el-atleta-que-rompa-el-record-del-mundo-en-42-kilometros/",
-          "hora": "2026-11-23T17:57:07-03:00"
+          "titulo": "El tribunal supremo de España le dio la amnistía al expresidente de la región de Cataluña Carles Puigdemont",
+          "link": "https://tn.com.ar/internacional/2026/11/23/el-tribunal-supremo-de-espana-le-dio-la-amnistia-al-expresidente-de-la-region-de-cataluna-carles-puigdemont/",
+          "hora": "2026-11-23T17:35:33-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "Trump parodió la foto icónica del día que sobrevivió al atentado para celebrar el regreso del CEO de Nvidia",
-          "link": "https://www.lanacion.com.ar/estados-unidos/trump-parodio-la-foto-iconica-del-dia-que-sobrevivio-al-atentado-para-celebrar-el-regreso-del-ceo-de-nid23112026/",
-          "hora": "2026-11-23T16:47:10-03:00"
+          "titulo": "La justicia española amnistía definitivamente al líder independentista catalán Puigdemont",
+          "link": "https://www.lanacion.com.ar/el-mundo/la-justicia-espanola-amnistia-definitivamente-al-lider-independentista-catalan-puigdemont-nid23112026/",
+          "hora": "2026-11-23T17:02:47-03:00"
         }
       ],
       "oficiales": [],
@@ -2407,38 +2359,38 @@
       "angulos": []
     },
     {
-      "id": "bitcoin-cumplio-18-anos-solo-el-1-5-de-la-criptomoneda-esta",
-      "titulo": "Bitcoin cumplió 18 años: solo el 1,5% de la criptomoneda está en uso activo y se perfila como fuente de crédito",
-      "categoria": "economia",
+      "id": "fallecio-el-neonatologo-juan-gershanik-referente-destacado-d",
+      "titulo": "Falleció el neonatólogo Juan Gershanik, referente destacado de la comunidad argentina en Nueva Orleans",
+      "categoria": "social",
       "prioritaria": true,
-      "desde": "2026-11-23T11:10:27-03:00",
-      "calor": 41,
+      "desde": "2026-11-23T00:01:00-03:00",
+      "calor": 42,
       "medios": [
+        "Infobae",
         "La Nación",
-        "Página/12",
-        "TN"
+        "Página/12"
       ],
       "en_x": false,
       "posicion_x": null,
       "en_google": false,
       "notas": [
         {
-          "medio": "TN",
-          "titulo": "El Gobierno afirma que los precios de los supermercados bajaron 15% por la desregulación de la economía",
-          "link": "https://tn.com.ar/economia/2026/11/23/el-gobierno-afirma-que-los-precios-de-los-supermercados-bajaron-15-por-la-desregulacion-de-la-economia/",
-          "hora": "2026-11-23T13:16:39-03:00"
+          "medio": "La Nación",
+          "titulo": "Falleció el neonatólogo Juan Gershanik, referente destacado de la comunidad argentina en Nueva Orleans",
+          "link": "https://www.lanacion.com.ar/sociedad/fallecio-el-neonatologo-juan-gershanik-referente-destacado-de-la-comunidad-argentina-en-nueva-nid23112026/",
+          "hora": "2026-11-23T16:07:54-03:00"
         },
         {
-          "medio": "La Nación",
-          "titulo": "Bitcoin cumplió 18 años: solo el 1,5% de la criptomoneda está en uso activo y se perfila como fuente de crédito",
-          "link": "https://www.lanacion.com.ar/economia/bitcoin-cumplio-18-anos-solo-el-15-de-la-criptomoneda-esta-en-uso-activo-y-se-perfila-como-fuente-de-nid20112026/",
-          "hora": "2026-11-23T11:29:32-03:00"
+          "medio": "Infobae",
+          "titulo": "El sentido homenaje de los Pumas y Francia para Federico Martín Aramburu tras la sentencia que condenó a los autores de su crimen",
+          "link": "https://www.infobae.com/deportes/2026/11/23/el-sentido-homenaje-de-los-pumas-y-francia-para-federico-martin-aramburu-tras-la-sentencia-que-condeno-a-los-autores-de-su-crimen/",
+          "hora": "2026-11-23T09:09:04-03:00"
         },
         {
           "medio": "Página/12",
-          "titulo": "Milei niega que la gente no llega a fin de mes, pero crece el uso de tarjetas de crédito en los supermercados",
-          "link": "https://www.pagina12.com.ar/2026/11/23/milei-niega-que-la-gente-no-llega-a-fin-de-mes-pero-crece-el-uso-de-tarjetas-de-credito-en-los-supermercados/",
-          "hora": "2026-11-23T11:10:27-03:00"
+          "titulo": "Federico Martínez y Juan Tupac Soler, y el viaje de una anciana a su propia historia",
+          "link": "https://www.pagina12.com.ar/2026/11/23/federico-martinez-y-juan-tupac-soler-y-el-viaje/",
+          "hora": "2026-11-23T00:01:00-03:00"
         }
       ],
       "oficiales": [],
@@ -2446,14 +2398,14 @@
       "angulos": []
     },
     {
-      "id": "la-mansion-de-will-smith-valuada-en-42-millones-de-dolares-s",
-      "titulo": "La mansión de Will Smith, valuada en 42 millones de dólares, se vio afectada por un enorme incendio",
-      "categoria": "espectaculos",
-      "prioritaria": false,
-      "desde": "2026-11-23T12:01:58-03:00",
-      "calor": 41,
+      "id": "la-situacion-internacional-cada-vez-cuenta-mas-anoche-se-rec-2",
+      "titulo": "“Más innovación con reglas claras”: la agroindustria valora el ingreso de Argentina al sistema internacional de patentes",
+      "categoria": "economia",
+      "prioritaria": true,
+      "desde": "2026-11-23T00:53:43-03:00",
+      "calor": 42,
       "medios": [
-        "Infobae",
+        "Clarín",
         "La Nación",
         "TN"
       ],
@@ -2463,21 +2415,71 @@
       "notas": [
         {
           "medio": "La Nación",
-          "titulo": "La mansión de Will Smith, valuada en 42 millones de dólares, se vio afectada por un enorme incendio",
-          "link": "https://www.lanacion.com.ar/espectaculos/personajes/la-mansion-de-will-smith-valuada-en-42-millones-de-dolares-afectada-por-un-enorme-incendio-nid23112026/",
-          "hora": "2026-11-23T13:49:17-03:00"
+          "titulo": "US$47.802 millones: la agroindustria ya vendió al mundo un 14,2% más y alertan que el tipo de cambio real está un 3% abajo del promedio de 2025",
+          "link": "https://www.lanacion.com.ar/economia/campo/us47802-millones-la-agroindustria-ya-vendio-al-mundo-un-142-mas-y-alertan-que-el-tipo-de-cambio-real-nid23112026/",
+          "hora": "2026-11-23T15:34:03-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Emmy Internacionales 2026: este lunes se entregan los premios y Ricardo Darín y Leo Sbaraglia, entre otros argentinos, buscan quedarse con una estatuilla",
+          "link": "https://www.clarin.com/espectaculos/emmy-internacionales-2026-lunes-entregan-premios-ricardo-darin-leo-sbaraglia-argentinos-buscan-quedarse-estatuilla_0_Pp84pxY6Ze.html",
+          "hora": "2026-11-23T12:17:16-03:00"
         },
         {
           "medio": "TN",
-          "titulo": "Se incendió la mansión de Will Smith, valuada en US$42 millones",
-          "link": "https://tn.com.ar/show/hollywood/2026/11/23/se-incendio-la-mansion-de-will-smith-valuada-en-us42-millones/",
-          "hora": "2026-11-23T12:47:01-03:00"
+          "titulo": "“Más innovación con reglas claras”: la agroindustria valora el ingreso de Argentina al sistema internacional de patentes",
+          "link": "https://tn.com.ar/campo/2026/11/23/mas-innovacion-con-reglas-claras-la-agroindustria-valora-el-ingreso-de-argentina-al-sistema-internacional-de-patentes/",
+          "hora": "2026-11-23T10:07:49-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "1-1-el-levante-se-vuelve-a-aferrar-a-la-epica-para-salvar-un",
+      "titulo": "1-1. El Levante se vuelve a aferrar a la épica para salvar un punto ante el Elche",
+      "categoria": "otros",
+      "prioritaria": false,
+      "desde": "2026-11-23T19:00:52-03:00",
+      "calor": 41,
+      "medios": [
+        "Infobae",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "El Elche deja escapar la victoria ante el Levante y no sale del descenso en LaLiga EA Sports",
+          "link": "https://www.infobae.com/america/agencias/2026/11/23/el-elche-deja-escapar-la-victoria-ante-el-levante-y-no-sale-del-descenso-en-laliga-ea-sports/",
+          "hora": "2026-11-23T19:30:37-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Levante empató con Elche 1 a 1 por la fecha 13 de La Liga de España",
+          "link": "https://tn.com.ar/deportes/futbol/2026/11/23/levante-vs-elche-en-vivo-por-la-fecha-13-de-la-liga-de-espana-hora-donde-ver-y-formaciones/",
+          "hora": "2026-11-23T19:24:42-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Will Smith enfrenta incendio dentro de su hogar en California",
-          "link": "https://www.infobae.com/entretenimiento/2026/11/23/will-smith-enfrenta-incendio-dentro-de-su-hogar-en-california/",
-          "hora": "2026-11-23T12:01:58-03:00"
+          "titulo": "Segundo gol del curso de Dani Requena (Levante) y primero de Roy Revivo (Elche)",
+          "link": "https://www.infobae.com/espana/agencias/2026/11/23/segundo-gol-del-curso-de-dani-requena-levante-y-primero-de-roy-revivo-elche/",
+          "hora": "2026-11-23T19:16:30-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "1-1. El Levante se vuelve a agarrar a la épica para salvar un punto ante el Elche",
+          "link": "https://www.infobae.com/espana/agencias/2026/11/23/1-1-el-levante-se-vuelve-a-agarrar-a-la-epica-para-salvar-un-punto-ante-el-elche/",
+          "hora": "2026-11-23T19:15:55-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "1-1. El Levante se vuelve a aferrar a la épica para salvar un punto ante el Elche",
+          "link": "https://www.infobae.com/america/agencias/2026/11/23/1-1-el-levante-se-vuelve-a-aferrar-a-la-epica-para-salvar-un-punto-ante-el-elche/",
+          "hora": "2026-11-23T19:00:52-03:00"
         }
       ],
       "oficiales": [],
@@ -2524,45 +2526,6 @@
       "angulos": []
     },
     {
-      "id": "lionel-scaloni-hizo-podio-en-una-carrera-de-ciclismo-en-la-p",
-      "titulo": "La sorprendente actuación de Lionel Scaloni en una tradicional competencia de ciclismo: el impensado logro que consiguió",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-22T16:25:21-03:00",
-      "calor": 40,
-      "medios": [
-        "Infobae",
-        "Clarín",
-        "Ámbito"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Clarín",
-          "titulo": "Proveedores mineros: la competencia china pone a prueba a la industria argentina",
-          "link": "https://www.clarin.com/energia-y-mineria/proveedores-mineros-competencia-china-pone-prueba-industria-argentina_0_R3ooxvc2K6.html",
-          "hora": "2026-11-23T12:00:30-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Todoterreno: Lionel Scaloni hizo podio en una carrera de ciclismo y clasificó al Mundial 2027",
-          "link": "https://www.ambito.com/deportes/todoterreno-lionel-scaloni-hizo-podio-una-carrera-ciclismo-y-clasifico-al-mundial-2027-n6348160",
-          "hora": "2026-11-22T21:59:34-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "La sorprendente actuación de Lionel Scaloni en una tradicional competencia de ciclismo: el impensado logro que consiguió",
-          "link": "https://www.infobae.com/deportes/2026/11/22/la-sorprendente-actuacion-de-lionel-scaloni-en-una-tradicional-competencia-de-ciclismo-el-impensado-logro-que-consiguio/",
-          "hora": "2026-11-22T20:01:27-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
       "id": "el-inesperado-comentario-de-juana-viale-a-rocio-marengo-por",
       "titulo": "El inesperado comentario de Juana Viale a Rocío Marengo por el festejo de cumpleaños de su hijo Isidro",
       "categoria": "politica",
@@ -2600,6 +2563,50 @@
           "titulo": "La turbulencia financiera antes de tiempo: qué números mira Milei y los planes políticos de la Casa Rosada",
           "link": "https://www.infobae.com/politica/2026/11/22/la-turbulencia-financiera-antes-de-tiempo-que-numeros-mira-milei-y-los-planes-politicos-de-la-casa-rosada/",
           "hora": "2026-11-22T22:13:31-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "la-mansion-de-will-smith-valuada-en-42-millones-de-dolares-s",
+      "titulo": "Will Smith enfrenta incendio dentro de su hogar en California",
+      "categoria": "espectaculos",
+      "prioritaria": false,
+      "desde": "2026-11-23T12:01:58-03:00",
+      "calor": 40,
+      "medios": [
+        "Infobae",
+        "La Nación"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Trump arremete contra Newsom por querer conmutar 548 condenas a muerte en California",
+          "link": "https://www.infobae.com/america/agencias/2026/11/23/trump-arremete-contra-newsom-por-querer-conmutar-548-condenas-a-muerte-en-california/",
+          "hora": "2026-11-23T19:30:23-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Seis camionetas y bombas de humo: el caótico operativo del ICE en California que capturó a dos ciudadanos estadounidenses",
+          "link": "https://www.lanacion.com.ar/estados-unidos/california/seis-camionetas-y-bombas-de-humo-el-caotico-operativo-del-ice-en-california-que-capturo-a-dos-nid23112026/",
+          "hora": "2026-11-23T17:45:00-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "La mansión de Will Smith, valuada en 42 millones de dólares, se vio afectada por un enorme incendio",
+          "link": "https://www.lanacion.com.ar/espectaculos/personajes/la-mansion-de-will-smith-valuada-en-42-millones-de-dolares-afectada-por-un-enorme-incendio-nid23112026/",
+          "hora": "2026-11-23T13:49:17-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Will Smith enfrenta incendio dentro de su hogar en California",
+          "link": "https://www.infobae.com/entretenimiento/2026/11/23/will-smith-enfrenta-incendio-dentro-de-su-hogar-en-california/",
+          "hora": "2026-11-23T12:01:58-03:00"
         }
       ],
       "oficiales": [],
@@ -2711,21 +2718,21 @@
       "notas": [
         {
           "medio": "Infobae",
+          "titulo": "PP y Vox llaman \"cómplices\" a los socios del PSOE y estos les reprochan su oposición total",
+          "link": "https://www.infobae.com/espana/agencias/2026/11/23/pp-y-vox-llaman-complices-a-los-socios-del-psoe-y-estos-les-reprochan-su-oposicion-total/",
+          "hora": "2026-11-23T19:47:05-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Debate-PP acusa a Emilio Delgado de apartar a la portavoz de Sumar para ir él al debate y Vox recuerda el 'caso Mínguez'",
+          "link": "https://www.infobae.com/america/agencias/2026/11/23/debate-pp-acusa-a-emilio-delgado-de-apartar-a-la-portavoz-de-sumar-para-ir-el-al-debate-y-vox-recuerda-el-caso-minguez/",
+          "hora": "2026-11-23T19:45:36-03:00"
+        },
+        {
+          "medio": "Infobae",
           "titulo": "Nogueras (Junts) opta por el catalán y Rufián replica: \"Estaría mejor dejar de votar con PP y Vox\"",
           "link": "https://www.infobae.com/espana/agencias/2026/11/23/nogueras-junts-opta-por-el-catalan-y-rufian-replica-estaria-mejor-dejar-de-votar-con-pp-y-vox/",
           "hora": "2026-11-23T19:01:14-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "29N-Feijóo defiende poder pactar con Vox tras 29N pero avisa que son \"intocables\" las leyes de igualdad y derechos LGTBI",
-          "link": "https://www.infobae.com/espana/agencias/2026/11/23/29n-feijoo-defiende-poder-pactar-con-vox-tras-29n-pero-avisa-que-son-intocables-las-leyes-de-igualdad-y-derechos-lgtbi/",
-          "hora": "2026-11-23T18:46:28-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Nogueras (Junts) opta por el catalán para iniciar el debate a ocho",
-          "link": "https://www.infobae.com/espana/agencias/2026/11/23/nogueras-junts-opta-por-el-catalan-para-iniciar-el-debate-a-ocho/",
-          "hora": "2026-11-23T18:31:00-03:00"
         },
         {
           "medio": "TN",
@@ -2739,15 +2746,92 @@
       "angulos": []
     },
     {
-      "id": "la-judoca-mexicana-prisca-awiti-medalla-de-plata-en-paris-an",
-      "titulo": "La judoca mexicana Prisca Awiti, medalla de plata en París, anuncia su retirada",
-      "categoria": "otros",
+      "id": "lionel-scaloni-hizo-podio-en-una-carrera-de-ciclismo-en-la-p",
+      "titulo": "La sorprendente actuación de Lionel Scaloni en una tradicional competencia de ciclismo: el impensado logro que consiguió",
+      "categoria": "deportes",
       "prioritaria": false,
-      "desde": "2026-11-23T18:36:00-03:00",
-      "calor": 40,
+      "desde": "2026-11-22T16:25:21-03:00",
+      "calor": 39,
       "medios": [
         "Infobae",
-        "Página/12"
+        "Clarín",
+        "Ámbito"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Clarín",
+          "titulo": "Proveedores mineros: la competencia china pone a prueba a la industria argentina",
+          "link": "https://www.clarin.com/energia-y-mineria/proveedores-mineros-competencia-china-pone-prueba-industria-argentina_0_R3ooxvc2K6.html",
+          "hora": "2026-11-23T12:00:30-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Todoterreno: Lionel Scaloni hizo podio en una carrera de ciclismo y clasificó al Mundial 2027",
+          "link": "https://www.ambito.com/deportes/todoterreno-lionel-scaloni-hizo-podio-una-carrera-ciclismo-y-clasifico-al-mundial-2027-n6348160",
+          "hora": "2026-11-22T21:59:34-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "La sorprendente actuación de Lionel Scaloni en una tradicional competencia de ciclismo: el impensado logro que consiguió",
+          "link": "https://www.infobae.com/deportes/2026/11/22/la-sorprendente-actuacion-de-lionel-scaloni-en-una-tradicional-competencia-de-ciclismo-el-impensado-logro-que-consiguio/",
+          "hora": "2026-11-22T20:01:27-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "cristina-kirchner-compartio-un-posteo-que-desmiente-una-supu",
+      "titulo": "Cristina Kirchner compartió un posteo que desmiente una supuesta frase suya publicada en Clarín",
+      "categoria": "politica",
+      "prioritaria": true,
+      "desde": "2026-11-22T20:54:41-03:00",
+      "calor": 39,
+      "medios": [
+        "Página/12",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "TN",
+          "titulo": "La Justicia revisará el 16 de diciembre las condenas por el intento de homicidio a Cristina Kirchner",
+          "link": "https://tn.com.ar/politica/2026/11/23/la-justicia-revisara-el-16-de-diciembre-las-condenas-por-el-intento-de-homicidio-a-cristina-kirchner/",
+          "hora": "2026-11-23T19:33:00-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Una youtuber española fue hasta San José 1111 y pidió por la libertad de Cristina Kirchner",
+          "link": "https://www.pagina12.com.ar/2026/11/23/libertad-a-cristina-kirchner-la-youtuber-espanola-soy-una-pringada-fue-hasta-san-jose-1111/",
+          "hora": "2026-11-23T14:58:11-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Cristina Kirchner compartió un posteo que desmiente una supuesta frase suya publicada en Clarín",
+          "link": "https://www.pagina12.com.ar/2026/11/22/cristina-kirchner-compartio-un-posteo-que-desmiente-una-supuesta-frase-suya-publicada-en-clarin/",
+          "hora": "2026-11-22T20:54:41-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "jorge-fernandez-diaz-analizo-el-rol-del-gobierno-de-cara-a-l",
+      "titulo": "Jorge Fernández Díaz analizó el rol del Gobierno de cara a las próximas elecciones: “La magia de Milei está desgastada”",
+      "categoria": "politica",
+      "prioritaria": true,
+      "desde": "2026-11-23T00:38:40-03:00",
+      "calor": 39,
+      "medios": [
+        "La Nación",
+        "Infobae"
       ],
       "en_x": false,
       "posicion_x": null,
@@ -2755,27 +2839,21 @@
       "notas": [
         {
           "medio": "Infobae",
-          "titulo": "Con medalla olímpica, Prisca Awiti anuncia su retiro del judo profesional",
-          "link": "https://www.infobae.com/mexico/deportes/2026/11/23/con-medalla-olimpica-prisca-awiti-anuncia-su-retiro-del-judo-profesional/",
-          "hora": "2026-11-23T19:23:20-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Pataleo de los diputados cordobeses por el cajoneo de la Ley de Biocombustibles",
-          "link": "https://www.pagina12.com.ar/2026/11/23/el-pataleo-de-los-diputados-cordobeses-por-el-cajoneo-de-la-ley-de-biocombustibles/",
-          "hora": "2026-11-23T18:50:36-03:00"
+          "titulo": "INPE tiene un agente por cada 600 internos y su escuela está abandonada: no hay clases ni convocatoria",
+          "link": "https://www.infobae.com/peru/2026/11/23/inpe-tiene-un-agente-por-cada-600-internos-y-su-escuela-esta-abandonada-no-hay-clases-ni-convocatoria/",
+          "hora": "2026-11-23T19:32:52-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "La judoca mexicana Prisca Awiti, medalla de plata en París, anuncia su retirada",
-          "link": "https://www.infobae.com/america/agencias/2026/11/23/la-judoca-mexicana-prisca-awiti-medalla-de-plata-en-paris-anuncia-su-retirada/",
-          "hora": "2026-11-23T18:46:29-03:00"
+          "titulo": "‘Chicho’ Serna sobre la posible convocatoria de Sebastián Villa a la selección Colombia, luego de ser campeón de la Sudamericana: “Puede reemplazar a Luis Díaz”",
+          "link": "https://www.infobae.com/colombia/deportes/2026/11/23/chicho-serna-sobre-la-posible-convocatoria-de-sebastian-villa-a-la-seleccion-colombia-luego-de-ser-campeon-de-la-sudamericana-puede-reemplazar-a-luis-diaz/",
+          "hora": "2026-11-23T19:28:40-03:00"
         },
         {
-          "medio": "Infobae",
-          "titulo": "Transparencia en la designación del INE, pide la Barra Mexicana de Abogados a Sheinbaum y a Diputados",
-          "link": "https://www.infobae.com/mexico/2026/11/23/transparencia-en-la-designacion-del-ine-pide-la-barra-mexicana-de-abogados-a-sheinbaum-y-a-diputados/",
-          "hora": "2026-11-23T18:36:00-03:00"
+          "medio": "La Nación",
+          "titulo": "Jorge Fernández Díaz analizó el rol del Gobierno de cara a las próximas elecciones: “La magia de Milei está desgastada”",
+          "link": "https://www.lanacion.com.ar/politica/jorge-fernandez-diaz-analizo-el-rol-del-gobierno-de-cara-a-las-proximas-elecciones-la-magia-de-milei-nid23112026/",
+          "hora": "2026-11-23T00:38:40-03:00"
         }
       ],
       "oficiales": [],
@@ -3038,7 +3116,7 @@
   "google_trends": [
     {
       "nombre": "internacional",
-      "trafico": "100+",
+      "trafico": "200+",
       "link": "https://www.google.com/search?q=internacional"
     },
     {
@@ -3065,16 +3143,6 @@
       "nombre": "recesion",
       "trafico": "200+",
       "link": "https://www.google.com/search?q=recesion"
-    },
-    {
-      "nombre": "edwuin cetré",
-      "trafico": "100+",
-      "link": "https://www.google.com/search?q=edwuin%20cetr%C3%A9"
-    },
-    {
-      "nombre": "comercio",
-      "trafico": "200+",
-      "link": "https://www.google.com/search?q=comercio"
     }
   ],
   "estado_fuentes": [
@@ -3116,7 +3184,7 @@
     {
       "fuente": "Google Trends AR",
       "ok": true,
-      "items": 8
+      "items": 6
     },
     {
       "fuente": "INDEC (calendario)",
