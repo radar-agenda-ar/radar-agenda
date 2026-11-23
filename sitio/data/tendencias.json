@@ -1,73 +1,9 @@
 {
-  "actualizado": "2026-11-22T21:12:43-03:00",
+  "actualizado": "2026-11-22T21:27:32-03:00",
   "proxima_actualizacion": "2026-11-23T08:00:00-03:00",
   "ia_disponible": false,
   "agenda_hoy": [],
   "temas": [
-    {
-      "id": "rosario-central-se-medira-ante-gimnasia-de-mendoza-por-los-o-2",
-      "titulo": "Instituto se enfrentará a Huracán por los octavos de final del Torneo Clausura: hora, TV y formaciones",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-22T00:01:01-03:00",
-      "calor": 67,
-      "medios": [
-        "Infobae",
-        "La Nación",
-        "TN",
-        "Página/12"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": true,
-      "notas": [
-        {
-          "medio": "TN",
-          "titulo": "Instituto vs Huracán en vivo por los octavos de final de la Liga Profesional: hora, dónde ver y formaciones",
-          "link": "https://tn.com.ar/deportes/futbol/2026/11/22/instituto-vs-huracan-en-vivo-por-los-octavos-de-final-de-la-liga-profesional-hora-donde-ver-y-formaciones/",
-          "hora": "2026-11-22T21:04:09-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "River le ganó 3-1 a Lanús y se clasificó a los cuartos de final del Torneo Clausura: espera por Instituto o Huracán",
-          "link": "https://tn.com.ar/deportes/2026/11/22/river-enfrenta-a-lanus-por-los-octavos-de-final-del-torneo-clausura-hora-formaciones-y-tv/",
-          "hora": "2026-11-22T21:00:22-03:00"
-        },
-        {
-          "medio": "Página/12",
-          "titulo": "Instituto de Córdoba vs. Huracán, minuto a minuto",
-          "link": "https://www.pagina12.com.ar/2026/11/22/instituto-de-cordoba-vs-huracan-minuto-a-minuto/",
-          "hora": "2026-11-22T20:50:00-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "La agenda de la TV del lunes: Gimnasia y Newell’s juegan por los octavos del final del Clausura",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-del-lunes-gimnasia-y-newells-juegan-por-los-octavos-del-final-del-clausura-nid22112026/",
-          "hora": "2026-11-22T20:30:00-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Instituto vs. Huracán: TV y streaming para ver el partido del Torneo Clausura 2026",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/instituto-vs-huracan-tv-y-streaming-para-ver-el-partido-del-torneo-clausura-2026-nid22112026/",
-          "hora": "2026-11-22T20:09:54-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Gimnasia y Tiro vs Tristán Suárez en vivo por la llave 1 de la Primera Nacional: hora, dónde ver y formaciones",
-          "link": "https://tn.com.ar/deportes/futbol/2026/11/22/gimnasia-y-tiro-vs-tristan-suarez-en-vivo-por-la-llave-1-de-la-primera-nacional-hora-donde-ver-y-formaciones/",
-          "hora": "2026-11-22T19:00:28-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Instituto se enfrentará a Huracán por los octavos de final del Torneo Clausura: hora, TV y formaciones",
-          "link": "https://www.infobae.com/deportes/2026/11/22/instituto-se-enfrentara-a-huracan-por-los-octavos-de-final-del-torneo-clausura-hora-tv-y-formaciones/",
-          "hora": "2026-11-22T12:54:30-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
     {
       "id": "carlos-alcaraz-reacciono-le-gano-a-ben-shelton-y-jugara-la-d-2-2",
       "titulo": "Carlos Alcaraz derrotó a Alexander Zverev y es campeón del ATP Finals en Turín por primera vez",
@@ -198,6 +134,58 @@
           "titulo": "Victoria Villarruel cuestionó los gastos de la Cancillería y Pablo Quirno salió a contestarle",
           "link": "https://www.clarin.com/politica/votados-austeros-victoria-villarruel-cuestiono-pablo-quirno-nuevo-rush-respuestas-redes-sociales_0_ZObKGMRCjl.html",
           "hora": "2026-11-22T10:42:17-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "rosario-central-se-medira-ante-gimnasia-de-mendoza-por-los-o-2",
+      "titulo": "Instituto se enfrenta a Huracán por los octavos de final del Torneo Clausura",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-11-22T00:01:01-03:00",
+      "calor": 64,
+      "medios": [
+        "La Nación",
+        "Infobae",
+        "Página/12",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": true,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Instituto se enfrenta a Huracán por los octavos de final del Torneo Clausura",
+          "link": "https://www.infobae.com/deportes/2026/11/22/instituto-se-enfrentara-a-huracan-por-los-octavos-de-final-del-torneo-clausura-hora-tv-y-formaciones/",
+          "hora": "2026-11-22T21:25:08-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Instituto vs Huracán en vivo por los octavos de final de la Liga Profesional: hora, dónde ver y formaciones",
+          "link": "https://tn.com.ar/deportes/futbol/2026/11/22/instituto-vs-huracan-en-vivo-por-los-octavos-de-final-de-la-liga-profesional-hora-donde-ver-y-formaciones/",
+          "hora": "2026-11-22T21:04:09-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "River le ganó 3-1 a Lanús y se clasificó a los cuartos de final del Torneo Clausura: espera por Instituto o Huracán",
+          "link": "https://tn.com.ar/deportes/2026/11/22/river-enfrenta-a-lanus-por-los-octavos-de-final-del-torneo-clausura-hora-formaciones-y-tv/",
+          "hora": "2026-11-22T21:00:22-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Instituto de Córdoba vs. Huracán, minuto a minuto",
+          "link": "https://www.pagina12.com.ar/2026/11/22/instituto-de-cordoba-vs-huracan-minuto-a-minuto/",
+          "hora": "2026-11-22T20:50:00-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Instituto vs. Huracán: TV y streaming para ver el partido del Torneo Clausura 2026",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/instituto-vs-huracan-tv-y-streaming-para-ver-el-partido-del-torneo-clausura-2026-nid22112026/",
+          "hora": "2026-11-22T20:09:54-03:00"
         }
       ],
       "oficiales": [],
@@ -350,16 +338,16 @@
       "en_google": false,
       "notas": [
         {
+          "medio": "Infobae",
+          "titulo": "Con dos goles de Thiago Almada, River le ganó 3-1 a Lanús y avanzó a los cuartos de final del Torneo Clausura",
+          "link": "https://www.infobae.com/deportes/2026/11/22/river-plate-se-enfrentara-a-lanus-por-los-octavos-de-final-del-torneo-clausura-hora-tv-y-formaciones/",
+          "hora": "2026-11-22T21:16:41-03:00"
+        },
+        {
           "medio": "Página/12",
           "titulo": "Liga Profesional: a River le costó, pero se impuso y eliminó a Lanús",
           "link": "https://www.pagina12.com.ar/2026/11/22/liga-profesional-a-river-le-costo-pero-se-impuso-y-elimino-a-lanus/",
           "hora": "2026-11-22T20:59:27-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Con dos goles de Thiago Almada, River le ganó 3-1 a Lanús y avanzó a los cuartos de final del Torneo Clausura",
-          "link": "https://www.infobae.com/deportes/2026/11/22/river-plate-se-enfrentara-a-lanus-por-los-octavos-de-final-del-torneo-clausura-hora-tv-y-formaciones/",
-          "hora": "2026-11-22T20:56:34-03:00"
         },
         {
           "medio": "La Nación",
@@ -431,50 +419,6 @@
           "titulo": "Por dónde pasan el partido de la selección Argentina Sub 17 vs. Mozambique y qué canal lo transmite en vivo",
           "link": "https://www.lanacion.com.ar/deportes/futbol/por-donde-pasan-el-partido-de-la-seleccion-argentina-sub-17-vs-mozambique-y-que-canal-lo-transmite-nid22112026/",
           "hora": "2026-11-22T10:48:35-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "asi-quedo-la-tabla-historica-de-campeones-de-la-copa-sudamer",
-      "titulo": "“El verdadero Rey”: el dardo de Boca a Independiente tras alcanzar los 19 títulos internacionales",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-21T22:11:37-03:00",
-      "calor": 55,
-      "medios": [
-        "Infobae",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": true,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "“El verdadero Rey”: el dardo de Boca a Independiente tras alcanzar los 19 títulos internacionales",
-          "link": "https://www.infobae.com/deportes/2026/11/22/el-verdadero-rey-el-dardo-de-boca-a-independiente-tras-alcanzar-los-19-titulos-internacionales/",
-          "hora": "2026-11-22T18:42:59-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "“El verdadero rey”: la chicana de Boca para Independiente tras la consagración en la Copa Sudamericana",
-          "link": "https://tn.com.ar/deportes/futbol/2026/11/22/el-verdadero-rey-la-chicana-de-boca-para-independiente-tras-la-consagracion-en-la-copa-sudamericana/",
-          "hora": "2026-11-22T16:51:36-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Los millones que acumuló Boca Juniors por ser campeón de la Copa Sudamericana y el otro título internacional que disputará",
-          "link": "https://www.infobae.com/deportes/2026/11/22/los-millones-que-acumulo-boca-juniors-por-ser-campeon-de-la-copa-sudamericana-y-el-otro-titulo-internacional-que-disputara/",
-          "hora": "2026-11-21T22:17:48-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Boca Juniors cortó una sequía de 18 años con la Copa Sudamericana: superó a Independiente y Milan en la tabla histórica de títulos internacionales",
-          "link": "https://www.infobae.com/deportes/2026/11/22/boca-juniors-corto-una-sequia-de-18-anos-con-la-copa-sudamericana-supero-a-independiente-y-milan-en-la-tabla-historica-de-titulos-internacionales/",
-          "hora": "2026-11-21T22:11:37-03:00"
         }
       ],
       "oficiales": [],
@@ -850,11 +794,63 @@
       "angulos": []
     },
     {
-      "id": "martin-tavara-entre-lagrimas-anuncio-su-salida-de-sporting-c",
-      "titulo": "Martín Távara, entre lágrimas, anunció su salida de Sporting Cristal tras no ganar el Torneo Clausura 2026: “Cierro una etapa con el club”",
+      "id": "otro-accidente-en-los-medanos-de-pinamar-dos-jovenes-volcaro",
+      "titulo": "Otro accidente en los médanos de Pinamar: dos jóvenes volcaron con un UTV, iban sin casco y resultaron heridos",
+      "categoria": "social",
+      "prioritaria": true,
+      "desde": "2026-11-22T09:11:35-03:00",
+      "calor": 50,
+      "medios": [
+        "Infobae",
+        "Clarín",
+        "La Nación",
+        "Página/12"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Accidente de una tractomula en Cajamarca, Tolima, dejó varios heridos y un bloqueo en la vía al Alto de La Línea",
+          "link": "https://www.infobae.com/colombia/2026/11/23/accidente-de-una-tractomula-en-cajamarca-tolima-dejo-varios-heridos-y-un-bloqueo-en-la-via-al-alto-de-la-linea/",
+          "hora": "2026-11-22T21:25:26-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Dos jóvenes volcaron con un UTV en los médanos de Pinamar a días de que comience a regir un control más estricto",
+          "link": "https://www.lanacion.com.ar/sociedad/dos-jovenes-volcaron-con-un-utv-en-los-medanos-de-pinamar-a-dias-de-que-comience-a-regir-un-control-nid22112026/",
+          "hora": "2026-11-22T14:48:16-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "Otro accidente con un UTV en los médanos Pinamar",
+          "link": "https://www.pagina12.com.ar/2026/11/22/otro-accidente-con-un-utv-en-pinamar/",
+          "hora": "2026-11-22T14:34:51-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Dos jóvenes volcaron con un UTV en los médanos de Pinamar: no tenían casco y resultaron heridos",
+          "link": "https://www.clarin.com/sociedad/jovenes-volcaron-utv-medanos-pinamar-casco-resultaron-heridos_0_D212Kfa5At.html",
+          "hora": "2026-11-22T12:25:16-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Otro accidente en los médanos de Pinamar: dos jóvenes volcaron con un UTV, iban sin casco y resultaron heridos",
+          "link": "https://www.infobae.com/sociedad/2026/11/22/otro-accidente-en-los-medanos-de-pinamar-dos-jovenes-volcaron-con-un-utv-iban-sin-casco-y-resultaron-heridos/",
+          "hora": "2026-11-22T11:08:02-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "olimpia-es-campeon-del-torneo-clausura-de-paraguay",
+      "titulo": "Olimpia es campeón del torneo clausura de Paraguay",
       "categoria": "otros",
       "prioritaria": false,
-      "desde": "2026-11-22T20:47:19-03:00",
+      "desde": "2026-11-22T21:15:21-03:00",
       "calor": 50,
       "medios": [
         "Infobae"
@@ -865,9 +861,9 @@
       "notas": [
         {
           "medio": "Infobae",
-          "titulo": "Martín Távara, entre lágrimas, anunció su salida de Sporting Cristal tras no ganar el Torneo Clausura 2026: “Cierro una etapa con el club”",
-          "link": "https://www.infobae.com/peru/deportes/2026/11/22/martin-tavara-entre-lagrimas-anuncio-su-salida-de-sporting-cristal-tras-no-ganar-el-torneo-clausura-2026-cierro-una-etapa-con-el-club/",
-          "hora": "2026-11-22T20:47:19-03:00"
+          "titulo": "Olimpia es campeón del torneo clausura de Paraguay",
+          "link": "https://www.infobae.com/america/agencias/2026/11/23/olimpia-es-campeon-del-torneo-clausura-de-paraguay/",
+          "hora": "2026-11-22T21:15:21-03:00"
         }
       ],
       "oficiales": [],
@@ -927,12 +923,50 @@
       "angulos": []
     },
     {
+      "id": "hernan-lacunza-dijo-que-si-el-pro-se-une-a-milei-desaparece",
+      "titulo": "Hernán Lacunza dijo que si el Pro se une a Milei “desaparece” como partido político",
+      "categoria": "politica",
+      "prioritaria": true,
+      "desde": "2026-11-22T15:12:10-03:00",
+      "calor": 47,
+      "medios": [
+        "La Nación",
+        "Infobae"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": true,
+      "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "La puja entre Pro y los gobernadores aliados complica los acuerdos de Menem para aprobar el presupuesto 2027",
+          "link": "https://www.lanacion.com.ar/politica/la-puja-entre-pro-y-los-gobernadores-aliados-complica-los-acuerdos-de-menem-para-aprobar-el-nid22112026/",
+          "hora": "2026-11-22T16:01:36-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Hernán Lacunza: “El Gobierno cambia el sistema electoral porque la paciencia social no le va a alcanzar”",
+          "link": "https://www.infobae.com/politica/2026/11/22/hernan-lacunza-el-gobierno-cambia-el-sistema-electoral-porque-la-paciencia-social-no-le-va-a-alcanzar/",
+          "hora": "2026-11-22T15:53:08-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Hernán Lacunza dijo que si el Pro se une a Milei “desaparece” como partido político",
+          "link": "https://www.lanacion.com.ar/politica/hernan-lacunza-dijo-que-si-el-pro-se-une-a-milei-desaparece-como-partido-politico-nid22112026/",
+          "hora": "2026-11-22T15:12:10-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
       "id": "cimbronazo-en-la-formula-1-cinco-pilotos-recibieron-sancione",
       "titulo": "Max Verstappen destrozó a Russell luego de quedarse con el GP de Las Vegas: “Está tan por debajo de mi nivel”",
       "categoria": "deportes",
       "prioritaria": false,
       "desde": "2026-11-19T23:26:49-03:00",
-      "calor": 47,
+      "calor": 46,
       "medios": [
         "La Nación",
         "Infobae",
@@ -984,45 +1018,50 @@
       "angulos": []
     },
     {
-      "id": "otro-accidente-en-los-medanos-de-pinamar-dos-jovenes-volcaro",
-      "titulo": "Otro accidente en los médanos de Pinamar: dos jóvenes volcaron con un UTV, iban sin casco y resultaron heridos",
+      "id": "accidente-fatal-en-la-panamericana-tres-personas-murieron-tr",
+      "titulo": "Tiroteo en un baby shower en Estados Unidos: tres personas murieron y una resultó herida luego de una pelea familiar",
       "categoria": "social",
       "prioritaria": true,
-      "desde": "2026-11-22T09:11:35-03:00",
+      "desde": "2026-11-21T09:33:22-03:00",
       "calor": 46,
       "medios": [
-        "Infobae",
-        "Clarín",
         "La Nación",
-        "Página/12"
+        "Infobae",
+        "TN"
       ],
       "en_x": false,
       "posicion_x": null,
       "en_google": false,
       "notas": [
         {
-          "medio": "La Nación",
-          "titulo": "Dos jóvenes volcaron con un UTV en los médanos de Pinamar a días de que comience a regir un control más estricto",
-          "link": "https://www.lanacion.com.ar/sociedad/dos-jovenes-volcaron-con-un-utv-en-los-medanos-de-pinamar-a-dias-de-que-comience-a-regir-un-control-nid22112026/",
-          "hora": "2026-11-22T14:48:16-03:00"
+          "medio": "TN",
+          "titulo": "Tiroteo en un baby shower en Estados Unidos: tres personas murieron y una resultó herida luego de una pelea familiar",
+          "link": "https://tn.com.ar/internacional/2026/11/22/tiroteo-en-un-baby-shower-en-estados-unidos-tres-personas-murieron-y-una-resulto-herida-luego-de-una-pelea-familiar/",
+          "hora": "2026-11-22T20:46:16-03:00"
         },
         {
-          "medio": "Página/12",
-          "titulo": "Otro accidente con un UTV en los médanos Pinamar",
-          "link": "https://www.pagina12.com.ar/2026/11/22/otro-accidente-con-un-utv-en-pinamar/",
-          "hora": "2026-11-22T14:34:51-03:00"
+          "medio": "TN",
+          "titulo": "Tres delincuentes escapaban en un auto robado con un caniche en el asiento de atrás, volcaron en la ruta y dos de ellos murieron",
+          "link": "https://tn.com.ar/policiales/2026/11/22/tres-delincuentes-escapaban-en-un-auto-robado-con-un-caniche-en-el-asiento-de-atras-volcaron-en-la-ruta-y-dos-de-ellos-murieron/",
+          "hora": "2026-11-22T15:40:26-03:00"
         },
         {
-          "medio": "Clarín",
-          "titulo": "Dos jóvenes volcaron con un UTV en los médanos de Pinamar: no tenían casco y resultaron heridos",
-          "link": "https://www.clarin.com/sociedad/jovenes-volcaron-utv-medanos-pinamar-casco-resultaron-heridos_0_D212Kfa5At.html",
-          "hora": "2026-11-22T12:25:16-03:00"
+          "medio": "TN",
+          "titulo": "Tensión en un aeropuerto de Estados Unidos: agentes del ICE detuvieron a dos mexicanos durante el embarque de un vuelo",
+          "link": "https://tn.com.ar/videos/internacional/2026/11/22/tension-en-un-aeropuerto-de-estados-unidos-agentes-del-ice-detuvieron-a-dos-mexicanos-durante-el-embarque-de-un-vuelo/",
+          "hora": "2026-11-22T12:20:40-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Otro accidente en los médanos de Pinamar: dos jóvenes volcaron con un UTV, iban sin casco y resultaron heridos",
-          "link": "https://www.infobae.com/sociedad/2026/11/22/otro-accidente-en-los-medanos-de-pinamar-dos-jovenes-volcaron-con-un-utv-iban-sin-casco-y-resultaron-heridos/",
-          "hora": "2026-11-22T11:08:02-03:00"
+          "titulo": "Mensaje de Estados Unidos a la Argentina: China ya controla el litio, la soja y la pesca y va por el cobre y la infraestructura digital",
+          "link": "https://www.infobae.com/economia/2026/11/22/mensaje-de-estados-unidos-a-la-argentina-china-ya-controla-el-litio-la-soja-y-la-pesca-y-va-por-el-cobre-y-la-infraestructura-digital/",
+          "hora": "2026-11-22T10:07:30-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Otro accidente en la Panamericana: hubo un choque entre cuatro autos, cerca de donde ayer murieron tres personas",
+          "link": "https://www.lanacion.com.ar/sociedad/otro-accidente-en-la-panamericana-hubo-un-choque-multiple-entre-cuatro-autos-y-hay-4-kilometros-de-nid22112026/",
+          "hora": "2026-11-22T08:03:52-03:00"
         }
       ],
       "oficiales": [],
@@ -1126,51 +1165,6 @@
       "angulos": []
     },
     {
-      "id": "real-madrid-le-gano-2-1-sobre-la-hora-a-celta-de-vigo-y-le-r",
-      "titulo": "Atlético Madrid goleó 3-0 a Getafe con dos asistencias de Julián Alvarez y se mantuvo cerca de Barcelona y Real Madrid",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-21T21:08:20-03:00",
-      "calor": 45,
-      "medios": [
-        "Infobae",
-        "La Nación",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "Atlético Madrid goleó 3-0 a Getafe con dos asistencias de Julián Alvarez y se mantuvo cerca de Barcelona y Real Madrid",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/atletico-madrid-goleo-3-0-a-getafe-con-dos-asistencias-de-julian-alvarez-y-se-mantuvo-cerca-de-nid22112026/",
-          "hora": "2026-11-22T20:04:27-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Atlético Madrid le ganó a Getafe 3 a 0 por la fecha 13 de La Liga de España",
-          "link": "https://tn.com.ar/deportes/futbol/2026/11/22/getafe-vs-atletico-madrid-en-vivo-por-la-fecha-13-de-la-liga-de-espana-hora-donde-ver-y-formaciones/",
-          "hora": "2026-11-22T19:52:27-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Crónica del Getafe CF - Atlético de Madrid, 0-3",
-          "link": "https://www.infobae.com/america/agencias/2026/11/22/cronica-del-getafe-cf-atletico-de-madrid-0-3/",
-          "hora": "2026-11-22T19:45:48-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Toque de pivot y centro venenoso: Las dos asistencias de Julián Álvarez en el triunfo del Atlético de Madrid ante el Getafe",
-          "link": "https://www.infobae.com/deportes/2026/11/22/toque-de-pivot-y-centro-venenoso-las-dos-asistencias-de-julian-alvarez-en-el-triunfo-del-atletico-de-madrid-ante-el-getafe/",
-          "hora": "2026-11-22T19:33:17-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
       "id": "tension-en-un-aeropuerto-de-estados-unidos-agentes-del-ice-d",
       "titulo": "Drones, teléfonos pinchados y helicópteros: así fue la cinematográfica captura del Chapo Isidro en Sinaloa",
       "categoria": "otros",
@@ -1188,15 +1182,15 @@
       "notas": [
         {
           "medio": "Infobae",
-          "titulo": "DEA lamenta muerte de militares durante operativo para capturar a “El Chapo Isidro”",
-          "link": "https://www.infobae.com/mexico/2026/11/22/ofrece-condolencias-el-jefe-de-la-dea-a-las-familias-de-los-militares-caidos-durante-la-captura-de-el-chapo-isidro/",
-          "hora": "2026-11-22T20:23:57-03:00"
+          "titulo": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy 22 de noviembre: “El Chapo Isidro” permanece en la FEMDO en CDMX tras su captura",
+          "link": "https://www.infobae.com/mexico/2026/11/22/en-vivo-seguridad-narcotrafico-y-crimen-en-mexico-hoy-22-de-noviembre-el-chapo-isidro-permanece-en-la-femdo-en-cdmx-tras-su-captura/",
+          "hora": "2026-11-22T21:17:06-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy 22 de noviembre: “El Chapo Isidro” permanece en la FEMDO en CDMX tras su captura",
-          "link": "https://www.infobae.com/mexico/2026/11/22/en-vivo-seguridad-narcotrafico-y-crimen-en-mexico-hoy-22-de-noviembre-el-chapo-isidro-permanece-en-la-femdo-en-cdmx-tras-su-captura/",
-          "hora": "2026-11-22T20:13:11-03:00"
+          "titulo": "DEA lamenta muerte de militares durante operativo para capturar a “El Chapo Isidro”",
+          "link": "https://www.infobae.com/mexico/2026/11/22/ofrece-condolencias-el-jefe-de-la-dea-a-las-familias-de-los-militares-caidos-durante-la-captura-de-el-chapo-isidro/",
+          "hora": "2026-11-22T20:23:57-03:00"
         },
         {
           "medio": "Clarín",
@@ -1216,8 +1210,78 @@
       "angulos": []
     },
     {
+      "id": "rosario-central-se-medira-ante-gimnasia-de-mendoza-por-los-o-2-2",
+      "titulo": "En vivo - Gimnasia y Tiro vs. Tristán Suárez: 0 - 0, por la llave 1 de la Primera Nacional",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-11-22T00:01:01-03:00",
+      "calor": 45,
+      "medios": [
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": true,
+      "notas": [
+        {
+          "medio": "TN",
+          "titulo": "En vivo - Gimnasia y Tiro vs. Tristán Suárez: 0 - 0, por la llave 1 de la Primera Nacional",
+          "link": "https://tn.com.ar/deportes/futbol/2026/11/22/gimnasia-y-tiro-vs-tristan-suarez-en-vivo-por-la-llave-1-de-la-primera-nacional-hora-donde-ver-y-formaciones/",
+          "hora": "2026-11-22T21:07:28-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "eisenkot-denuncio-terrorismo-judio-tras-una-nueva-serie-de-a",
+      "titulo": "Eisenkot denunció “terrorismo judío” tras una nueva serie de ataques de colonos israelíes en Cisjordania",
+      "categoria": "otros",
+      "prioritaria": false,
+      "desde": "2026-11-22T15:30:29-03:00",
+      "calor": 45,
+      "medios": [
+        "La Nación",
+        "Infobae",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "El precio de la vivienda nueva se encarece en Colombia: estas son las ciudades y los estratos más afectados por las alzas",
+          "link": "https://www.infobae.com/colombia/2026/11/23/el-precio-de-la-vivienda-nueva-se-encarece-en-colombia-estas-son-las-ciudades-y-los-estratos-mas-afectados-por-las-alzas/",
+          "hora": "2026-11-22T21:10:41-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Así cerraría la inflación de Colombia en noviembre y diciembre de 2026: el indicador es clave para el salario mínimo, pensiones y arriendos",
+          "link": "https://www.infobae.com/colombia/2026/11/22/asi-cerraria-la-inflacion-de-colombia-en-noviembre-y-diciembre-de-2026-el-indicador-es-clave-para-el-salario-minimo-pensiones-y-arriendos/",
+          "hora": "2026-11-22T20:31:54-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Violencia en Cisjordania: colonos israelíes incendiaron autos y viviendas en cuatro pueblos",
+          "link": "https://tn.com.ar/internacional/2026/11/22/violencia-en-cisjordania-colonos-israelies-incendiaron-autos-y-viviendas-en-cuatro-pueblos/",
+          "hora": "2026-11-22T17:53:58-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Eisenkot denunció “terrorismo judío” tras una nueva serie de ataques de colonos israelíes en Cisjordania",
+          "link": "https://www.lanacion.com.ar/el-mundo/eisenkot-denuncio-terrorismo-judio-tras-una-nueva-serie-de-ataques-de-colonos-israelies-en-nid22112026/",
+          "hora": "2026-11-22T15:30:29-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
       "id": "maia-sasovsky-la-voz-de-republica-folklore-este-es-el-comien",
-      "titulo": "Maia Sasovsky, la voz de República Folklore: “Este es el comienzo de una historia sin fin”",
+      "titulo": "Maggie Cullen, de su emoción por cantar ante el Papa a República Folklore: “Me siento muy yo y muy libre”",
       "categoria": "espectaculos",
       "prioritaria": false,
       "desde": "2026-11-22T15:39:04-03:00",
@@ -1233,15 +1297,15 @@
       "notas": [
         {
           "medio": "Infobae",
-          "titulo": "Del interior a la Ciudad: cómo surgió República Folklore, el primer gran festival porteño de música tradicional argentina",
-          "link": "https://www.infobae.com/teleshow/2026/11/22/del-interior-a-la-ciudad-como-surgio-republica-folklore-el-primer-gran-festival-de-folclore-porteno/",
-          "hora": "2026-11-22T20:19:44-03:00"
+          "titulo": "Maggie Cullen, de su emoción por cantar ante el Papa a República Folklore: “Me siento muy yo y muy libre”",
+          "link": "https://www.infobae.com/teleshow/2026/11/23/maggie-cullen-de-su-emocion-por-cantar-ante-el-papa-a-republica-folklore-me-siento-muy-yo-y-muy-libre/",
+          "hora": "2026-11-22T21:23:55-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Maia Sasovsky, la voz de República Folklore: “Este es el comienzo de una historia sin fin”",
-          "link": "https://www.infobae.com/teleshow/2026/11/22/maia-sasovsky-la-voz-de-republica-folklore-este-es-el-comienzo-de-una-historia-sin-fin/",
-          "hora": "2026-11-22T19:49:08-03:00"
+          "titulo": "Del interior a la Ciudad: cómo surgió República Folklore, el primer gran festival porteño de música tradicional argentina",
+          "link": "https://www.infobae.com/teleshow/2026/11/22/del-interior-a-la-ciudad-como-surgio-republica-folklore-el-primer-gran-festival-de-folclore-porteno/",
+          "hora": "2026-11-22T20:19:44-03:00"
         },
         {
           "medio": "Página/12",
@@ -1254,51 +1318,6 @@
           "titulo": "Abel Pintos, las Pastorutti, Cazzu y los Carabajal, entre las figuras del debut de República Folklore en el Parque de la Ciudad",
           "link": "https://www.clarin.com/espectaculos/abel-pintos-pastorutti-cazzu-carabajal-figuras-debut-republica-folklore-parque-ciudad_0_3Rnq2XE97x.html",
           "hora": "2026-11-22T15:39:04-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "conmocion-en-cipolletti-investigan-la-muerte-violenta-de-una",
-      "titulo": "Conmoción en Cipolletti: investigan la muerte violenta de una mujer de 92 años y uno de los dos detenidos es su nieto",
-      "categoria": "social",
-      "prioritaria": true,
-      "desde": "2026-11-22T19:52:12-03:00",
-      "calor": 45,
-      "medios": [
-        "Infobae",
-        "La Nación",
-        "Página/12"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Página/12",
-          "titulo": "Investigan una muerte dudosa en Cipolletti, Río Negro",
-          "link": "https://www.pagina12.com.ar/2026/11/23/investigan-una-muerte-dudosa-en-cipolletti-rio-negro/",
-          "hora": "2026-11-22T21:00:22-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Conmoción en Cipolletti: investigan la muerte violenta de una mujer de 92 años y uno de los dos detenidos es su nieto",
-          "link": "https://www.lanacion.com.ar/seguridad/conmocion-en-cipolletti-investigan-la-muerte-violenta-de-una-mujer-de-92-anos-y-uno-de-los-dos-nid22112026/",
-          "hora": "2026-11-22T20:57:26-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Miles de personas participaron de la Marcha del Orgullo en Río de Janeiro y exigieron al Congreso de Brasil leyes que protejan los derechos LGTBI",
-          "link": "https://www.infobae.com/america/america-latina/2026/11/22/miles-de-personas-participaron-de-la-marcha-del-orgullo-en-rio-de-janeiro-y-exigieron-al-congreso-de-brasil-leyes-que-protejan-los-derechos-lgtbi/",
-          "hora": "2026-11-22T20:52:03-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Ley de rescate económico de Abelardo de la Espriella se desinfla: Congreso podría recortar $35 billones al recaudo",
-          "link": "https://www.infobae.com/colombia/2026/11/22/ley-de-rescate-economico-de-abelardo-de-la-espriella-se-desinfla-congreso-podria-recortar-35-billones-al-recaudo/",
-          "hora": "2026-11-22T19:52:12-03:00"
         }
       ],
       "oficiales": [],
@@ -1461,6 +1480,45 @@
           "titulo": "Javier Milei respondió a las críticas por el manejo del oro y defendió la gestión del Banco Central",
           "link": "https://tn.com.ar/politica/2026/11/22/javier-milei-respondio-a-las-criticas-por-el-manejo-del-oro-y-defendio-la-gestion-del-banco-central/",
           "hora": "2026-11-22T14:37:58-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "real-madrid-le-gano-2-1-sobre-la-hora-a-celta-de-vigo-y-le-r",
+      "titulo": "Atlético Madrid goleó 3-0 a Getafe con dos asistencias de Julián Alvarez y se mantuvo cerca de Barcelona y Real Madrid",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-11-21T21:08:20-03:00",
+      "calor": 43,
+      "medios": [
+        "Infobae",
+        "La Nación",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "Atlético Madrid goleó 3-0 a Getafe con dos asistencias de Julián Alvarez y se mantuvo cerca de Barcelona y Real Madrid",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/atletico-madrid-goleo-3-0-a-getafe-con-dos-asistencias-de-julian-alvarez-y-se-mantuvo-cerca-de-nid22112026/",
+          "hora": "2026-11-22T20:04:27-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Atlético Madrid le ganó a Getafe 3 a 0 por la fecha 13 de La Liga de España",
+          "link": "https://tn.com.ar/deportes/futbol/2026/11/22/getafe-vs-atletico-madrid-en-vivo-por-la-fecha-13-de-la-liga-de-espana-hora-donde-ver-y-formaciones/",
+          "hora": "2026-11-22T19:52:27-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Toque de pivot y centro venenoso: Las dos asistencias de Julián Álvarez en el triunfo del Atlético de Madrid ante el Getafe",
+          "link": "https://www.infobae.com/deportes/2026/11/22/toque-de-pivot-y-centro-venenoso-las-dos-asistencias-de-julian-alvarez-en-el-triunfo-del-atletico-de-madrid-ante-el-getafe/",
+          "hora": "2026-11-22T19:33:17-03:00"
         }
       ],
       "oficiales": [],
@@ -1825,6 +1883,45 @@
       "angulos": []
     },
     {
+      "id": "conmocion-en-cipolletti-investigan-la-muerte-violenta-de-una",
+      "titulo": "Conmoción en Cipolletti: investigan la muerte violenta de una mujer de 92 años y uno de los dos detenidos es su nieto",
+      "categoria": "social",
+      "prioritaria": true,
+      "desde": "2026-11-22T19:52:12-03:00",
+      "calor": 43,
+      "medios": [
+        "Infobae",
+        "La Nación",
+        "Página/12"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Página/12",
+          "titulo": "Investigan una muerte dudosa en Cipolletti, Río Negro",
+          "link": "https://www.pagina12.com.ar/2026/11/23/investigan-una-muerte-dudosa-en-cipolletti-rio-negro/",
+          "hora": "2026-11-22T21:00:22-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Conmoción en Cipolletti: investigan la muerte violenta de una mujer de 92 años y uno de los dos detenidos es su nieto",
+          "link": "https://www.lanacion.com.ar/seguridad/conmocion-en-cipolletti-investigan-la-muerte-violenta-de-una-mujer-de-92-anos-y-uno-de-los-dos-nid22112026/",
+          "hora": "2026-11-22T20:57:26-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Miles de personas participaron de la Marcha del Orgullo en Río de Janeiro y exigieron al Congreso de Brasil leyes que protejan los derechos LGTBI",
+          "link": "https://www.infobae.com/america/america-latina/2026/11/22/miles-de-personas-participaron-de-la-marcha-del-orgullo-en-rio-de-janeiro-y-exigieron-al-congreso-de-brasil-leyes-que-protejan-los-derechos-lgtbi/",
+          "hora": "2026-11-22T20:52:03-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
       "id": "los-pumas-vs-francia-una-rivalidad-que-se-torno-esquiva-en-l",
       "titulo": "Felipe Contepomi, tras la dura derrota ante Francia: “Lo que a mí me parezca no cuenta”",
       "categoria": "deportes",
@@ -1857,62 +1954,6 @@
           "titulo": "Los Pumas sufrieron una dura derrota ante Francia",
           "link": "https://www.pagina12.com.ar/2026/11/21/los-pumas-sufrieron-una-dura-derrota-ante-francia/",
           "hora": "2026-11-22T00:01:01-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "llega-la-feria-utopia-con-catalogos-plurales-y-contundentes",
-      "titulo": "Soledad inauguró en Buenos Aires el festival que soñó hace años: “ojalá nos enamoremos como esta primera vez”",
-      "categoria": "espectaculos",
-      "prioritaria": false,
-      "desde": "2026-11-20T16:39:04-03:00",
-      "calor": 42,
-      "medios": [
-        "La Nación",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "TN",
-          "titulo": "Tiene 700 habitantes y recibe miles de turistas en verano: la playa Buenos Aires con una laguna y una reserva natural",
-          "link": "https://tn.com.ar/turismo/2026/11/22/tiene-700-habitantes-y-recibe-miles-de-turistas-en-verano-la-playa-buenos-aires-con-una-laguna-y-una-reserva-natural/",
-          "hora": "2026-11-22T17:30:22-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "La insólita historia detrás de la estatua religiosa en Buenos Aires que lleva el cuerpo de Esteban Lamothe",
-          "link": "https://www.lanacion.com.ar/espectaculos/la-insolita-historia-detras-de-la-estatua-religiosa-en-buenos-aires-que-lleva-el-cuerpo-de-esteban-nid22112026/",
-          "hora": "2026-11-22T16:38:01-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "La posible suspensión de las PASO abre interrogantes en la provincia de Buenos Aires y profundiza las tensiones en la Ciudad",
-          "link": "https://tn.com.ar/politica/2026/11/22/la-posible-suspension-de-las-paso-abre-interrogantes-en-la-provincia-de-buenos-aires-y-profundiza-las-tensiones-en-la-ciudad/",
-          "hora": "2026-11-22T15:49:39-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Fecha exacta: cuándo terminan las clases en la provincia de Buenos Aires este 2026",
-          "link": "https://www.lanacion.com.ar/sociedad/fecha-exacta-cuando-terminan-las-clases-en-la-provincia-de-buenos-aires-este-2026-nid19112026/",
-          "hora": "2026-11-22T09:52:35-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Opinión. Una regulación burocrática que afecta a las empresas agropecuarias en la provincia de Buenos Aires",
-          "link": "https://www.lanacion.com.ar/economia/campo/opinion-una-regulacion-burocratica-que-afecta-a-las-empresas-agropecuarias-en-la-provincia-de-buenos-nid22112026/",
-          "hora": "2026-11-22T06:00:00-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Soledad inauguró en Buenos Aires el festival que soñó hace años: “ojalá nos enamoremos como esta primera vez”",
-          "link": "https://www.lanacion.com.ar/espectaculos/musica/nahuel-pennisi-fue-uno-de-los-encargados-de-abrir-el-festival-republica-folklore-mercedes-sosa-nid21112026/",
-          "hora": "2026-11-22T01:26:03-03:00"
         }
       ],
       "oficiales": [],
@@ -2076,6 +2117,62 @@
       "angulos": []
     },
     {
+      "id": "llega-la-feria-utopia-con-catalogos-plurales-y-contundentes",
+      "titulo": "Soledad inauguró en Buenos Aires el festival que soñó hace años: “ojalá nos enamoremos como esta primera vez”",
+      "categoria": "espectaculos",
+      "prioritaria": false,
+      "desde": "2026-11-20T16:39:04-03:00",
+      "calor": 41,
+      "medios": [
+        "La Nación",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "TN",
+          "titulo": "Tiene 700 habitantes y recibe miles de turistas en verano: la playa Buenos Aires con una laguna y una reserva natural",
+          "link": "https://tn.com.ar/turismo/2026/11/22/tiene-700-habitantes-y-recibe-miles-de-turistas-en-verano-la-playa-buenos-aires-con-una-laguna-y-una-reserva-natural/",
+          "hora": "2026-11-22T17:30:22-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "La insólita historia detrás de la estatua religiosa en Buenos Aires que lleva el cuerpo de Esteban Lamothe",
+          "link": "https://www.lanacion.com.ar/espectaculos/la-insolita-historia-detras-de-la-estatua-religiosa-en-buenos-aires-que-lleva-el-cuerpo-de-esteban-nid22112026/",
+          "hora": "2026-11-22T16:38:01-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "La posible suspensión de las PASO abre interrogantes en la provincia de Buenos Aires y profundiza las tensiones en la Ciudad",
+          "link": "https://tn.com.ar/politica/2026/11/22/la-posible-suspension-de-las-paso-abre-interrogantes-en-la-provincia-de-buenos-aires-y-profundiza-las-tensiones-en-la-ciudad/",
+          "hora": "2026-11-22T15:49:39-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Fecha exacta: cuándo terminan las clases en la provincia de Buenos Aires este 2026",
+          "link": "https://www.lanacion.com.ar/sociedad/fecha-exacta-cuando-terminan-las-clases-en-la-provincia-de-buenos-aires-este-2026-nid19112026/",
+          "hora": "2026-11-22T09:52:35-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Opinión. Una regulación burocrática que afecta a las empresas agropecuarias en la provincia de Buenos Aires",
+          "link": "https://www.lanacion.com.ar/economia/campo/opinion-una-regulacion-burocratica-que-afecta-a-las-empresas-agropecuarias-en-la-provincia-de-buenos-nid22112026/",
+          "hora": "2026-11-22T06:00:00-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Soledad inauguró en Buenos Aires el festival que soñó hace años: “ojalá nos enamoremos como esta primera vez”",
+          "link": "https://www.lanacion.com.ar/espectaculos/musica/nahuel-pennisi-fue-uno-de-los-encargados-de-abrir-el-festival-republica-folklore-mercedes-sosa-nid21112026/",
+          "hora": "2026-11-22T01:26:03-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
       "id": "colombia-se-convirtio-en-el-pais-mas-caro-de-america-latina",
       "titulo": "Colombia se convirtió en el país más caro de América Latina para invertir: el riesgo fiscal elevó la rentabilidad exigida",
       "categoria": "economia",
@@ -2119,6 +2216,31 @@
           "titulo": "La presión del \"efecto caipirinha\" y el salto del riesgo país profundizan una disyuntiva clave para el Gobierno",
           "link": "https://www.ambito.com/economia/la-presion-del-efecto-caipirinha-y-el-salto-del-riesgo-pais-profundizan-una-disyuntiva-clave-el-gobierno-n6347884",
           "hora": "2026-11-22T00:00:00-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "el-aucas-gana-el-super-clasico-de-quito-a-liga-y-suena-con-l",
+      "titulo": "El Aucas gana el súper clásico de Quito a Liga y sueña con la Libertadores",
+      "categoria": "otros",
+      "prioritaria": false,
+      "desde": "2026-11-22T20:45:22-03:00",
+      "calor": 41,
+      "medios": [
+        "Infobae"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": true,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "El Aucas gana el súper clásico de Quito a Liga y sueña con la Libertadores",
+          "link": "https://www.infobae.com/america/agencias/2026/11/22/el-aucas-gana-el-super-clasico-de-quito-a-liga-y-suena-con-la-libertadores/",
+          "hora": "2026-11-22T20:45:22-03:00"
         }
       ],
       "oficiales": [],
@@ -2248,11 +2370,11 @@
       "angulos": []
     },
     {
-      "id": "accidente-fatal-en-la-panamericana-tres-personas-murieron-tr",
-      "titulo": "Otro accidente en la Panamericana: hubo un choque entre cuatro autos, cerca de donde ayer murieron tres personas",
-      "categoria": "social",
+      "id": "fuerte-preocupacion-empresaria-por-una-medida-de-kicillof-qu",
+      "titulo": "Fuerte preocupación empresaria por una medida de Kicillof que obligará a informar sueldos y jornadas laborales",
+      "categoria": "trabajo",
       "prioritaria": true,
-      "desde": "2026-11-21T09:33:22-03:00",
+      "desde": "2026-11-21T22:50:38-03:00",
       "calor": 39,
       "medios": [
         "La Nación",
@@ -2264,59 +2386,21 @@
       "notas": [
         {
           "medio": "TN",
-          "titulo": "Tiroteo en un baby shower en Estados Unidos: tres personas murieron y una resultó herida luego de una pelea familiar",
-          "link": "https://tn.com.ar/internacional/2026/11/22/tiroteo-en-un-baby-shower-en-estados-unidos-tres-personas-murieron-y-una-resulto-herida-luego-de-una-pelea-familiar/",
-          "hora": "2026-11-22T20:46:16-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Tres delincuentes escapaban en un auto robado con un caniche en el asiento de atrás, volcaron en la ruta y dos de ellos murieron",
-          "link": "https://tn.com.ar/policiales/2026/11/22/tres-delincuentes-escapaban-en-un-auto-robado-con-un-caniche-en-el-asiento-de-atras-volcaron-en-la-ruta-y-dos-de-ellos-murieron/",
-          "hora": "2026-11-22T15:40:26-03:00"
+          "titulo": "Los psicólogos explican: “Escribir las preocupaciones antes de dormir puede ayudar a reducir los pensamientos repetitivos”",
+          "link": "https://tn.com.ar/sociedad/psicologia/2026/11/22/los-psicologos-explican-escribir-las-preocupaciones-antes-de-dormir-puede-ayudar-a-reducir-los-pensamientos-repetitivos/",
+          "hora": "2026-11-22T21:26:48-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "Otro accidente en la Panamericana: hubo un choque entre cuatro autos, cerca de donde ayer murieron tres personas",
-          "link": "https://www.lanacion.com.ar/sociedad/otro-accidente-en-la-panamericana-hubo-un-choque-multiple-entre-cuatro-autos-y-hay-4-kilometros-de-nid22112026/",
-          "hora": "2026-11-22T08:03:52-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "boca-campeon-de-la-sudamericana-una-final-sin-discusion-y-un",
-      "titulo": "Boca campeón de la Sudamericana: una final sin discusión y una noche de gloria para recuperar la mística copera",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-21T21:48:44-03:00",
-      "calor": 39,
-      "medios": [
-        "La Nación",
-        "Infobae"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Oliver Sonne volvió a ser titular en la Segunda División de Inglaterra: ¿Cómo le fue al lateral peruano?",
-          "link": "https://www.infobae.com/peru/deportes/2026/11/22/oliver-sonne-volvio-a-ser-titular-en-la-segunda-division-de-inglaterra-como-le-fue-al-lateral-peruano/",
-          "hora": "2026-11-22T20:52:12-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Bordalás: \"Hay que recuperar la solidez necesaria para competir en Primera División\"",
-          "link": "https://www.infobae.com/espana/agencias/2026/11/22/bordalas-hay-que-recuperar-la-solidez-necesaria-para-competir-en-primera-division/",
-          "hora": "2026-11-22T19:45:37-03:00"
+          "titulo": "Fuerte preocupación empresaria por una medida de Kicillof que obligará a informar sueldos y jornadas laborales",
+          "link": "https://www.lanacion.com.ar/economia/fuerte-preocupacion-empresaria-por-una-medida-de-kicillof-que-obligara-a-informar-sueldos-y-jornadas-nid22112026/",
+          "hora": "2026-11-22T19:29:54-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "Boca campeón de la Sudamericana: una final sin discusión y una noche de gloria para recuperar la mística copera",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/boca-campeon-una-final-sin-discusion-y-una-noche-de-gloria-para-recuperar-la-mistica-copera-nid21112026/",
-          "hora": "2026-11-21T21:48:44-03:00"
+          "titulo": "“Fuera de lugar”: el gobierno de Kicillof exigirá todos los meses información salarial y laboral de los empleados y la Rural pidió su revisión",
+          "link": "https://www.lanacion.com.ar/economia/campo/fuera-de-lugar-el-gobierno-de-kicillof-exigira-todos-los-meses-informacion-salarial-y-laboral-de-los-nid20112026/",
+          "hora": "2026-11-21T22:50:38-03:00"
         }
       ],
       "oficiales": [],
@@ -2346,9 +2430,9 @@
         },
         {
           "medio": "Infobae",
-          "titulo": "La IA podría hacer que las fallas tecnológicas sean más comunes",
-          "link": "https://www.infobae.com/america/the-new-york-times/2026/11/22/la-ia-podria-hacer-que-las-fallas-tecnologicas-sean-mas-comunes/",
-          "hora": "2026-11-22T19:45:24-03:00"
+          "titulo": "Pablo Milanés: el trovador que apoyó la Revolución Cubana, fue enviado a un campo de trabajo y acabó muriendo lejos de su amada isla",
+          "link": "https://www.infobae.com/sociedad/2026/11/22/pablo-milanes-el-trovador-que-apoyo-la-revolucion-cubana-fue-enviado-a-un-campo-de-trabajo-y-acabo-muriendo-lejos-de-su-amada-isla/",
+          "hora": "2026-11-22T01:46:07-03:00"
         },
         {
           "medio": "La Nación",
@@ -2400,51 +2484,6 @@
       "angulos": []
     },
     {
-      "id": "leandro-paredes-se-desmayo-en-plena-entrevista-tras-la-consa",
-      "titulo": "Leandro Paredes se desmayó en plena entrevista tras la consagración de Boca en la Sudamericana",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-22T00:05:13-03:00",
-      "calor": 39,
-      "medios": [
-        "La Nación",
-        "Infobae",
-        "Página/12"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Página/12",
-          "titulo": "Qué le pasó a Leandro Paredes tras la consagración de Boca en la Copa Sudamericana: el mensaje del jugador",
-          "link": "https://www.pagina12.com.ar/2026/11/22/que-le-paso-a-leandro-paredes-tras-la-consagracion-de-boca-en-la-copa-sudamericana-el-mensaje-del-jugador/",
-          "hora": "2026-11-22T11:27:00-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Qué hizo Paredes antes del desmayo, la redención a Villa y el ídolo que asoma: lo que no se vio de la consagración de Boca en la Copa Sudamericana",
-          "link": "https://www.infobae.com/deportes/2026/11/22/que-hizo-paredes-antes-del-desmayo-la-redencion-a-villa-y-el-idolo-que-asoma-lo-que-no-se-vio-de-la-consagracion-de-boca-en-la-copa-sudamericana/",
-          "hora": "2026-11-22T07:53:52-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "El mensaje que compartió Leandro Paredes desde la clínica luego del desmayo que sufrió tras ganar la Sudamericana con Boca",
-          "link": "https://www.infobae.com/deportes/2026/11/22/el-mensaje-que-compartio-leandro-paredes-desde-la-clinica-luego-del-desmayo-que-sufrio-tras-ganar-la-sudamericana-con-boca/",
-          "hora": "2026-11-22T01:14:31-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Leandro Paredes se desmayó en plena entrevista tras la consagración de Boca en la Sudamericana",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/leandro-paredes-se-desmayo-en-plena-entrevista-tras-la-consagracion-de-boca-en-la-sudamericana-nid21112026/",
-          "hora": "2026-11-22T00:05:13-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
       "id": "como-funcionaran-los-servicios-publicos-durante-el-feriado-d",
       "titulo": "Envían a la cárcel a alias Blue señalada por presunto terrorismo y ataques contra el transporte público en Bogotá",
       "categoria": "social",
@@ -2476,158 +2515,6 @@
           "titulo": "Cómo funcionarán los servicios públicos durante el feriado del lunes: trenes limitados y subtes hasta las 22",
           "link": "https://www.infobae.com/sociedad/2026/11/22/como-funcionaran-los-servicios-publicos-durante-el-feriado-del-lunes-trenes-limitados-y-subtes-hasta-las-22/",
           "hora": "2026-11-22T02:36:53-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "el-fenomeno-latino-en-gta-6-con-cocoteo-fm-la-radio-en-vice",
-      "titulo": "El fenómeno latino en GTA 6 con Cocoteo FM, la radio en Vice City con artistas como Bad Bunny, Karol G y Feid",
-      "categoria": "espectaculos",
-      "prioritaria": false,
-      "desde": "2026-11-22T06:01:00-03:00",
-      "calor": 39,
-      "medios": [
-        "Clarín",
-        "Infobae"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "El fenómeno latino en GTA 6 con Cocoteo FM, la radio en Vice City con artistas como Bad Bunny, Karol G y Feid",
-          "link": "https://www.infobae.com/tecno/2026/11/22/el-fenomeno-latino-en-gta-6-con-cocoteo-fm-la-radio-en-vice-city-con-artistas-como-bad-bunny-karol-g-y-feid/",
-          "hora": "2026-11-22T20:56:09-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Cómo desbloquear The Vault Radio en GTA 6: guía y lista de canciones",
-          "link": "https://www.infobae.com/tecno/2026/11/22/como-desbloquear-the-vault-radio-en-gta-6-guia-y-lista-de-canciones/",
-          "hora": "2026-11-22T19:42:40-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "El videojuego que tiene en vilo a Hollywood: por qué el estreno del GTA VI preocupa a la industria del cine y el streaming",
-          "link": "https://www.clarin.com/espectaculos/videojuego-vilo-hollywood-estreno-gta-vi-preocupa-industria-cine-streaming_0_oegbIdizuS.html",
-          "hora": "2026-11-22T06:01:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "la-espectacular-maniobra-de-colapinto-para-pasar-a-los-dos-m",
-      "titulo": "La espectacular maniobra de Colapinto para pasar a los dos McLaren juntos en el Gran Premio de Las Vegas",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-22T09:29:56-03:00",
-      "calor": 39,
-      "medios": [
-        "Infobae",
-        "La Nación"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Sismo de 5.0 en Junín: jefe del IGP explica por qué el fuerte movimiento no provocó mayores daños en la superficie",
-          "link": "https://www.infobae.com/peru/2026/11/22/sismo-de-50-en-junin-jefe-del-igp-explica-por-que-el-fuerte-movimiento-no-provoco-mayores-danos-en-la-superficie/",
-          "hora": "2026-11-22T20:55:40-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "La espectacular maniobra de Colapinto para pasar a los dos McLaren juntos en el Gran Premio de Las Vegas",
-          "link": "https://www.lanacion.com.ar/deportes/la-espectacular-maniobra-de-colapinto-para-pasar-a-los-dos-mclaren-juntos-en-el-gran-premio-de-las-nid22112026/",
-          "hora": "2026-11-22T12:29:14-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Cámara a bordo: la fantástica maniobra de Franco Colapinto para superar en un movimiento a los dos McLaren en el GP de Las Vegas de F1",
-          "link": "https://www.infobae.com/deportes/2026/11/22/camara-a-bordo-la-fantastica-maniobra-de-franco-colapinto-para-superar-en-un-movimiento-a-los-dos-mclaren-en-el-gp-de-las-vegas-de-f1/",
-          "hora": "2026-11-22T09:29:56-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "elecciones-en-espana-la-disputa-voto-a-voto-por-los-indeciso",
-      "titulo": "Montero pide \"no caer en la dinámica del voto útil de las encuestas\": \"Hay un intento de que Podemos desaparezca\"",
-      "categoria": "otros",
-      "prioritaria": false,
-      "desde": "2026-11-22T09:53:23-03:00",
-      "calor": 39,
-      "medios": [
-        "Infobae",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Montero pide \"no caer en la dinámica del voto útil de las encuestas\": \"Hay un intento de que Podemos desaparezca\"",
-          "link": "https://www.infobae.com/america/agencias/2026/11/23/montero-pide-no-caer-en-la-dinamica-del-voto-util-de-las-encuestas-hay-un-intento-de-que-podemos-desaparezca/",
-          "hora": "2026-11-22T21:00:53-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Sánchez dice que no aceptará un referéndum en Cataluña aunque necesite los votos de Junts o ERC para gobernar",
-          "link": "https://www.infobae.com/america/agencias/2026/11/22/sanchez-dice-que-no-aceptara-un-referendum-en-cataluna-aunque-necesite-los-votos-de-junts-o-erc-para-gobernar/",
-          "hora": "2026-11-22T19:45:30-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Recta final de las elecciones en España: la derecha lidera las encuestas, pero necesitaría el apoyo de Vox para gobernar",
-          "link": "https://tn.com.ar/internacional/2026/11/22/recta-final-de-las-elecciones-en-espana-la-derecha-lidera-las-encuestas-pero-necesitaria-el-apoyo-de-vox-para-gobernar/",
-          "hora": "2026-11-22T15:04:22-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "tension-en-un-aeropuerto-de-estados-unidos-agentes-del-ice-d-2",
-      "titulo": "Filtran imágenes de la detención de Héctor Herrera en Estados Unidos",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-11-22T10:06:16-03:00",
-      "calor": 39,
-      "medios": [
-        "Infobae",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Filtran imágenes de la detención de Héctor Herrera en Estados Unidos",
-          "link": "https://www.infobae.com/mexico/deportes/2026/11/22/filtran-imagenes-de-la-detencion-de-hector-herrera-en-estados-unidos/",
-          "hora": "2026-11-22T19:55:05-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Tensión en un aeropuerto de Estados Unidos: agentes del ICE detuvieron a dos mexicanos durante el embarque de un vuelo",
-          "link": "https://tn.com.ar/videos/internacional/2026/11/22/tension-en-un-aeropuerto-de-estados-unidos-agentes-del-ice-detuvieron-a-dos-mexicanos-durante-el-embarque-de-un-vuelo/",
-          "hora": "2026-11-22T12:20:40-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Mensaje de Estados Unidos a la Argentina: China ya controla el litio, la soja y la pesca y va por el cobre y la infraestructura digital",
-          "link": "https://www.infobae.com/economia/2026/11/22/mensaje-de-estados-unidos-a-la-argentina-china-ya-controla-el-litio-la-soja-y-la-pesca-y-va-por-el-cobre-y-la-infraestructura-digital/",
-          "hora": "2026-11-22T10:07:30-03:00"
         }
       ],
       "oficiales": [],
@@ -2704,6 +2591,82 @@
           "titulo": "Brasil: el expresidente Jair Bolsonaro está en terapia intensiva y podría ser operado nuevamente",
           "link": "https://tn.com.ar/internacional/2026/11/21/brasil-el-expresidente-jair-bolsonaro-esta-en-terapia-intensiva-y-podria-ser-operado-nuevamente/",
           "hora": "2026-11-22T15:19:56-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "lilly-tellez-apoya-comentario-transfobico-de-creadora-de-har",
+      "titulo": "Lilly Téllez apoya comentario transfóbico de creadora de Harry Potter",
+      "categoria": "economia",
+      "prioritaria": true,
+      "desde": "2026-11-22T16:00:00-03:00",
+      "calor": 39,
+      "medios": [
+        "Infobae",
+        "Ámbito"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Lilly Téllez exige que se investige al director del Conalep en Morelos por boda millonaria celebrada en hotel de lujo en Yucatán",
+          "link": "https://www.infobae.com/mexico/2026/11/23/lilly-tellez-exige-que-se-investige-al-director-del-conalep-en-morelos-por-boda-millonaria-celebrada-en-hotel-de-lujo-en-yucatan/",
+          "hora": "2026-11-22T21:00:00-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Lilly Téllez apoya comentario transfóbico de creadora de Harry Potter",
+          "link": "https://www.infobae.com/mexico/2026/11/22/lilly-tellez-apoya-comentarios-transfobico-de-creadora-de-harry-potter/",
+          "hora": "2026-11-22T20:38:21-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "¿Qué pasó con Sinbad? La estrepitosa caída del comediante de los 90 que terminó con una millonaria deuda de u$s11 millones",
+          "link": "https://www.ambito.com/negocios/que-paso-sinbad-la-estrepitosa-caida-del-comediante-los-90-que-termino-una-millonaria-deuda-us11-millones-n6347433",
+          "hora": "2026-11-22T16:00:00-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "en-que-canal-pasan-hoy-river-vs-lanus-por-el-torneo-clausura",
+      "titulo": "En qué canal pasan hoy River vs. Lanús por el Torneo Clausura 2026",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-11-22T16:00:08-03:00",
+      "calor": 39,
+      "medios": [
+        "La Nación",
+        "Infobae"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Partidos de hoy, domingo 22 de noviembre de 2026: programación, canales TV y resultados en vivo",
+          "link": "https://www.infobae.com/peru/deportes/2026/11/22/partidos-de-hoy-domingo-22-de-noviembre-de-2026-programacion-canales-tv-y-resultados-en-vivo/",
+          "hora": "2026-11-22T20:52:43-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "River vs. Lanús: por dónde pasan el partido y qué canal lo transmite en vivo",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/river-vs-lanus-por-donde-pasan-el-partido-y-que-canal-lo-transmite-en-vivo-nid22112026/",
+          "hora": "2026-11-22T18:01:35-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "En qué canal pasan hoy River vs. Lanús por el Torneo Clausura 2026",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/en-que-canal-pasan-hoy-river-vs-lanus-por-el-torneo-clausura-2026-nid22112026/",
+          "hora": "2026-11-22T16:00:08-03:00"
         }
       ],
       "oficiales": [],
@@ -2965,6 +2928,26 @@
   ],
   "google_trends": [
     {
+      "nombre": "racing club",
+      "trafico": "500+",
+      "link": "https://www.google.com/search?q=racing%20club"
+    },
+    {
+      "nombre": "sorteo telekino",
+      "trafico": "200+",
+      "link": "https://www.google.com/search?q=sorteo%20telekino"
+    },
+    {
+      "nombre": "pro",
+      "trafico": "100+",
+      "link": "https://www.google.com/search?q=pro"
+    },
+    {
+      "nombre": "posiciones de liga de quito contra aucas",
+      "trafico": "200+",
+      "link": "https://www.google.com/search?q=posiciones%20de%20liga%20de%20quito%20contra%20aucas"
+    },
+    {
       "nombre": "instituto",
       "trafico": "5000+",
       "link": "https://www.google.com/search?q=instituto"
@@ -2976,28 +2959,13 @@
     },
     {
       "nombre": "gimnasia y tiro de salta - tristán suárez",
-      "trafico": "2000+",
+      "trafico": "5000+",
       "link": "https://www.google.com/search?q=gimnasia%20y%20tiro%20de%20salta%20-%20trist%C3%A1n%20su%C3%A1rez"
-    },
-    {
-      "nombre": "partido hoy",
-      "trafico": "20000+",
-      "link": "https://www.google.com/search?q=partido%20hoy"
     },
     {
       "nombre": "clausura 2026",
       "trafico": "200+",
       "link": "https://www.google.com/search?q=clausura%202026"
-    },
-    {
-      "nombre": "sarmiento de la banda",
-      "trafico": "200+",
-      "link": "https://www.google.com/search?q=sarmiento%20de%20la%20banda"
-    },
-    {
-      "nombre": "vasco da gama",
-      "trafico": "200+",
-      "link": "https://www.google.com/search?q=vasco%20da%20gama"
     }
   ],
   "estado_fuentes": [
@@ -3039,7 +3007,7 @@
     {
       "fuente": "Google Trends AR",
       "ok": true,
-      "items": 7
+      "items": 8
     },
     {
       "fuente": "INDEC (calendario)",
