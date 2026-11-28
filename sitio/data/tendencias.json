@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-28T01:41:27-03:00",
+  "actualizado": "2026-11-28T01:55:48-03:00",
   "proxima_actualizacion": "2026-11-28T08:00:00-03:00",
   "ia_disponible": false,
   "agenda_hoy": [],
@@ -10,14 +10,14 @@
       "categoria": "deportes",
       "prioritaria": false,
       "desde": "2026-11-27T10:24:20-03:00",
-      "calor": 70,
+      "calor": 71,
       "medios": [
         "Infobae",
         "La Nación",
         "TN"
       ],
       "en_x": true,
-      "posicion_x": 8,
+      "posicion_x": 5,
       "en_google": false,
       "notas": [
         {
@@ -91,14 +91,14 @@
       "categoria": "deportes",
       "prioritaria": false,
       "desde": "2026-11-25T18:44:00-03:00",
-      "calor": 59,
+      "calor": 60,
       "medios": [
         "La Nación",
         "Infobae",
         "Página/12"
       ],
       "en_x": true,
-      "posicion_x": 17,
+      "posicion_x": 12,
       "en_google": false,
       "notas": [
         {
@@ -125,51 +125,99 @@
       "angulos": []
     },
     {
-      "id": "la-iglesia-catolica-le-pone-presion-al-oficialismo-pidio-que-2-2",
-      "titulo": "El Banco Central volvió a comprar reservas: se alzó hoy con US$61 millones",
+      "id": "cae-fuerte-el-riesgo-pais-de-la-argentina-y-se-acomoda-debaj",
+      "titulo": "El riesgo país cayó por debajo de los 1000 puntos y las acciones argentinas treparon hasta 5% en Wall Street",
       "categoria": "economia",
       "prioritaria": true,
-      "desde": "2026-11-23T07:28:03-03:00",
-      "calor": 58,
+      "desde": "2026-11-27T08:51:54-03:00",
+      "calor": 59,
       "medios": [
-        "Clarín",
-        "La Nación",
         "Infobae",
-        "Ámbito"
+        "La Nación",
+        "Ámbito",
+        "TN"
       ],
-      "en_x": true,
-      "posicion_x": 34,
+      "en_x": false,
+      "posicion_x": null,
       "en_google": false,
       "notas": [
         {
-          "medio": "Infobae",
-          "titulo": "El Banco Central retomó la compra de dólares y cortó una racha de cuatro ruedas consecutivas sin sumar divisas",
-          "link": "https://www.infobae.com/economia/2026/11/27/el-banco-central-retomo-la-compra-de-dolares-y-corto-una-racha-de-cuatro-ruedas-consecutivas-sin-sumar-divisas/",
-          "hora": "2026-11-27T19:39:10-03:00"
+          "medio": "Ámbito",
+          "titulo": "IA: las ganancias récord ya no alcanzan y Wall Street empieza a pasar la cuenta",
+          "link": "https://www.ambito.com/opiniones/ia-las-ganancias-record-ya-no-alcanzan-y-wall-street-empieza-pasar-la-cuenta-n6350199",
+          "hora": "2026-11-28T00:00:00-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "El Banco Central volvió a comprar reservas: se alzó hoy con US$61 millones",
-          "link": "https://www.lanacion.com.ar/economia/el-banco-central-volvio-a-comprar-reservas-se-alzo-hoy-con-us61-millones-nid27112026/",
-          "hora": "2026-11-27T18:35:05-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "El Banco Central quebró la racha negativa y volvió a comprar dólares",
-          "link": "https://www.clarin.com/economia/banco-central-quebro-racha-negativa-volvio-comprar-dolares_0_sGHi0N2VrT.html",
-          "hora": "2026-11-27T17:59:08-03:00"
+          "titulo": "Súper Niño en la Argentina: Jorge Tartaglione advierte sobre el riesgo de brotes de enfermedades",
+          "link": "https://www.lanacion.com.ar/sociedad/super-nino-en-la-argentina-jorge-tartaglione-advierte-sobre-el-riesgo-de-brotes-de-enfermedades-nid26112026/",
+          "hora": "2026-11-27T23:54:00-03:00"
         },
         {
           "medio": "Ámbito",
-          "titulo": "La Justicia ordenó medidas para determinar cómo se manejaron las reservas de oro del Banco Central",
-          "link": "https://www.ambito.com/politica/la-justicia-ordeno-medidas-determinar-como-se-manejaron-las-reservas-oro-del-banco-central-n6350080",
-          "hora": "2026-11-27T13:33:00-03:00"
+          "titulo": "Riesgo país cayó 10% y perforó los 1.000 puntos: los bonos treparon por rally de Brasil y avances legislativos del Gobierno",
+          "link": "https://www.ambito.com/finanzas/los-bonos-dolares-rebotan-sintonia-la-region-la-antesala-la-ultima-rueda-semanal-n6349980",
+          "hora": "2026-11-27T20:47:00-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Súper Niño 2026 en Argentina: qué se sabe del fenómeno que mantiene en vilo al país y qué se espera para diciembre",
+          "link": "https://www.lanacion.com.ar/sociedad/super-nino-2026-en-argentina-que-se-sabe-del-fenomeno-que-mantiene-en-vilo-al-pais-y-que-se-espera-nid25112026/",
+          "hora": "2026-11-27T18:53:00-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "El riesgo país bajó más de 100 puntos y los bonos argentinos repuntaron tras el avance de las votaciones en el Congreso",
+          "link": "https://tn.com.ar/economia/2026/11/27/el-riesgo-pais-retrocede-y-opera-por-debajo-de-1000-puntos-que-pasa-con-el-dolar-y-las-acciones/",
+          "hora": "2026-11-27T18:45:58-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "El Niño no da tregua en Brasil: un temporal devastó ciudades del sur del país y dejó al menos ocho muertos",
+          "link": "https://tn.com.ar/internacional/2026/11/27/el-nino-no-da-tregua-en-brasil-un-temporal-devasto-ciudades-del-sur-del-pais-y-dejo-al-menos-once-muertos/",
+          "hora": "2026-11-27T18:29:26-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "El riesgo país cayó 10%, el dólar operó estable y las acciones argentinas rebotaron hasta 5% en Wall Street",
+          "link": "https://www.infobae.com/economia/2026/11/27/el-riesgo-pais-cayo-10-el-dolar-opero-estable-y-las-acciones-argentinas-rebotaron-hasta-5-en-wall-street/",
+          "hora": "2026-11-27T18:08:50-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Las acciones argentinas mejoraron hasta 5%, con el empuje externo de Brasil y Wall Street",
+          "link": "https://www.infobae.com/economia/2026/11/27/las-acciones-argentinas-mejoran-hasta-9-con-el-empuje-externo-de-brasil-y-wall-street/",
+          "hora": "2026-11-27T18:02:51-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Cayó fuerte el riesgo país de la Argentina y se acomodó debajo de los 1.000 puntos",
+          "link": "https://www.infobae.com/economia/2026/11/27/cae-fuerte-el-riesgo-pais-de-la-argentina-y-se-acomoda-debajo-de-los-1000-puntos/",
+          "hora": "2026-11-27T17:33:03-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "El riesgo país cayó por debajo de los 1000 puntos y las acciones argentinas treparon hasta 5% en Wall Street",
+          "link": "https://www.lanacion.com.ar/economia/el-riesgo-pais-cae-por-debajo-de-los-1000-puntos-y-el-dolar-vuelve-a-bajar-nid27112026/",
+          "hora": "2026-11-27T16:59:03-03:00"
         },
         {
           "medio": "Ámbito",
-          "titulo": "Lo que no se sabe de la guerra entre el Banco Central y la AGN por el oro argentino",
-          "link": "https://www.ambito.com/politica/lo-que-no-se-sabe-la-guerra-el-banco-central-y-la-agn-el-oro-argentino-n6350054",
-          "hora": "2026-11-27T12:56:00-03:00"
+          "titulo": "Las causas de la fuerte baja del riesgo país: ¿cambio de tendencia o efecto Brasil?",
+          "link": "https://www.ambito.com/finanzas/las-causas-la-fuerte-baja-del-riesgo-pais-cambio-tendencia-o-efecto-brasil-n6350056",
+          "hora": "2026-11-27T15:26:00-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "El intendente de Florianópolis habló sobre el posible efecto de El Niño este verano en Brasil",
+          "link": "https://www.lanacion.com.ar/sociedad/el-intendente-de-florianopolis-hablo-sobre-el-posible-efecto-de-el-nino-este-verano-en-brasil-nid27112026/",
+          "hora": "2026-11-27T15:21:09-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Moody's Ratings dijo que \"por el momento\" no bajará la nota de Argentina pese al salto del riesgo país",
+          "link": "https://www.infobae.com/economia/2026/11/27/moodys-ratings-dijo-que-por-el-momento-no-bajara-la-nota-de-argentina-pese-al-salto-del-riesgo-pais/",
+          "hora": "2026-11-27T08:51:54-03:00"
         }
       ],
       "oficiales": [],
@@ -182,7 +230,7 @@
       "categoria": "economia",
       "prioritaria": true,
       "desde": "2026-11-27T13:08:15-03:00",
-      "calor": 58,
+      "calor": 59,
       "medios": [
         "Clarín",
         "Infobae",
@@ -190,7 +238,7 @@
         "Página/12"
       ],
       "en_x": true,
-      "posicion_x": 45,
+      "posicion_x": 41,
       "en_google": false,
       "notas": [
         {
@@ -241,6 +289,97 @@
       "angulos": []
     },
     {
+      "id": "bronson-reed-estrella-de-la-lucha-wwe-de-ee-uu-muere-por-com",
+      "titulo": "Bronson Reed, estrella de la lucha WWE de EE.UU., muere por \"complicaciones médicas\"",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-11-28T00:00:20-03:00",
+      "calor": 57,
+      "medios": [
+        "Infobae",
+        "Página/12",
+        "TN"
+      ],
+      "en_x": true,
+      "posicion_x": 25,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "TN",
+          "titulo": "Conmoción en la WWE: murió un reconocido luchador australiano a los 38 años",
+          "link": "https://tn.com.ar/deportes/polideportivo/2026/11/28/conmocion-en-la-wwe-murio-un-reconocido-luchador-australiano-a-los-38-anos/",
+          "hora": "2026-11-28T00:05:29-03:00"
+        },
+        {
+          "medio": "Página/12",
+          "titulo": "EE.UU. y la Copa Gringa con papas fritas",
+          "link": "https://www.pagina12.com.ar/2026/11/27/eeuu-y-la-copa-gringa-con-papas-fritas/",
+          "hora": "2026-11-28T00:01:00-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Bronson Reed, estrella de la lucha WWE de EE.UU., muere por \"complicaciones médicas\"",
+          "link": "https://www.infobae.com/espana/agencias/2026/11/28/bronson-reed-estrella-de-la-lucha-wwe-de-eeuu-muere-por-complicaciones-medicas/",
+          "hora": "2026-11-28T00:00:20-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "la-iglesia-catolica-le-pone-presion-al-oficialismo-pidio-que-2-2",
+      "titulo": "El Banco Central volvió a comprar reservas: se alzó hoy con US$61 millones",
+      "categoria": "economia",
+      "prioritaria": true,
+      "desde": "2026-11-23T07:28:03-03:00",
+      "calor": 56,
+      "medios": [
+        "Clarín",
+        "La Nación",
+        "Infobae",
+        "Ámbito"
+      ],
+      "en_x": true,
+      "posicion_x": 39,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "El Banco Central retomó la compra de dólares y cortó una racha de cuatro ruedas consecutivas sin sumar divisas",
+          "link": "https://www.infobae.com/economia/2026/11/27/el-banco-central-retomo-la-compra-de-dolares-y-corto-una-racha-de-cuatro-ruedas-consecutivas-sin-sumar-divisas/",
+          "hora": "2026-11-27T19:39:10-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "El Banco Central volvió a comprar reservas: se alzó hoy con US$61 millones",
+          "link": "https://www.lanacion.com.ar/economia/el-banco-central-volvio-a-comprar-reservas-se-alzo-hoy-con-us61-millones-nid27112026/",
+          "hora": "2026-11-27T18:35:05-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "El Banco Central quebró la racha negativa y volvió a comprar dólares",
+          "link": "https://www.clarin.com/economia/banco-central-quebro-racha-negativa-volvio-comprar-dolares_0_sGHi0N2VrT.html",
+          "hora": "2026-11-27T17:59:08-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "La Justicia ordenó medidas para determinar cómo se manejaron las reservas de oro del Banco Central",
+          "link": "https://www.ambito.com/politica/la-justicia-ordeno-medidas-determinar-como-se-manejaron-las-reservas-oro-del-banco-central-n6350080",
+          "hora": "2026-11-27T13:33:00-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Lo que no se sabe de la guerra entre el Banco Central y la AGN por el oro argentino",
+          "link": "https://www.ambito.com/politica/lo-que-no-se-sabe-la-guerra-el-banco-central-y-la-agn-el-oro-argentino-n6350054",
+          "hora": "2026-11-27T12:56:00-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
       "id": "alejandra-guzman-recuerda-como-horrorosa-su-gira-con-paulina-2",
       "titulo": "Ivonne Guzmán recordó con Mario Pergolini el fenómeno de Bandana: “Teníamos una terapeuta que nos ayudaba”",
       "categoria": "espectaculos",
@@ -280,83 +419,45 @@
       "angulos": []
     },
     {
-      "id": "internaron-de-urgencia-a-luis-ventura-que-se-sabe",
-      "titulo": "Internaron de urgencia a Luis Ventura: qué se sabe",
-      "categoria": "espectaculos",
-      "prioritaria": false,
-      "desde": "2026-11-27T19:59:28-03:00",
-      "calor": 56,
+      "id": "otro-golpe-a-la-industria-del-calzado-puma-cierra-una-fabric",
+      "titulo": "Otro golpe a la industria del calzado: Puma cierra una fábrica en La Rioja y despide a 50 empleados",
+      "categoria": "economia",
+      "prioritaria": true,
+      "desde": "2026-11-26T19:00:18-03:00",
+      "calor": 55,
       "medios": [
+        "Clarín",
+        "Infobae",
         "La Nación",
-        "Infobae",
-        "TN"
+        "Página/12"
       ],
       "en_x": true,
-      "posicion_x": 32,
+      "posicion_x": 47,
       "en_google": false,
       "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "La llamativa actitud de Luis Ventura previo a su descompensación que preocupó a sus amigos: “Fue algo muy raro en él”",
-          "link": "https://www.infobae.com/teleshow/2026/11/28/la-llamativa-actitud-de-luis-ventura-previo-a-su-descompensacion-que-preocupo-a-sus-amigos-fue-algo-muy-raro-en-el/",
-          "hora": "2026-11-27T23:56:50-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Luis Ventura dio detalles de su estado de salud luego de haber sido internado de urgencia: “Me estabilizaron”",
-          "link": "https://tn.com.ar/show/famosos/2026/11/27/luis-ventura-dio-detalles-de-su-estado-de-salud-luego-de-ser-internado-de-urgencia-me-estabilizaron/",
-          "hora": "2026-11-27T23:27:00-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Internaron de urgencia a Luis Ventura: qué se sabe",
-          "link": "https://www.lanacion.com.ar/espectaculos/internaron-de-urgencia-a-luis-ventura-que-se-sabe-nid27112026/",
-          "hora": "2026-11-27T20:18:11-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Internaron de urgencia a Luis Ventura y hay preocupación por su salud",
-          "link": "https://tn.com.ar/show/famosos/2026/11/27/internaron-de-urgencia-a-luis-ventura-y-hay-preocupacion-por-su-salud/",
-          "hora": "2026-11-27T19:59:28-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "bronson-reed-estrella-de-la-lucha-wwe-de-ee-uu-muere-por-com",
-      "titulo": "Bronson Reed, estrella de la lucha WWE de EE.UU., muere por \"complicaciones médicas\"",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-28T00:00:20-03:00",
-      "calor": 56,
-      "medios": [
-        "Infobae",
-        "Página/12",
-        "TN"
-      ],
-      "en_x": true,
-      "posicion_x": 27,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "TN",
-          "titulo": "Conmoción en la WWE: murió un reconocido luchador australiano a los 38 años",
-          "link": "https://tn.com.ar/deportes/polideportivo/2026/11/28/conmocion-en-la-wwe-murio-un-reconocido-luchador-australiano-a-los-38-anos/",
-          "hora": "2026-11-28T00:05:29-03:00"
-        },
         {
           "medio": "Página/12",
-          "titulo": "EE.UU. y la Copa Gringa con papas fritas",
-          "link": "https://www.pagina12.com.ar/2026/11/27/eeuu-y-la-copa-gringa-con-papas-fritas/",
+          "titulo": "Puma sumó otra fábrica a la lista de Milei",
+          "link": "https://www.pagina12.com.ar/2026/11/27/puma-sumo-otra-fabrica-a-la-lista-de-milei/",
           "hora": "2026-11-28T00:01:00-03:00"
         },
         {
+          "medio": "La Nación",
+          "titulo": "Puma cierra una fábrica en La Rioja y concentra su producción en la Argentina",
+          "link": "https://www.lanacion.com.ar/economia/negocios/puma-cierra-una-fabrica-en-la-rioja-y-concentra-su-produccion-en-la-argentina-nid27112026/",
+          "hora": "2026-11-27T14:51:01-03:00"
+        },
+        {
           "medio": "Infobae",
-          "titulo": "Bronson Reed, estrella de la lucha WWE de EE.UU., muere por \"complicaciones médicas\"",
-          "link": "https://www.infobae.com/espana/agencias/2026/11/28/bronson-reed-estrella-de-la-lucha-wwe-de-eeuu-muere-por-complicaciones-medicas/",
-          "hora": "2026-11-28T00:00:20-03:00"
+          "titulo": "Puma cerró una planta en La Rioja y despidió a 50 empleados",
+          "link": "https://www.infobae.com/economia/2026/11/27/puma-cerro-una-planta-en-la-rioja-y-despidio-a-50-empleados/",
+          "hora": "2026-11-27T14:25:51-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Otro golpe a la industria del calzado: Puma cierra una fábrica en La Rioja y despide a 50 empleados",
+          "link": "https://www.clarin.com/economia/puma-cierra-planta-zapatillas-chamical-despide-50-empleados_0_KX2qT3ZogD.html",
+          "hora": "2026-11-27T12:53:41-03:00"
         }
       ],
       "oficiales": [],
@@ -403,75 +504,37 @@
       "angulos": []
     },
     {
-      "id": "cae-fuerte-el-riesgo-pais-de-la-argentina-y-se-acomoda-debaj",
-      "titulo": "El riesgo país cayó por debajo de los 1000 puntos y las acciones argentinas treparon hasta 5% en Wall Street",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-11-27T08:51:54-03:00",
-      "calor": 55,
+      "id": "los-pumas-seis-cambios-ante-escocia-para-el-cierre-del-natio",
+      "titulo": "Los Pumas confirmaron seis cambios para enfrentar a Escocia en el duelo por el séptimo puesto del Nations Championship",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-11-27T07:30:50-03:00",
+      "calor": 54,
       "medios": [
-        "Infobae",
         "La Nación",
-        "Ámbito",
-        "TN"
+        "Infobae"
       ],
-      "en_x": false,
-      "posicion_x": null,
+      "en_x": true,
+      "posicion_x": 15,
       "en_google": false,
       "notas": [
         {
-          "medio": "Ámbito",
-          "titulo": "IA: las ganancias récord ya no alcanzan y Wall Street empieza a pasar la cuenta",
-          "link": "https://www.ambito.com/opiniones/ia-las-ganancias-record-ya-no-alcanzan-y-wall-street-empieza-pasar-la-cuenta-n6350199",
-          "hora": "2026-11-28T00:00:00-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Riesgo país cayó 10% y perforó los 1.000 puntos: los bonos treparon por rally de Brasil y avances legislativos del Gobierno",
-          "link": "https://www.ambito.com/finanzas/los-bonos-dolares-rebotan-sintonia-la-region-la-antesala-la-ultima-rueda-semanal-n6349980",
-          "hora": "2026-11-27T20:47:00-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "El riesgo país bajó más de 100 puntos y los bonos argentinos repuntaron tras el avance de las votaciones en el Congreso",
-          "link": "https://tn.com.ar/economia/2026/11/27/el-riesgo-pais-retrocede-y-opera-por-debajo-de-1000-puntos-que-pasa-con-el-dolar-y-las-acciones/",
-          "hora": "2026-11-27T18:45:58-03:00"
+          "medio": "La Nación",
+          "titulo": "Nations Championship: empezó la fiesta en Londres con el 5º lugar de Irlanda y supremacía del Norte",
+          "link": "https://www.lanacion.com.ar/deportes/rugby/nations-championship-empezo-la-fiesta-del-rugby-en-londres-con-la-confirmacion-de-irlanda-y-la-nid27112026/",
+          "hora": "2026-11-27T23:13:06-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "El riesgo país cayó 10%, el dólar operó estable y las acciones argentinas rebotaron hasta 5% en Wall Street",
-          "link": "https://www.infobae.com/economia/2026/11/27/el-riesgo-pais-cayo-10-el-dolar-opero-estable-y-las-acciones-argentinas-rebotaron-hasta-5-en-wall-street/",
-          "hora": "2026-11-27T18:08:50-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Las acciones argentinas mejoraron hasta 5%, con el empuje externo de Brasil y Wall Street",
-          "link": "https://www.infobae.com/economia/2026/11/27/las-acciones-argentinas-mejoran-hasta-9-con-el-empuje-externo-de-brasil-y-wall-street/",
-          "hora": "2026-11-27T18:02:51-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Cayó fuerte el riesgo país de la Argentina y se acomodó debajo de los 1.000 puntos",
-          "link": "https://www.infobae.com/economia/2026/11/27/cae-fuerte-el-riesgo-pais-de-la-argentina-y-se-acomoda-debajo-de-los-1000-puntos/",
-          "hora": "2026-11-27T17:33:03-03:00"
+          "titulo": "Los Pumas confirmaron seis cambios para enfrentar a Escocia en el duelo por el séptimo puesto del Nations Championship",
+          "link": "https://www.infobae.com/deportes/2026/11/27/los-pumas-confirmaron-seis-cambios-para-enfrentar-a-escocia-en-el-duelo-por-el-septimo-puesto-del-nations-championship/",
+          "hora": "2026-11-27T11:55:13-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "El riesgo país cayó por debajo de los 1000 puntos y las acciones argentinas treparon hasta 5% en Wall Street",
-          "link": "https://www.lanacion.com.ar/economia/el-riesgo-pais-cae-por-debajo-de-los-1000-puntos-y-el-dolar-vuelve-a-bajar-nid27112026/",
-          "hora": "2026-11-27T16:59:03-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Las causas de la fuerte baja del riesgo país: ¿cambio de tendencia o efecto Brasil?",
-          "link": "https://www.ambito.com/finanzas/las-causas-la-fuerte-baja-del-riesgo-pais-cambio-tendencia-o-efecto-brasil-n6350056",
-          "hora": "2026-11-27T15:26:00-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Moody's Ratings dijo que \"por el momento\" no bajará la nota de Argentina pese al salto del riesgo país",
-          "link": "https://www.infobae.com/economia/2026/11/27/moodys-ratings-dijo-que-por-el-momento-no-bajara-la-nota-de-argentina-pese-al-salto-del-riesgo-pais/",
-          "hora": "2026-11-27T08:51:54-03:00"
+          "titulo": "Los Pumas: seis cambios ante Escocia para el cierre del Nations Championship",
+          "link": "https://www.lanacion.com.ar/deportes/rugby/los-pumas-seis-cambios-ante-escocia-para-el-cierre-del-nations-championship-nid27112026/",
+          "hora": "2026-11-27T07:30:50-03:00"
         }
       ],
       "oficiales": [],
@@ -555,7 +618,7 @@
         "TN"
       ],
       "en_x": true,
-      "posicion_x": 3,
+      "posicion_x": 2,
       "en_google": false,
       "notas": [
         {
@@ -582,37 +645,50 @@
       "angulos": []
     },
     {
-      "id": "los-pumas-seis-cambios-ante-escocia-para-el-cierre-del-natio",
-      "titulo": "Los Pumas confirmaron seis cambios para enfrentar a Escocia en el duelo por el séptimo puesto del Nations Championship",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-27T07:30:50-03:00",
+      "id": "apuestas-online-y-publicidad-en-el-futbol-e-influencers-que",
+      "titulo": "Apuestas online y publicidad en el fútbol e influencers: qué dice la ley para prevenir la ludopatía que aprobó el Senado",
+      "categoria": "politica",
+      "prioritaria": true,
+      "desde": "2026-11-26T19:48:55-03:00",
       "calor": 53,
       "medios": [
+        "Infobae",
         "La Nación",
-        "Infobae"
+        "Página/12"
       ],
       "en_x": true,
-      "posicion_x": 21,
+      "posicion_x": 46,
       "en_google": false,
       "notas": [
         {
-          "medio": "La Nación",
-          "titulo": "Nations Championship: empezó la fiesta en Londres con el 5º lugar de Irlanda y supremacía del Norte",
-          "link": "https://www.lanacion.com.ar/deportes/rugby/nations-championship-empezo-la-fiesta-del-rugby-en-londres-con-la-confirmacion-de-irlanda-y-la-nid27112026/",
-          "hora": "2026-11-27T23:13:06-03:00"
+          "medio": "Página/12",
+          "titulo": "El Senado aprobó por unanimidad la Ley de Ludopatía: qué cambia",
+          "link": "https://www.pagina12.com.ar/2026/11/26/que-cambia-con-la-ley-de-prevencion-de-la-ludopatia/",
+          "hora": "2026-11-28T00:01:00-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Los Pumas confirmaron seis cambios para enfrentar a Escocia en el duelo por el séptimo puesto del Nations Championship",
-          "link": "https://www.infobae.com/deportes/2026/11/27/los-pumas-confirmaron-seis-cambios-para-enfrentar-a-escocia-en-el-duelo-por-el-septimo-puesto-del-nations-championship/",
-          "hora": "2026-11-27T11:55:13-03:00"
+          "titulo": "Apuestas online y publicidad en el fútbol e influencers: qué dice la ley para prevenir la ludopatía que aprobó el Senado",
+          "link": "https://www.infobae.com/sociedad/2026/11/27/apuestas-online-y-publicidad-en-el-futbol-e-influencers-que-dice-la-ley-para-prevenir-la-ludopatia-que-aprobo-el-senado/",
+          "hora": "2026-11-27T16:52:24-03:00"
         },
         {
           "medio": "La Nación",
-          "titulo": "Los Pumas: seis cambios ante Escocia para el cierre del Nations Championship",
-          "link": "https://www.lanacion.com.ar/deportes/rugby/los-pumas-seis-cambios-ante-escocia-para-el-cierre-del-nations-championship-nid27112026/",
-          "hora": "2026-11-27T07:30:50-03:00"
+          "titulo": "Las nuevas prohibiciones que regirán para las apuestas online tras la sanción de la ley de ludopatía",
+          "link": "https://www.lanacion.com.ar/politica/las-nuevas-prohibiciones-que-regiran-para-las-apuestas-online-tras-la-sancion-de-la-ley-de-ludopatia-nid27112026/",
+          "hora": "2026-11-27T12:19:23-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "El Senado aprobó la ley de Ludopatía, tras un fuerte reclamo de la Iglesia",
+          "link": "https://www.lanacion.com.ar/politica/el-senado-se-apresta-a-aprobar-la-ley-de-ludopatia-tras-un-fuerte-reclamo-de-la-iglesia-nid26112026/",
+          "hora": "2026-11-27T03:05:49-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Además de las leyes de Ludopatía I y II, el Senado aprobó el Registro de Alimentantes Morosos y otros proyectos",
+          "link": "https://www.infobae.com/politica/2026/11/27/ademas-de-las-leyes-de-ludopatia-i-y-ii-el-senado-aprobo-el-registro-de-alimentantes-morosos-y-otros-proyectos/",
+          "hora": "2026-11-27T03:00:39-03:00"
         }
       ],
       "oficiales": [],
@@ -799,6 +875,50 @@
       "angulos": []
     },
     {
+      "id": "quien-es-luiz-carlos-trabuco-el-banquero-que-lula-da-silva-e",
+      "titulo": "Quién es Luiz Carlos Trabuco, el banquero que Lula da Silva eligió para dirigir la economía de Brasil",
+      "categoria": "otros",
+      "prioritaria": false,
+      "desde": "2026-11-27T11:05:32-03:00",
+      "calor": 51,
+      "medios": [
+        "Infobae",
+        "TN"
+      ],
+      "en_x": true,
+      "posicion_x": 33,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Gobierno dominicano asegura que agotará las gestiones para asistir a ciudadanos que viajaron a Rusia",
+          "link": "https://www.infobae.com/republica-dominicana/2026/11/28/gobierno-dominicano-asegura-que-agotara-las-gestiones-para-asistir-a-ciudadanos-que-viajaron-a-rusia/",
+          "hora": "2026-11-28T00:38:26-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Una futbolista brasileña presa en Rusia le escribió una carta a Lula para pedirle ayuda: denunció maltratos y discriminación",
+          "link": "https://tn.com.ar/internacional/2026/11/27/una-futbolista-brasilena-presa-en-rusia-le-escribio-una-carta-a-lula-para-pedirle-ayuda-denuncio-maltratos-y-discriminacion/",
+          "hora": "2026-11-27T20:45:47-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Quién es Luiz Carlos Trabuco, el banquero que Lula da Silva eligió para dirigir la economía de Brasil",
+          "link": "https://www.infobae.com/america/america-latina/2026/11/27/quien-es-luiz-carlos-trabuco-el-banquero-que-lula-da-silva-eligio-para-dirigir-la-economia-de-brasil/",
+          "hora": "2026-11-27T11:16:38-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Los mercados brasileños repuntan tras el nombramiento de Luiz Carlos Trabuco como ministro de Economía",
+          "link": "https://www.infobae.com/america/america-latina/2026/11/27/los-mercados-brasilenos-repuntan-tras-el-nombramiento-de-luiz-carlos-trabuco-como-ministro-de-economia/",
+          "hora": "2026-11-27T11:05:32-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
       "id": "la-justicia-allano-la-mansion-melliza-de-pilar-que-compro-la",
       "titulo": "La Justicia allanó la mansión melliza de Pilar que compró la empresa vinculada a Chiqui Tapia y Pablo Toviggino",
       "categoria": "politica",
@@ -895,131 +1015,17 @@
       "angulos": []
     },
     {
-      "id": "el-chato-prada-relato-el-mal-momento-que-vivio-cuando-intent",
-      "titulo": "El Chato Prada relató el mal momento que vivió cuando intentaron estafarlo haciéndose pasar por su hijo: “Me asusté”",
-      "categoria": "social",
-      "prioritaria": true,
-      "desde": "2026-11-27T06:32:56-03:00",
-      "calor": 50,
-      "medios": [
-        "La Nación",
-        "Infobae"
-      ],
-      "en_x": true,
-      "posicion_x": 9,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Dos motochorros adolescentes robaron una mochila en Morón, intentaron descartarla durante la fuga y terminaron detenidos",
-          "link": "https://www.infobae.com/sociedad/policiales/2026/11/27/dos-motochorros-adolescentes-robaron-una-mochila-en-moron-intentaron-descartarla-durante-la-fuga-y-terminaron-detenidos/",
-          "hora": "2026-11-27T15:29:25-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "El Chato Prada relató el mal momento que vivió cuando intentaron estafarlo haciéndose pasar por su hijo: “Me asusté”",
-          "link": "https://www.lanacion.com.ar/espectaculos/el-chato-prada-relato-el-mal-momento-que-vivio-cuando-intentaron-estafarlo-haciendose-pasar-por-su-nid26112026/",
-          "hora": "2026-11-27T06:32:56-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "llego-el-black-friday-2026-los-aires-acondicionados-mas-bara",
-      "titulo": "Black Friday bajo fuego: trabajadores de Amazon lanzan una huelga masiva en más de 20 países",
-      "categoria": "trabajo",
-      "prioritaria": true,
-      "desde": "2026-11-27T10:24:36-03:00",
-      "calor": 50,
-      "medios": [
-        "Infobae",
-        "La Nación"
-      ],
-      "en_x": true,
-      "posicion_x": 7,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "Black Friday bajo fuego: trabajadores de Amazon lanzan una huelga masiva en más de 20 países",
-          "link": "https://www.lanacion.com.ar/economia/IA/black-friday-bajo-fuego-trabajadores-de-amazon-lanzan-una-huelga-masiva-en-mas-de-20-paises-nid27112026/",
-          "hora": "2026-11-27T12:21:50-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "La productividad argentina está estancada: cada trabajador produce lo mismo que en 1992",
-          "link": "https://www.infobae.com/economia/2026/11/27/la-productividad-argentina-esta-estancada-cada-trabajador-produce-lo-mismo-que-en-1992/",
-          "hora": "2026-11-27T11:25:22-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Por el Black Friday, Aerolíneas Argentinas lanzó descuentos del 10% y hasta 18 cuotas sin interés en sus vuelos",
-          "link": "https://www.infobae.com/economia/2026/11/27/por-el-black-friday-aerolineas-argentinas-lanzo-descuentos-del-10-y-hasta-18-cuotas-sin-interes-en-sus-vuelos/",
-          "hora": "2026-11-27T10:24:36-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "quien-es-luiz-carlos-trabuco-el-banquero-que-lula-da-silva-e",
-      "titulo": "Quién es Luiz Carlos Trabuco, el banquero que Lula da Silva eligió para dirigir la economía de Brasil",
-      "categoria": "otros",
-      "prioritaria": false,
-      "desde": "2026-11-27T11:05:32-03:00",
-      "calor": 50,
-      "medios": [
-        "Infobae",
-        "TN"
-      ],
-      "en_x": true,
-      "posicion_x": 37,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Infobae",
-          "titulo": "Gobierno dominicano asegura que agotará las gestiones para asistir a ciudadanos que viajaron a Rusia",
-          "link": "https://www.infobae.com/republica-dominicana/2026/11/28/gobierno-dominicano-asegura-que-agotara-las-gestiones-para-asistir-a-ciudadanos-que-viajaron-a-rusia/",
-          "hora": "2026-11-28T00:38:26-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Una futbolista brasileña presa en Rusia le escribió una carta a Lula para pedirle ayuda: denunció maltratos y discriminación",
-          "link": "https://tn.com.ar/internacional/2026/11/27/una-futbolista-brasilena-presa-en-rusia-le-escribio-una-carta-a-lula-para-pedirle-ayuda-denuncio-maltratos-y-discriminacion/",
-          "hora": "2026-11-27T20:45:47-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Quién es Luiz Carlos Trabuco, el banquero que Lula da Silva eligió para dirigir la economía de Brasil",
-          "link": "https://www.infobae.com/america/america-latina/2026/11/27/quien-es-luiz-carlos-trabuco-el-banquero-que-lula-da-silva-eligio-para-dirigir-la-economia-de-brasil/",
-          "hora": "2026-11-27T11:16:38-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Los mercados brasileños repuntan tras el nombramiento de Luiz Carlos Trabuco como ministro de Economía",
-          "link": "https://www.infobae.com/america/america-latina/2026/11/27/los-mercados-brasilenos-repuntan-tras-el-nombramiento-de-luiz-carlos-trabuco-como-ministro-de-economia/",
-          "hora": "2026-11-27T11:05:32-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
       "id": "la-plaga-del-cristobal-colon-con-smartphone",
       "titulo": "La plaga del Cristóbal Colón con smartphone",
       "categoria": "otros",
       "prioritaria": false,
       "desde": "2026-11-28T00:05:00-03:00",
-      "calor": 50,
+      "calor": 51,
       "medios": [
         "La Nación"
       ],
       "en_x": true,
-      "posicion_x": 2,
+      "posicion_x": 1,
       "en_google": false,
       "notas": [
         {
@@ -1054,7 +1060,7 @@
           "medio": "Infobae",
           "titulo": "Reem Alsalem, relatora de la ONU, visitó Buenos Aires para pedir la abolición de la explotación reproductiva",
           "link": "https://www.infobae.com/opinion/2026/11/28/reem-alsalem-relatora-de-la-onu-visito-buenos-aires-para-pedir-la-abolicion-de-la-explotacion-reproductiva/",
-          "hora": "2026-11-28T01:33:00-03:00"
+          "hora": "2026-11-28T01:36:47-03:00"
         },
         {
           "medio": "La Nación",
@@ -1073,98 +1079,6 @@
           "titulo": "Primavera Sound Buenos Aires 2026: cómo y dónde ver el festival vía streaming",
           "link": "https://www.ambito.com/espectaculos/primavera-sound-buenos-aires-2026-como-y-donde-ver-el-festival-via-streaming-n6350127",
           "hora": "2026-11-27T16:19:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "otro-golpe-a-la-industria-del-calzado-puma-cierra-una-fabric",
-      "titulo": "Otro golpe a la industria del calzado: Puma cierra una fábrica en La Rioja y despide a 50 empleados",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-11-26T19:00:18-03:00",
-      "calor": 49,
-      "medios": [
-        "Clarín",
-        "Infobae",
-        "La Nación",
-        "Página/12"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Página/12",
-          "titulo": "Puma sumó otra fábrica a la lista de Milei",
-          "link": "https://www.pagina12.com.ar/2026/11/27/puma-sumo-otra-fabrica-a-la-lista-de-milei/",
-          "hora": "2026-11-28T00:01:00-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Puma cierra una fábrica en La Rioja y concentra su producción en la Argentina",
-          "link": "https://www.lanacion.com.ar/economia/negocios/puma-cierra-una-fabrica-en-la-rioja-y-concentra-su-produccion-en-la-argentina-nid27112026/",
-          "hora": "2026-11-27T14:51:01-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Puma cerró una planta en La Rioja y despidió a 50 empleados",
-          "link": "https://www.infobae.com/economia/2026/11/27/puma-cerro-una-planta-en-la-rioja-y-despidio-a-50-empleados/",
-          "hora": "2026-11-27T14:25:51-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Otro golpe a la industria del calzado: Puma cierra una fábrica en La Rioja y despide a 50 empleados",
-          "link": "https://www.clarin.com/economia/puma-cierra-planta-zapatillas-chamical-despide-50-empleados_0_KX2qT3ZogD.html",
-          "hora": "2026-11-27T12:53:41-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "abel-ferreira-revelo-una-anecdota-que-vivio-como-entrenador",
-      "titulo": "Abel Ferreira reveló una anécdota que vivió como entrenador en la final de la Libertadores que definieron Boca y River",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-27T08:40:28-03:00",
-      "calor": 49,
-      "medios": [
-        "Infobae",
-        "Clarín",
-        "La Nación",
-        "Ámbito"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "La Nación",
-          "titulo": "Abel Ferreira reveló una anécdota que vivió como entrenador en la final de la Libertadores que definieron Boca y River",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/abel-ferreira-revelo-una-anecdota-que-vivio-como-entrenador-en-la-final-de-la-libertadores-que-nid27112026/",
-          "hora": "2026-11-27T23:35:58-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "El campeón del mundo con la Selección argentina que buscarán llevarse Boca y River en este mercado de pases",
-          "link": "https://www.ambito.com/deportes/el-campeon-del-mundo-la-seleccion-argentina-que-buscaran-llevarse-boca-y-river-este-mercado-pases-n6350202",
-          "hora": "2026-11-27T19:13:00-03:00"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Abel Ferreira, entre River y Boca: la increíble anécdota de los jugadores que se fueron a Madrid a ver la final del Bernabéu",
-          "link": "https://www.clarin.com/deportes/abel-ferreira-river-boca-increible-anecdota-jugadores-madrid-ver-final-bernabeu_0_OCoPbKzeCm.html",
-          "hora": "2026-11-27T14:31:30-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "El plan que elaboró River Plate para el mercado de pases: el futuro de Santiago Beltrán y la figura internacional que es “una posibilidad concreta”",
-          "link": "https://www.infobae.com/deportes/2026/11/27/el-plan-que-elaboro-river-plate-para-el-mercado-de-pases-el-futuro-de-santiago-beltran-y-la-figura-internacional-que-es-una-posibilidad-concreta/",
-          "hora": "2026-11-27T08:40:28-03:00"
         }
       ],
       "oficiales": [],
@@ -1230,6 +1144,44 @@
       "angulos": []
     },
     {
+      "id": "llego-el-black-friday-2026-los-aires-acondicionados-mas-bara",
+      "titulo": "Black Friday bajo fuego: trabajadores de Amazon lanzan una huelga masiva en más de 20 países",
+      "categoria": "trabajo",
+      "prioritaria": true,
+      "desde": "2026-11-27T10:24:36-03:00",
+      "calor": 49,
+      "medios": [
+        "Infobae",
+        "La Nación"
+      ],
+      "en_x": true,
+      "posicion_x": 7,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "La Nación",
+          "titulo": "Black Friday bajo fuego: trabajadores de Amazon lanzan una huelga masiva en más de 20 países",
+          "link": "https://www.lanacion.com.ar/economia/IA/black-friday-bajo-fuego-trabajadores-de-amazon-lanzan-una-huelga-masiva-en-mas-de-20-paises-nid27112026/",
+          "hora": "2026-11-27T12:21:50-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "La productividad argentina está estancada: cada trabajador produce lo mismo que en 1992",
+          "link": "https://www.infobae.com/economia/2026/11/27/la-productividad-argentina-esta-estancada-cada-trabajador-produce-lo-mismo-que-en-1992/",
+          "hora": "2026-11-27T11:25:22-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Por el Black Friday, Aerolíneas Argentinas lanzó descuentos del 10% y hasta 18 cuotas sin interés en sus vuelos",
+          "link": "https://www.infobae.com/economia/2026/11/27/por-el-black-friday-aerolineas-argentinas-lanzo-descuentos-del-10-y-hasta-18-cuotas-sin-interes-en-sus-vuelos/",
+          "hora": "2026-11-27T10:24:36-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
       "id": "taiwan-celebra-elecciones-locales-y-la-votacion-de-un-refere",
       "titulo": "Taiwán celebra elecciones locales y la votación de un referéndum de energía nuclear en medio de la presión del régimen chino",
       "categoria": "otros",
@@ -1276,38 +1228,45 @@
       "angulos": []
     },
     {
-      "id": "nueva-crisis-en-la-ucr-por-el-voto-del-bloque-de-diputados-a",
-      "titulo": "Nueva crisis en la UCR por el voto del bloque de Diputados a favor del ajuste a universidades",
-      "categoria": "politica",
-      "prioritaria": true,
-      "desde": "2026-11-27T20:06:23-03:00",
-      "calor": 49,
+      "id": "abel-ferreira-revelo-una-anecdota-que-vivio-como-entrenador",
+      "titulo": "Abel Ferreira reveló una anécdota que vivió como entrenador en la final de la Libertadores que definieron Boca y River",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-11-27T08:40:28-03:00",
+      "calor": 48,
       "medios": [
         "Infobae",
         "Clarín",
+        "La Nación",
         "Ámbito"
       ],
-      "en_x": true,
-      "posicion_x": 46,
+      "en_x": false,
+      "posicion_x": null,
       "en_google": false,
       "notas": [
         {
-          "medio": "Clarín",
-          "titulo": "La UCR quiere prohibirle al bloque de diputados radicales usar las siglas partidarias por votar el ajuste universitario y los cruzaron: \"Ganen elecciones\"",
-          "link": "https://www.clarin.com/politica/ucr-quiere-prohibirle-bloque-diputados-radicales-usar-siglas-partidarias-votar-ajuste-universitario-cruzaron-ganen-elecciones_0_kpPW67yTk3.html",
-          "hora": "2026-11-27T21:18:36-03:00"
+          "medio": "La Nación",
+          "titulo": "Abel Ferreira reveló una anécdota que vivió como entrenador en la final de la Libertadores que definieron Boca y River",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/abel-ferreira-revelo-una-anecdota-que-vivio-como-entrenador-en-la-final-de-la-libertadores-que-nid27112026/",
+          "hora": "2026-11-27T23:35:58-03:00"
         },
         {
           "medio": "Ámbito",
-          "titulo": "Crece la interna de la UCR después de la sesión en Diputados: \"Para llevar el nombre hay que ganar una elección\"",
-          "link": "https://www.ambito.com/politica/crece-la-interna-la-ucr-despues-la-sesion-diputados-para-llevar-el-nombre-hay-que-ganar-una-eleccion-n6350253",
-          "hora": "2026-11-27T20:25:00-03:00"
+          "titulo": "El campeón del mundo con la Selección argentina que buscarán llevarse Boca y River en este mercado de pases",
+          "link": "https://www.ambito.com/deportes/el-campeon-del-mundo-la-seleccion-argentina-que-buscaran-llevarse-boca-y-river-este-mercado-pases-n6350202",
+          "hora": "2026-11-27T19:13:00-03:00"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Abel Ferreira, entre River y Boca: la increíble anécdota de los jugadores que se fueron a Madrid a ver la final del Bernabéu",
+          "link": "https://www.clarin.com/deportes/abel-ferreira-river-boca-increible-anecdota-jugadores-madrid-ver-final-bernabeu_0_OCoPbKzeCm.html",
+          "hora": "2026-11-27T14:31:30-03:00"
         },
         {
           "medio": "Infobae",
-          "titulo": "Nueva crisis en la UCR por el voto del bloque de Diputados a favor del ajuste a universidades",
-          "link": "https://www.infobae.com/politica/2026/11/27/nueva-crisis-en-la-ucr-por-el-voto-del-bloque-de-diputados-a-favor-del-ajuste-a-universidades/",
-          "hora": "2026-11-27T20:06:23-03:00"
+          "titulo": "El plan que elaboró River Plate para el mercado de pases: el futuro de Santiago Beltrán y la figura internacional que es “una posibilidad concreta”",
+          "link": "https://www.infobae.com/deportes/2026/11/27/el-plan-que-elaboro-river-plate-para-el-mercado-de-pases-el-futuro-de-santiago-beltran-y-la-figura-internacional-que-es-una-posibilidad-concreta/",
+          "hora": "2026-11-27T08:40:28-03:00"
         }
       ],
       "oficiales": [],
@@ -1315,36 +1274,56 @@
       "angulos": []
     },
     {
-      "id": "nottingham-forest-vs-chelsea-por-la-premier-league-en-vivo-a-2-3",
-      "titulo": "Bolívar le ganó a Atlanta 1 a 0 y quedó eliminado en la llave 3 de la Primera Nacional",
-      "categoria": "deportes",
-      "prioritaria": false,
-      "desde": "2026-11-27T10:24:20-03:00",
+      "id": "afganistan-los-talibanes-eliminaron-los-nombres-propios-de-l",
+      "titulo": "Afganistán: los talibanes eliminaron los nombres propios de las mujeres y niñas",
+      "categoria": "social",
+      "prioritaria": true,
+      "desde": "2026-11-27T11:31:10-03:00",
       "calor": 48,
       "medios": [
-        "TN"
+        "Página/12"
       ],
       "en_x": true,
-      "posicion_x": 19,
+      "posicion_x": 11,
       "en_google": false,
       "notas": [
         {
-          "medio": "TN",
-          "titulo": "Colón le ganó a Morón 1 a 0 y avanzó en la llave 2 de la Primera Nacional",
-          "link": "https://tn.com.ar/deportes/futbol/2026/11/27/moron-vs-colon-en-vivo-por-la-llave-2-de-la-primera-nacional-hora-donde-ver-y-formaciones/",
-          "hora": "2026-11-27T23:37:29-03:00"
+          "medio": "Página/12",
+          "titulo": "Afganistán: los talibanes eliminaron los nombres propios de las mujeres y niñas",
+          "link": "https://www.pagina12.com.ar/2026/11/27/afganistan-los-talibanes-eliminaron-los-nombres-propios-de-las-mujeres-y-ninas/",
+          "hora": "2026-11-28T00:01:00-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "el-chato-prada-relato-el-mal-momento-que-vivio-cuando-intent",
+      "titulo": "El Chato Prada relató el mal momento que vivió cuando intentaron estafarlo haciéndose pasar por su hijo: “Me asusté”",
+      "categoria": "social",
+      "prioritaria": true,
+      "desde": "2026-11-27T06:32:56-03:00",
+      "calor": 47,
+      "medios": [
+        "La Nación",
+        "Infobae"
+      ],
+      "en_x": true,
+      "posicion_x": 17,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Dos motochorros adolescentes robaron una mochila en Morón, intentaron descartarla durante la fuga y terminaron detenidos",
+          "link": "https://www.infobae.com/sociedad/policiales/2026/11/27/dos-motochorros-adolescentes-robaron-una-mochila-en-moron-intentaron-descartarla-durante-la-fuga-y-terminaron-detenidos/",
+          "hora": "2026-11-27T15:29:25-03:00"
         },
         {
-          "medio": "TN",
-          "titulo": "Tristán Suárez empató con Gimnasia y Tiro 1 a 1 y quedó eliminado en la llave 1 de la Primera Nacional",
-          "link": "https://tn.com.ar/deportes/futbol/2026/11/27/tristan-suarez-vs-gimnasia-y-tiro-en-vivo-por-la-llave-1-de-la-primera-nacional-hora-donde-ver-y-formaciones/",
-          "hora": "2026-11-27T23:01:29-03:00"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Bolívar le ganó a Atlanta 1 a 0 y quedó eliminado en la llave 3 de la Primera Nacional",
-          "link": "https://tn.com.ar/deportes/futbol/2026/11/27/atlanta-vs-bolivar-en-vivo-por-la-llave-3-de-la-primera-nacional-hora-donde-ver-y-formaciones/",
-          "hora": "2026-11-27T21:03:29-03:00"
+          "medio": "La Nación",
+          "titulo": "El Chato Prada relató el mal momento que vivió cuando intentaron estafarlo haciéndose pasar por su hijo: “Me asusté”",
+          "link": "https://www.lanacion.com.ar/espectaculos/el-chato-prada-relato-el-mal-momento-que-vivio-cuando-intentaron-estafarlo-haciendose-pasar-por-su-nid26112026/",
+          "hora": "2026-11-27T06:32:56-03:00"
         }
       ],
       "oficiales": [],
@@ -1357,7 +1336,7 @@
       "categoria": "politica",
       "prioritaria": true,
       "desde": "2026-11-27T13:06:18-03:00",
-      "calor": 48,
+      "calor": 47,
       "medios": [
         "Infobae",
         "La Nación",
@@ -1391,82 +1370,6 @@
           "titulo": "Malvinas, PASO, Presupuesto y pliegos judiciales estarán incluidos en el temario de sesiones extraordinarias",
           "link": "https://www.infobae.com/politica/2026/11/27/malvinas-paso-presupuesto-y-pliegos-judiciales-en-el-temario-de-extraordinarias/",
           "hora": "2026-11-27T13:06:18-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "afganistan-los-talibanes-eliminaron-los-nombres-propios-de-l",
-      "titulo": "Afganistán: los talibanes eliminaron los nombres propios de las mujeres y niñas",
-      "categoria": "social",
-      "prioritaria": true,
-      "desde": "2026-11-27T11:31:10-03:00",
-      "calor": 47,
-      "medios": [
-        "Página/12"
-      ],
-      "en_x": true,
-      "posicion_x": 14,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Página/12",
-          "titulo": "Afganistán: los talibanes eliminaron los nombres propios de las mujeres y niñas",
-          "link": "https://www.pagina12.com.ar/2026/11/27/afganistan-los-talibanes-eliminaron-los-nombres-propios-de-las-mujeres-y-ninas/",
-          "hora": "2026-11-28T00:01:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "apuestas-online-y-publicidad-en-el-futbol-e-influencers-que",
-      "titulo": "Apuestas online y publicidad en el fútbol e influencers: qué dice la ley para prevenir la ludopatía que aprobó el Senado",
-      "categoria": "politica",
-      "prioritaria": true,
-      "desde": "2026-11-26T19:48:55-03:00",
-      "calor": 46,
-      "medios": [
-        "Infobae",
-        "La Nación",
-        "Página/12"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Página/12",
-          "titulo": "El Senado aprobó por unanimidad la Ley de Ludopatía: qué cambia",
-          "link": "https://www.pagina12.com.ar/2026/11/26/que-cambia-con-la-ley-de-prevencion-de-la-ludopatia/",
-          "hora": "2026-11-28T00:01:00-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Apuestas online y publicidad en el fútbol e influencers: qué dice la ley para prevenir la ludopatía que aprobó el Senado",
-          "link": "https://www.infobae.com/sociedad/2026/11/27/apuestas-online-y-publicidad-en-el-futbol-e-influencers-que-dice-la-ley-para-prevenir-la-ludopatia-que-aprobo-el-senado/",
-          "hora": "2026-11-27T16:52:24-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Las nuevas prohibiciones que regirán para las apuestas online tras la sanción de la ley de ludopatía",
-          "link": "https://www.lanacion.com.ar/politica/las-nuevas-prohibiciones-que-regiran-para-las-apuestas-online-tras-la-sancion-de-la-ley-de-ludopatia-nid27112026/",
-          "hora": "2026-11-27T12:19:23-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "El Senado aprobó la ley de Ludopatía, tras un fuerte reclamo de la Iglesia",
-          "link": "https://www.lanacion.com.ar/politica/el-senado-se-apresta-a-aprobar-la-ley-de-ludopatia-tras-un-fuerte-reclamo-de-la-iglesia-nid26112026/",
-          "hora": "2026-11-27T03:05:49-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Además de las leyes de Ludopatía I y II, el Senado aprobó el Registro de Alimentantes Morosos y otros proyectos",
-          "link": "https://www.infobae.com/politica/2026/11/27/ademas-de-las-leyes-de-ludopatia-i-y-ii-el-senado-aprobo-el-registro-de-alimentantes-morosos-y-otros-proyectos/",
-          "hora": "2026-11-27T03:00:39-03:00"
         }
       ],
       "oficiales": [],
@@ -1518,6 +1421,57 @@
           "titulo": "Ola de calor y alerta por tormentas en tres provincias: cómo estará el tiempo durante el fin de semana",
           "link": "https://www.infobae.com/sociedad/2026/11/27/ola-de-calor-y-alerta-por-tormentas-en-tres-provincias-como-estara-el-tiempo-durante-el-fin-de-semana/",
           "hora": "2026-11-27T08:15:14-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "lali-esposito-recordo-el-tuit-que-publico-tras-el-triunfo-de",
+      "titulo": "Lali Espósito recordó el tuit que publicó tras el triunfo de Milei en las PASO: “No me arrepiento; aprendí mucho de eso”",
+      "categoria": "espectaculos",
+      "prioritaria": false,
+      "desde": "2026-11-27T16:50:18-03:00",
+      "calor": 46,
+      "medios": [
+        "La Nación",
+        "Infobae",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "Alejandra Guzmán recordó con cariño a su padre y reveló detalles del homenaje que pensaba para Silvia Pinal antes de cancelar su concierto",
+          "link": "https://www.infobae.com/mexico/2026/11/28/alejandra-guzman-recordo-con-carino-a-su-padre-y-revelo-detalles-del-homenaje-que-pensaba-para-silvia-pinal-antes-de-cancelar-su-concierto/",
+          "hora": "2026-11-28T01:49:59-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Alejandra Guzmán vuelve a zafarse la cadera y cancela show en la Arena CDMX",
+          "link": "https://www.infobae.com/mexico/2026/11/28/alejandra-guzman-vuelve-a-zafarse-la-cadera-y-cancela-show-en-la-arena-cdmx/",
+          "hora": "2026-11-28T01:29:47-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Lali Espósito recordó el tuit que publicó tras el triunfo de Milei en las PASO: “No me arrepiento; aprendí mucho de eso”",
+          "link": "https://www.lanacion.com.ar/espectaculos/personajes/lali-esposito-recordo-el-tuit-que-publico-tras-el-triunfo-de-milei-en-las-paso-no-me-arrepiento-nid27112026/",
+          "hora": "2026-11-27T18:30:56-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Lali Espósito recordó su tuit viral contra Milei y reveló las consecuencias que trajo: “Era importante desarmar esa idea de miedo”",
+          "link": "https://tn.com.ar/show/famosos/2026/11/27/lali-esposito-recordo-su-tuit-viral-contra-milei-y-revelo-las-consecuencias-que-trajo-era-importante-desarmar-esa-idea-de-miedo/",
+          "hora": "2026-11-27T18:15:12-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Tiene 47 años: Alejandra Gribaldo, la mujer detrás de una investigación clave en un gigante de las cervezas",
+          "link": "https://www.lanacion.com.ar/economia/campo/tiene-47-anos-alejandra-gribaldo-la-mujer-detras-de-una-investigacion-clave-en-un-gigante-de-las-nid27112026/",
+          "hora": "2026-11-27T16:50:18-03:00"
         }
       ],
       "oficiales": [],
@@ -1671,7 +1625,7 @@
         "Clarín"
       ],
       "en_x": true,
-      "posicion_x": 11,
+      "posicion_x": 10,
       "en_google": false,
       "notas": [
         {
@@ -1679,6 +1633,51 @@
           "titulo": "Suspensión de las PASO: tras el respaldo del Senado, el Gobierno acelera en Diputados y busca convertirla en ley a mediados de diciembre",
           "link": "https://www.clarin.com/politica/suspension-paso-respaldo-senado-gobierno-acelera-diputados-busca-convertirla-ley-mediados-diciembre_0_nOpJIIhlvW.html",
           "hora": "2026-11-27T19:16:48-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "internaron-de-urgencia-a-luis-ventura-que-se-sabe",
+      "titulo": "Internaron de urgencia a Luis Ventura: qué se sabe",
+      "categoria": "espectaculos",
+      "prioritaria": false,
+      "desde": "2026-11-27T19:59:28-03:00",
+      "calor": 45,
+      "medios": [
+        "La Nación",
+        "Infobae",
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Infobae",
+          "titulo": "La llamativa actitud de Luis Ventura previo a su descompensación que preocupó a sus amigos: “Fue algo muy raro en él”",
+          "link": "https://www.infobae.com/teleshow/2026/11/28/la-llamativa-actitud-de-luis-ventura-previo-a-su-descompensacion-que-preocupo-a-sus-amigos-fue-algo-muy-raro-en-el/",
+          "hora": "2026-11-27T23:56:50-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Luis Ventura dio detalles de su estado de salud luego de haber sido internado de urgencia: “Me estabilizaron”",
+          "link": "https://tn.com.ar/show/famosos/2026/11/27/luis-ventura-dio-detalles-de-su-estado-de-salud-luego-de-ser-internado-de-urgencia-me-estabilizaron/",
+          "hora": "2026-11-27T23:27:00-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Internaron de urgencia a Luis Ventura: qué se sabe",
+          "link": "https://www.lanacion.com.ar/espectaculos/internaron-de-urgencia-a-luis-ventura-que-se-sabe-nid27112026/",
+          "hora": "2026-11-27T20:18:11-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Internaron de urgencia a Luis Ventura y hay preocupación por su salud",
+          "link": "https://tn.com.ar/show/famosos/2026/11/27/internaron-de-urgencia-a-luis-ventura-y-hay-preocupacion-por-su-salud/",
+          "hora": "2026-11-27T19:59:28-03:00"
         }
       ],
       "oficiales": [],
@@ -1886,6 +1885,43 @@
           "titulo": "Franco Colapinto, entre su preocupación y el despiste de Gasly en Qatar: \"No fue particularmente un buen día\"",
           "link": "https://www.clarin.com/deportes/franco-colapinto-preocupacion-despiste-gasly-qatar-particularmente-buen-dia_0_n9vG3hhnQ1.html",
           "hora": "2026-11-27T16:02:29-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "nottingham-forest-vs-chelsea-por-la-premier-league-en-vivo-a-2-3",
+      "titulo": "Bolívar le ganó a Atlanta 1 a 0 y quedó eliminado en la llave 3 de la Primera Nacional",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-11-27T10:24:20-03:00",
+      "calor": 43,
+      "medios": [
+        "TN"
+      ],
+      "en_x": true,
+      "posicion_x": 35,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "TN",
+          "titulo": "Colón le ganó a Morón 1 a 0 y avanzó en la llave 2 de la Primera Nacional",
+          "link": "https://tn.com.ar/deportes/futbol/2026/11/27/moron-vs-colon-en-vivo-por-la-llave-2-de-la-primera-nacional-hora-donde-ver-y-formaciones/",
+          "hora": "2026-11-27T23:37:29-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Tristán Suárez empató con Gimnasia y Tiro 1 a 1 y quedó eliminado en la llave 1 de la Primera Nacional",
+          "link": "https://tn.com.ar/deportes/futbol/2026/11/27/tristan-suarez-vs-gimnasia-y-tiro-en-vivo-por-la-llave-1-de-la-primera-nacional-hora-donde-ver-y-formaciones/",
+          "hora": "2026-11-27T23:01:29-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Bolívar le ganó a Atlanta 1 a 0 y quedó eliminado en la llave 3 de la Primera Nacional",
+          "link": "https://tn.com.ar/deportes/futbol/2026/11/27/atlanta-vs-bolivar-en-vivo-por-la-llave-3-de-la-primera-nacional-hora-donde-ver-y-formaciones/",
+          "hora": "2026-11-27T21:03:29-03:00"
         }
       ],
       "oficiales": [],
@@ -2129,24 +2165,24 @@
     {
       "id": "lula-aplaca-el-nerviosismo-de-los-mercados-con-un-inesperado",
       "titulo": "Lula aplaca el nerviosismo de los mercados con un inesperado giro pragmático y envía al mismo tiempo un mensaje político",
-      "categoria": "otros",
-      "prioritaria": false,
+      "categoria": "social",
+      "prioritaria": true,
       "desde": "2026-11-27T20:36:39-03:00",
       "calor": 43,
       "medios": [
         "La Nación",
         "Infobae",
-        "Ámbito"
+        "TN"
       ],
       "en_x": false,
       "posicion_x": null,
       "en_google": false,
       "notas": [
         {
-          "medio": "Ámbito",
-          "titulo": "El mercado vota antes de tiempo: dónde invertir en medio del castigo a los activos argentinos",
-          "link": "https://www.ambito.com/opiniones/el-mercado-vota-antes-tiempo-donde-invertir-medio-del-castigo-los-activos-argentinos-n6350227",
-          "hora": "2026-11-28T00:00:00-03:00"
+          "medio": "TN",
+          "titulo": "Inesperado giro en El Chocón: rescataron a una mujer del agua y descubrieron que era buscada por incendiar un auto",
+          "link": "https://tn.com.ar/policiales/2026/11/28/inesperado-giro-en-el-chocon-rescataron-a-una-mujer-del-agua-y-descubrieron-que-era-buscada-por-incendiar-un-auto/",
+          "hora": "2026-11-28T01:50:39-03:00"
         },
         {
           "medio": "Infobae",
@@ -2159,6 +2195,38 @@
           "titulo": "Lula aplaca el nerviosismo de los mercados con un inesperado giro pragmático y envía al mismo tiempo un mensaje político",
           "link": "https://www.lanacion.com.ar/el-mundo/lula-aplaca-el-nerviosismo-de-los-mercados-con-un-inesperado-giro-pragmatico-y-envia-al-mismo-tiempo-nid27112026/",
           "hora": "2026-11-27T20:36:39-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "mirtha-legrand-las-diferencias-con-eltrece-como-sera-su-desp",
+      "titulo": "Mirtha Legrand: las diferencias con eltrece, cómo será su despedida y qué se sabe sobre el festejo de su centenario",
+      "categoria": "deportes",
+      "prioritaria": false,
+      "desde": "2026-11-27T11:40:57-03:00",
+      "calor": 42,
+      "medios": [
+        "La Nación",
+        "Clarín"
+      ],
+      "en_x": true,
+      "posicion_x": 34,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Clarín",
+          "titulo": "El mítico Centenario de Montevideo despide una era con Estudiantes y Palmeiras: cómo será su transformación para el Mundial 2030",
+          "link": "https://www.clarin.com/deportes/mitico-centenario-montevideo-despide-estudiantes-palmeiras-transformacion-mundial-2030_0_SSMBfMX2ip.html",
+          "hora": "2026-11-27T14:02:01-03:00"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Mirtha Legrand: las diferencias con eltrece, cómo será su despedida y qué se sabe sobre el festejo de su centenario",
+          "link": "https://www.lanacion.com.ar/espectaculos/personajes/mirtha-legrand-las-diferencias-con-eltrece-como-sera-su-despedida-y-que-se-sabe-sobre-el-festejo-de-nid27112026/",
+          "hora": "2026-11-27T11:40:57-03:00"
         }
       ],
       "oficiales": [],
@@ -2237,6 +2305,45 @@
           "titulo": "Renunció el interventor de los medios públicos y lo reemplazará Fernando Subirats",
           "link": "https://www.infobae.com/politica/2026/11/27/renuncio-el-interventor-de-los-medios-publicos-y-lo-reemplazara-fernando-subirats/",
           "hora": "2026-11-27T19:43:35-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
+      "id": "nueva-crisis-en-la-ucr-por-el-voto-del-bloque-de-diputados-a",
+      "titulo": "Nueva crisis en la UCR por el voto del bloque de Diputados a favor del ajuste a universidades",
+      "categoria": "politica",
+      "prioritaria": true,
+      "desde": "2026-11-27T20:06:23-03:00",
+      "calor": 42,
+      "medios": [
+        "Infobae",
+        "Clarín",
+        "Ámbito"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": false,
+      "notas": [
+        {
+          "medio": "Clarín",
+          "titulo": "La UCR quiere prohibirle al bloque de diputados radicales usar las siglas partidarias por votar el ajuste universitario y los cruzaron: \"Ganen elecciones\"",
+          "link": "https://www.clarin.com/politica/ucr-quiere-prohibirle-bloque-diputados-radicales-usar-siglas-partidarias-votar-ajuste-universitario-cruzaron-ganen-elecciones_0_kpPW67yTk3.html",
+          "hora": "2026-11-27T21:18:36-03:00"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Crece la interna de la UCR después de la sesión en Diputados: \"Para llevar el nombre hay que ganar una elección\"",
+          "link": "https://www.ambito.com/politica/crece-la-interna-la-ucr-despues-la-sesion-diputados-para-llevar-el-nombre-hay-que-ganar-una-eleccion-n6350253",
+          "hora": "2026-11-27T20:25:00-03:00"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Nueva crisis en la UCR por el voto del bloque de Diputados a favor del ajuste a universidades",
+          "link": "https://www.infobae.com/politica/2026/11/27/nueva-crisis-en-la-ucr-por-el-voto-del-bloque-de-diputados-a-favor-del-ajuste-a-universidades/",
+          "hora": "2026-11-27T20:06:23-03:00"
         }
       ],
       "oficiales": [],
@@ -2417,6 +2524,37 @@
       "angulos": []
     },
     {
+      "id": "coty-romero-mostro-el-peculiar-tratamiento-que-se-hace-en-gl",
+      "titulo": "Coty Romero mostró el peculiar tratamiento que se hace en glúteos y abdomen: “Te quedan duritos”",
+      "categoria": "espectaculos",
+      "prioritaria": false,
+      "desde": "2026-11-27T18:18:13-03:00",
+      "calor": 41,
+      "medios": [
+        "TN"
+      ],
+      "en_x": false,
+      "posicion_x": null,
+      "en_google": true,
+      "notas": [
+        {
+          "medio": "TN",
+          "titulo": "Coty Romero mostró el peculiar tratamiento que se hace en glúteos y abdomen: “Te quedan duritos”",
+          "link": "https://tn.com.ar/show/famosos/2026/11/27/coty-romero-mostro-el-peculiar-tratamiento-que-se-hace-en-gluteos-y-abdomen-te-quedan-duritos/",
+          "hora": "2026-11-27T19:32:25-03:00"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Catalina Gorostidi de “Gran Hermano” se hizo un tratamiento estético en la cara y mostró los resultados",
+          "link": "https://tn.com.ar/show/famosos/2026/11/27/catalina-gorostidi-de-gran-hermano-se-hizo-un-tratamiento-estetico-en-la-cara-y-mostro-los-resultados/",
+          "hora": "2026-11-27T18:18:13-03:00"
+        }
+      ],
+      "oficiales": [],
+      "resumen": null,
+      "angulos": []
+    },
+    {
       "id": "el-chelsea-del-dibu-martinez-sufrio-una-nueva-derrota-ante-e",
       "titulo": "El Chelsea del Dibu Martínez sufrió una nueva derrota ante el Nottingham Forest: el golazo “imposible” de volea que recibió",
       "categoria": "deportes",
@@ -2427,7 +2565,7 @@
         "Infobae"
       ],
       "en_x": true,
-      "posicion_x": 25,
+      "posicion_x": 22,
       "en_google": false,
       "notas": [
         {
@@ -2486,45 +2624,6 @@
       "angulos": []
     },
     {
-      "id": "el-intendente-de-florianopolis-hablo-sobre-el-posible-efecto",
-      "titulo": "El intendente de Florianópolis habló sobre el posible efecto de El Niño este verano en Brasil",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-11-26T17:54:33-03:00",
-      "calor": 40,
-      "medios": [
-        "La Nación",
-        "Ámbito",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "TN",
-          "titulo": "El Niño no da tregua en Brasil: un temporal devastó ciudades del sur del país y dejó al menos ocho muertos",
-          "link": "https://tn.com.ar/internacional/2026/11/27/el-nino-no-da-tregua-en-brasil-un-temporal-devasto-ciudades-del-sur-del-pais-y-dejo-al-menos-once-muertos/",
-          "hora": "2026-11-27T18:29:26-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "El intendente de Florianópolis habló sobre el posible efecto de El Niño este verano en Brasil",
-          "link": "https://www.lanacion.com.ar/sociedad/el-intendente-de-florianopolis-hablo-sobre-el-posible-efecto-de-el-nino-este-verano-en-brasil-nid27112026/",
-          "hora": "2026-11-27T15:21:09-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "El dólar mayorista trepó otros $25 en la semana, pero el CCL bajó por la intervención oficial y el efecto Brasil",
-          "link": "https://www.ambito.com/finanzas/el-dolar-mayorista-encadena-una-nueva-semana-al-alza-mientras-la-brecha-contra-el-ccl-sigue-presion-n6349946",
-          "hora": "2026-11-27T15:17:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
       "id": "alicia-machado-arremete-contra-el-disenador-del-vestido-de-c",
       "titulo": "Clara Vegas rompe el silencio sobre las críticas a su vestido en Miss Universo 2026: “Único y polémico, igual que yo”",
       "categoria": "espectaculos",
@@ -2567,121 +2666,38 @@
       "oficiales": [],
       "resumen": null,
       "angulos": []
-    },
-    {
-      "id": "una-casa-hecha-integramente-con-impresion-3d-asi-es-el-proye",
-      "titulo": "Turismo, inversiones e IA: Emiratos Árabes Unidos busca ganar terreno en América Latina y el Caribe",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-11-27T07:53:00-03:00",
-      "calor": 40,
-      "medios": [
-        "Infobae",
-        "Ámbito"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "Ámbito",
-          "titulo": "Más allá del turismo: cómo República Dominicana busca convertirse en un hub logístico del Caribe",
-          "link": "https://www.ambito.com/economia/mas-alla-del-turismo-como-republica-dominicana-busca-convertirse-un-hub-logistico-del-caribe-n6350138",
-          "hora": "2026-11-28T00:00:00-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "De las arepas al ceviche, una mesa que reúne los sabores de América Latina en Caballito",
-          "link": "https://www.ambito.com/lifestyle/de-las-arepas-al-ceviche-una-mesa-que-reune-los-sabores-america-latina-caballito-n6350186",
-          "hora": "2026-11-28T00:00:00-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Una casa hecha íntegramente con impresión 3D: así es el proyecto argentino que marcó un hito en América Latina",
-          "link": "https://www.infobae.com/sociedad/2026/11/27/una-casa-hecha-integramente-con-impresion-3d-asi-es-el-proyecto-argentino-que-marco-un-hito-en-america-latina/",
-          "hora": "2026-11-27T11:14:52-03:00"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Turismo, inversiones e IA: Emiratos Árabes Unidos busca ganar terreno en América Latina y el Caribe",
-          "link": "https://www.ambito.com/economia/turismo-inversiones-e-ia-emiratos-arabes-unidos-busca-ganar-terreno-america-latina-y-el-caribe-n6349615",
-          "hora": "2026-11-27T07:53:00-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
-    },
-    {
-      "id": "banco-galicia-lanzo-un-nuevo-producto-para-clientes-premium",
-      "titulo": "Banco Galicia lanzó un nuevo producto para clientes premium: servicios, experiencias y asesoramiento especializado",
-      "categoria": "economia",
-      "prioritaria": true,
-      "desde": "2026-11-27T08:33:57-03:00",
-      "calor": 40,
-      "medios": [
-        "Infobae",
-        "La Nación",
-        "TN"
-      ],
-      "en_x": false,
-      "posicion_x": null,
-      "en_google": false,
-      "notas": [
-        {
-          "medio": "TN",
-          "titulo": "Empezaron fabricando productos de plástico en 1964: 62 años después, exportan a más de 50 países y tienen plantas de reciclaje",
-          "link": "https://tn.com.ar/sociedad/2026/11/27/empezaron-fabricando-productos-de-plastico-en-1964-62-anos-despues-exportan-a-mas-de-50-paises-y-tienen-plantas-de-reciclaje/",
-          "hora": "2026-11-27T18:08:42-03:00"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Bancos y tarjetas redoblan la apuesta por los clientes de alto patrimonio",
-          "link": "https://www.lanacion.com.ar/economia/negocios/bancos-y-tarjetas-redoblan-la-apuesta-por-los-clientes-de-alto-patrimonio-nid27112026/",
-          "hora": "2026-11-27T12:55:55-03:00"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Banco Galicia lanzó un nuevo producto para clientes premium: servicios, experiencias y asesoramiento especializado",
-          "link": "https://www.infobae.com/economia/2026/11/27/banco-galicia-lanzo-un-nuevo-producto-para-clientes-premium-servicios-experiencias-y-asesoramiento-especializado/",
-          "hora": "2026-11-27T08:33:57-03:00"
-        }
-      ],
-      "oficiales": [],
-      "resumen": null,
-      "angulos": []
     }
   ],
   "tendencias_x": [
     {
       "posicion": 1,
-      "nombre": "#MasterChefJunior",
-      "link": "https://x.com/search?q=%23MasterChefJunior"
-    },
-    {
-      "posicion": 2,
       "nombre": "Colón",
       "link": "https://x.com/search?q=Col%C3%B3n"
     },
     {
-      "posicion": 3,
+      "posicion": 2,
       "nombre": "Bonelli",
       "link": "https://x.com/search?q=Bonelli"
     },
     {
+      "posicion": 3,
+      "nombre": "#MasterChefJunior",
+      "link": "https://x.com/search?q=%23MasterChefJunior"
+    },
+    {
       "posicion": 4,
-      "nombre": "Lago",
-      "link": "https://x.com/search?q=Lago"
+      "nombre": "Cocos",
+      "link": "https://x.com/search?q=Cocos"
     },
     {
       "posicion": 5,
-      "nombre": "Bonansea",
-      "link": "https://x.com/search?q=Bonansea"
+      "nombre": "Inter Miami",
+      "link": "https://x.com/search?q=Inter%20Miami"
     },
     {
       "posicion": 6,
-      "nombre": "Cocos",
-      "link": "https://x.com/search?q=Cocos"
+      "nombre": "Bonansea",
+      "link": "https://x.com/search?q=Bonansea"
     },
     {
       "posicion": 7,
@@ -2690,28 +2706,28 @@
     },
     {
       "posicion": 8,
-      "nombre": "Inter Miami",
-      "link": "https://x.com/search?q=Inter%20Miami"
+      "nombre": "Lago",
+      "link": "https://x.com/search?q=Lago"
     },
     {
       "posicion": 9,
-      "nombre": "Morón",
-      "link": "https://x.com/search?q=Mor%C3%B3n"
+      "nombre": "maia",
+      "link": "https://x.com/search?q=maia"
     },
     {
       "posicion": 10,
-      "nombre": "Sabalero",
-      "link": "https://x.com/search?q=Sabalero"
-    },
-    {
-      "posicion": 11,
       "nombre": "El Senado",
       "link": "https://x.com/search?q=El%20Senado"
     },
     {
+      "posicion": 11,
+      "nombre": "Afganistán",
+      "link": "https://x.com/search?q=Afganist%C3%A1n"
+    },
+    {
       "posicion": 12,
-      "nombre": "maia",
-      "link": "https://x.com/search?q=maia"
+      "nombre": "HOY JUEGA RIVER",
+      "link": "https://x.com/search?q=HOY%20JUEGA%20RIVER"
     },
     {
       "posicion": 13,
@@ -2720,23 +2736,23 @@
     },
     {
       "posicion": 14,
-      "nombre": "Afganistán",
-      "link": "https://x.com/search?q=Afganist%C3%A1n"
+      "nombre": "El Sabalero",
+      "link": "https://x.com/search?q=El%20Sabalero"
     },
     {
       "posicion": 15,
-      "nombre": "Toledo",
-      "link": "https://x.com/search?q=Toledo"
+      "nombre": "Londres",
+      "link": "https://x.com/search?q=Londres"
     },
     {
       "posicion": 16,
-      "nombre": "valentina zenere",
-      "link": "https://x.com/search?q=valentina%20zenere"
+      "nombre": "Presupuesto 2027",
+      "link": "https://x.com/search?q=Presupuesto%202027"
     },
     {
       "posicion": 17,
-      "nombre": "HOY JUEGA RIVER",
-      "link": "https://x.com/search?q=HOY%20JUEGA%20RIVER"
+      "nombre": "Morón",
+      "link": "https://x.com/search?q=Mor%C3%B3n"
     },
     {
       "posicion": 18,
@@ -2745,53 +2761,53 @@
     },
     {
       "posicion": 19,
-      "nombre": "Tristán Suárez",
-      "link": "https://x.com/search?q=Trist%C3%A1n%20Su%C3%A1rez"
-    },
-    {
-      "posicion": 20,
-      "nombre": "Presupuesto 2027",
-      "link": "https://x.com/search?q=Presupuesto%202027"
-    },
-    {
-      "posicion": 21,
-      "nombre": "Londres",
-      "link": "https://x.com/search?q=Londres"
-    },
-    {
-      "posicion": 22,
-      "nombre": "Camille",
-      "link": "https://x.com/search?q=Camille"
-    },
-    {
-      "posicion": 23,
       "nombre": "#QatarGP",
       "link": "https://x.com/search?q=%23QatarGP"
     },
     {
-      "posicion": 24,
+      "posicion": 20,
       "nombre": "#SolPersonajeDelAño",
       "link": "https://x.com/search?q=%23SolPersonajeDelA%C3%B1o"
     },
     {
-      "posicion": 25,
-      "nombre": "Chelsea",
-      "link": "https://x.com/search?q=Chelsea"
-    },
-    {
-      "posicion": 26,
+      "posicion": 21,
       "nombre": "Quilmes",
       "link": "https://x.com/search?q=Quilmes"
     },
     {
-      "posicion": 27,
+      "posicion": 22,
+      "nombre": "Chelsea",
+      "link": "https://x.com/search?q=Chelsea"
+    },
+    {
+      "posicion": 23,
+      "nombre": "Toledo",
+      "link": "https://x.com/search?q=Toledo"
+    },
+    {
+      "posicion": 24,
+      "nombre": "Columbus Crew",
+      "link": "https://x.com/search?q=Columbus%20Crew"
+    },
+    {
+      "posicion": 25,
       "nombre": "Bronson Reed",
       "link": "https://x.com/search?q=Bronson%20Reed"
     },
     {
+      "posicion": 26,
+      "nombre": "valentina zenere",
+      "link": "https://x.com/search?q=valentina%20zenere"
+    },
+    {
+      "posicion": 27,
+      "nombre": "Thanksgiving",
+      "link": "https://x.com/search?q=Thanksgiving"
+    },
+    {
       "posicion": 28,
-      "nombre": "Columbus Crew",
-      "link": "https://x.com/search?q=Columbus%20Crew"
+      "nombre": "#BuenViernes",
+      "link": "https://x.com/search?q=%23BuenViernes"
     },
     {
       "posicion": 29,
@@ -2800,43 +2816,43 @@
     },
     {
       "posicion": 30,
-      "nombre": "Thanksgiving",
-      "link": "https://x.com/search?q=Thanksgiving"
-    },
-    {
-      "posicion": 31,
-      "nombre": "#BuenViernes",
-      "link": "https://x.com/search?q=%23BuenViernes"
-    },
-    {
-      "posicion": 32,
-      "nombre": "Luis Ventura",
-      "link": "https://x.com/search?q=Luis%20Ventura"
-    },
-    {
-      "posicion": 33,
       "nombre": "VAMOS NOSOTROS",
       "link": "https://x.com/search?q=VAMOS%20NOSOTROS"
     },
     {
-      "posicion": 34,
-      "nombre": "Banco Central",
-      "link": "https://x.com/search?q=Banco%20Central"
+      "posicion": 31,
+      "nombre": "Bianca",
+      "link": "https://x.com/search?q=Bianca"
     },
     {
-      "posicion": 35,
-      "nombre": "Betsson",
-      "link": "https://x.com/search?q=Betsson"
-    },
-    {
-      "posicion": 36,
+      "posicion": 32,
       "nombre": "Ficha Limpia",
       "link": "https://x.com/search?q=Ficha%20Limpia"
     },
     {
-      "posicion": 37,
+      "posicion": 33,
       "nombre": "Trabuco",
       "link": "https://x.com/search?q=Trabuco"
+    },
+    {
+      "posicion": 34,
+      "nombre": "Montevideo",
+      "link": "https://x.com/search?q=Montevideo"
+    },
+    {
+      "posicion": 35,
+      "nombre": "Tristán Suárez",
+      "link": "https://x.com/search?q=Trist%C3%A1n%20Su%C3%A1rez"
+    },
+    {
+      "posicion": 36,
+      "nombre": "Damon",
+      "link": "https://x.com/search?q=Damon"
+    },
+    {
+      "posicion": 37,
+      "nombre": "Betsson",
+      "link": "https://x.com/search?q=Betsson"
     },
     {
       "posicion": 38,
@@ -2845,28 +2861,28 @@
     },
     {
       "posicion": 39,
+      "nombre": "Banco Central",
+      "link": "https://x.com/search?q=Banco%20Central"
+    },
+    {
+      "posicion": 40,
       "nombre": "Lula",
       "link": "https://x.com/search?q=Lula"
     },
     {
-      "posicion": 40,
-      "nombre": "Montevideo",
-      "link": "https://x.com/search?q=Montevideo"
-    },
-    {
       "posicion": 41,
-      "nombre": "Bianca",
-      "link": "https://x.com/search?q=Bianca"
+      "nombre": "Jorge Born",
+      "link": "https://x.com/search?q=Jorge%20Born"
     },
     {
       "posicion": 42,
-      "nombre": "Damon",
-      "link": "https://x.com/search?q=Damon"
+      "nombre": "CABA",
+      "link": "https://x.com/search?q=CABA"
     },
     {
       "posicion": 43,
-      "nombre": "#PrimeraNacional",
-      "link": "https://x.com/search?q=%23PrimeraNacional"
+      "nombre": "Lenny",
+      "link": "https://x.com/search?q=Lenny"
     },
     {
       "posicion": 44,
@@ -2875,33 +2891,33 @@
     },
     {
       "posicion": 45,
-      "nombre": "Jorge Born",
-      "link": "https://x.com/search?q=Jorge%20Born"
+      "nombre": "Longobardi",
+      "link": "https://x.com/search?q=Longobardi"
     },
     {
       "posicion": 46,
-      "nombre": "Ganen",
-      "link": "https://x.com/search?q=Ganen"
+      "nombre": "Ley de Ludopatía",
+      "link": "https://x.com/search?q=Ley%20de%20Ludopat%C3%ADa"
     },
     {
       "posicion": 47,
-      "nombre": "CABA",
-      "link": "https://x.com/search?q=CABA"
+      "nombre": "PUMA",
+      "link": "https://x.com/search?q=PUMA"
     },
     {
       "posicion": 48,
-      "nombre": "Flor",
-      "link": "https://x.com/search?q=Flor"
+      "nombre": "Jihyo",
+      "link": "https://x.com/search?q=Jihyo"
     },
     {
       "posicion": 49,
-      "nombre": "Lenny",
-      "link": "https://x.com/search?q=Lenny"
+      "nombre": "Tini",
+      "link": "https://x.com/search?q=Tini"
     },
     {
       "posicion": 50,
-      "nombre": "Longobardi",
-      "link": "https://x.com/search?q=Longobardi"
+      "nombre": "#piedralibrealoro",
+      "link": "https://x.com/search?q=%23piedralibrealoro"
     }
   ],
   "google_trends": [
@@ -2909,6 +2925,11 @@
       "nombre": "es mi sueño",
       "trafico": "2000+",
       "link": "https://www.google.com/search?q=es%20mi%20sue%C3%B1o"
+    },
+    {
+      "nombre": "luis lobo medina",
+      "trafico": "1000+",
+      "link": "https://www.google.com/search?q=luis%20lobo%20medina"
     },
     {
       "nombre": "barco pesquero",
@@ -2931,9 +2952,9 @@
       "link": "https://www.google.com/search?q=evelyn%20botto"
     },
     {
-      "nombre": "lobo medina",
-      "trafico": "1000+",
-      "link": "https://www.google.com/search?q=lobo%20medina"
+      "nombre": "catalina gorostidi",
+      "trafico": "500+",
+      "link": "https://www.google.com/search?q=catalina%20gorostidi"
     }
   ],
   "estado_fuentes": [
@@ -2975,7 +2996,7 @@
     {
       "fuente": "Google Trends AR",
       "ok": true,
-      "items": 6
+      "items": 7
     },
     {
       "fuente": "INDEC (calendario)",
@@ -2991,9 +3012,8 @@
     },
     {
       "fuente": "CEPA",
-      "ok": false,
-      "items": 0,
-      "error": "XML invalido: mismatched tag: line 93, column 2"
+      "ok": true,
+      "items": 0
     }
   ]
 }
